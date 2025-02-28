@@ -16,10 +16,24 @@ def remove_duplicated_spaces(text: str) -> str:
 def request_paper_with_arXiv_api(keyword: str, max_results: int, link: str = "OR") -> List[Dict[str, str]]:
     # keyword = keyword.replace(" ", "+")
     assert link in ["OR", "AND"], "link should be 'OR' or 'AND'"
-    keyword = "\"" + keyword + "\""
-    url = "http://export.arxiv.org/api/query?search_query=ti:{0}+{2}+abs:{0}&max_results={1}&sortBy=lastUpdatedDate".format(keyword, max_results, link)
-    url = urllib.parse.quote(url, safe="%/:=&?~#+!$,;'@()*[]")
+    title_query = f'ti:{keyword}'
+    abs_query = f'abs:{keyword}'
+    search_query = f"{title_query} {link} {abs_query}"
+    
+    # 构建参数字典
+    params = {
+        "search_query": search_query,
+        "max_results": max_results,
+        "sortBy": "lastUpdatedDate"
+    }
+    print(f"原始查询字符串: {search_query}")
+    # 使用urlencode构建URL
+    base_url = "http://export.arxiv.org/api/query"
+    url = f"{base_url}?{urllib.parse.urlencode(params)}"
+    # 打印最终URL，用于调试
+    print(f"完整URL: {url}")
     response = urllib.request.urlopen(url).read().decode('utf-8')
+
     feed = feedparser.parse(response)
 
     # NOTE default columns: Title, Authors, Abstract, Link, Tags, Comment, Date

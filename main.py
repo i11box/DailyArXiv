@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["Training-free Acceleration", "Generation Quality Preservation", "Diffusion Transformers","Attention Optimization"] # TODO add more keywords
+keywords = ["Training-free Acceleration", "Generation Quality Preservation", "DiT","Attention Optimization"] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 6 # maximum papers to be included in the issue
@@ -35,12 +35,12 @@ column_names = ["Title", "Link", "Abstract", "Date", "Comment"]
 back_up_files() # back up README.md and ISSUE_TEMPLATE.md
 
 # write to README.md
-f_rm = open("README.md", "w") # file for README.md
+f_rm = open("README.md", "w", encoding="utf-8")
 f_rm.write("# Daily Papers\n")
 f_rm.write("The project automatically fetches the latest papers from arXiv based on keywords.\n\nThe subheadings in the README file represent the search keywords.\n\nOnly the most recent articles for each keyword are retained, up to a maximum of 100 papers.\n\nYou can click the 'Watch' button to receive daily email notifications.\n\nLast update: {0}\n\n".format(current_date))
 
 # write to ISSUE_TEMPLATE.md
-f_is = open(".github/ISSUE_TEMPLATE.md", "w") # file for ISSUE_TEMPLATE.md
+f_is = open(".github/ISSUE_TEMPLATE.md", "w", encoding="utf-8")
 f_is.write("---\n")
 f_is.write("title: Latest {0} Papers - {1}\n".format(issues_result, get_daily_date()))
 f_is.write("labels: documentation\n")
