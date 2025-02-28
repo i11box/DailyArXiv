@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["Training-free Acceleration", "Generation Quality Preservation", "DiT","Attention Optimization"] # TODO add more keywords
+keywords = ["Training-free Acceleration", "DiT","Attention Optimization"] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 6 # maximum papers to be included in the issue

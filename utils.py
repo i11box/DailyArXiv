@@ -57,7 +57,8 @@ def request_paper_with_arXiv_api(keyword: str, max_results: int, link: str = "OR
         # date
         paper.Date = entry.updated
 
-        papers.append(paper)
+        if paper.Comment != "":
+            papers.append(paper)
     return papers
 
 def filter_tags(papers: List[Dict[str, str]], target_fileds: List[str]=["cs", "stat"]) -> List[Dict[str, str]]:
