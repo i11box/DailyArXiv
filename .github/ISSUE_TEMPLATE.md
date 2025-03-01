@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - February 28, 2025
+title: Latest 6 Papers - March 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -13,16 +13,6 @@ labels: documentation
 | **[AgentSquare: Automatic LLM Agent Search in Modular Design Space](http://arxiv.org/abs/2410.06153v3)** | 2025-02-27 | 25 pages |
 | **[A Novel P-bit-based Probabilistic Computing Approach for Solving the 3-D Protein Folding Problem](http://arxiv.org/abs/2502.20050v1)** | 2025-02-27 | 14pages, 6 fingures |
 | **[Large-Scale Simulations of Fully Resolved Complex Moving Geometries with Partially Saturated Cells](http://arxiv.org/abs/2502.20049v1)** | 2025-02-27 | 13 pages, 16 figures |
-
-## Generation Quality Preservation
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids](http://arxiv.org/abs/2502.20396v1)** | 2025-02-27 | <details><summary>Proje...</summary><p>Project page can be found at https://toruowo.github.io/recipe/</p></details> |
-| **[Walking the Web of Concept-Class Relationships in Incrementally Trained Interpretable Models](http://arxiv.org/abs/2502.20393v1)** | 2025-02-27 | <details><summary>8 pag...</summary><p>8 pages of main text, 6 figures in main text, 11 pages of Appendix, published in AAAI 2025</p></details> |
-| **[InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions](http://arxiv.org/abs/2502.20390v1)** | 2025-02-27 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project Page: https://sirui-xu.github.io/InterMimic/</p></details> |
-| **[Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation](http://arxiv.org/abs/2502.20388v1)** | 2025-02-27 | <details><summary>Proje...</summary><p>Project page at \url{https://oliverrensu.github.io/project/xAR}</p></details> |
-| **[InsTaG: Learning Personalized 3D Talking Head from Few-Second Video](http://arxiv.org/abs/2502.20387v1)** | 2025-02-27 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025. Project page: https://fictionarry.github.io/InsTaG/</p></details> |
-| **[rSPDE: tools for statistical modeling using fractional SPDEs](http://arxiv.org/abs/2502.20385v1)** | 2025-02-27 | 35 pages |
 
 ## DiT
 | **Title** | **Date** | **Comment** |
