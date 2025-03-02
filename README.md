@@ -7,7 +7,7 @@ Only the most recent articles for each keyword are retained, up to a maximum of 
 
 You can click the 'Watch' button to receive daily email notifications.
 
-Last update: 2025-03-01
+Last update: 2025-03-03
 
 ## Training-free Acceleration
 | **Title** | **Date** | **Abstract** | **Comment** |
