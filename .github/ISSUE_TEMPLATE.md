@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - March 03, 2025
+title: Latest 6 Papers - March 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,12 +7,12 @@ labels: documentation
 ## Training-free Acceleration
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ACCORD: Application Context-aware Cross-layer Optimization and Resource Design for 5G/NextG Machine-centric Applications](http://arxiv.org/abs/2502.20320v1)** | 2025-02-27 | <details><summary>Accep...</summary><p>Accepted for publications at ICC 2025</p></details> |
-| **[Attention Distillation: A Unified Approach to Visual Characteristics Transfer](http://arxiv.org/abs/2502.20235v1)** | 2025-02-27 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project page: https://github.com/xugao97/AttentionDistillation</p></details> |
-| **[Preconditioned Score-based Generative Models](http://arxiv.org/abs/2302.06504v3)** | 2025-02-27 | IJCV 2025 |
-| **[AgentSquare: Automatic LLM Agent Search in Modular Design Space](http://arxiv.org/abs/2410.06153v3)** | 2025-02-27 | 25 pages |
-| **[A Novel P-bit-based Probabilistic Computing Approach for Solving the 3-D Protein Folding Problem](http://arxiv.org/abs/2502.20050v1)** | 2025-02-27 | 14pages, 6 fingures |
-| **[Large-Scale Simulations of Fully Resolved Complex Moving Geometries with Partially Saturated Cells](http://arxiv.org/abs/2502.20049v1)** | 2025-02-27 | 13 pages, 16 figures |
+| **[Supporting the development of Machine Learning for fundamental science in a federated Cloud with the AI_INFN platform](http://arxiv.org/abs/2502.21266v1)** | 2025-02-28 | <details><summary>Under...</summary><p>Under review in EPJ Web of Conferences (CHEP 2024)</p></details> |
+| **[Quantum-machine-assisted Drug Discovery: Survey and Perspective](http://arxiv.org/abs/2408.13479v4)** | 2025-02-28 | 17 pages, 3 figures |
+| **[A Method of Selective Attention for Reservoir Based Agents](http://arxiv.org/abs/2502.21229v1)** | 2025-02-28 | 6 pages, 2 figures |
+| **[Recurrent CircuitSAT Sampling for Sequential Circuits](http://arxiv.org/abs/2502.21226v1)** | 2025-02-28 | 7 pages |
+| **[Fast Training of Sinusoidal Neural Fields via Scaling Initialization](http://arxiv.org/abs/2410.04779v2)** | 2025-02-28 | ICLR 2025 |
+| **[Fast 3D point clouds retrieval for Large-scale 3D Place Recognition](http://arxiv.org/abs/2502.21067v1)** | 2025-02-28 | 8 pages, 1 figures |
 
 ## DiT
 | **Title** | **Date** | **Comment** |
@@ -26,10 +26,10 @@ labels: documentation
 ## Attention Optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation](http://arxiv.org/abs/2502.20388v1)** | 2025-02-27 | <details><summary>Proje...</summary><p>Project page at \url{https://oliverrensu.github.io/project/xAR}</p></details> |
-| **[Multi-Turn Code Generation Through Single-Step Rewards](http://arxiv.org/abs/2502.20380v1)** | 2025-02-27 | <details><summary>9 pag...</summary><p>9 pages (not including references or appendix); 6 figures (in main paper); (v1) preprint</p></details> |
-| **[Multi-Agent Path Planning in Complex Environments using Gaussian Belief Propagation with Global Path Finding](http://arxiv.org/abs/2502.20369v1)** | 2025-02-27 | <details><summary>Accep...</summary><p>Accepted by "International Conference on Robotics and Automation" - ICRA 2025</p></details> |
-| **[Removing Neural Signal Artifacts with Autoencoder-Targeted Adversarial Transformers (AT-AT)](http://arxiv.org/abs/2502.05332v2)** | 2025-02-27 | <details><summary>Accep...</summary><p>Accepted at CNS 2025, Boston, MA, USA</p></details> |
-| **[Trajectory-to-Action Pipeline (TAP): Automated Scenario Description Extraction for Autonomous Vehicle Behavior Comparison](http://arxiv.org/abs/2502.20353v1)** | 2025-02-27 | 8 pages, 6 figures |
-| **[Geometric Machine Learning on EEG Signals](http://arxiv.org/abs/2502.05334v2)** | 2025-02-27 | <details><summary>Accep...</summary><p>Accepted in Proceedings of Machine Learning Research (PMLR), 2025</p></details> |
+| **[LLM Post-Training: A Deep Dive into Reasoning Large Language Models](http://arxiv.org/abs/2502.21321v1)** | 2025-02-28 | <details><summary>31 pa...</summary><p>31 pages, 7 figures, 3 tables, 375 references</p></details> |
+| **[Nearly Optimal Algorithms for Contextual Dueling Bandits from Adversarial Feedback](http://arxiv.org/abs/2404.10776v2)** | 2025-02-28 | <details><summary>44pag...</summary><p>44pages, 2 figures, 1 table</p></details> |
+| **[DELTA: Dense Efficient Long-range 3D Tracking for any video](http://arxiv.org/abs/2410.24211v3)** | 2025-02-28 | <details><summary>ICLR ...</summary><p>ICLR 2025. Project Page: https://snap-research.github.io/DELTA/</p></details> |
+| **[State-Dependent Conformal Perception Bounds for Neuro-Symbolic Verification of Autonomous Systems](http://arxiv.org/abs/2502.21308v1)** | 2025-02-28 | Submitted to NeuS'25 |
+| **[Discrete Shortest Paths in Optimal Power Flow Feasible Regions](http://arxiv.org/abs/2408.02172v2)** | 2025-02-28 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 3 tables</p></details> |
+| **[Learning Multi-Modal Whole-Body Control for Real-World Humanoid Robots](http://arxiv.org/abs/2408.07295v3)** | 2025-02-28 | <details><summary>Websi...</summary><p>Website: https://masked-humanoid.github.io/mhc/</p></details> |
 
