@@ -1,35 +1,36 @@
 ---
-title: Latest 6 Papers - March 04, 2025
+title: Latest 6 Papers - March 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Training-free Acceleration
+## Accelerate Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Supporting the development of Machine Learning for fundamental science in a federated Cloud with the AI_INFN platform](http://arxiv.org/abs/2502.21266v1)** | 2025-02-28 | <details><summary>Under...</summary><p>Under review in EPJ Web of Conferences (CHEP 2024)</p></details> |
-| **[Quantum-machine-assisted Drug Discovery: Survey and Perspective](http://arxiv.org/abs/2408.13479v4)** | 2025-02-28 | 17 pages, 3 figures |
-| **[A Method of Selective Attention for Reservoir Based Agents](http://arxiv.org/abs/2502.21229v1)** | 2025-02-28 | 6 pages, 2 figures |
-| **[Recurrent CircuitSAT Sampling for Sequential Circuits](http://arxiv.org/abs/2502.21226v1)** | 2025-02-28 | 7 pages |
-| **[Fast Training of Sinusoidal Neural Fields via Scaling Initialization](http://arxiv.org/abs/2410.04779v2)** | 2025-02-28 | ICLR 2025 |
-| **[Fast 3D point clouds retrieval for Large-scale 3D Place Recognition](http://arxiv.org/abs/2502.21067v1)** | 2025-02-28 | 8 pages, 1 figures |
+| **[On Memory Construction and Retrieval for Personalized Conversational Agents](http://arxiv.org/abs/2502.05589v3)** | 2025-03-03 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, conference</p></details> |
+| **[InductionBench: LLMs Fail in the Simplest Complexity Class](http://arxiv.org/abs/2502.15823v3)** | 2025-03-03 | 24 pages, 7 figures |
+| **[CAMEx: Curvature-aware Merging of Experts](http://arxiv.org/abs/2502.18821v2)** | 2025-03-03 | <details><summary>10 pa...</summary><p>10 pages, 5 Figures, 7 Tables. Published at ICLR 2025</p></details> |
+| **[Disparate Model Performance and Stability in Machine Learning Clinical Support for Diabetes and Heart Diseases](http://arxiv.org/abs/2412.19495v2)** | 2025-03-03 | <details><summary>This ...</summary><p>This paper will be presented in American Medical Informatics Association (AMIA) Informatics Summit Conference 2025 (Pittsburgh, PA). 10 pages, 2 figures, 5 tables</p></details> |
+| **[ModeDreamer: Mode Guiding Score Distillation for Text-to-3D Generation using Reference Image Prompts](http://arxiv.org/abs/2411.18135v2)** | 2025-03-03 | <details><summary>Proje...</summary><p>Project page: https://modedreamer.github.io/</p></details> |
+| **["FRAME: Forward Recursive Adaptive Model Extraction-A Technique for Advance Feature Selection"](http://arxiv.org/abs/2501.11972v2)** | 2025-03-03 | <details><summary>Updat...</summary><p>Updated version with refinements before JMLR submission. Improved clarity, expanded literature review, refined methodology, updated experimental results, and enhanced conclusion. FRAME's scalability, deep learning integration, and real-world applications are further highlighted</p></details> |
 
-## DiT
+## Vision Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering](http://arxiv.org/abs/2501.05131v1)** | 2025-01-09 | tech report |
-| **[Unveiling Redundancy in Diffusion Transformers (DiTs): A Systematic Study](http://arxiv.org/abs/2411.13588v1)** | 2024-11-18 | <details><summary>9 pag...</summary><p>9 pages including reference</p></details> |
-| **[On Statistical Rates and Provably Efficient Criteria of Latent Diffusion Transformers (DiTs)](http://arxiv.org/abs/2407.01079v3)** | 2024-10-31 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2024. v3 updated to camera-ready version with many typos fixed; v2 fixed typos, added Fig. 1 and added clarifications</p></details> |
-| **[Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT](http://arxiv.org/abs/2406.18583v1)** | 2024-06-05 | <details><summary>Code ...</summary><p>Code at: https://github.com/Alpha-VLLM/Lumina-T2X</p></details> |
-| **[DiT: Self-supervised Pre-training for Document Image Transformer](http://arxiv.org/abs/2203.02378v3)** | 2022-07-19 | ACM Multimedia 2022 |
+| **[On Memory Construction and Retrieval for Personalized Conversational Agents](http://arxiv.org/abs/2502.05589v3)** | 2025-03-03 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, conference</p></details> |
+| **[CNsum:Automatic Summarization for Chinese News Text](http://arxiv.org/abs/2502.19723v2)** | 2025-03-03 | <details><summary>This ...</summary><p>This withdrawal is due to the lack of authorization from all co-authors for the publication of this version</p></details> |
+| **[FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation](http://arxiv.org/abs/2409.18459v2)** | 2025-03-03 | <details><summary>15 pa...</summary><p>15 pages, 5 figures. We found errors in the calculation of evaluation metrics, which were corrected in this version with $\color{blue}{\text{modifications highlighted in blue}}$. Please also see the Appendix</p></details> |
+| **[Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key](http://arxiv.org/abs/2501.09695v2)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[Towards Physically Realizable Adversarial Attacks in Embodied Vision Navigation](http://arxiv.org/abs/2409.10071v4)** | 2025-03-03 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</p></details> |
+| **[On the relationship between two Sinc-collocation methods for Volterra integral equations of the second kind and their further improvement](http://arxiv.org/abs/2502.20221v2)** | 2025-03-03 | <details><summary>Keywo...</summary><p>Keywords: Sinc numerical method, tanh transformation, double-exponential transformation</p></details> |
 
-## Attention Optimization
+## fast inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM Post-Training: A Deep Dive into Reasoning Large Language Models](http://arxiv.org/abs/2502.21321v1)** | 2025-02-28 | <details><summary>31 pa...</summary><p>31 pages, 7 figures, 3 tables, 375 references</p></details> |
-| **[Nearly Optimal Algorithms for Contextual Dueling Bandits from Adversarial Feedback](http://arxiv.org/abs/2404.10776v2)** | 2025-02-28 | <details><summary>44pag...</summary><p>44pages, 2 figures, 1 table</p></details> |
-| **[DELTA: Dense Efficient Long-range 3D Tracking for any video](http://arxiv.org/abs/2410.24211v3)** | 2025-02-28 | <details><summary>ICLR ...</summary><p>ICLR 2025. Project Page: https://snap-research.github.io/DELTA/</p></details> |
-| **[State-Dependent Conformal Perception Bounds for Neuro-Symbolic Verification of Autonomous Systems](http://arxiv.org/abs/2502.21308v1)** | 2025-02-28 | Submitted to NeuS'25 |
-| **[Discrete Shortest Paths in Optimal Power Flow Feasible Regions](http://arxiv.org/abs/2408.02172v2)** | 2025-02-28 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 3 tables</p></details> |
-| **[Learning Multi-Modal Whole-Body Control for Real-World Humanoid Robots](http://arxiv.org/abs/2408.07295v3)** | 2025-02-28 | <details><summary>Websi...</summary><p>Website: https://masked-humanoid.github.io/mhc/</p></details> |
+| **[InductionBench: LLMs Fail in the Simplest Complexity Class](http://arxiv.org/abs/2502.15823v3)** | 2025-03-03 | 24 pages, 7 figures |
+| **[Dynamics on Lie groups with applications to attitude estimation](http://arxiv.org/abs/2502.19714v2)** | 2025-03-03 | <details><summary>51 pa...</summary><p>51 pages, 3 figures, submitted to AIAA/JGCD</p></details> |
+| **[Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?](http://arxiv.org/abs/2502.12215v2)** | 2025-03-03 | Add the github link |
+| **[Gumbel Counterfactual Generation From Language Models](http://arxiv.org/abs/2411.07180v4)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted in ICLR 2025</p></details> |
+| **[From Tokens to Words: On the Inner Lexicon of LLMs](http://arxiv.org/abs/2410.05864v4)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted to the International Conference on Learning Representations (ICLR) 2025</p></details> |
+| **[Multi-Modal and Multi-Attribute Generation of Single Cells with CFGen](http://arxiv.org/abs/2407.11734v2)** | 2025-03-03 | 41 pages, 22 figures |
 
