@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - March 05, 2025
+title: Latest 6 Papers - March 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Accelerate Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On Memory Construction and Retrieval for Personalized Conversational Agents](http://arxiv.org/abs/2502.05589v3)** | 2025-03-03 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, conference</p></details> |
-| **[InductionBench: LLMs Fail in the Simplest Complexity Class](http://arxiv.org/abs/2502.15823v3)** | 2025-03-03 | 24 pages, 7 figures |
-| **[CAMEx: Curvature-aware Merging of Experts](http://arxiv.org/abs/2502.18821v2)** | 2025-03-03 | <details><summary>10 pa...</summary><p>10 pages, 5 Figures, 7 Tables. Published at ICLR 2025</p></details> |
-| **[Disparate Model Performance and Stability in Machine Learning Clinical Support for Diabetes and Heart Diseases](http://arxiv.org/abs/2412.19495v2)** | 2025-03-03 | <details><summary>This ...</summary><p>This paper will be presented in American Medical Informatics Association (AMIA) Informatics Summit Conference 2025 (Pittsburgh, PA). 10 pages, 2 figures, 5 tables</p></details> |
-| **[ModeDreamer: Mode Guiding Score Distillation for Text-to-3D Generation using Reference Image Prompts](http://arxiv.org/abs/2411.18135v2)** | 2025-03-03 | <details><summary>Proje...</summary><p>Project page: https://modedreamer.github.io/</p></details> |
-| **["FRAME: Forward Recursive Adaptive Model Extraction-A Technique for Advance Feature Selection"](http://arxiv.org/abs/2501.11972v2)** | 2025-03-03 | <details><summary>Updat...</summary><p>Updated version with refinements before JMLR submission. Improved clarity, expanded literature review, refined methodology, updated experimental results, and enhanced conclusion. FRAME's scalability, deep learning integration, and real-world applications are further highlighted</p></details> |
+| **[ARINAR: Bi-Level Autoregressive Feature-by-Feature Generative Models](http://arxiv.org/abs/2503.02883v1)** | 2025-03-04 | <details><summary>Techn...</summary><p>Technical report. Our code is available at https://github.com/Qinyu-Allen-Zhao/Arinar</p></details> |
+| **[A New $\sim 5σ$ Tension at Characteristic Redshift from DESI DR1 and DES-SN5YR observations](http://arxiv.org/abs/2503.02880v1)** | 2025-03-04 | <details><summary>4 pag...</summary><p>4 pages, 1 table, 1 figure. Comments are welcome</p></details> |
+| **[Wikipedia in the Era of LLMs: Evolution and Risks](http://arxiv.org/abs/2503.02879v1)** | 2025-03-04 | <details><summary>We re...</summary><p>We release all the experimental dataset and source code at: https://github.com/HSM316/LLM_Wikipedia</p></details> |
+| **[DECT-2020 NR Link Distance Performance in Varying Environments: Models and Measurements](http://arxiv.org/abs/2410.24112v2)** | 2025-03-04 | <details><summary>Submi...</summary><p>Submitted for publication in EuCAP-2025 conference, 5 pages, 5 figures, and 4 tables</p></details> |
+| **[Can AI writing be salvaged? Mitigating Idiosyncrasies and Improving Human-AI Alignment in the Writing Process through Edits](http://arxiv.org/abs/2409.14509v5)** | 2025-03-04 | ACM CHI 2025 |
+| **[Prompting Generative AI with Interaction-Augmented Instructions](http://arxiv.org/abs/2503.02874v1)** | 2025-03-04 | <details><summary>accep...</summary><p>accepted to CHI LBW 2025</p></details> |
 
 ## Vision Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On Memory Construction and Retrieval for Personalized Conversational Agents](http://arxiv.org/abs/2502.05589v3)** | 2025-03-03 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, conference</p></details> |
-| **[CNsum:Automatic Summarization for Chinese News Text](http://arxiv.org/abs/2502.19723v2)** | 2025-03-03 | <details><summary>This ...</summary><p>This withdrawal is due to the lack of authorization from all co-authors for the publication of this version</p></details> |
-| **[FoodMLLM-JP: Leveraging Multimodal Large Language Models for Japanese Recipe Generation](http://arxiv.org/abs/2409.18459v2)** | 2025-03-03 | <details><summary>15 pa...</summary><p>15 pages, 5 figures. We found errors in the calculation of evaluation metrics, which were corrected in this version with $\color{blue}{\text{modifications highlighted in blue}}$. Please also see the Appendix</p></details> |
-| **[Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key](http://arxiv.org/abs/2501.09695v2)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[Towards Physically Realizable Adversarial Attacks in Embodied Vision Navigation](http://arxiv.org/abs/2409.10071v4)** | 2025-03-03 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</p></details> |
-| **[On the relationship between two Sinc-collocation methods for Volterra integral equations of the second kind and their further improvement](http://arxiv.org/abs/2502.20221v2)** | 2025-03-03 | <details><summary>Keywo...</summary><p>Keywords: Sinc numerical method, tanh transformation, double-exponential transformation</p></details> |
+| **[Modelling pathwise uncertainty of Stochastic Differential Equations samplers via Probabilistic Numerics](http://arxiv.org/abs/2401.03338v2)** | 2025-03-04 | <details><summary>36 pa...</summary><p>36 pages, accepted to Bayesian Analysis, to be announced</p></details> |
+| **[(How) Do Language Models Track State?](http://arxiv.org/abs/2503.02854v1)** | 2025-03-04 | <details><summary>21 pa...</summary><p>21 pages, 17 figures, 1 table</p></details> |
+| **[LABIIUM: AI-Enhanced Zero-configuration Measurement Automation System](http://arxiv.org/abs/2412.16172v2)** | 2025-03-04 | <details><summary>accep...</summary><p>accepted for IEEE I2MTC 2025</p></details> |
+| **[Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models](http://arxiv.org/abs/2410.01335v2)** | 2025-03-04 | <details><summary>ICLR ...</summary><p>ICLR 2025, Spotlight Paper, In The Thirteenth International Conference on Learning Representations, 2025</p></details> |
+| **[Flipping Matchings is Hard](http://arxiv.org/abs/2503.02842v1)** | 2025-03-04 | <details><summary>Exten...</summary><p>Extended Abstract at EuroCG 2025</p></details> |
+| **[The Shift from Writing to Pruning Software: A Bonsai-Inspired IDE for Reshaping AI Generated Code](http://arxiv.org/abs/2503.02833v1)** | 2025-03-04 | <details><summary>Submi...</summary><p>Submitted to SE 2030 Software Engineering Roadmap Workshop</p></details> |
 
 ## fast inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[InductionBench: LLMs Fail in the Simplest Complexity Class](http://arxiv.org/abs/2502.15823v3)** | 2025-03-03 | 24 pages, 7 figures |
-| **[Dynamics on Lie groups with applications to attitude estimation](http://arxiv.org/abs/2502.19714v2)** | 2025-03-03 | <details><summary>51 pa...</summary><p>51 pages, 3 figures, submitted to AIAA/JGCD</p></details> |
-| **[Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?](http://arxiv.org/abs/2502.12215v2)** | 2025-03-03 | Add the github link |
-| **[Gumbel Counterfactual Generation From Language Models](http://arxiv.org/abs/2411.07180v4)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted in ICLR 2025</p></details> |
-| **[From Tokens to Words: On the Inner Lexicon of LLMs](http://arxiv.org/abs/2410.05864v4)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted to the International Conference on Learning Representations (ICLR) 2025</p></details> |
-| **[Multi-Modal and Multi-Attribute Generation of Single Cells with CFGen](http://arxiv.org/abs/2407.11734v2)** | 2025-03-03 | 41 pages, 22 figures |
+| **[Modelling pathwise uncertainty of Stochastic Differential Equations samplers via Probabilistic Numerics](http://arxiv.org/abs/2401.03338v2)** | 2025-03-04 | <details><summary>36 pa...</summary><p>36 pages, accepted to Bayesian Analysis, to be announced</p></details> |
+| **[AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation](http://arxiv.org/abs/2503.02832v1)** | 2025-03-04 | 15 pages, 2 figures |
+| **[On Separation Between Best-Iterate, Random-Iterate, and Last-Iterate Convergence of Learning in Games](http://arxiv.org/abs/2503.02825v1)** | 2025-03-04 | 33 pages |
+| **[ArcPro: Architectural Programs for Structured 3D Abstraction of Sparse Points](http://arxiv.org/abs/2503.02745v1)** | 2025-03-04 | <details><summary>CVPR ...</summary><p>CVPR 2025 (Patent Protected); Project page: https://vcc.tech/research/2025/ArcPro</p></details> |
+| **[Annotating and Inferring Compositional Structures in Numeral Systems Across Languages](http://arxiv.org/abs/2503.01625v2)** | 2025-03-04 | <details><summary>Submi...</summary><p>Submitted to the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP)</p></details> |
+| **[Modeling Relational Patterns for Logical Query Answering over Knowledge Graphs](http://arxiv.org/abs/2303.11858v3)** | 2025-03-04 | <details><summary>The r...</summary><p>The results reported in this paper are included in our accepted paper arXiv:2407.09212 at ECAI 2024</p></details> |
 
