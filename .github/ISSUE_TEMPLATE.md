@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - March 06, 2025
+title: Latest 6 Papers - March 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Accelerate Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ARINAR: Bi-Level Autoregressive Feature-by-Feature Generative Models](http://arxiv.org/abs/2503.02883v1)** | 2025-03-04 | <details><summary>Techn...</summary><p>Technical report. Our code is available at https://github.com/Qinyu-Allen-Zhao/Arinar</p></details> |
-| **[A New $\sim 5σ$ Tension at Characteristic Redshift from DESI DR1 and DES-SN5YR observations](http://arxiv.org/abs/2503.02880v1)** | 2025-03-04 | <details><summary>4 pag...</summary><p>4 pages, 1 table, 1 figure. Comments are welcome</p></details> |
-| **[Wikipedia in the Era of LLMs: Evolution and Risks](http://arxiv.org/abs/2503.02879v1)** | 2025-03-04 | <details><summary>We re...</summary><p>We release all the experimental dataset and source code at: https://github.com/HSM316/LLM_Wikipedia</p></details> |
-| **[DECT-2020 NR Link Distance Performance in Varying Environments: Models and Measurements](http://arxiv.org/abs/2410.24112v2)** | 2025-03-04 | <details><summary>Submi...</summary><p>Submitted for publication in EuCAP-2025 conference, 5 pages, 5 figures, and 4 tables</p></details> |
-| **[Can AI writing be salvaged? Mitigating Idiosyncrasies and Improving Human-AI Alignment in the Writing Process through Edits](http://arxiv.org/abs/2409.14509v5)** | 2025-03-04 | ACM CHI 2025 |
-| **[Prompting Generative AI with Interaction-Augmented Instructions](http://arxiv.org/abs/2503.02874v1)** | 2025-03-04 | <details><summary>accep...</summary><p>accepted to CHI LBW 2025</p></details> |
+| **[GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control](http://arxiv.org/abs/2503.03751v1)** | 2025-03-05 | <details><summary>To ap...</summary><p>To appear in CVPR 2025. Website: https://research.nvidia.com/labs/toronto-ai/GEN3C/</p></details> |
+| **[The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems](http://arxiv.org/abs/2503.03750v1)** | 2025-03-05 | <details><summary>Websi...</summary><p>Website: https://www.mask-benchmark.ai</p></details> |
+| **[Personalize Your LLM: Fake it then Align it](http://arxiv.org/abs/2503.01048v3)** | 2025-03-05 | NAACL 2025 Findings |
+| **[PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning](http://arxiv.org/abs/2503.03747v1)** | 2025-03-05 | 7 pages, 7 figures |
+| **[Comparison of Experimental and Theoretical Mechanical Jitter in a THz Communication Link](http://arxiv.org/abs/2503.03740v1)** | 2025-03-05 | 5 pages, 5 figures |
+| **[Towards Understanding Distilled Reasoning Models: A Representational Approach](http://arxiv.org/abs/2503.03730v1)** | 2025-03-05 | 13 pages, 11 figures |
 
 ## Vision Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Modelling pathwise uncertainty of Stochastic Differential Equations samplers via Probabilistic Numerics](http://arxiv.org/abs/2401.03338v2)** | 2025-03-04 | <details><summary>36 pa...</summary><p>36 pages, accepted to Bayesian Analysis, to be announced</p></details> |
-| **[(How) Do Language Models Track State?](http://arxiv.org/abs/2503.02854v1)** | 2025-03-04 | <details><summary>21 pa...</summary><p>21 pages, 17 figures, 1 table</p></details> |
-| **[LABIIUM: AI-Enhanced Zero-configuration Measurement Automation System](http://arxiv.org/abs/2412.16172v2)** | 2025-03-04 | <details><summary>accep...</summary><p>accepted for IEEE I2MTC 2025</p></details> |
-| **[Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models](http://arxiv.org/abs/2410.01335v2)** | 2025-03-04 | <details><summary>ICLR ...</summary><p>ICLR 2025, Spotlight Paper, In The Thirteenth International Conference on Learning Representations, 2025</p></details> |
-| **[Flipping Matchings is Hard](http://arxiv.org/abs/2503.02842v1)** | 2025-03-04 | <details><summary>Exten...</summary><p>Extended Abstract at EuroCG 2025</p></details> |
-| **[The Shift from Writing to Pruning Software: A Bonsai-Inspired IDE for Reshaping AI Generated Code](http://arxiv.org/abs/2503.02833v1)** | 2025-03-04 | <details><summary>Submi...</summary><p>Submitted to SE 2030 Software Engineering Roadmap Workshop</p></details> |
+| **[DROP: Dexterous Reorientation via Online Planning](http://arxiv.org/abs/2409.14562v4)** | 2025-03-05 | <details><summary>Exten...</summary><p>Extended version, updated appendix. Accepted to ICRA 2025</p></details> |
+| **[ILLC: Iterative Layer-by-Layer Compression for Enhancing Structural Faithfulness in SpArX](http://arxiv.org/abs/2503.03693v1)** | 2025-03-05 | 8 pages, 2 figures |
+| **[PyGen: A Collaborative Human-AI Approach to Python Package Creation](http://arxiv.org/abs/2411.08932v2)** | 2025-03-05 | 33 pages, 13 figures |
+| **[Chunking the Critic: A Transformer-based Soft Actor-Critic with N-Step Returns](http://arxiv.org/abs/2503.03660v1)** | 2025-03-05 | 11 pages, 5 figures |
+| **[DoraCycle: Domain-Oriented Adaptation of Unified Generative Model in Multimodal Cycles](http://arxiv.org/abs/2503.03651v1)** | 2025-03-05 | CVPR 2025 |
+| **[DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping](http://arxiv.org/abs/2502.20900v2)** | 2025-03-05 | 21 pages, 10 figures |
 
 ## fast inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Modelling pathwise uncertainty of Stochastic Differential Equations samplers via Probabilistic Numerics](http://arxiv.org/abs/2401.03338v2)** | 2025-03-04 | <details><summary>36 pa...</summary><p>36 pages, accepted to Bayesian Analysis, to be announced</p></details> |
-| **[AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation](http://arxiv.org/abs/2503.02832v1)** | 2025-03-04 | 15 pages, 2 figures |
-| **[On Separation Between Best-Iterate, Random-Iterate, and Last-Iterate Convergence of Learning in Games](http://arxiv.org/abs/2503.02825v1)** | 2025-03-04 | 33 pages |
-| **[ArcPro: Architectural Programs for Structured 3D Abstraction of Sparse Points](http://arxiv.org/abs/2503.02745v1)** | 2025-03-04 | <details><summary>CVPR ...</summary><p>CVPR 2025 (Patent Protected); Project page: https://vcc.tech/research/2025/ArcPro</p></details> |
-| **[Annotating and Inferring Compositional Structures in Numeral Systems Across Languages](http://arxiv.org/abs/2503.01625v2)** | 2025-03-04 | <details><summary>Submi...</summary><p>Submitted to the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP)</p></details> |
-| **[Modeling Relational Patterns for Logical Query Answering over Knowledge Graphs](http://arxiv.org/abs/2303.11858v3)** | 2025-03-04 | <details><summary>The r...</summary><p>The results reported in this paper are included in our accepted paper arXiv:2407.09212 at ECAI 2024</p></details> |
+| **[GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control](http://arxiv.org/abs/2503.03751v1)** | 2025-03-05 | <details><summary>To ap...</summary><p>To appear in CVPR 2025. Website: https://research.nvidia.com/labs/toronto-ai/GEN3C/</p></details> |
+| **[Fractal Calibration for long-tailed object detection](http://arxiv.org/abs/2410.11774v2)** | 2025-03-05 | CVPR2025 |
+| **[SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches](http://arxiv.org/abs/2503.03703v1)** | 2025-03-05 | Accepted at ICLR2025 |
+| **[Beyond Matryoshka: Revisiting Sparse Coding for Adaptive Representation](http://arxiv.org/abs/2503.01776v2)** | 2025-03-05 | <details><summary>A nov...</summary><p>A novel sparse coding framework designed for learning adaptive representation</p></details> |
+| **[ILLC: Iterative Layer-by-Layer Compression for Enhancing Structural Faithfulness in SpArX](http://arxiv.org/abs/2503.03693v1)** | 2025-03-05 | 8 pages, 2 figures |
+| **[MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems](http://arxiv.org/abs/2503.03686v1)** | 2025-03-05 | 26 pages, 7 figures |
 
