@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - March 13, 2025
+title: Latest 6 Papers - March 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Accelerate Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long Video Comprehension](http://arxiv.org/abs/2503.08689v1)** | 2025-03-11 | <details><summary>Proje...</summary><p>Project page: https://github.com/MAC-AutoML/QuoTA</p></details> |
-| **["Principal Components" Enable A New Language of Images](http://arxiv.org/abs/2503.08685v1)** | 2025-03-11 | <details><summary>The f...</summary><p>The first two authors contributed equally, project page: https://visual-gen.github.io/semanticist/</p></details> |
-| **[The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities](http://arxiv.org/abs/2411.04986v3)** | 2025-03-11 | ICLR 2025 |
-| **[Perplexity Trap: PLM-Based Retrievers Overrate Low Perplexity Documents](http://arxiv.org/abs/2503.08684v1)** | 2025-03-11 | ICLR 2025 |
-| **[Self-Taught Self-Correction for Small Language Models](http://arxiv.org/abs/2503.08681v1)** | 2025-03-11 | <details><summary>Code ...</summary><p>Code is available at https://github.com/VityaVitalich/STASC</p></details> |
-| **[Chain-of-Thought Reasoning In The Wild Is Not Always Faithful](http://arxiv.org/abs/2503.08679v1)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted to the ICLR 2025 Workshop, 10 main paper pages, 38 appendix pages</p></details> |
+| **[PRISM: Efficient Long-Range Reasoning With Short-Context LLMs](http://arxiv.org/abs/2412.18914v2)** | 2025-03-12 | <details><summary>28 pa...</summary><p>28 pages, 7 figures, 5 tables</p></details> |
+| **[SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment](http://arxiv.org/abs/2503.09594v1)** | 2025-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2025. 1st Place @ CARLA Challenge 2024. Challenge tech report (preliminary version of SimLingo): arXiv:2406.10165</p></details> |
+| **[HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation](http://arxiv.org/abs/2501.14729v2)** | 2025-03-12 | <details><summary>The c...</summary><p>The code will be available at https://github.com/LMD0311/HERMES</p></details> |
+| **[BIMBA: Selective-Scan Compression for Long-Range Video Question Answering](http://arxiv.org/abs/2503.09590v1)** | 2025-03-12 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[Fair Federated Medical Image Classification Against Quality Shift via Inter-Client Progressive State Matching](http://arxiv.org/abs/2503.09587v1)** | 2025-03-12 | Preprint |
+| **[Cost-Optimal Grouped-Query Attention for Long-Context LLMs](http://arxiv.org/abs/2503.09579v1)** | 2025-03-12 | 16 pages, 17 figures |
 
 ## Vision Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **["Principal Components" Enable A New Language of Images](http://arxiv.org/abs/2503.08685v1)** | 2025-03-11 | <details><summary>The f...</summary><p>The first two authors contributed equally, project page: https://visual-gen.github.io/semanticist/</p></details> |
-| **[TED-VITON: Transformer-Empowered Diffusion Models for Virtual Try-On](http://arxiv.org/abs/2411.17017v3)** | 2025-03-11 | <details><summary>Proje...</summary><p>Project page: https://github.com/ZhenchenWan/TED-VITON</p></details> |
-| **[Visual Haystacks: A Vision-Centric Needle-In-A-Haystack Benchmark](http://arxiv.org/abs/2407.13766v4)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025; Project page: https://visual-haystacks.github.io</p></details> |
-| **[SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories](http://arxiv.org/abs/2503.08625v1)** | 2025-03-11 | <details><summary>CVPR2...</summary><p>CVPR2025;Code will be released at \url{https://github.com/aim-uofa/SegAgent}</p></details> |
-| **[Cross-Embodiment Robotic Manipulation Synthesis via Guided Demonstrations through CycleVAE and Human Behavior Transformer](http://arxiv.org/abs/2503.08622v1)** | 2025-03-11 | <details><summary>Under...</summary><p>Under Review in IROS 2025</p></details> |
-| **[ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding](http://arxiv.org/abs/2412.20504v3)** | 2025-03-11 | <details><summary>Rewri...</summary><p>Rewrite the methods section. Add more ablation studies and results in LongVideoBench</p></details> |
+| **[SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment](http://arxiv.org/abs/2503.09594v1)** | 2025-03-12 | <details><summary>CVPR ...</summary><p>CVPR 2025. 1st Place @ CARLA Challenge 2024. Challenge tech report (preliminary version of SimLingo): arXiv:2406.10165</p></details> |
+| **[BIMBA: Selective-Scan Compression for Long-Range Video Question Answering](http://arxiv.org/abs/2503.09590v1)** | 2025-03-12 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[Cost-Optimal Grouped-Query Attention for Long-Context LLMs](http://arxiv.org/abs/2503.09579v1)** | 2025-03-12 | 16 pages, 17 figures |
+| **[The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging](http://arxiv.org/abs/2503.09559v1)** | 2025-03-12 | 13 pages, 10 figures |
+| **[A Generative Framework for Predictive Modeling of Multiple Chronic Conditions Using Graph Variational Autoencoder and Bandit-Optimized Graph Neural Network](http://arxiv.org/abs/2409.13671v2)** | 2025-03-12 | <details><summary>Submi...</summary><p>Submitted for review in IEEE Journal of Biomedical and Health Informatics</p></details> |
+| **[Grounding Video Models to Actions through Goal Conditioned Exploration](http://arxiv.org/abs/2411.07223v2)** | 2025-03-12 | <details><summary>ICLR ...</summary><p>ICLR 2025 (Spotlight). Project page: https://video-to-action.github.io/</p></details> |
 
 ## fast inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **["Principal Components" Enable A New Language of Images](http://arxiv.org/abs/2503.08685v1)** | 2025-03-11 | <details><summary>The f...</summary><p>The first two authors contributed equally, project page: https://visual-gen.github.io/semanticist/</p></details> |
-| **[Perplexity Trap: PLM-Based Retrievers Overrate Low Perplexity Documents](http://arxiv.org/abs/2503.08684v1)** | 2025-03-11 | ICLR 2025 |
-| **[GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D Garment Reconstruction and Editing](http://arxiv.org/abs/2503.08678v1)** | 2025-03-11 | <details><summary>Proje...</summary><p>Project Page: https://humansensinglab.github.io/garment-crafter/</p></details> |
-| **[MastermindEval: A Simple But Scalable Reasoning Benchmark](http://arxiv.org/abs/2503.05891v2)** | 2025-03-11 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 4 tables. In: ICLR 2025 Workshop on Reasoning and Planning for Large Language Models</p></details> |
-| **[INPC: Implicit Neural Point Clouds for Radiance Field Rendering](http://arxiv.org/abs/2403.16862v2)** | 2025-03-11 | <details><summary>Proje...</summary><p>Project page: https://fhahlbohm.github.io/inpc/</p></details> |
-| **[Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled Sampling](http://arxiv.org/abs/2503.08605v1)** | 2025-03-11 | <details><summary>Proje...</summary><p>Project page with visuals: https://syncos2025.github.io/</p></details> |
+| **[BIMBA: Selective-Scan Compression for Long-Range Video Question Answering](http://arxiv.org/abs/2503.09590v1)** | 2025-03-12 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[A fast Fourier spectral method for the linearized Boltzmann collision operator](http://arxiv.org/abs/2503.09580v1)** | 2025-03-12 | 23 pages, 31 figures |
+| **[Cost-Optimal Grouped-Query Attention for Long-Context LLMs](http://arxiv.org/abs/2503.09579v1)** | 2025-03-12 | 16 pages, 17 figures |
+| **[Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](http://arxiv.org/abs/2503.09573v1)** | 2025-03-12 | <details><summary>ICLR ...</summary><p>ICLR 2025 Oral. We provide the code at https://github.com/kuleshov-group/bd3lms</p></details> |
+| **[TPDiff: Temporal Pyramid Video Diffusion Model](http://arxiv.org/abs/2503.09566v1)** | 2025-03-12 | <details><summary>Proje...</summary><p>Project page: https://showlab.github.io/TPDiff/</p></details> |
+| **[The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging](http://arxiv.org/abs/2503.09559v1)** | 2025-03-12 | 13 pages, 10 figures |
 
