@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - March 25, 2025
+title: Latest 6 Papers - March 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Accelerate Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[URLOST: Unsupervised Representation Learning without Stationarity or Topology](http://arxiv.org/abs/2310.04496v2)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025; Code will be available at this https://github.com/zeyuyun1/URLOST</p></details> |
-| **[Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image](http://arxiv.org/abs/2503.17358v1)** | 2025-03-21 | <details><summary>Proje...</summary><p>Project page: https://jerredchen.github.io/image-as-imu/</p></details> |
-| **[HCAST: Human-Calibrated Autonomy Software Tasks](http://arxiv.org/abs/2503.17354v1)** | 2025-03-21 | <details><summary>32 pa...</summary><p>32 pages, 10 figures, 5 tables</p></details> |
-| **[TopoDiffusionNet: A Topology-aware Diffusion Model](http://arxiv.org/abs/2410.16646v2)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025 (Poster)</p></details> |
-| **[NdLinear Is All You Need for Representation Learning](http://arxiv.org/abs/2503.17353v1)** | 2025-03-21 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ensemble-core/NdLinear</p></details> |
-| **[OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement](http://arxiv.org/abs/2503.17352v1)** | 2025-03-21 | <details><summary>23 pa...</summary><p>23 pages, 11 figures, 8 tables</p></details> |
+| **[Target-Aware Video Diffusion Models](http://arxiv.org/abs/2503.18950v1)** | 2025-03-24 | <details><summary>The p...</summary><p>The project page is available at https://taeksuu.github.io/tavid/</p></details> |
+| **[Aether: Geometric-Aware Unified World Modeling](http://arxiv.org/abs/2503.18945v1)** | 2025-03-24 | <details><summary>Proje...</summary><p>Project Page: https://aether-world.github.io/</p></details> |
+| **[DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation](http://arxiv.org/abs/2503.18944v1)** | 2025-03-24 | <details><summary>Proje...</summary><p>Project page at https://vision.rwth-aachen.de/DITR</p></details> |
+| **[SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding](http://arxiv.org/abs/2503.18943v1)** | 2025-03-24 | Technical report |
+| **[Video-T1: Test-Time Scaling for Video Generation](http://arxiv.org/abs/2503.18942v1)** | 2025-03-24 | <details><summary>Proje...</summary><p>Project page: https://liuff19.github.io/Video-T1</p></details> |
+| **[Training-free Diffusion Acceleration with Bottleneck Sampling](http://arxiv.org/abs/2503.18940v1)** | 2025-03-24 | <details><summary>Code ...</summary><p>Code Repo: https://github.com/tyfeld/Bottleneck-Sampling ,Project Page: https://tyfeld.github.io/BottleneckSampling.github.io/</p></details> |
 
 ## Vision Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[URLOST: Unsupervised Representation Learning without Stationarity or Topology](http://arxiv.org/abs/2310.04496v2)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025; Code will be available at this https://github.com/zeyuyun1/URLOST</p></details> |
-| **[NdLinear Is All You Need for Representation Learning](http://arxiv.org/abs/2503.17353v1)** | 2025-03-21 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ensemble-core/NdLinear</p></details> |
-| **[OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement](http://arxiv.org/abs/2503.17352v1)** | 2025-03-21 | <details><summary>23 pa...</summary><p>23 pages, 11 figures, 8 tables</p></details> |
-| **[Temporal-Spatial Attention Network (TSAN) for DoS Attack Detection in Network Traffic](http://arxiv.org/abs/2503.16047v2)** | 2025-03-21 | 19 Pages, 5 figures |
-| **[Strategic Decision-Making in Multi-Agent Domains: A Weighted Constrained Potential Dynamic Game Approach](http://arxiv.org/abs/2308.05876v3)** | 2025-03-21 | <details><summary>in IE...</summary><p>in IEEE Transactions on Robotics 2025</p></details> |
-| **[QITE: Assembly-Level, Cross-Platform Testing of Quantum Computing Platforms](http://arxiv.org/abs/2503.17322v1)** | 2025-03-21 | 12 pages, 8 figures |
+| **[Target-Aware Video Diffusion Models](http://arxiv.org/abs/2503.18950v1)** | 2025-03-24 | <details><summary>The p...</summary><p>The project page is available at https://taeksuu.github.io/tavid/</p></details> |
+| **[DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation](http://arxiv.org/abs/2503.18944v1)** | 2025-03-24 | <details><summary>Proje...</summary><p>Project page at https://vision.rwth-aachen.de/DITR</p></details> |
+| **[CoMP: Continual Multimodal Pre-training for Vision Foundation Models](http://arxiv.org/abs/2503.18931v1)** | 2025-03-24 | <details><summary>Code ...</summary><p>Code is available in https://github.com/SliMM-X/CoMP-MM</p></details> |
+| **[Zero-Shot Styled Text Image Generation, but Make It Autoregressive](http://arxiv.org/abs/2503.17074v2)** | 2025-03-24 | Accepted at CVPR2025 |
+| **[Relative Pose Estimation through Affine Corrections of Monocular Depth Priors](http://arxiv.org/abs/2501.05446v2)** | 2025-03-24 | CVPR 2025 |
+| **[Efficient and Accurate Scene Text Recognition with Cascaded-Transformers](http://arxiv.org/abs/2503.18883v1)** | 2025-03-24 | <details><summary>Accep...</summary><p>Accepted to ACM-MMSys2025</p></details> |
 
 ## fast inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image](http://arxiv.org/abs/2503.17358v1)** | 2025-03-21 | <details><summary>Proje...</summary><p>Project page: https://jerredchen.github.io/image-as-imu/</p></details> |
-| **[Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors](http://arxiv.org/abs/2503.17316v1)** | 2025-03-21 | CVPR 2025 |
-| **[Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requests](http://arxiv.org/abs/2503.17302v1)** | 2025-03-21 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, accepted at IEEE Conference on Artificial Intelligence (CAI) 2025</p></details> |
-| **[Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1](http://arxiv.org/abs/2503.16304v2)** | 2025-03-21 | 52 pages, 19 figures |
-| **[Recovering Pulse Waves from Video Using Deep Unrolling and Deep Equilibrium Models](http://arxiv.org/abs/2503.17269v1)** | 2025-03-21 | 13 pages, 9 figures |
-| **[Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment](http://arxiv.org/abs/2503.17267v1)** | 2025-03-21 | <details><summary>CVPR2...</summary><p>CVPR2025. Project page: https://iminthemiddle.github.io/EmLoco-Page/</p></details> |
+| **[DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation](http://arxiv.org/abs/2503.18944v1)** | 2025-03-24 | <details><summary>Proje...</summary><p>Project page at https://vision.rwth-aachen.de/DITR</p></details> |
+| **[Video-T1: Test-Time Scaling for Video Generation](http://arxiv.org/abs/2503.18942v1)** | 2025-03-24 | <details><summary>Proje...</summary><p>Project page: https://liuff19.github.io/Video-T1</p></details> |
+| **[Training-free Diffusion Acceleration with Bottleneck Sampling](http://arxiv.org/abs/2503.18940v1)** | 2025-03-24 | <details><summary>Code ...</summary><p>Code Repo: https://github.com/tyfeld/Bottleneck-Sampling ,Project Page: https://tyfeld.github.io/BottleneckSampling.github.io/</p></details> |
+| **[Video SimpleQA: Towards Factuality Evaluation in Large Video Language Models](http://arxiv.org/abs/2503.18923v1)** | 2025-03-24 | 24 pages |
+| **[Fast and Accurate Interpolative Decompositions for General, Sparse, and Structured Tensors](http://arxiv.org/abs/2503.18921v1)** | 2025-03-24 | 53 Pages |
+| **[Causal Links Between Anthropogenic Emissions and Air Pollution Dynamics in Delhi](http://arxiv.org/abs/2503.18912v1)** | 2025-03-24 | 16 pages, 10 figures |
 
