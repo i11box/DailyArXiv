@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["Accelerate Diffusion Models", "Vision Transformer Compression","fast inference"] # TODO add more keywords
+keywords = ["Efficient Diffusion Models", "Transformer Compression","Fast Inference"] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 6 # maximum papers to be included in the issue
