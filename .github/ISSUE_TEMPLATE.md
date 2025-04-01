@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 01, 2025
+title: Latest 6 Papers - April 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Q-Insight: Understanding Image Quality via Visual Reinforcement Learning](http://arxiv.org/abs/2503.22679v1)** | 2025-03-28 | Technical report |
-| **[DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness](http://arxiv.org/abs/2503.22677v1)** | 2025-03-28 | <details><summary>Proje...</summary><p>Project page: https://ruiningli.com/dso</p></details> |
-| **[Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](http://arxiv.org/abs/2503.22678v1)** | 2025-03-28 | <details><summary>14 pa...</summary><p>14 page, 4 figures, 61 references</p></details> |
-| **[QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?](http://arxiv.org/abs/2503.22674v1)** | 2025-03-28 | <details><summary>Code ...</summary><p>Code and dataset are available at \url{https://github.com/google-deepmind/questbench}</p></details> |
-| **[Exploring the Effectiveness of Multi-stage Fine-tuning for Cross-encoder Re-rankers](http://arxiv.org/abs/2503.22672v1)** | 2025-03-28 | <details><summary>7 pag...</summary><p>7 pages. To be published as short paper in the Proceedings of the European Conference on Information Retrieval (ECIR) 2025</p></details> |
-| **[Understanding Co-speech Gestures in-the-wild](http://arxiv.org/abs/2503.22668v1)** | 2025-03-28 | <details><summary>Main ...</summary><p>Main paper - 11 pages, 4 figures, Supplementary - 5 pages, 4 figures</p></details> |
+| **[Easi3R: Estimating Disentangled Motion from DUSt3R Without Training](http://arxiv.org/abs/2503.24391v1)** | 2025-03-31 | <details><summary>Page:...</summary><p>Page: https://easi3r.github.io/ Code: https://github.com/Inception3D/Easi3R</p></details> |
+| **[Consistent Subject Generation via Contrastive Instantiated Concepts](http://arxiv.org/abs/2503.24387v1)** | 2025-03-31 | <details><summary>Proje...</summary><p>Project page: https://contrastive-concept-instantiation.github.io</p></details> |
+| **[Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views](http://arxiv.org/abs/2503.24382v1)** | 2025-03-31 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project Page: https://zju3dv.github.io/free360/</p></details> |
+| **[UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving](http://arxiv.org/abs/2503.24381v1)** | 2025-03-31 | <details><summary>14 pa...</summary><p>14 pages; Dataset: https://huggingface.co/datasets/tasl-lab/uniocc; Code: https://github.com/tasl-lab/UniOcc</p></details> |
+| **[Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation](http://arxiv.org/abs/2503.24379v1)** | 2025-03-31 | <details><summary>Proje...</summary><p>Project Page: https://sqwu.top/Any2Cap/</p></details> |
+| **[ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning](http://arxiv.org/abs/2503.24378v1)** | 2025-03-31 | <details><summary>Accep...</summary><p>Accepted to LM4Plan@AAAI 2025</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Q-Insight: Understanding Image Quality via Visual Reinforcement Learning](http://arxiv.org/abs/2503.22679v1)** | 2025-03-28 | Technical report |
-| **[VidTwin: Video VAE with Decoupled Structure and Dynamics](http://arxiv.org/abs/2412.17726v2)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025; Project page: https://vidtwin.github.io/; Code: https://github.com/microsoft/VidTok/tree/main/vidtwin</p></details> |
-| **[Chernoff approximations as a method for finding the resolvent of a linear operator and solving a linear ODE with variable coefficients](http://arxiv.org/abs/2301.06765v4)** | 2025-03-28 | 11 pages |
-| **[Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints](http://arxiv.org/abs/2411.17616v3)** | 2025-03-28 | 17 pages, 8 figures |
-| **[Probabilistic Rainfall Downscaling: Joint Generalized Neural Models with Censored Spatial Gaussian Copula](http://arxiv.org/abs/2308.09827v2)** | 2025-03-28 | 28 pages, 8 figures |
-| **[MO-CTranS: A unified multi-organ segmentation model learning from multiple heterogeneously labelled datasets](http://arxiv.org/abs/2503.22557v1)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted by International Symposium on Biomedical Imaging (ISIB) 2025 as an oral presentation</p></details> |
+| **[Easi3R: Estimating Disentangled Motion from DUSt3R Without Training](http://arxiv.org/abs/2503.24391v1)** | 2025-03-31 | <details><summary>Page:...</summary><p>Page: https://easi3r.github.io/ Code: https://github.com/Inception3D/Easi3R</p></details> |
+| **[Consistent Subject Generation via Contrastive Instantiated Concepts](http://arxiv.org/abs/2503.24387v1)** | 2025-03-31 | <details><summary>Proje...</summary><p>Project page: https://contrastive-concept-instantiation.github.io</p></details> |
+| **[ERUPT: Efficient Rendering with Unposed Patch Transformer](http://arxiv.org/abs/2503.24374v1)** | 2025-03-31 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
+| **[Causal Emergence 2.0: Quantifying emergent complexity](http://arxiv.org/abs/2503.13395v2)** | 2025-03-31 | <details><summary>Minor...</summary><p>Minor revision: fixed typos and corrected one equation (no substantial changes)</p></details> |
+| **[QUADRO: A Hybrid Quantum Optimization Framework for Drone Delivery](http://arxiv.org/abs/2503.24301v1)** | 2025-03-31 | <details><summary>submi...</summary><p>submitted to QCE 2025</p></details> |
+| **[Reversible Decoupling Network for Single Image Reflection Removal](http://arxiv.org/abs/2410.08063v2)** | 2025-03-31 | <details><summary>To ap...</summary><p>To appear at CVPR 2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hiding Latencies in Network-Based Image Loading for Deep Learning](http://arxiv.org/abs/2503.22643v1)** | 2025-03-28 | 20 pages, 7 figures |
-| **[Empirical Analysis of the Impact of 5G Jitter on Time-Aware Shaper Scheduling in a 5G-TSN Network](http://arxiv.org/abs/2503.19555v2)** | 2025-03-28 | <details><summary>21st ...</summary><p>21st IEEE International Conference on Factory Communication Systems (WFCS 2025) (8 pages)</p></details> |
-| **[Generative Latent Neural PDE Solver using Flow Matching](http://arxiv.org/abs/2503.22600v1)** | 2025-03-28 | work in progress |
-| **[A Framework for Cryptographic Verifiability of End-to-End AI Pipelines](http://arxiv.org/abs/2503.22573v1)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted to 11th ACM International Workshop on Security and Privacy Analytics (IWSPA 2025)</p></details> |
-| **[Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints](http://arxiv.org/abs/2411.17616v3)** | 2025-03-28 | 17 pages, 8 figures |
-| **[Leveraging ASIC AI Chips for Homomorphic Encryption](http://arxiv.org/abs/2501.07047v2)** | 2025-03-28 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, 4 algorithms, 9 tables. Enabling Google TPUs for privacy-preserving AI inference</p></details> |
+| **[Easi3R: Estimating Disentangled Motion from DUSt3R Without Training](http://arxiv.org/abs/2503.24391v1)** | 2025-03-31 | <details><summary>Page:...</summary><p>Page: https://easi3r.github.io/ Code: https://github.com/Inception3D/Easi3R</p></details> |
+| **[Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models](http://arxiv.org/abs/2503.24377v1)** | 2025-03-31 | <details><summary>In Pr...</summary><p>In Progress; Paper list Repo: https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers</p></details> |
+| **[ERUPT: Efficient Rendering with Unposed Patch Transformer](http://arxiv.org/abs/2503.24374v1)** | 2025-03-31 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
+| **[Selective Inference in Graphical Models via Maximum Likelihood](http://arxiv.org/abs/2503.24311v1)** | 2025-03-31 | <details><summary>46 pa...</summary><p>46 pages, 2 Figures, 5 Tables</p></details> |
+| **[Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image](http://arxiv.org/abs/2503.17358v2)** | 2025-03-31 | <details><summary>Proje...</summary><p>Project page: https://jerredchen.github.io/image-as-imu/</p></details> |
+| **[Is analogy enough to draw novel adjective-noun inferences?](http://arxiv.org/abs/2503.24293v1)** | 2025-03-31 | <details><summary>8 pag...</summary><p>8 pages (16 pages with appendix). Submitted to SCiL 2025</p></details> |
 
