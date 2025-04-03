@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 03, 2025
+title: Latest 6 Papers - April 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tra-MoE: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning](http://arxiv.org/abs/2411.14519v2)** | 2025-04-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Code Page: https://github.com/MCG-NJU/Tra-MoE</p></details> |
-| **[Scalable Mechanistic Neural Networks for Differential Equations and Machine Learning](http://arxiv.org/abs/2410.06074v3)** | 2025-04-01 | <details><summary>Publi...</summary><p>Published as a conference paper at the Thirteenth International Conference on Learning Representations (ICLR 2025): https://openreview.net/forum?id=Oazgf8A24z</p></details> |
-| **[ActiveGAMER: Active GAussian Mapping through Efficient Rendering](http://arxiv.org/abs/2501.06897v2)** | 2025-04-01 | Accepted to CVPR2025 |
-| **[NTSEBENCH: Cognitive Reasoning Benchmark for Vision Language Models](http://arxiv.org/abs/2407.10380v3)** | 2025-04-01 | <details><summary>28 pa...</summary><p>28 pages, 3 figures, 12 tables</p></details> |
-| **[Large-Scale Multi-omic Biosequence Transformers for Modeling Protein-Nucleic Acid Interactions](http://arxiv.org/abs/2408.16245v3)** | 2025-04-01 | 39 pages, 5 figures |
-| **[Identifying Predictions That Influence the Future: Detecting Performative Concept Drift in Data Streams](http://arxiv.org/abs/2412.10545v2)** | 2025-04-01 | <details><summary>21 pa...</summary><p>21 pages, 17 figures. Extended version of paper with the same name accepted to AAAI2025 v2.0 updated the figures and text to more align with conference paper. Acknowledgements Section added</p></details> |
+| **[Learning from Streaming Video with Orthogonal Gradients](http://arxiv.org/abs/2504.01961v1)** | 2025-04-02 | CVPR2025 |
+| **[Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis](http://arxiv.org/abs/2504.01960v1)** | 2025-04-02 | <details><summary>WACV ...</summary><p>WACV ULTRRA Workshop 2025</p></details> |
+| **[GaussianLSS -- Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting](http://arxiv.org/abs/2504.01957v1)** | 2025-04-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
+| **[VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step](http://arxiv.org/abs/2504.01956v1)** | 2025-04-02 | <details><summary>Proje...</summary><p>Project Page: https://hanyang-21.github.io/VideoScene</p></details> |
+| **[Vanishing of Schubert Coefficients](http://arxiv.org/abs/2412.02064v3)** | 2025-04-02 | <details><summary>30 pa...</summary><p>30 pages, with a joint appendix with David E Speyer. The type D background now appears in Appendix A. The BSS model results are now in Appendix B, with typos fixed. The type D results, joint with Speyer, appear in Appendix C</p></details> |
+| **[Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging](http://arxiv.org/abs/2504.01953v1)** | 2025-04-02 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Submitted to MICCAI 2025 (under review)</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large-Scale Multi-omic Biosequence Transformers for Modeling Protein-Nucleic Acid Interactions](http://arxiv.org/abs/2408.16245v3)** | 2025-04-01 | 39 pages, 5 figures |
-| **[ASP-based Multi-shot Reasoning via DLV2 with Incremental Grounding](http://arxiv.org/abs/2412.17143v4)** | 2025-04-01 | <details><summary>Under...</summary><p>Under consideration in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model](http://arxiv.org/abs/2406.11519v2)** | 2025-04-01 | <details><summary>Accep...</summary><p>Accepted by IEEE TPAMI. Project website: https://whu-sigma.github.io/HyperSIGMA</p></details> |
-| **[Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](http://arxiv.org/abs/2502.08426v2)** | 2025-04-01 | <details><summary>This ...</summary><p>This work has been accepted as an abstract paper for presentation at the 9th Workshop on Molecular Communications (MolCom), April 2025</p></details> |
-| **[RedMotion: Motion Prediction via Redundancy Reduction](http://arxiv.org/abs/2306.10840v4)** | 2025-04-01 | <details><summary>TMLR ...</summary><p>TMLR published version</p></details> |
-| **[The Computational Complexity of Circuit Discovery for Inner Interpretability](http://arxiv.org/abs/2410.08025v3)** | 2025-04-01 | <details><summary>ICLR ...</summary><p>ICLR 2025 (Spotlight)</p></details> |
+| **[Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis](http://arxiv.org/abs/2504.01960v1)** | 2025-04-02 | <details><summary>WACV ...</summary><p>WACV ULTRRA Workshop 2025</p></details> |
+| **[GaussianLSS -- Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting](http://arxiv.org/abs/2504.01957v1)** | 2025-04-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
+| **[Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging](http://arxiv.org/abs/2504.01953v1)** | 2025-04-02 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Submitted to MICCAI 2025 (under review)</p></details> |
+| **[Efficient Federated Learning Tiny Language Models for Mobile Network Feature Prediction](http://arxiv.org/abs/2504.01947v1)** | 2025-04-02 | <details><summary>Accep...</summary><p>Accepted at 2025 EuCNC & 6G Summit Poster Session</p></details> |
+| **[A thorough benchmark of automatic text classification: From traditional approaches to large language models](http://arxiv.org/abs/2504.01930v1)** | 2025-04-02 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables</p></details> |
+| **[Is the Reversal Curse a Binding Problem? Uncovering Limitations of Transformers from a Basic Generalization Failure](http://arxiv.org/abs/2504.01928v1)** | 2025-04-02 | <details><summary>Code ...</summary><p>Code and data: https://github.com/OSU-NLP-Group/reversal-curse-binding</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NNsight and NDIF: Democratizing Access to Open-Weight Foundation Model Internals](http://arxiv.org/abs/2407.14561v4)** | 2025-04-01 | <details><summary>Code ...</summary><p>Code at https://nnsight.net</p></details> |
-| **[AI-Powered Bayesian Inference](http://arxiv.org/abs/2502.19231v2)** | 2025-04-01 | <details><summary>37 pa...</summary><p>37 pages, 4 figures; added additional experiments, asymptotic theory and exposition, corrected typos</p></details> |
-| **[Challenging Dataset and Multi-modal Gated Mixture of Experts Model for Remote Sensing Copy-Move Forgery Understanding](http://arxiv.org/abs/2503.18104v2)** | 2025-04-01 | 6 pages, 6 figures |
-| **[Multinomial Link Models](http://arxiv.org/abs/2312.16260v4)** | 2025-04-01 | 65 pages, 5 figures |
-| **[Leveraging Joint Predictive Embedding and Bayesian Inference in Graph Self Supervised Learning](http://arxiv.org/abs/2502.01684v3)** | 2025-04-01 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
-| **[Attention-Guided Multi-scale Interaction Network for Face Super-Resolution](http://arxiv.org/abs/2409.00591v2)** | 2025-04-01 | <details><summary>13 pa...</summary><p>13 pages, 11 figures, 10 tables</p></details> |
+| **[VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step](http://arxiv.org/abs/2504.01956v1)** | 2025-04-02 | <details><summary>Proje...</summary><p>Project Page: https://hanyang-21.github.io/VideoScene</p></details> |
+| **[Hessian-aware Training for Enhancing DNNs Resilience to Parameter Corruptions](http://arxiv.org/abs/2504.01933v1)** | 2025-04-02 | Pre-print |
+| **[CoMatcher: Multi-View Collaborative Feature Matching](http://arxiv.org/abs/2504.01872v1)** | 2025-04-02 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, to be published in CVPR 2025</p></details> |
+| **[Virtual Target Trajectory Prediction for Stochastic Targets](http://arxiv.org/abs/2504.01851v1)** | 2025-04-02 | <details><summary>will ...</summary><p>will be submitted to Journal of Guidance, Control, and Dynamics</p></details> |
+| **[What is AI, what is it not, how we use it in physics and how it impacts... you](http://arxiv.org/abs/2504.01827v1)** | 2025-04-02 | <details><summary>Contr...</summary><p>Contribution to the conference proceedings of BCVSPIN 2024: Particle Physics and Cosmology in the Himalayas, December 9-13, 2024, Kathmandu, Nepal</p></details> |
+| **[Barrier Certificates for Unknown Systems with Latent States and Polynomial Dynamics using Bayesian Inference](http://arxiv.org/abs/2504.01807v1)** | 2025-04-02 | <details><summary>Submi...</summary><p>Submitted to the 64th IEEE Conference on Decision and Control</p></details> |
 
