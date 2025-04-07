@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 07, 2025
+title: Latest 6 Papers - April 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Concept Lancet: Image Editing with Compositional Representation Transplant](http://arxiv.org/abs/2504.02828v1)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025. Project page at https://peterljq.github.io/project/colan</p></details> |
-| **[Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing](http://arxiv.org/abs/2504.02826v1)** | 2025-04-03 | <details><summary>27 pa...</summary><p>27 pages, 23 figures, 1 table. Technical Report</p></details> |
-| **[On Vanishing Variance in Transformer Length Generalization](http://arxiv.org/abs/2504.02827v1)** | 2025-04-03 | <details><summary>Proje...</summary><p>Project page: https://ruiningli.com/vanishing-variance. The first two authors contributed equally to this work</p></details> |
-| **[SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models](http://arxiv.org/abs/2412.07755v2)** | 2025-04-03 | <details><summary>Proje...</summary><p>Project webpage: https://arijitray.com/SAT/</p></details> |
-| **[THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models](http://arxiv.org/abs/2405.05256v2)** | 2025-04-03 | <details><summary>In CV...</summary><p>In CVPR 2024. Code https://github.com/amazon-science/THRONE</p></details> |
-| **[STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection](http://arxiv.org/abs/2504.02823v1)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
+| **[MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models](http://arxiv.org/abs/2504.03641v1)** | 2025-04-04 | <details><summary>Proje...</summary><p>Project page: https://mme-unify.github.io/</p></details> |
+| **[Bonsai: Interpretable Tree-Adaptive Grounded Reasoning](http://arxiv.org/abs/2504.03640v1)** | 2025-04-04 | 9 pages, preprint |
+| **[Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions](http://arxiv.org/abs/2504.03639v1)** | 2025-04-04 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project page: https://shape-move.github.io</p></details> |
+| **[AdaCM$^2$: On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction](http://arxiv.org/abs/2411.12593v3)** | 2025-04-04 | CVPR 2025 Highlight |
+| **[Modeling Charging Demand and Quantifying Flexibility Bounds for Large-Scale BEV Fleets](http://arxiv.org/abs/2504.03633v1)** | 2025-04-04 | 6 pages, 6 figures |
+| **[Reciprocity-Aware Convolutional Neural Networks for Map-Based Path Loss Prediction](http://arxiv.org/abs/2504.03625v1)** | 2025-04-04 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, 7 tables</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On Vanishing Variance in Transformer Length Generalization](http://arxiv.org/abs/2504.02827v1)** | 2025-04-03 | <details><summary>Proje...</summary><p>Project page: https://ruiningli.com/vanishing-variance. The first two authors contributed equally to this work</p></details> |
-| **[Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization](http://arxiv.org/abs/2504.02817v1)** | 2025-04-03 | <details><summary>Proje...</summary><p>Project Page: https://oat-3d.github.io/</p></details> |
-| **[A Framework for Situating Innovations, Opportunities, and Challenges in Advancing Vertical Systems with Large AI Models](http://arxiv.org/abs/2504.02793v1)** | 2025-04-03 | <details><summary>pre-p...</summary><p>pre-print; 7 pages of main content, 1 figure, 1 table</p></details> |
-| **[HQViT: Hybrid Quantum Vision Transformer for Image Classification](http://arxiv.org/abs/2504.02730v1)** | 2025-04-03 | 13 pages, 8 figures |
-| **[TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization](http://arxiv.org/abs/2503.19901v2)** | 2025-04-03 | CVPR 2025 |
-| **[Limitations of Religious Data and the Importance of the Target Domain: Towards Machine Translation for Guinea-Bissau Creole](http://arxiv.org/abs/2504.02674v1)** | 2025-04-03 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 7 tables. To be published in Proceedings of the 8th Workshop on Technologies for Machine Translation of Low-Resource Languages (NAACL 2025)</p></details> |
+| **[AdaCM$^2$: On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction](http://arxiv.org/abs/2411.12593v3)** | 2025-04-04 | CVPR 2025 Highlight |
+| **[APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay](http://arxiv.org/abs/2504.03601v1)** | 2025-04-04 | <details><summary>12 pa...</summary><p>12 pages plus references and appendices</p></details> |
+| **[AutoSSVH: Exploring Automated Frame Sampling for Efficient Self-Supervised Video Hashing](http://arxiv.org/abs/2504.03587v1)** | 2025-04-04 | <details><summary>Accep...</summary><p>Accepted by CVPR'25. 11 pages, 5 figures, 3 tables</p></details> |
+| **[The building blocks of software work explain coding careers and language popularity](http://arxiv.org/abs/2504.03581v1)** | 2025-04-04 | 31 pages, 12 figures |
+| **[PHOENIX: Pauli-Based High-Level Optimization Engine for Instruction Execution on NISQ Devices](http://arxiv.org/abs/2504.03529v1)** | 2025-04-04 | <details><summary>7 pag...</summary><p>7 pages, 8 figures; To be published as a conference paper at DAC 2025</p></details> |
+| **[Dynamic Importance in Diffusion U-Net for Enhanced Image Synthesis](http://arxiv.org/abs/2504.03471v1)** | 2025-04-04 | <details><summary>Accep...</summary><p>Accepted to ICME 2025. Appendix & Code: https://github.com/Hytidel/UNetReweighting</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Concept Lancet: Image Editing with Compositional Representation Transplant](http://arxiv.org/abs/2504.02828v1)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025. Project page at https://peterljq.github.io/project/colan</p></details> |
-| **[Online Hybrid-Belief POMDP with Coupled Semantic-Geometric Models and Semantic Safety Awareness](http://arxiv.org/abs/2501.11202v3)** | 2025-04-03 | 18 pages, 11 figures |
-| **[Sequential Binary Hypothesis Testing with Competing Agents under Information Asymmetry](http://arxiv.org/abs/2504.02743v1)** | 2025-04-03 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, submitted to IEEE Conference on Decision and Control 2025</p></details> |
-| **[Reducing Reasoning Costs: The Path of Optimization for Chain of Thought via Sparse Attention Mechanism](http://arxiv.org/abs/2411.09111v6)** | 2025-04-03 | <details><summary>The m...</summary><p>The main text is 5 pages, totaling 9 pages; 4 figures, 1 table. It have been submitted to NeurIPS 2024 Workshop MusIML and OpenReview</p></details> |
-| **[ERPO: Advancing Safety Alignment via Ex-Ante Reasoning Preference Optimization](http://arxiv.org/abs/2504.02725v1)** | 2025-04-03 | 18 pages, 5 figures |
-| **[Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis](http://arxiv.org/abs/2412.06786v2)** | 2025-04-03 | <details><summary>Prepr...</summary><p>Preprint. Project page: https://vcai.mpi-inf.mpg.de/projects/RAG-Gesture/</p></details> |
+| **[Bonsai: Interpretable Tree-Adaptive Grounded Reasoning](http://arxiv.org/abs/2504.03640v1)** | 2025-04-04 | 9 pages, preprint |
+| **[PAFFA: Premeditated Actions For Fast Agents](http://arxiv.org/abs/2412.07958v2)** | 2025-04-04 | 16 pages |
+| **[AIR: A Systematic Analysis of Annotations, Instructions, and Response Pairs in Preference Dataset](http://arxiv.org/abs/2504.03612v1)** | 2025-04-04 | 29 pages, 11 figures |
+| **[Scalable Hypergraph Structure Learning with Diverse Smoothness Priors](http://arxiv.org/abs/2504.03583v1)** | 2025-04-04 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, submitted to IEEE for possible publication</p></details> |
+| **[Intuitionistic Fuzzy Cognitive Maps for Interpretable Image Classification](http://arxiv.org/abs/2408.03745v2)** | 2025-04-04 | <details><summary>This ...</summary><p>This work has been submitted for possible journal publication</p></details> |
+| **[Adaptive functional principal components analysis](http://arxiv.org/abs/2306.16091v4)** | 2025-04-04 | Final version |
 
