@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 09, 2025
+title: Latest 6 Papers - April 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models](http://arxiv.org/abs/2504.05306v1)** | 2025-04-07 | <details><summary>Proje...</summary><p>Project URL: https://crea-diffusion.github.io</p></details> |
-| **[Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens](http://arxiv.org/abs/2401.17377v4)** | 2025-04-07 | <details><summary>Publi...</summary><p>Published at COLM 2024, spotlight paper</p></details> |
-| **[URECA: Unique Region Caption Anything](http://arxiv.org/abs/2504.05305v1)** | 2025-04-07 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/URECA Code: https://github.com/cvlab-kaist/URECA</p></details> |
-| **[Gaussian Mixture Flow Matching Models](http://arxiv.org/abs/2504.05304v1)** | 2025-04-07 | <details><summary>Code:...</summary><p>Code: https://github.com/Lakonik/GMFlow</p></details> |
-| **[InteractVLM: 3D Interaction Reasoning from 2D Foundational Models](http://arxiv.org/abs/2504.05303v1)** | 2025-04-07 | CVPR 2025 |
-| **[One-Minute Video Generation with Test-Time Training](http://arxiv.org/abs/2504.05298v1)** | 2025-04-07 | CVPR 2025 |
+| **[OmniSVG: A Unified Scalable Vector Graphics Generation Model](http://arxiv.org/abs/2504.06263v1)** | 2025-04-08 | <details><summary>18 pa...</summary><p>18 pages; Project Page: https://omnisvg.github.io/</p></details> |
+| **[Hogwild! Inference: Parallel LLM Generation via Concurrent Attention](http://arxiv.org/abs/2504.06261v1)** | 2025-04-08 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
+| **[FEABench: Evaluating Language Models on Multiphysics Reasoning Ability](http://arxiv.org/abs/2504.06260v1)** | 2025-04-08 | <details><summary>39 pa...</summary><p>39 pages. Accepted at the NeurIPS 2024 Workshops on Mathematical Reasoning and AI and Open-World Agents</p></details> |
+| **[PainNet: Statistical Relation Network with Episode-Based Training for Pain Estimation](http://arxiv.org/abs/2504.06257v1)** | 2025-04-08 | <details><summary>Prese...</summary><p>Presented at the ACII 2024 Workshops</p></details> |
+| **[Transfer between Modalities with MetaQueries](http://arxiv.org/abs/2504.06256v1)** | 2025-04-08 | <details><summary>Proje...</summary><p>Project Page: https://xichenpan.com/metaquery</p></details> |
+| **[Stacking Variational Bayesian Monte Carlo](http://arxiv.org/abs/2504.05004v2)** | 2025-04-08 | <details><summary>Accep...</summary><p>Accepted at the Workshop track of the 7th Symposium in Advances in Approximate Bayesian Inference (AABI 2025). 24 pages, 9 figures</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models](http://arxiv.org/abs/2504.05306v1)** | 2025-04-07 | <details><summary>Proje...</summary><p>Project URL: https://crea-diffusion.github.io</p></details> |
-| **[Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens](http://arxiv.org/abs/2401.17377v4)** | 2025-04-07 | <details><summary>Publi...</summary><p>Published at COLM 2024, spotlight paper</p></details> |
-| **[One-Minute Video Generation with Test-Time Training](http://arxiv.org/abs/2504.05298v1)** | 2025-04-07 | CVPR 2025 |
-| **[Is Adversarial Training with Compressed Datasets Effective?](http://arxiv.org/abs/2402.05675v2)** | 2025-04-07 | <details><summary>22 pa...</summary><p>22 pages, 10 figures, 3 tables, accepted at Scandinavian Conference on Image Analysis 2025 (SCIA 2025)</p></details> |
-| **[Infinitely Divisible Noise for Differential Privacy: Nearly Optimal Error in the High $\varepsilon$ Regime](http://arxiv.org/abs/2504.05202v1)** | 2025-04-07 | <details><summary>To ap...</summary><p>To appear in FORC 2025</p></details> |
-| **[Graph-Based Multimodal Contrastive Learning for Chart Question Answering](http://arxiv.org/abs/2501.04303v2)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2025</p></details> |
+| **[APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay](http://arxiv.org/abs/2504.03601v2)** | 2025-04-08 | <details><summary>12 pa...</summary><p>12 pages plus references and appendices</p></details> |
+| **[HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling](http://arxiv.org/abs/2504.06205v1)** | 2025-04-08 | Under Review |
+| **[WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care](http://arxiv.org/abs/2504.06185v1)** | 2025-04-08 | <details><summary>Main ...</summary><p>Main paper: 17 pages; supplementary material: 16 pages; paper submitted to the application track of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2025)</p></details> |
+| **[Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion](http://arxiv.org/abs/2504.06158v1)** | 2025-04-08 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2024 International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2024), Lecture Notes in Electrical Engineering (LNEE), Volume 1372, Springer Nature, Singapore</p></details> |
+| **[Hyperbolic Category Discovery](http://arxiv.org/abs/2504.06120v1)** | 2025-04-08 | <details><summary>Accep...</summary><p>Accepted as a conference paper at CVPR 2025</p></details> |
+| **[When does compositional structure yield compositional generalization? A kernel theory](http://arxiv.org/abs/2405.16391v3)** | 2025-04-08 | <details><summary>Publi...</summary><p>Published at ICLR 2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Gaussian Mixture Flow Matching Models](http://arxiv.org/abs/2504.05304v1)** | 2025-04-07 | <details><summary>Code:...</summary><p>Code: https://github.com/Lakonik/GMFlow</p></details> |
-| **[InteractVLM: 3D Interaction Reasoning from 2D Foundational Models](http://arxiv.org/abs/2504.05303v1)** | 2025-04-07 | CVPR 2025 |
-| **[Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather Effects](http://arxiv.org/abs/2504.05296v1)** | 2025-04-07 | <details><summary>Proje...</summary><p>Project webpage: https://galfiebelman.github.io/let-it-snow/</p></details> |
-| **[The challenge of uncertainty quantification of large language models in medicine](http://arxiv.org/abs/2504.05278v1)** | 2025-04-07 | 25 pages, 11 figures |
-| **[AnomalousNet: A Hybrid Approach with Attention U-Nets and Change Point Detection for Accurate Characterization of Anomalous Diffusion in Video Data](http://arxiv.org/abs/2504.05271v1)** | 2025-04-07 | 20 pages, 9 figures |
-| **[PINNverse: Accurate parameter estimation in differential equations from noisy data with constrained physics-informed neural networks](http://arxiv.org/abs/2504.05248v1)** | 2025-04-07 | 17 pages, 5 figures |
+| **[Hogwild! Inference: Parallel LLM Generation via Concurrent Attention](http://arxiv.org/abs/2504.06261v1)** | 2025-04-08 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
+| **[Stacking Variational Bayesian Monte Carlo](http://arxiv.org/abs/2504.05004v2)** | 2025-04-08 | <details><summary>Accep...</summary><p>Accepted at the Workshop track of the 7th Symposium in Advances in Approximate Bayesian Inference (AABI 2025). 24 pages, 9 figures</p></details> |
+| **[Family-wise Error Rate Control with E-values](http://arxiv.org/abs/2501.09015v2)** | 2025-04-08 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 4 algorithms</p></details> |
+| **[Privacy Attacks on Image AutoRegressive Models](http://arxiv.org/abs/2502.02514v2)** | 2025-04-08 | <details><summary>Code:...</summary><p>Code: https://github.com/sprintml/privacy_attacks_against_iars</p></details> |
+| **[WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care](http://arxiv.org/abs/2504.06185v1)** | 2025-04-08 | <details><summary>Main ...</summary><p>Main paper: 17 pages; supplementary material: 16 pages; paper submitted to the application track of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2025)</p></details> |
+| **[A Training-Free Style-aligned Image Generation with Scale-wise Autoregressive Model](http://arxiv.org/abs/2504.06144v1)** | 2025-04-08 | 17 pages, 15 figures |
 
