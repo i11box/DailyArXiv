@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 11, 2025
+title: Latest 6 Papers - April 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,29 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning](http://arxiv.org/abs/2504.07097v1)** | 2025-04-09 | <details><summary>25 pa...</summary><p>25 pages, 13 figures, 6 tables</p></details> |
-| **[OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training Tokens](http://arxiv.org/abs/2504.07096v1)** | 2025-04-09 | <details><summary>Under...</summary><p>Under submission at ACL 2025 demo track</p></details> |
-| **[Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning](http://arxiv.org/abs/2504.07095v1)** | 2025-04-09 | <details><summary>8 pag...</summary><p>8 pages (main), 2-page appendix, 8 figures, accepted by CVPR 2025</p></details> |
-| **[OmniCaptioner: One Captioner to Rule Them All](http://arxiv.org/abs/2504.07089v1)** | 2025-04-09 | <details><summary>More ...</summary><p>More visualizations on Homepage: https://alpha-innovator.github.io/OmniCaptioner-project-page and Official code: https://github.com/Alpha-Innovator/OmniCaptioner</p></details> |
-| **[KG-LLM-Bench: A Scalable Benchmark for Evaluating LLM Reasoning on Textualized Knowledge Graphs](http://arxiv.org/abs/2504.07087v1)** | 2025-04-09 | <details><summary>To be...</summary><p>To be presented at NAACL-HLT, KnowledgeNLP Workshop (2025)</p></details> |
+| **[Cat, Rat, Meow: On the Alignment of Language Model and Human Term-Similarity Judgments](http://arxiv.org/abs/2504.07965v1)** | 2025-04-10 | <details><summary>ICLR ...</summary><p>ICLR 2025 Workshop on Representational Alignment (Re-Align)</p></details> |
+| **[PixelFlow: Pixel-Space Generative Models with Flow](http://arxiv.org/abs/2504.07963v1)** | 2025-04-10 | <details><summary>Techn...</summary><p>Technical report. Code: https://github.com/ShoufaChen/PixelFlow</p></details> |
+| **[Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction](http://arxiv.org/abs/2504.07961v1)** | 2025-04-10 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, Project page: https://geo4d.github.io/</p></details> |
+| **[GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation](http://arxiv.org/abs/2504.07962v1)** | 2025-04-10 | CVPR 2025 |
+| **[Interactive4D: Interactive 4D LiDAR Segmentation](http://arxiv.org/abs/2410.08206v2)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to ICRA2025!</p></details> |
+| **[VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning](http://arxiv.org/abs/2504.07960v1)** | 2025-04-10 | <details><summary>Proje...</summary><p>Project page: https://visualcloze.github.io/</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning](http://arxiv.org/abs/2504.07095v1)** | 2025-04-09 | <details><summary>8 pag...</summary><p>8 pages (main), 2-page appendix, 8 figures, accepted by CVPR 2025</p></details> |
-| **[Inverter Output Impedance Estimation in Power Networks: A Variable Direction Forgetting Recursive-Least-Square Algorithm Based Approach](http://arxiv.org/abs/2410.14077v2)** | 2025-04-09 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 2 table, submitted for 2025 Conference on Decision and Control (CDC)</p></details> |
-| **[OmniCaptioner: One Captioner to Rule Them All](http://arxiv.org/abs/2504.07089v1)** | 2025-04-09 | <details><summary>More ...</summary><p>More visualizations on Homepage: https://alpha-innovator.github.io/OmniCaptioner-project-page and Official code: https://github.com/Alpha-Innovator/OmniCaptioner</p></details> |
-| **[Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation](http://arxiv.org/abs/2501.03225v2)** | 2025-04-09 | CVPR 2025 |
-| **[LLM-IFT: LLM-Powered Information Flow Tracking for Secure Hardware](http://arxiv.org/abs/2504.07015v1)** | 2025-04-09 | <details><summary>This ...</summary><p>This paper is presented at IEEE VLSI Test Symposium (VTS) 2025</p></details> |
-| **[FAME: Introducing Fuzzy Additive Models for Explainable AI](http://arxiv.org/abs/2504.07011v1)** | 2025-04-09 | <details><summary>in th...</summary><p>in the IEEE International Conference on Fuzzy Systems, 2025</p></details> |
+| **[Taming Data and Transformers for Scalable Audio Generation](http://arxiv.org/abs/2406.19388v3)** | 2025-04-10 | <details><summary>Proje...</summary><p>Project Webpage: https://snap-research.github.io/GenAU/</p></details> |
+| **[From Winter Storm Thermodynamics to Wind Gust Extremes: Discovering Interpretable Equations from Data](http://arxiv.org/abs/2504.07905v1)** | 2025-04-10 | 9 pages, 4 figures |
+| **[The Efficacy of Semantics-Preserving Transformations in Self-Supervised Learning for Medical Ultrasound](http://arxiv.org/abs/2504.07904v1)** | 2025-04-10 | <details><summary>17 pa...</summary><p>17 pages, 12 figures, 18 tables, Submitted to Medical Image Analysis</p></details> |
+| **[Robust image representations with counterfactual contrastive learning](http://arxiv.org/abs/2409.10365v2)** | 2025-04-10 | <details><summary>Code ...</summary><p>Code available at https://github.com/biomedia-mira/counterfactual-contrastive/</p></details> |
+| **[V2V3D: View-to-View Denoised 3D Reconstruction for Light-Field Microscopy](http://arxiv.org/abs/2504.07853v1)** | 2025-04-10 | CVPR 2025 |
+| **[Understanding Learner-LLM Chatbot Interactions and the Impact of Prompting Guidelines](http://arxiv.org/abs/2504.07840v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted for AIED 2025, the 26th International Conference on Artificial Intelligence in Education, July 22 - 26, 2025, Palermo, Italy</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hogwild! Inference: Parallel LLM Generation via Concurrent Attention](http://arxiv.org/abs/2504.06261v2)** | 2025-04-09 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
-| **[AdvBDGen: Adversarially Fortified Prompt-Specific Fuzzy Backdoor Generator Against LLM Alignment](http://arxiv.org/abs/2410.11283v2)** | 2025-04-09 | <details><summary>Publi...</summary><p>Published at the Neurips Safe Generative AI Workshop 2024</p></details> |
-| **[SIGMAN:Scaling 3D Human Gaussian Generation with Millions of Assets](http://arxiv.org/abs/2504.06982v1)** | 2025-04-09 | <details><summary>proje...</summary><p>project page:https://yyvhang.github.io/SIGMAN_3D/</p></details> |
-| **[LogiDynamics: Unraveling the Dynamics of Logical Inference in Large Language Model Reasoning](http://arxiv.org/abs/2502.11176v2)** | 2025-04-09 | 21 pages |
-| **[An Analysis of Temporal Dropout in Earth Observation Time Series for Regression Tasks](http://arxiv.org/abs/2504.06915v1)** | 2025-04-09 | <details><summary>Accep...</summary><p>Accepted at Symposium on Intelligent Data Analysis (IDA 2025)</p></details> |
-| **[Large Language Model Can Be a Foundation for Hidden Rationale-Based Retrieval](http://arxiv.org/abs/2412.16615v2)** | 2025-04-09 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, ECIR 2025</p></details> |
+| **[Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction](http://arxiv.org/abs/2504.07961v1)** | 2025-04-10 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, Project page: https://geo4d.github.io/</p></details> |
+| **[Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory](http://arxiv.org/abs/2504.07952v1)** | 2025-04-10 | <details><summary>https...</summary><p>https://github.com/suzgunmirac/dynamic-cheatsheet</p></details> |
+| **[Scaling Optimization Over Uncertainty via Compilation](http://arxiv.org/abs/2502.18728v2)** | 2025-04-10 | <details><summary>51 pa...</summary><p>51 pages, 23 Figures, Accepted to OOPSLA R1</p></details> |
+| **[HoloPart: Generative 3D Part Amodal Segmentation](http://arxiv.org/abs/2504.07943v1)** | 2025-04-10 | <details><summary>Proje...</summary><p>Project Page: https://vast-ai-research.github.io/HoloPart</p></details> |
+| **[Semantically Encoding Activity Labels for Context-Aware Human Activity Recognition](http://arxiv.org/abs/2504.07916v1)** | 2025-04-10 | Percom 2025 |
+| **[Fast Adaptation with Behavioral Foundation Models](http://arxiv.org/abs/2504.07896v1)** | 2025-04-10 | 25 pages |
 
