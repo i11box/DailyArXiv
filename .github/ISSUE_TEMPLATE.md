@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 14, 2025
+title: Latest 6 Papers - April 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,25 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cat, Rat, Meow: On the Alignment of Language Model and Human Term-Similarity Judgments](http://arxiv.org/abs/2504.07965v1)** | 2025-04-10 | <details><summary>ICLR ...</summary><p>ICLR 2025 Workshop on Representational Alignment (Re-Align)</p></details> |
-| **[PixelFlow: Pixel-Space Generative Models with Flow](http://arxiv.org/abs/2504.07963v1)** | 2025-04-10 | <details><summary>Techn...</summary><p>Technical report. Code: https://github.com/ShoufaChen/PixelFlow</p></details> |
-| **[Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction](http://arxiv.org/abs/2504.07961v1)** | 2025-04-10 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, Project page: https://geo4d.github.io/</p></details> |
-| **[GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation](http://arxiv.org/abs/2504.07962v1)** | 2025-04-10 | CVPR 2025 |
-| **[Interactive4D: Interactive 4D LiDAR Segmentation](http://arxiv.org/abs/2410.08206v2)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to ICRA2025!</p></details> |
-| **[VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning](http://arxiv.org/abs/2504.07960v1)** | 2025-04-10 | <details><summary>Proje...</summary><p>Project page: https://visualcloze.github.io/</p></details> |
+| **[GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation](http://arxiv.org/abs/2504.08736v1)** | 2025-04-11 | <details><summary>proje...</summary><p>project page: https://silentview.github.io/GigaTok</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Taming Data and Transformers for Scalable Audio Generation](http://arxiv.org/abs/2406.19388v3)** | 2025-04-10 | <details><summary>Proje...</summary><p>Project Webpage: https://snap-research.github.io/GenAU/</p></details> |
-| **[From Winter Storm Thermodynamics to Wind Gust Extremes: Discovering Interpretable Equations from Data](http://arxiv.org/abs/2504.07905v1)** | 2025-04-10 | 9 pages, 4 figures |
-| **[The Efficacy of Semantics-Preserving Transformations in Self-Supervised Learning for Medical Ultrasound](http://arxiv.org/abs/2504.07904v1)** | 2025-04-10 | <details><summary>17 pa...</summary><p>17 pages, 12 figures, 18 tables, Submitted to Medical Image Analysis</p></details> |
-| **[Robust image representations with counterfactual contrastive learning](http://arxiv.org/abs/2409.10365v2)** | 2025-04-10 | <details><summary>Code ...</summary><p>Code available at https://github.com/biomedia-mira/counterfactual-contrastive/</p></details> |
-| **[V2V3D: View-to-View Denoised 3D Reconstruction for Light-Field Microscopy](http://arxiv.org/abs/2504.07853v1)** | 2025-04-10 | CVPR 2025 |
-| **[Understanding Learner-LLM Chatbot Interactions and the Impact of Prompting Guidelines](http://arxiv.org/abs/2504.07840v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted for AIED 2025, the 26th International Conference on Artificial Intelligence in Education, July 22 - 26, 2025, Palermo, Italy</p></details> |
+| **[GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation](http://arxiv.org/abs/2504.08736v1)** | 2025-04-11 | <details><summary>proje...</summary><p>project page: https://silentview.github.io/GigaTok</p></details> |
+| **[Quantum Large Language Model Fine-Tuning](http://arxiv.org/abs/2504.08732v1)** | 2025-04-11 | <details><summary>11 pa...</summary><p>11 pages, 11 figures, 15 tables</p></details> |
+| **[Steering CLIP's vision transformer with sparse autoencoders](http://arxiv.org/abs/2504.08729v1)** | 2025-04-11 | <details><summary>8 pag...</summary><p>8 pages, 7 figures. Accepted to the CVPR 2025 Workshop on Mechanistic Interpretability for Vision (MIV)</p></details> |
+| **[ModernBERT or DeBERTaV3? Examining Architecture and Data Influence on Transformer Encoder Models Performance](http://arxiv.org/abs/2504.08716v1)** | 2025-04-11 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[Hypergraph Vision Transformers: Images are More than Nodes, More than Edges](http://arxiv.org/abs/2504.08710v1)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[Transformer Learns Optimal Variable Selection in Group-Sparse Classification](http://arxiv.org/abs/2504.08638v1)** | 2025-04-11 | 63 pages, 6 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction](http://arxiv.org/abs/2504.07961v1)** | 2025-04-10 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, Project page: https://geo4d.github.io/</p></details> |
-| **[Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory](http://arxiv.org/abs/2504.07952v1)** | 2025-04-10 | <details><summary>https...</summary><p>https://github.com/suzgunmirac/dynamic-cheatsheet</p></details> |
-| **[Scaling Optimization Over Uncertainty via Compilation](http://arxiv.org/abs/2502.18728v2)** | 2025-04-10 | <details><summary>51 pa...</summary><p>51 pages, 23 Figures, Accepted to OOPSLA R1</p></details> |
-| **[HoloPart: Generative 3D Part Amodal Segmentation](http://arxiv.org/abs/2504.07943v1)** | 2025-04-10 | <details><summary>Proje...</summary><p>Project Page: https://vast-ai-research.github.io/HoloPart</p></details> |
-| **[Semantically Encoding Activity Labels for Context-Aware Human Activity Recognition](http://arxiv.org/abs/2504.07916v1)** | 2025-04-10 | Percom 2025 |
-| **[Fast Adaptation with Behavioral Foundation Models](http://arxiv.org/abs/2504.07896v1)** | 2025-04-10 | 25 pages |
+| **[ModernBERT or DeBERTaV3? Examining Architecture and Data Influence on Transformer Encoder Models Performance](http://arxiv.org/abs/2504.08716v1)** | 2025-04-11 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[Generating Fine Details of Entity Interactions](http://arxiv.org/abs/2504.08714v1)** | 2025-04-11 | <details><summary>Proje...</summary><p>Project Page: https://concepts-ai.com/p/detailscribe/</p></details> |
+| **[Fast-Slow-Thinking: Complex Task Solving with Large Language Models](http://arxiv.org/abs/2504.08690v1)** | 2025-04-11 | 37 pages, 7 figures |
+| **[HRDecoder: High-Resolution Decoder Network for Fundus Image Lesion Segmentation](http://arxiv.org/abs/2411.03976v2)** | 2025-04-11 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, accepted by MICCAI 2024, the revised version</p></details> |
+| **[Title block detection and information extraction for enhanced building drawings search](http://arxiv.org/abs/2504.08645v1)** | 2025-04-11 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 1 table. Accepted for publication in the 2025 European Conference on Computing in Construction (EC3, https://ec-3.org/conference2025/)</p></details> |
+| **[Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization](http://arxiv.org/abs/2504.08641v1)** | 2025-04-11 | <details><summary>Websi...</summary><p>Website: https://video-msg.github.io; The first three authors contributed equally</p></details> |
 
