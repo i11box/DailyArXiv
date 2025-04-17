@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 17, 2025
+title: Latest 6 Papers - April 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception](http://arxiv.org/abs/2504.11457v1)** | 2025-04-15 | ICLR 2025 |
-| **[DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning](http://arxiv.org/abs/2504.11456v1)** | 2025-04-15 | WIP |
-| **[SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL](http://arxiv.org/abs/2504.11455v1)** | 2025-04-15 | <details><summary>techn...</summary><p>technical report, work in progress</p></details> |
-| **[Elucidating the Design Space of Multimodal Protein Language Models](http://arxiv.org/abs/2504.11454v1)** | 2025-04-15 | <details><summary>Proje...</summary><p>Project Page: https://bytedance.github.io/dplm/dplm-2.1/</p></details> |
-| **[Arnold Diffusion in the Full Three-Body Problem](http://arxiv.org/abs/2504.09273v2)** | 2025-04-15 | 41 pages, 7 figures |
-| **[Establishing a Foundation for Tetun Ad-Hoc Text Retrieval: Stemming, Indexing, Retrieval, and Ranking](http://arxiv.org/abs/2412.11758v3)** | 2025-04-15 | Version 3 |
+| **[Trend Filtered Mixture of Experts for Automated Gating of High-Frequency Flow Cytometry Data](http://arxiv.org/abs/2504.12287v1)** | 2025-04-16 | <details><summary>23 pa...</summary><p>23 page (including supplement), 9 figures (including supplement)</p></details> |
+| **[BitNet b1.58 2B4T Technical Report](http://arxiv.org/abs/2504.12285v1)** | 2025-04-16 | Work in progress |
+| **[How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions](http://arxiv.org/abs/2504.12284v1)** | 2025-04-16 | <details><summary>CVPR ...</summary><p>CVPR 2025, Project page: https://ap229997.github.io/projects/latentact</p></details> |
+| **[Feedforward in Generative AI: Opportunities for a Design Space](http://arxiv.org/abs/2502.14229v2)** | 2025-04-16 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, CHI '25 Workshop on Tools for Thought</p></details> |
+| **[Dysarthria Normalization via Local Lie Group Transformations for Robust ASR](http://arxiv.org/abs/2504.12279v1)** | 2025-04-16 | <details><summary>Prepr...</summary><p>Preprint. 11 pages, 3 figures, 2 tables, 8 appendices. Code and data available upon request</p></details> |
+| **[Taming Data and Transformers for Audio Generation](http://arxiv.org/abs/2406.19388v4)** | 2025-04-16 | <details><summary>Proje...</summary><p>Project Webpage: https://snap-research.github.io/GenAU/</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SpoofCeleb: Speech Deepfake Detection and SASV In The Wild](http://arxiv.org/abs/2409.17285v2)** | 2025-04-15 | <details><summary>IEEE ...</summary><p>IEEE OJSP. Official document lives at: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10839331</p></details> |
-| **[A Dual-Space Framework for General Knowledge Distillation of Large Language Models](http://arxiv.org/abs/2504.11426v1)** | 2025-04-15 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 11 tables, under review. Code is available at: https://github.com/songmzhang/DSKDv2. arXiv admin note: text overlap with arXiv:2406.17328</p></details> |
-| **[Leveraging Point Transformers for Detecting Anatomical Landmarks in Digital Dentistry](http://arxiv.org/abs/2504.11418v1)** | 2025-04-15 | <details><summary>10 pa...</summary><p>10 pages + references, 3 figures, MICCAI2024 3DTeethland Challenge submission</p></details> |
-| **[Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps](http://arxiv.org/abs/2504.11416v1)** | 2025-04-15 | <details><summary>Accep...</summary><p>Accepted for publication in ISPRS Journal of Photogrammetry and Remote Sensing</p></details> |
-| **[Breaking the Data Barrier -- Building GUI Agents Through Task Generalization](http://arxiv.org/abs/2504.10127v2)** | 2025-04-15 | 24 pages, 11 figures |
-| **[Autoregressive Distillation of Diffusion Transformers](http://arxiv.org/abs/2504.11295v1)** | 2025-04-15 | CVPR 2025 Oral |
+| **[How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions](http://arxiv.org/abs/2504.12284v1)** | 2025-04-16 | <details><summary>CVPR ...</summary><p>CVPR 2025, Project page: https://ap229997.github.io/projects/latentact</p></details> |
+| **[Dysarthria Normalization via Local Lie Group Transformations for Robust ASR](http://arxiv.org/abs/2504.12279v1)** | 2025-04-16 | <details><summary>Prepr...</summary><p>Preprint. 11 pages, 3 figures, 2 tables, 8 appendices. Code and data available upon request</p></details> |
+| **[Taming Data and Transformers for Audio Generation](http://arxiv.org/abs/2406.19388v4)** | 2025-04-16 | <details><summary>Proje...</summary><p>Project Webpage: https://snap-research.github.io/GenAU/</p></details> |
+| **[SCENT: Robust Spatiotemporal Learning for Continuous Scientific Data via Scalable Conditioned Neural Fields](http://arxiv.org/abs/2504.12262v1)** | 2025-04-16 | <details><summary>25 pa...</summary><p>25 pages, 5 main figures, 3 tables, under review</p></details> |
+| **[Human Aligned Compression for Robust Models](http://arxiv.org/abs/2504.12255v1)** | 2025-04-16 | <details><summary>Prese...</summary><p>Presented at the Workshop AdvML at CVPR 2025</p></details> |
+| **[Emergence of meta-stable clustering in mean-field transformer models](http://arxiv.org/abs/2410.23228v2)** | 2025-04-16 | 37 Pages, 6 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL](http://arxiv.org/abs/2504.11455v1)** | 2025-04-15 | <details><summary>techn...</summary><p>technical report, work in progress</p></details> |
-| **[PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond](http://arxiv.org/abs/2504.11451v1)** | 2025-04-15 | <details><summary>https...</summary><p>https://research.nvidia.com/labs/toronto-ai/partfield-release/</p></details> |
-| **[eXplainable AI for data driven control: an inverse optimal control approach](http://arxiv.org/abs/2504.11446v1)** | 2025-04-15 | <details><summary>Submi...</summary><p>Submitted to CDC 2025</p></details> |
-| **[Greedy Restart Schedules: A Baseline for Dynamic Algorithm Selection on Numerical Black-box Optimization Problems](http://arxiv.org/abs/2504.11440v1)** | 2025-04-15 | <details><summary>Autho...</summary><p>Author version. Accepted as full paper to be presented at the GECCO 2025 conference, July 14-18, M\'alaga, Spain. (DOI 10.1145/3712256.3726408)</p></details> |
-| **[OmniXAS: A Universal Deep-Learning Framework for Materials X-ray Absorption Spectra](http://arxiv.org/abs/2409.19552v3)** | 2025-04-15 | <details><summary>Main ...</summary><p>Main manuscript: 23 pages, 14 figures. Supplemental material (13 pages, 6 figures) available as a separate file in arXiv ancillary files (additional downloadable files)</p></details> |
-| **[VideoPanda: Video Panoramic Diffusion with Multi-view Attention](http://arxiv.org/abs/2504.11389v1)** | 2025-04-15 | <details><summary>Proje...</summary><p>Project website at https://research-staging.nvidia.com/labs/toronto-ai/VideoPanda/</p></details> |
+| **[BitNet b1.58 2B4T Technical Report](http://arxiv.org/abs/2504.12285v1)** | 2025-04-16 | Work in progress |
+| **[Dysarthria Normalization via Local Lie Group Transformations for Robust ASR](http://arxiv.org/abs/2504.12279v1)** | 2025-04-16 | <details><summary>Prepr...</summary><p>Preprint. 11 pages, 3 figures, 2 tables, 8 appendices. Code and data available upon request</p></details> |
+| **[Optimal Sequential Procedure for Early Detection of Multiple Side Effects](http://arxiv.org/abs/2405.08759v2)** | 2025-04-16 | <details><summary>A tot...</summary><p>A total of 30 pages with 6 Tables and 8 Figures</p></details> |
+| **[Understanding and Optimizing Multi-Stage AI Inference Pipelines](http://arxiv.org/abs/2504.09775v2)** | 2025-04-16 | <details><summary>Infer...</summary><p>Inference System Design for Multi-Stage AI Inference Pipelines. 13 Pages, 15 Figues, 3 Tables</p></details> |
+| **[Cobra: Efficient Line Art COlorization with BRoAder References](http://arxiv.org/abs/2504.12240v1)** | 2025-04-16 | <details><summary>Proje...</summary><p>Project page with code: https://zhuang2002.github.io/Cobra/</p></details> |
+| **[zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing](http://arxiv.org/abs/2504.12217v1)** | 2025-04-16 | Accepted by DAC 2025 |
 
