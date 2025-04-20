@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 18, 2025
+title: Latest 6 Papers - April 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Trend Filtered Mixture of Experts for Automated Gating of High-Frequency Flow Cytometry Data](http://arxiv.org/abs/2504.12287v1)** | 2025-04-16 | <details><summary>23 pa...</summary><p>23 page (including supplement), 9 figures (including supplement)</p></details> |
-| **[BitNet b1.58 2B4T Technical Report](http://arxiv.org/abs/2504.12285v1)** | 2025-04-16 | Work in progress |
-| **[How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions](http://arxiv.org/abs/2504.12284v1)** | 2025-04-16 | <details><summary>CVPR ...</summary><p>CVPR 2025, Project page: https://ap229997.github.io/projects/latentact</p></details> |
-| **[Feedforward in Generative AI: Opportunities for a Design Space](http://arxiv.org/abs/2502.14229v2)** | 2025-04-16 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, CHI '25 Workshop on Tools for Thought</p></details> |
-| **[Dysarthria Normalization via Local Lie Group Transformations for Robust ASR](http://arxiv.org/abs/2504.12279v1)** | 2025-04-16 | <details><summary>Prepr...</summary><p>Preprint. 11 pages, 3 figures, 2 tables, 8 appendices. Code and data available upon request</p></details> |
-| **[Taming Data and Transformers for Audio Generation](http://arxiv.org/abs/2406.19388v4)** | 2025-04-16 | <details><summary>Proje...</summary><p>Project Webpage: https://snap-research.github.io/GenAU/</p></details> |
+| **[Perception Encoder: The best visual embeddings are not at the output of the network](http://arxiv.org/abs/2504.13181v1)** | 2025-04-17 | Initial Submission |
+| **[ViTa-Zero: Zero-shot Visuotactile Object 6D Pose Estimation](http://arxiv.org/abs/2504.13179v1)** | 2025-04-17 | <details><summary>Accep...</summary><p>Accepted by ICRA 2025</p></details> |
+| **[PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding](http://arxiv.org/abs/2504.13180v1)** | 2025-04-17 | Technical report |
+| **[Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference Under Ambiguities](http://arxiv.org/abs/2410.17385v2)** | 2025-04-17 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025 (Oral) | Project page: https://spatial-comfort.github.io/</p></details> |
+| **[Sleep-time Compute: Beyond Inference Scaling at Test-time](http://arxiv.org/abs/2504.13171v1)** | 2025-04-17 | <details><summary>Code ...</summary><p>Code and data released at: https://github.com/letta-ai/sleep-time-compute</p></details> |
+| **[Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling](http://arxiv.org/abs/2504.13169v1)** | 2025-04-17 | <details><summary>Prepr...</summary><p>Preprint. Project Page: https://reverse-vlm.github.io</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions](http://arxiv.org/abs/2504.12284v1)** | 2025-04-16 | <details><summary>CVPR ...</summary><p>CVPR 2025, Project page: https://ap229997.github.io/projects/latentact</p></details> |
-| **[Dysarthria Normalization via Local Lie Group Transformations for Robust ASR](http://arxiv.org/abs/2504.12279v1)** | 2025-04-16 | <details><summary>Prepr...</summary><p>Preprint. 11 pages, 3 figures, 2 tables, 8 appendices. Code and data available upon request</p></details> |
-| **[Taming Data and Transformers for Audio Generation](http://arxiv.org/abs/2406.19388v4)** | 2025-04-16 | <details><summary>Proje...</summary><p>Project Webpage: https://snap-research.github.io/GenAU/</p></details> |
-| **[SCENT: Robust Spatiotemporal Learning for Continuous Scientific Data via Scalable Conditioned Neural Fields](http://arxiv.org/abs/2504.12262v1)** | 2025-04-16 | <details><summary>25 pa...</summary><p>25 pages, 5 main figures, 3 tables, under review</p></details> |
-| **[Human Aligned Compression for Robust Models](http://arxiv.org/abs/2504.12255v1)** | 2025-04-16 | <details><summary>Prese...</summary><p>Presented at the Workshop AdvML at CVPR 2025</p></details> |
-| **[Emergence of meta-stable clustering in mean-field transformer models](http://arxiv.org/abs/2410.23228v2)** | 2025-04-16 | 37 Pages, 6 figures |
+| **[Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation](http://arxiv.org/abs/2504.13175v1)** | 2025-04-17 | <details><summary>Publi...</summary><p>Published at Robotics: Science and Systems (RSS) 2025</p></details> |
+| **[Personalized Text-to-Image Generation with Auto-Regressive Models](http://arxiv.org/abs/2504.13162v1)** | 2025-04-17 | <details><summary>Proje...</summary><p>Project page: https://github.com/KaiyueSun98/T2I-Personalization-with-AR</p></details> |
+| **[A general language model for peptide identification](http://arxiv.org/abs/2502.15610v2)** | 2025-04-17 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 4 tables, submitted to arXiv</p></details> |
+| **[Kähler information manifolds of signal processing filters in weighted Hardy spaces](http://arxiv.org/abs/2108.07746v5)** | 2025-04-17 | 23 pages |
+| **[Benchmarking the Spatial Robustness of DNNs via Natural and Adversarial Localized Corruptions](http://arxiv.org/abs/2504.01632v2)** | 2025-04-17 | Under review |
+| **[Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data](http://arxiv.org/abs/2504.13077v1)** | 2025-04-17 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, Accepted to SPIE DSC 2025 Conference: Synthetic Data for Artificial Intelligence and Machine Learning: Tools, Techniques, and Applications III</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BitNet b1.58 2B4T Technical Report](http://arxiv.org/abs/2504.12285v1)** | 2025-04-16 | Work in progress |
-| **[Dysarthria Normalization via Local Lie Group Transformations for Robust ASR](http://arxiv.org/abs/2504.12279v1)** | 2025-04-16 | <details><summary>Prepr...</summary><p>Preprint. 11 pages, 3 figures, 2 tables, 8 appendices. Code and data available upon request</p></details> |
-| **[Optimal Sequential Procedure for Early Detection of Multiple Side Effects](http://arxiv.org/abs/2405.08759v2)** | 2025-04-16 | <details><summary>A tot...</summary><p>A total of 30 pages with 6 Tables and 8 Figures</p></details> |
-| **[Understanding and Optimizing Multi-Stage AI Inference Pipelines](http://arxiv.org/abs/2504.09775v2)** | 2025-04-16 | <details><summary>Infer...</summary><p>Inference System Design for Multi-Stage AI Inference Pipelines. 13 Pages, 15 Figues, 3 Tables</p></details> |
-| **[Cobra: Efficient Line Art COlorization with BRoAder References](http://arxiv.org/abs/2504.12240v1)** | 2025-04-16 | <details><summary>Proje...</summary><p>Project page with code: https://zhuang2002.github.io/Cobra/</p></details> |
-| **[zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing](http://arxiv.org/abs/2504.12217v1)** | 2025-04-16 | Accepted by DAC 2025 |
+| **[Sleep-time Compute: Beyond Inference Scaling at Test-time](http://arxiv.org/abs/2504.13171v1)** | 2025-04-17 | <details><summary>Code ...</summary><p>Code and data released at: https://github.com/letta-ai/sleep-time-compute</p></details> |
+| **[Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling](http://arxiv.org/abs/2504.13169v1)** | 2025-04-17 | <details><summary>Prepr...</summary><p>Preprint. Project Page: https://reverse-vlm.github.io</p></details> |
+| **[Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo](http://arxiv.org/abs/2504.13139v1)** | 2025-04-17 | 34 pages, 4 figures |
+| **[Force and Speed in a Soft Stewart Platform](http://arxiv.org/abs/2504.13127v1)** | 2025-04-17 | <details><summary>Publi...</summary><p>Published at Robosoft 2025</p></details> |
+| **[Should We Tailor the Talk? Understanding the Impact of Conversational Styles on Preference Elicitation in Conversational Recommender Systems](http://arxiv.org/abs/2504.13095v1)** | 2025-04-17 | <details><summary>To ap...</summary><p>To appear in: Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP '25), June 16--19, 2025, New York City, NY, USA</p></details> |
+| **[Learning Diverse Robot Striking Motions with Diffusion Models and Kinematically Constrained Gradient Guidance](http://arxiv.org/abs/2409.15528v2)** | 2025-04-17 | ICRA 2025 |
 
