@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 22, 2025
+title: Latest 6 Papers - April 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](http://arxiv.org/abs/2504.13837v1)** | 2025-04-18 | 24 pages, 19 figures |
-| **[Outlier-Robust Multi-Model Fitting on Quantum Annealers](http://arxiv.org/abs/2504.13836v1)** | 2025-04-18 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop "Image Matching: Local Features & Beyond"</p></details> |
-| **[CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning](http://arxiv.org/abs/2504.13820v1)** | 2025-04-18 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[Not All Rollouts are Useful: Down-Sampling Rollouts in LLM Reinforcement Learning](http://arxiv.org/abs/2504.13818v1)** | 2025-04-18 | 9 pages, 1 figure |
-| **[Transferrable Surrogates in Expressive Neural Architecture Search Spaces](http://arxiv.org/abs/2504.12971v2)** | 2025-04-18 | <details><summary>Proje...</summary><p>Project page at: https://shiwenqin.github.io/TransferrableSurrogate/</p></details> |
-| **[High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion](http://arxiv.org/abs/2410.11838v2)** | 2025-04-18 | <details><summary>Proje...</summary><p>Project page: https://hifi-diffusion.github.io/</p></details> |
+| **[StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians](http://arxiv.org/abs/2504.15281v1)** | 2025-04-21 | <details><summary>16 pa...</summary><p>16 pages; Project page: https://styleme3d.github.io/</p></details> |
+| **[VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models](http://arxiv.org/abs/2504.15279v1)** | 2025-04-21 | <details><summary>Code,...</summary><p>Code, data, and baselines are available at https://visulogic-benchmark.github.io/VisuLogic</p></details> |
+| **[Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs](http://arxiv.org/abs/2504.15280v1)** | 2025-04-21 | <details><summary>Proje...</summary><p>Project page: https://danielchyeh.github.io/All-Angles-Bench/</p></details> |
+| **[ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models](http://arxiv.org/abs/2503.19902v2)** | 2025-04-21 | <details><summary>CVPR ...</summary><p>CVPR 2025, Project page: https://visual-ai.github.io/ice</p></details> |
+| **[Causal Emergence 2.0: Quantifying emergent complexity](http://arxiv.org/abs/2503.13395v3)** | 2025-04-21 | <details><summary>v3: m...</summary><p>v3: minor wording edits; added Supplementary Information (1 new figure); results unchanged</p></details> |
+| **[DataComp-LM: In search of the next generation of training sets for language models](http://arxiv.org/abs/2406.11794v4)** | 2025-04-21 | <details><summary>Proje...</summary><p>Project page: https://www.datacomp.ai/dclm/</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Fast Direct Solver for Boundary Integral Equations Using Quadrature By Expansion](http://arxiv.org/abs/2504.13809v1)** | 2025-04-18 | 31 pages, 12 figures |
-| **[Transformer Encoder and Multi-features Time2Vec for Financial Prediction](http://arxiv.org/abs/2504.13801v1)** | 2025-04-18 | <details><summary>5 pag...</summary><p>5 pages, currently under review at Eusipco 2025</p></details> |
-| **[Collective Learning Mechanism based Optimal Transport Generative Adversarial Network for Non-parallel Voice Conversion](http://arxiv.org/abs/2504.13791v1)** | 2025-04-18 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables</p></details> |
-| **[Internal noise in hardware deep and recurrent neural networks helps with learning](http://arxiv.org/abs/2504.13778v1)** | 2025-04-18 | 8 pages 5 figures |
-| **[Decoding Vision Transformers: the Diffusion Steering Lens](http://arxiv.org/abs/2504.13763v1)** | 2025-04-18 | <details><summary>12 pa...</summary><p>12 pages, 17 figures. Accepted to the CVPR 2025 Workshop on Mechanistic Interpretability for Vision (MIV)</p></details> |
-| **[Models, Methods and Waveforms for Estimation and Prediction of Doubly Sparse Time-Varying Channels](http://arxiv.org/abs/2504.13762v1)** | 2025-04-18 | <details><summary>submi...</summary><p>submitted to IEEE Transactions on Wireless Communications</p></details> |
+| **[Causal Emergence 2.0: Quantifying emergent complexity](http://arxiv.org/abs/2503.13395v3)** | 2025-04-21 | <details><summary>v3: m...</summary><p>v3: minor wording edits; added Supplementary Information (1 new figure); results unchanged</p></details> |
+| **[Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction](http://arxiv.org/abs/2504.15266v1)** | 2025-04-21 | 37 pages |
+| **[Shape-Guided Clothing Warping for Virtual Try-On](http://arxiv.org/abs/2504.15232v1)** | 2025-04-21 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2024. The code is available at https://github.com/xyhanHIT/SCW-VTON</p></details> |
+| **[Analysing the Robustness of Vision-Language-Models to Common Corruptions](http://arxiv.org/abs/2504.13690v2)** | 2025-04-21 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2304.10592, arXiv:2301.12597 by other authors</p></details> |
+| **[An $rp$-adaptive method for accurate resolution of shock-dominated viscous flow based on implicit shock tracking](http://arxiv.org/abs/2504.15177v1)** | 2025-04-21 | <details><summary>43 pa...</summary><p>43 pages, 35 figures,</p></details> |
+| **[Inverse Constitutional AI: Compressing Preferences into Principles](http://arxiv.org/abs/2406.06560v2)** | 2025-04-21 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025, v2 is camera-ready version; Main changes from v1: extended experiments, additional baselines</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Not All Rollouts are Useful: Down-Sampling Rollouts in LLM Reinforcement Learning](http://arxiv.org/abs/2504.13818v1)** | 2025-04-18 | 9 pages, 1 figure |
-| **[High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion](http://arxiv.org/abs/2410.11838v2)** | 2025-04-18 | <details><summary>Proje...</summary><p>Project page: https://hifi-diffusion.github.io/</p></details> |
-| **[A Fast Direct Solver for Boundary Integral Equations Using Quadrature By Expansion](http://arxiv.org/abs/2504.13809v1)** | 2025-04-18 | 31 pages, 12 figures |
-| **[Fast Mixed-Precision Real Evaluation](http://arxiv.org/abs/2504.11708v2)** | 2025-04-18 | <details><summary>Dupli...</summary><p>Duplicates arxiv:2410.07468</p></details> |
-| **[DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs](http://arxiv.org/abs/2504.13774v1)** | 2025-04-18 | 49 pages |
-| **[Modeling L1 Influence on L2 Pronunciation: An MFCC-Based Framework for Explainable Machine Learning and Pedagogical Feedback](http://arxiv.org/abs/2504.13765v1)** | 2025-04-18 | <details><summary>27 pa...</summary><p>27 pages (including references), 4 figures, 1 table. Combines statistical inference and explainable machine learning to model L1 influence in L2 pronunciation using MFCC features. Methodology and code are openly available via Zenodo and OSF: Zenodo: https://doi.org/10.5281/zenodo.15186197 OSF: https://doi.org/10.17605/OSF.IO/4UXGM</p></details> |
+| **[Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators](http://arxiv.org/abs/2504.15253v1)** | 2025-04-21 | <details><summary>The f...</summary><p>The first two authors contributed equally. The codebase is at https://github.com/SalesforceAIResearch/jetts-benchmark</p></details> |
+| **[Adaptive Gradient Normalization and Independent Sampling for (Stochastic) Generalized-Smooth Optimization](http://arxiv.org/abs/2410.14054v2)** | 2025-04-21 | 40 pages, 1 tables |
+| **[Fully Bayesian Approaches to Topics over Time](http://arxiv.org/abs/2504.15220v1)** | 2025-04-21 | 25 pages |
+| **[Fast and scalable Wasserstein-1 neural optimal transport solver for single-cell perturbation prediction](http://arxiv.org/abs/2411.00614v2)** | 2025-04-21 | ISMB/ECCB 2025 |
+| **[Position: Bayesian Statistics Facilitates Stakeholder Participation in Evaluation of Generative AI](http://arxiv.org/abs/2504.15211v1)** | 2025-04-21 | <details><summary>To be...</summary><p>To be presented at ACM CHI 2025 workshop STAIG</p></details> |
+| **[Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models](http://arxiv.org/abs/2410.10733v7)** | 2025-04-21 | <details><summary>ICLR ...</summary><p>ICLR 2025. The first two authors contributed equally to this work</p></details> |
 
