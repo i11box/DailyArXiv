@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 25, 2025
+title: Latest 6 Papers - April 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Energy-Efficient Autonomous Aerial Navigation with Dynamic Vision Sensors: A Physics-Guided Neuromorphic Approach](http://arxiv.org/abs/2502.05938v2)** | 2025-04-23 | <details><summary>This ...</summary><p>This work has been accepted for presentation at the 2025 IEEE International Joint Conference on Neural Networks (IJCNN), June 30 - July 5, 2025, Rome, Italy</p></details> |
-| **[Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light](http://arxiv.org/abs/2504.16922v1)** | 2025-04-23 | <details><summary>https...</summary><p>https://github.com/SHI-Labs/NATTEN/</p></details> |
-| **[A Survey on Mixup Augmentations and Beyond](http://arxiv.org/abs/2409.05202v2)** | 2025-04-23 | <details><summary>Prepr...</summary><p>Preprint V2 with 30 pages main text. Online project at https://github.com/Westlake-AI/Awesome-Mixup</p></details> |
-| **[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](http://arxiv.org/abs/2503.16419v3)** | 2025-04-23 | <details><summary>Proje...</summary><p>Project Website: https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs</p></details> |
-| **[Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning](http://arxiv.org/abs/2411.18203v5)** | 2025-04-23 | 16 pages, 11 figures |
-| **[DiffArtist: Towards Structure and Appearance Controllable Image Stylization](http://arxiv.org/abs/2407.15842v3)** | 2025-04-23 | <details><summary>Homep...</summary><p>Homepage: https://DiffusionArtist.github.io</p></details> |
+| **[LiDPM: Rethinking Point Diffusion for Lidar Scene Completion](http://arxiv.org/abs/2504.17791v1)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted to IEEE IV 2025</p></details> |
+| **[Dynamic Camera Poses and Where to Find Them](http://arxiv.org/abs/2504.17788v1)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project Page: https://research.nvidia.com/labs/dir/dynpose-100k</p></details> |
+| **[Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation](http://arxiv.org/abs/2504.17784v1)** | 2025-04-24 | <details><summary>Publi...</summary><p>Published at Robotics: Science and Systems (RSS) 2025</p></details> |
+| **[Unleashing the Power of Natural Audio Featuring Multiple Sound Sources](http://arxiv.org/abs/2504.17782v1)** | 2025-04-24 | Work in Progress |
+| **[Replay to Remember: Retaining Domain Knowledge in Streaming Language Models](http://arxiv.org/abs/2504.17780v1)** | 2025-04-24 | <details><summary>8 pag...</summary><p>8 pages 3 figures, 3 tables</p></details> |
+| **[Fitting Tree Metrics and Ultrametrics in Data Streams](http://arxiv.org/abs/2504.17776v1)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted for publication in the 52nd EATCS International Colloquium on Automata, Languages, and Programming (ICALP)</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Sentiment Analysis in Bengali Texts: A Hybrid Approach Using Lexicon-Based Algorithm and Pretrained Language Model Bangla-BERT](http://arxiv.org/abs/2411.19584v2)** | 2025-04-23 | 13 pages, 12 figures |
-| **[On the Practice of Deep Hierarchical Ensemble Network for Ad Conversion Rate Prediction](http://arxiv.org/abs/2504.08169v3)** | 2025-04-23 | Accepted by WWW 2025 |
-| **[Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions](http://arxiv.org/abs/2504.15327v2)** | 2025-04-23 | 41 pages, 7 figures |
-| **[Random Long-Context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention](http://arxiv.org/abs/2504.16795v1)** | 2025-04-23 | preprint |
-| **[Projective Variety Recovery from Unknown Linear Projections](http://arxiv.org/abs/2504.16771v1)** | 2025-04-23 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:math/0208099, arXiv:math/0110157 by other authors</p></details> |
-| **[DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions](http://arxiv.org/abs/2504.16770v1)** | 2025-04-23 | <details><summary>Prese...</summary><p>Presented at the 2025 ACM Workshop on Human-AI Interaction for Augmented Reasoning, Report Number: CHI25-WS-AUGMENTED-REASONING</p></details> |
+| **[HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding](http://arxiv.org/abs/2503.08585v2)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025</p></details> |
+| **[Siren -- Advancing Cybersecurity through Deception and Adaptive Analysis](http://arxiv.org/abs/2406.06225v2)** | 2025-04-24 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 13th Computing Conference 2025 - London, United Kingdom</p></details> |
+| **[Aerial Image Classification in Scarce and Unconstrained Environments via Conformal Prediction](http://arxiv.org/abs/2504.17655v1)** | 2025-04-24 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, and 2 tables</p></details> |
+| **[Efficient Neural Network Approaches for Conditional Optimal Transport with Applications in Bayesian Inference](http://arxiv.org/abs/2310.16975v3)** | 2025-04-24 | <details><summary>26 pa...</summary><p>26 pages, 7 tables, 8 figures</p></details> |
+| **[Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization](http://arxiv.org/abs/2504.17628v1)** | 2025-04-24 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, journal article</p></details> |
+| **[Decentralized Time Series Classification with ROCKET Features](http://arxiv.org/abs/2504.17617v1)** | 2025-04-24 | <details><summary>Submi...</summary><p>Submitted to Workshop on Federated Learning Advancements 2025, in conjunction with ECML-PKDD, WAFL25</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](http://arxiv.org/abs/2503.16419v3)** | 2025-04-23 | <details><summary>Proje...</summary><p>Project Website: https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs</p></details> |
-| **[Regression-based proximal causal inference for right-censored time-to-event data](http://arxiv.org/abs/2409.08924v4)** | 2025-04-23 | 14 pages, 2 figures |
-| **[Strong Converse Exponent for Remote Lossy Source Coding](http://arxiv.org/abs/2501.14620v2)** | 2025-04-23 | <details><summary>Accep...</summary><p>Accepted for presentation at 2025 IEEE International Symposium on Information Theory (ISIT)</p></details> |
-| **[Random Long-Context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention](http://arxiv.org/abs/2504.16795v1)** | 2025-04-23 | preprint |
-| **[OSDFace: One-Step Diffusion Model for Face Restoration](http://arxiv.org/abs/2411.17163v2)** | 2025-04-23 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. The code and model will be available at https://github.com/jkwang28/OSDFace</p></details> |
-| **[DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments](http://arxiv.org/abs/2504.16734v1)** | 2025-04-23 | <details><summary>20 pa...</summary><p>20 pages, 30 figures, Under review at IEEE Transactions on Robotics</p></details> |
+| **[Disaggregated Deep Learning via In-Physics Computing at Radio Frequency](http://arxiv.org/abs/2504.17752v1)** | 2025-04-24 | <details><summary>11 pa...</summary><p>11 pages, 4 figures. Supplementary Information: 54 pages, 20 figures, 1 table</p></details> |
+| **[Efficient Iterative Proximal Variational Inference Motion Planning](http://arxiv.org/abs/2411.03416v3)** | 2025-04-24 | 13 pages |
+| **[PICO: Reconstructing 3D People In Contact with Objects](http://arxiv.org/abs/2504.17695v1)** | 2025-04-24 | <details><summary>Accep...</summary><p>Accepted in CVPR'25. Project Page: https://pico.is.tue.mpg.de</p></details> |
+| **[Ensemble Bayesian Inference: Leveraging Small Language Models to Achieve LLM-level Accuracy in Profile Matching Tasks](http://arxiv.org/abs/2504.17685v1)** | 2025-04-24 | 13 pages, 2 figures |
+| **[Variational Self-Supervised Learning](http://arxiv.org/abs/2504.04318v2)** | 2025-04-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 - SSL Workshop Submission</p></details> |
+| **[Energy Considerations of Large Language Model Inference and Efficiency Optimizations](http://arxiv.org/abs/2504.17674v1)** | 2025-04-24 | 16 pages |
 
