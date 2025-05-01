@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 01, 2025
+title: Latest 6 Papers - May 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[YoChameleon: Personalized Vision and Language Generation](http://arxiv.org/abs/2504.20998v1)** | 2025-04-29 | <details><summary>CVPR ...</summary><p>CVPR 2025; Project page: https://thaoshibe.github.io/YoChameleon</p></details> |
-| **[X-Fusion: Introducing New Modality to Frozen Large Language Models](http://arxiv.org/abs/2504.20996v1)** | 2025-04-29 | <details><summary>Proje...</summary><p>Project Page: https://sichengmo.github.io/XFusion/</p></details> |
-| **[TesserAct: Learning 4D Embodied World Models](http://arxiv.org/abs/2504.20995v1)** | 2025-04-29 | <details><summary>Proje...</summary><p>Project Page: https://tesseractworld.github.io/</p></details> |
-| **[ACE: A Security Architecture for LLM-Integrated App Systems](http://arxiv.org/abs/2504.20984v1)** | 2025-04-29 | 21 pages, 13 figures |
-| **[SetKE: Knowledge Editing for Knowledge Elements Overlap](http://arxiv.org/abs/2504.20972v1)** | 2025-04-29 | <details><summary>The C...</summary><p>The CR version will be updated subsequently</p></details> |
-| **[SVD Based Least Squares for X-Ray Pneumonia Classification Using Deep Features](http://arxiv.org/abs/2504.20970v1)** | 2025-04-29 | <details><summary>Prepr...</summary><p>Preprint submitted to IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2025</p></details> |
+| **[Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-based Decision-Making Systems](http://arxiv.org/abs/2405.20774v3)** | 2025-04-30 | <details><summary>Accep...</summary><p>Accepted paper at ICLR 2025, 31 pages, including main paper, references, and appendix</p></details> |
+| **[ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction](http://arxiv.org/abs/2504.21855v1)** | 2025-04-30 | <details><summary>Proje...</summary><p>Project Page: https://revision-video.github.io/</p></details> |
+| **[TRUST: An LLM-Based Dialogue System for Trauma Understanding and Structured Assessments](http://arxiv.org/abs/2504.21851v1)** | 2025-04-30 | 5 figures, 4 tables |
+| **[COMPACT: COMPositional Atomic-to-Complex Visual Capability Tuning](http://arxiv.org/abs/2504.21850v1)** | 2025-04-30 | 17 pages, 13 figures |
+| **[Differentiable Room Acoustic Rendering with Multi-View Vision Priors](http://arxiv.org/abs/2504.21847v1)** | 2025-04-30 | <details><summary>Proje...</summary><p>Project Page: https://humathe.github.io/avdar/</p></details> |
+| **[Oh the Prices You'll See: Designing a Fair Exchange System to Mitigate Personalized Pricing](http://arxiv.org/abs/2409.02777v3)** | 2025-04-30 | <details><summary>Updat...</summary><p>Updated for FAccT submission</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Equivariant non-linear maps for neural networks on homogeneous spaces](http://arxiv.org/abs/2504.20974v1)** | 2025-04-29 | 45 pages,10 figures |
-| **[Debiasing Functions of Private Statistics in Postprocessing](http://arxiv.org/abs/2502.13314v4)** | 2025-04-29 | <details><summary>This ...</summary><p>This version is the same as version 2, which we inadvertently withdrew in trying to undo a premature submission. Relative to version 1, this version contains additional results and more references</p></details> |
-| **[Conformal-DP: Differential Privacy on Riemannian Manifolds via Conformal Transformation](http://arxiv.org/abs/2504.20941v1)** | 2025-04-29 | <details><summary>Submi...</summary><p>Submitted and do not distribute</p></details> |
-| **[DYNAMAX: Dynamic computing for Transformers and Mamba based architectures](http://arxiv.org/abs/2504.20922v1)** | 2025-04-29 | <details><summary>Accep...</summary><p>Accepted to IJCNN 2025</p></details> |
-| **[Tabular Data Adapters: Improving Outlier Detection for Unlabeled Private Data](http://arxiv.org/abs/2504.20862v1)** | 2025-04-29 | <details><summary>outli...</summary><p>outlier detection, tabular data, neural networks, weak annotations, soft labeling, unsupervised approach</p></details> |
-| **[Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning](http://arxiv.org/abs/2504.20835v1)** | 2025-04-29 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, Submitted to ACM MM 2025</p></details> |
+| **[Explorations of the Softmax Space: Knowing When the Neural Network Doesn't Know](http://arxiv.org/abs/2502.00456v2)** | 2025-04-30 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 2 table</p></details> |
+| **[Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers](http://arxiv.org/abs/2504.19254v2)** | 2025-04-30 | <details><summary>UQLM ...</summary><p>UQLM repository: https://github.com/cvs-health/uqlm</p></details> |
+| **[Emergence of a High-Dimensional Abstraction Phase in Language Transformers](http://arxiv.org/abs/2405.15471v4)** | 2025-04-30 | <details><summary>Publi...</summary><p>Published as conference paper at ICLR 2025</p></details> |
+| **[CountingDINO: A Training-free Pipeline for Class-Agnostic Counting using Unsupervised Backbones](http://arxiv.org/abs/2504.16570v2)** | 2025-04-30 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 2 tables. Project website: https://lorebianchi98.github.io/CountingDINO/</p></details> |
+| **[Lossless data compression by large models](http://arxiv.org/abs/2407.07723v3)** | 2025-04-30 | <details><summary>Publi...</summary><p>Published by Nature Machine Intelligence at https://www.nature.com/articles/s42256-025-01033-7</p></details> |
+| **[A Formal Framework for Understanding Length Generalization in Transformers](http://arxiv.org/abs/2410.02140v3)** | 2025-04-30 | <details><summary>85 pa...</summary><p>85 pages, 9 figures, 11 tables. Accepted for publication at ICLR 2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Centered plug-in estimation of Wasserstein distances](http://arxiv.org/abs/2203.11627v2)** | 2025-04-29 | <details><summary>major...</summary><p>major revision; 41 pages, 14 figures</p></details> |
-| **[Improved Bounds on the Space Complexity of Circuit Evaluation](http://arxiv.org/abs/2504.20950v1)** | 2025-04-29 | 8 pages |
-| **[Training Plug-n-Play Knowledge Modules with Deep Context Distillation](http://arxiv.org/abs/2503.08727v2)** | 2025-04-29 | Preprint |
-| **[DYNAMAX: Dynamic computing for Transformers and Mamba based architectures](http://arxiv.org/abs/2504.20922v1)** | 2025-04-29 | <details><summary>Accep...</summary><p>Accepted to IJCNN 2025</p></details> |
-| **[Bayesian Optimization-based Tire Parameter and Uncertainty Estimation for Real-World Data](http://arxiv.org/abs/2504.20863v1)** | 2025-04-29 | <details><summary>This ...</summary><p>This paper has been accepted at IV 2025</p></details> |
-| **[Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning](http://arxiv.org/abs/2504.20835v1)** | 2025-04-29 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, Submitted to ACM MM 2025</p></details> |
+| **[Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks](http://arxiv.org/abs/2504.21844v1)** | 2025-04-30 | <details><summary>21 pa...</summary><p>21 pages, 10 figures, 4 tables</p></details> |
+| **[Hexcute: A Tile-based Programming Language with Automatic Layout and Task-Mapping Synthesis](http://arxiv.org/abs/2504.16214v2)** | 2025-04-30 | 17 pages, 24 figures |
+| **[Practical classical error correction for parity-encoded spin systems](http://arxiv.org/abs/2502.07170v4)** | 2025-04-30 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, 1 Table, Major revision</p></details> |
+| **[Easily Computed Marginal Likelihoods for Multivariate Mixture Models Using the THAMES Estimator](http://arxiv.org/abs/2504.21812v1)** | 2025-04-30 | 36 pages, 6 figures |
+| **[SparseTransX: Efficient Training of Translation-Based Knowledge Graph Embeddings Using Sparse Matrix Operations](http://arxiv.org/abs/2502.16949v3)** | 2025-04-30 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 9 tables. MLSys 2025</p></details> |
+| **[CountingDINO: A Training-free Pipeline for Class-Agnostic Counting using Unsupervised Backbones](http://arxiv.org/abs/2504.16570v2)** | 2025-04-30 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 2 tables. Project website: https://lorebianchi98.github.io/CountingDINO/</p></details> |
 
