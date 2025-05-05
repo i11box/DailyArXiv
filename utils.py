@@ -32,12 +32,12 @@ def request_paper_with_arXiv_api(keyword: str, max_results: int, link: str = "OR
         paper.Title = remove_duplicated_spaces(entry.title.replace("\n", " "))
         # abstract
         paper.Abstract = remove_duplicated_spaces(entry.summary.replace("\n", " "))
-        # authors
-        paper.Authors = [remove_duplicated_spaces(_["name"].replace("\n", " ")) for _ in entry.authors]
-        # link
-        paper.Link = remove_duplicated_spaces(entry.link.replace("\n", " "))
-        # tags
-        paper.Tags = [remove_duplicated_spaces(_["term"].replace("\n", " ")) for _ in entry.tags]
+        # # authors
+        # paper.Authors = [remove_duplicated_spaces(_["name"].replace("\n", " ")) for _ in entry.authors]
+        # # link
+        # paper.Link = remove_duplicated_spaces(entry.link.replace("\n", " "))
+        # # tags
+        # paper.Tags = [remove_duplicated_spaces(_["term"].replace("\n", " ")) for _ in entry.tags]
         # comment
         paper.Comment = remove_duplicated_spaces(entry.get("arxiv_comment", "").replace("\n", " "))
         # date
@@ -72,7 +72,6 @@ def get_daily_papers_by_keyword(keyword: str, column_names: List[str], max_resul
     papers = request_paper_with_arXiv_api(keyword, max_result, link) # NOTE default columns: Title, Authors, Abstract, Link, Tags, Comment, Date
     # NOTE filtering tags: only keep the papers in cs field
     # TODO filtering more
-    papers = filter_tags(papers)
     # select columns for display
     papers = [{column_name: paper[column_name] for column_name in column_names} for paper in papers]
     return papers

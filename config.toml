@@ -10,3 +10,15 @@ REDIS_HOST='localhost'
 REDIS_PORT=6379
 
 # Dify配置
+
+# 爬虫配置
+max_result = 1 # maximum query results from arXiv API for each keyword
+issues_result = 15 # maximum papers to be included in the issue
+
+# 关键词配置
+# 如果数据库中没有关键词，将使用这些默认关键词
+keywords = [
+    "Time Series",
+    "Trajectory",
+    "Graph Neural Networks"
+]
