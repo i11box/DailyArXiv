@@ -10,6 +10,9 @@ REDIS_HOST='localhost'
 REDIS_PORT=6379
 
 # Dify配置
+DIFY_API_URL = 'https://api.dify.ai/v1/completion-messages'
+DIFY_API_KEY = 'app-8HazUVj4AStktGTNwLTPudCZ'
+DIFY_USER = 'root'
 
 # 爬虫配置
 max_result = 1 # maximum query results from arXiv API for each keyword

@@ -45,16 +45,33 @@
             <p class="paper-abstract">{{ paper.abstract }}</p>
             
             <div class="paper-actions">
-              <el-button 
-                v-if="paper.link" 
-                type="primary" 
-                size="small" 
-                @click="openLink(paper.link)"
-              >
-                查看原文
-              </el-button>
+              <div>
+                <el-button 
+                  v-if="paper.link" 
+                  type="primary" 
+                  size="small" 
+                  @click="openLink(paper.link)"
+                >
+                  查看原文
+                </el-button>
+                <el-button 
+                  type="success" 
+                  size="small" 
+                  @click="toggleDifyChatbot(paper)"
+                >
+                  跟机器人聊聊
+                </el-button>
+              </div>
               <el-tag size="small" effect="plain">{{ paper.keyword }}</el-tag>
             </div>
+            
+            <!-- Dify聊天机器人组件 -->
+            <DifyChatbot 
+              v-if="activePaper === paper.id"
+              :paper-title="paper.title"
+              :paper-abstract="paper.abstract"
+              :visible="true"
+            />
           </div>
         </el-card>
       </div>
@@ -63,13 +80,16 @@
 </template>
 
 <script setup>
-import { ref, onMounted, computed } from 'vue';
+import { ref, onMounted, computed, reactive } from 'vue';
 import axios from 'axios';
+import { ElMessage } from 'element-plus';
+import DifyChatbot from '../components/DifyChatbot.vue';
 
 const papers = ref({});
 const loading = ref(true);
 const error = ref(null);
 const currentDate = ref(null);
+const activePaper = ref(null); // 当前激活的论文ID
 
 const formattedDate = computed(() => {
   if (!currentDate.value) return '今日';
@@ -86,13 +106,40 @@ function openLink(link) {
   window.open(link, '_blank');
 }
 
+function toggleDifyChatbot(paper) {
+  // 如果当前论文已经激活，则关闭聊天机器人
+  if (activePaper.value === paper.id) {
+    activePaper.value = null;
+  } else {
+    // 否则激活当前论文的聊天机器人
+    activePaper.value = paper.id;
+    
+    // 显示提示消息
+    ElMessage({
+      message: '聊天机器人已加载，可以开始提问关于这篇论文的问题',
+      type: 'success',
+      duration: 3000
+    });
+  }
+}
+
 async function fetchPapers() {
   loading.value = true;
   error.value = null;
   
   try {
     const response = await axios.get('/api/papers/latest');
-    papers.value = response.data?.papers || {};
+    const papersData = response.data?.papers || {};
+    
+    // 处理论文数据，添加ID
+    Object.keys(papersData).forEach(keyword => {
+      papersData[keyword].forEach((paper, index) => {
+        // 添加唯一ID
+        paper.id = `${keyword}-${index}-${Date.now()}`;
+      });
+    });
+    
+    papers.value = papersData;
     currentDate.value = response.data?.date || '';
   } catch (err) {
     console.error('获取论文失败:', err);
@@ -144,5 +191,23 @@ onMounted(() => {
 .error-container, .empty-container {
   padding: 60px 0;
   text-align: center;
+}
+
+.summary-title {
+  font-weight: 500;
+  color: var(--primary-color);
+}
+
+.summary-content {
+  padding: 16px;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+  line-height: 1.6;
+  text-align: justify;
+  white-space: pre-line;
+}
+
+.summary-message {
+  min-width: 300px;
 }
 </style>
