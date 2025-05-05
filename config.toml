@@ -1,0 +1,12 @@
+# MySQL配置
+DB_HOST='localhost'
+DB_PORT=3306
+DB_NAME='dailyarxiv'
+DB_USER='root'
+DB_PASSWORD='kashmir0661'
+
+# Redis配置
+REDIS_HOST='localhost'
+REDIS_PORT=6379
+
+# Dify配置

@@ -1,3 +1,14 @@
 easydict
 feedparser
 pytz
+flask==2.3.2
+flask-sqlalchemy==3.0.3
+flask-cors==3.0.10
+pymysql==1.1.0
+redis==4.5.5
+python-dotenv==1.0.0
+feedparser==6.0.10
+pytz==2023.3
+requests==2.31.0
+apscheduler==3.10.1
+gunicorn==20.1.0
