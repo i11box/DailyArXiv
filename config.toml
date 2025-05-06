@@ -1,27 +1,13 @@
-# MySQL配置
-DB_HOST='localhost'
-DB_PORT=3306
-DB_NAME='dailyarxiv'
-DB_USER='root'
-DB_PASSWORD='kashmir0661'
-
-# Redis配置
-REDIS_HOST='localhost'
-REDIS_PORT=6379
-
-# Dify配置
-DIFY_API_URL = 'https://api.dify.ai/v1/completion-messages'
-DIFY_API_KEY = 'app-8HazUVj4AStktGTNwLTPudCZ'
-DIFY_USER = 'root'
-
-# 爬虫配置
-max_result = 1 # maximum query results from arXiv API for each keyword
-issues_result = 15 # maximum papers to be included in the issue
-
-# 关键词配置
-# 如果数据库中没有关键词，将使用这些默认关键词
-keywords = [
-    "Time Series",
-    "Trajectory",
-    "Graph Neural Networks"
-]
+DB_HOST = "localhost"
+DB_PORT = 3306
+DB_NAME = "dailyarxiv"
+DB_USER = "root"
+DB_PASSWORD = "kashmir0661"
+REDIS_HOST = "localhost"
+REDIS_PORT = 6379
+DIFY_API_URL = "https://api.dify.ai/v1/completion-messages"
+DIFY_API_KEY = "app-8HazUVj4AStktGTNwLTPudCZ"
+DIFY_USER = "root"
+max_result = 1
+issues_result = 15
+keywords = [ "Efficient Diffusion Models", "Inference Compression", "Fast Inference",]
