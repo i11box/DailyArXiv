@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 07, 2025
+title: Latest 6 Papers - May 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning](http://arxiv.org/abs/2505.02835v1)** | 2025-05-05 | <details><summary>Home ...</summary><p>Home page: https://github.com/yfzhang114/r1_reward</p></details> |
-| **[No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves](http://arxiv.org/abs/2505.02831v1)** | 2025-05-05 | <details><summary>Self-...</summary><p>Self-Representation Alignment for Diffusion Transformers. arXiv admin note: text overlap with arXiv:2410.06940 by other authors</p></details> |
-| **[LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery](http://arxiv.org/abs/2505.02829v1)** | 2025-05-05 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, 19 tables</p></details> |
-| **[Privacy Risks and Preservation Methods in Explainable Artificial Intelligence: A Scoping Review](http://arxiv.org/abs/2505.02828v1)** | 2025-05-05 | <details><summary>Submi...</summary><p>Submitted for peer review</p></details> |
-| **[Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology](http://arxiv.org/abs/2505.02825v1)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted at CVPR Workshop, CV4Animals 2025</p></details> |
-| **["Trust me on this" Explaining Agent Behavior to a Human Terminator](http://arxiv.org/abs/2504.04592v2)** | 2025-05-05 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, in proceedings of ICML 2024 Workshop on Models of Human Feedback for AI Alignment</p></details> |
+| **[VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model](http://arxiv.org/abs/2505.03739v1)** | 2025-05-06 | <details><summary>Train...</summary><p>Training and Inference Codes: https://github.com/VITA-MLLM/VITA-Audio</p></details> |
+| **[FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios](http://arxiv.org/abs/2505.03730v1)** | 2025-05-06 | <details><summary>Accep...</summary><p>Accepted by Siggraph2025, Project Page: https://shiyi-zh0408.github.io/projectpages/FlexiAct/</p></details> |
+| **[PyRoki: A Modular Toolkit for Robot Kinematic Optimization](http://arxiv.org/abs/2505.03728v1)** | 2025-05-06 | <details><summary>First...</summary><p>First two authors contributed equally. Code is available at https://pyroki-toolkit.github.io</p></details> |
+| **[Meta-Optimization and Program Search using Language Models for Task and Motion Planning](http://arxiv.org/abs/2505.03725v1)** | 2025-05-06 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, under review for the 9th Annual Conference on Robot Learning (CoRL 2025)</p></details> |
+| **[Quantum circuit lower bounds in the magic hierarchy](http://arxiv.org/abs/2504.19966v2)** | 2025-05-06 | 37 pages |
+| **[UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction](http://arxiv.org/abs/2503.15661v2)** | 2025-05-06 | <details><summary>This ...</summary><p>This paper has been accepted to the 41st International Conference on Machine Learning (ICML 2025)</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves](http://arxiv.org/abs/2505.02831v1)** | 2025-05-05 | <details><summary>Self-...</summary><p>Self-Representation Alignment for Diffusion Transformers. arXiv admin note: text overlap with arXiv:2410.06940 by other authors</p></details> |
-| **[AutoLibra: Agent Metric Induction from Open-Ended Feedback](http://arxiv.org/abs/2505.02820v1)** | 2025-05-05 | <details><summary>https...</summary><p>https://opensocial.world/</p></details> |
-| **[Database-Agnostic Gait Enrollment using SetTransformers](http://arxiv.org/abs/2505.02815v1)** | 2025-05-05 | 5 Tables, 6 Figures |
-| **[Towards Optimal Deterministic LOCAL Algorithms on Trees](http://arxiv.org/abs/2505.01410v2)** | 2025-05-05 | <details><summary>To ap...</summary><p>To appear at PODC 2025</p></details> |
-| **[i-QLS: Quantum-supported Algorithm for Least Squares Optimization in Non-Linear Regression](http://arxiv.org/abs/2505.02788v1)** | 2025-05-05 | 11 pages, 4 figures |
-| **[Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models](http://arxiv.org/abs/2505.02753v1)** | 2025-05-05 | <details><summary>This ...</summary><p>This paper is accepted to CVPR 2025</p></details> |
+| **[High-order Adaptive Rank Integrators for Multi-scale Linear Kinetic Transport Equations in the Hierarchical Tucker Format](http://arxiv.org/abs/2406.19479v2)** | 2025-05-06 | <details><summary>30 pa...</summary><p>30 pages, 16 figures, 2 tables, 49 references</p></details> |
+| **[On the optimal stopping of Gauss-Markov bridges with random pinning points](http://arxiv.org/abs/2505.03636v1)** | 2025-05-06 | 19 pages, 2 figures |
+| **[ESTA: An Efficient Spatial-Temporal Range Aggregation Query Processing Algorithm for UAV Networks](http://arxiv.org/abs/2308.11977v3)** | 2025-05-06 | 15 pages, 14 figures |
+| **[Heart Failure Prediction using Modal Decomposition and Masked Autoencoders for Scarce Echocardiography Databases](http://arxiv.org/abs/2504.07606v2)** | 2025-05-06 | <details><summary>39 pa...</summary><p>39 pages, 7 figures. arXiv admin note: substantial text overlap with arXiv:2404.19579</p></details> |
+| **[BCause: Human-AI collaboration to improve hybrid mapping and ideation in argumentation-grounded deliberation](http://arxiv.org/abs/2505.03584v1)** | 2025-05-06 | 5 pages, 3 figures |
+| **[DyGEnc: Encoding a Sequence of Textual Scene Graphs to Reason and Answer Questions in Dynamic Scenes](http://arxiv.org/abs/2505.03581v1)** | 2025-05-06 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 6 tables</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning](http://arxiv.org/abs/2505.02835v1)** | 2025-05-05 | <details><summary>Home ...</summary><p>Home page: https://github.com/yfzhang114/r1_reward</p></details> |
-| **[Towards Application-Specific Evaluation of Vision Models: Case Studies in Ecology and Biology](http://arxiv.org/abs/2505.02825v1)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted at CVPR Workshop, CV4Animals 2025</p></details> |
-| **[Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing](http://arxiv.org/abs/2505.02811v1)** | 2025-05-05 | <details><summary>Proce...</summary><p>Proceedings of the 48th International ACM SIGIR 2025</p></details> |
-| **[M3-Jepa: Multimodal Alignment via Multi-directional MoE based on the JEPA framework](http://arxiv.org/abs/2409.05929v4)** | 2025-05-05 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Accepted by ICML 2025</p></details> |
-| **[Cooperative Bayesian and variance networks disentangle aleatoric and epistemic uncertainties](http://arxiv.org/abs/2505.02743v1)** | 2025-05-05 | 28 pages, 19 figures |
-| **[Persistence-based Modes Inference](http://arxiv.org/abs/2407.15449v3)** | 2025-05-05 | 36 pages |
+| **[VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model](http://arxiv.org/abs/2505.03739v1)** | 2025-05-06 | <details><summary>Train...</summary><p>Training and Inference Codes: https://github.com/VITA-MLLM/VITA-Audio</p></details> |
+| **[Meta-Optimization and Program Search using Language Models for Task and Motion Planning](http://arxiv.org/abs/2505.03725v1)** | 2025-05-06 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, under review for the 9th Annual Conference on Robot Learning (CoRL 2025)</p></details> |
+| **[Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets](http://arxiv.org/abs/2412.07775v5)** | 2025-05-06 | <details><summary>Techn...</summary><p>Technical Report (37 pages, 31 figures), Accepted at ICLR 2025</p></details> |
+| **[TTT: A Temporal Refinement Heuristic for Tenuously Tractable Discrete Time Reachability Problems](http://arxiv.org/abs/2407.14394v2)** | 2025-05-06 | <details><summary>To ap...</summary><p>To appear in the proceedings of the American Control Conference (ACC) 2025</p></details> |
+| **[RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration](http://arxiv.org/abs/2505.03673v1)** | 2025-05-06 | 22 pages, 10 figures |
+| **[Learning Symbolic Persistent Macro-Actions for POMDP Solving Over Time](http://arxiv.org/abs/2505.03668v1)** | 2025-05-06 | <details><summary>Accep...</summary><p>Accepted at 9th Conference on Neurosymbolic Learning and Reasoning</p></details> |
 
