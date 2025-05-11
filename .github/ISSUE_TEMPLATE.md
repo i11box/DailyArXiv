@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 09, 2025
+title: Latest 6 Papers - May 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vision-Language Models Create Cross-Modal Task Representations](http://arxiv.org/abs/2410.22330v2)** | 2025-05-07 | ICML 2025 |
-| **[Score Distillation Sampling for Audio: Source Separation, Synthesis, and Beyond](http://arxiv.org/abs/2505.04621v1)** | 2025-05-07 | <details><summary>See t...</summary><p>See the project website at https://research.nvidia.com/labs/toronto-ai/Audio-SDS/</p></details> |
-| **[On Path to Multimodal Generalist: General-Level and General-Bench](http://arxiv.org/abs/2505.04620v1)** | 2025-05-07 | <details><summary>ICML'...</summary><p>ICML'25, 305 pages, 115 tables, 177 figures, project page: https://generalist.top/</p></details> |
-| **[Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation](http://arxiv.org/abs/2505.04619v1)** | 2025-05-07 | <details><summary>For p...</summary><p>For project website and code, see https://aalmuzairee.github.io/mad</p></details> |
-| **[Particle Gibbs without the Gibbs bit](http://arxiv.org/abs/2505.04611v1)** | 2025-05-07 | <details><summary>Feedb...</summary><p>Feedback most welcome. 12 pages, 1 figure</p></details> |
-| **[OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution](http://arxiv.org/abs/2505.04606v1)** | 2025-05-07 | <details><summary>To ap...</summary><p>To appear at ISSTA'25</p></details> |
+| **[SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation](http://arxiv.org/abs/2505.05475v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025 SyntaGen Workshop, Project Page: https://yc4ny.github.io/SVAD/</p></details> |
+| **[3D Scene Generation: A Survey](http://arxiv.org/abs/2505.05474v1)** | 2025-05-08 | <details><summary>Proje...</summary><p>Project Page: https://github.com/hzxie/Awesome-3D-Scene-Generation</p></details> |
+| **[DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion](http://arxiv.org/abs/2505.05473v1)** | 2025-05-08 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project website: https://qitaozhao.github.io/DiffusionSfM</p></details> |
+| **[Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation](http://arxiv.org/abs/2505.05472v1)** | 2025-05-08 | <details><summary>Mogao...</summary><p>Mogao Technical Report</p></details> |
+| **[Flow-GRPO: Training Flow Matching Models via Online RL](http://arxiv.org/abs/2505.05470v1)** | 2025-05-08 | <details><summary>Code:...</summary><p>Code: https://github.com/yifan123/flow_grpo</p></details> |
+| **[Generating Physically Stable and Buildable LEGO Designs from Text](http://arxiv.org/abs/2505.05469v1)** | 2025-05-08 | <details><summary>Proje...</summary><p>Project page: https://avalovelace1.github.io/LegoGPT/</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vision-Language Models Create Cross-Modal Task Representations](http://arxiv.org/abs/2410.22330v2)** | 2025-05-07 | ICML 2025 |
-| **[PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer](http://arxiv.org/abs/2505.04622v1)** | 2025-05-07 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025. 14 pages, 15 figures</p></details> |
-| **[TetWeave: Isosurface Extraction using On-The-Fly Delaunay Tetrahedral Grids for Gradient-Based Mesh Optimization](http://arxiv.org/abs/2505.04590v1)** | 2025-05-07 | <details><summary>ACM T...</summary><p>ACM Trans. Graph. 44, 4. SIGGRAPH 2025. 19 pages, 21 figures</p></details> |
-| **[A Character-based Diffusion Embedding Algorithm for Enhancing the Generation Quality of Generative Linguistic Steganographic Texts](http://arxiv.org/abs/2505.00977v2)** | 2025-05-07 | <details><summary>we ne...</summary><p>we need to clarify authorship and make further revisions in collaboration with co-authors</p></details> |
-| **[Overcoming Data Scarcity in Generative Language Modelling for Low-Resource Languages: A Systematic Review](http://arxiv.org/abs/2505.04531v1)** | 2025-05-07 | <details><summary>This ...</summary><p>This work is currently under review. Please do not cite without permission</p></details> |
-| **[LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty](http://arxiv.org/abs/2503.18314v3)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted as a main conference paper at CVPR 2025 (https://cvpr.thecvf.com/virtual/2025/poster/33292)</p></details> |
+| **[DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion](http://arxiv.org/abs/2505.05473v1)** | 2025-05-08 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project website: https://qitaozhao.github.io/DiffusionSfM</p></details> |
+| **[Flow-GRPO: Training Flow Matching Models via Online RL](http://arxiv.org/abs/2505.05470v1)** | 2025-05-08 | <details><summary>Code:...</summary><p>Code: https://github.com/yifan123/flow_grpo</p></details> |
+| **[Multi-objective optimisation via the R2 utilities](http://arxiv.org/abs/2305.11774v4)** | 2025-05-08 | <details><summary>SIAM ...</summary><p>SIAM Review 2025. 47 pages. Code is available at: https://github.com/benmltu/scalarize</p></details> |
+| **[Invariant Bridges Between Four Successive Points: A New Tool for Data Coding](http://arxiv.org/abs/2504.21473v2)** | 2025-05-08 | <details><summary>19 pa...</summary><p>19 pages, submitted to arXiv</p></details> |
+| **[TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation](http://arxiv.org/abs/2505.05422v1)** | 2025-05-08 | Technical Report |
+| **[Novel Deep Neural OFDM Receiver Architectures for LLR Estimation](http://arxiv.org/abs/2503.20500v3)** | 2025-05-08 | <details><summary>Submi...</summary><p>Submitted to IEEE Globecom 2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Particle Gibbs without the Gibbs bit](http://arxiv.org/abs/2505.04611v1)** | 2025-05-07 | <details><summary>Feedb...</summary><p>Feedback most welcome. 12 pages, 1 figure</p></details> |
-| **[WATCH: Weighted Adaptive Testing for Changepoint Hypotheses via Weighted-Conformal Martingales](http://arxiv.org/abs/2505.04608v1)** | 2025-05-07 | <details><summary>To be...</summary><p>To be published in The International Conference on Machine Learning (ICML), 2025</p></details> |
-| **[Active Sampling for MRI-based Sequential Decision Making](http://arxiv.org/abs/2505.04586v1)** | 2025-05-07 | Under Review |
-| **[Componential Prompt-Knowledge Alignment for Domain Incremental Learning](http://arxiv.org/abs/2505.04575v1)** | 2025-05-07 | Accpted by ICML2025 |
-| **[Federated Generalised Variational Inference: A Robust Probabilistic Federated Learning Framework](http://arxiv.org/abs/2502.00846v2)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
-| **[Hierarchical Task Decomposition for Execution Monitoring and Error Recovery: Understanding the Rationale Behind Task Demonstrations](http://arxiv.org/abs/2505.04565v1)** | 2025-05-07 | <details><summary>The p...</summary><p>The paper has been accepted for publication by the International Journal of Robotics Research (IJRR), 26 pages</p></details> |
+| **[DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion](http://arxiv.org/abs/2505.05473v1)** | 2025-05-08 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project website: https://qitaozhao.github.io/DiffusionSfM</p></details> |
+| **[Flow-GRPO: Training Flow Matching Models via Online RL](http://arxiv.org/abs/2505.05470v1)** | 2025-05-08 | <details><summary>Code:...</summary><p>Code: https://github.com/yifan123/flow_grpo</p></details> |
+| **[Generating Physically Stable and Buildable LEGO Designs from Text](http://arxiv.org/abs/2505.05469v1)** | 2025-05-08 | <details><summary>Proje...</summary><p>Project page: https://avalovelace1.github.io/LegoGPT/</p></details> |
+| **[Nonparametric Bayesian intensity estimation for covariate-driven inhomogeneous point processes](http://arxiv.org/abs/2312.14073v4)** | 2025-05-08 | <details><summary>62 pa...</summary><p>62 pages, to appear in Bernoulli</p></details> |
+| **[Efficient Estimation of Relaxed Model Parameters for Robust UAV Trajectory Optimization](http://arxiv.org/abs/2411.10941v3)** | 2025-05-08 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, to published in IEEE Sustech 2025</p></details> |
+| **[Ultra-FineWeb: Efficient Data Filtering and Verification for High-Quality LLM Training Data](http://arxiv.org/abs/2505.05427v1)** | 2025-05-08 | <details><summary>The d...</summary><p>The datasets are available on https://huggingface.co/datasets/openbmb/UltraFineWeb</p></details> |
 
