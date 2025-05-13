@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 13, 2025
+title: Latest 6 Papers - May 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Anymate: A Dataset and Baselines for Learning 3D Object Rigging](http://arxiv.org/abs/2505.06227v1)** | 2025-05-09 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025. Project page: https://anymate3d.github.io/</p></details> |
-| **[Towards a Unified Representation Evaluation Framework Beyond Downstream Tasks](http://arxiv.org/abs/2505.06224v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2025</p></details> |
-| **[VIN-NBV: A View Introspection Network for Next-Best-View Selection for Resource-Efficient 3D Reconstruction](http://arxiv.org/abs/2505.06219v1)** | 2025-05-09 | 19 pages, 11 figures |
-| **[Auto Tensor Singular Value Thresholding: A Non-Iterative and Rank-Free Framework for Tensor Denoising](http://arxiv.org/abs/2505.06203v1)** | 2025-05-09 | 16 pages, 4 figures |
-| **[CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation](http://arxiv.org/abs/2407.06188v2)** | 2025-05-09 | <details><summary>Proje...</summary><p>Project page: https://yukangcao.github.io/CrowdMoGen</p></details> |
-| **[Modelling of a DC-DC Buck Converter Using Long-Short-Term-Memory (LSTM)](http://arxiv.org/abs/2211.03040v4)** | 2025-05-09 | Outdated results |
+| **[DanceGRPO: Unleashing GRPO on Visual Generation](http://arxiv.org/abs/2505.07818v1)** | 2025-05-12 | <details><summary>Proje...</summary><p>Project Page: https://dancegrpo.github.io/</p></details> |
+| **[Prompt to Polyp: Medical Text-Conditioned Image Synthesis with Diffusion Models](http://arxiv.org/abs/2505.05573v2)** | 2025-05-12 | <details><summary>code ...</summary><p>code available at https://github.com/THunderCondOR/ImageCLEFmed-MEDVQA-GI-2024-MMCP-Team</p></details> |
+| **[Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models](http://arxiv.org/abs/2505.07815v1)** | 2025-05-12 | <details><summary>Proje...</summary><p>Project webpage: https://ive-robot.github.io/</p></details> |
+| **[Continuous Visual Autoregressive Generation via Score Maximization](http://arxiv.org/abs/2505.07812v1)** | 2025-05-12 | ICML 2025 |
+| **[GP-GS: Gaussian Processes for Enhanced Gaussian Splatting](http://arxiv.org/abs/2502.02283v4)** | 2025-05-12 | 12 pages, 7 figures |
+| **[Quon Classical Simulation: Unifying Clifford, Matchgates and Entanglement](http://arxiv.org/abs/2505.07804v1)** | 2025-05-12 | <details><summary>32 pa...</summary><p>32 pages, many figures</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Let Humanoids Hike! Integrative Skill Development on Complex Trails](http://arxiv.org/abs/2505.06218v1)** | 2025-05-09 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project page: https://lego-h-humanoidrobothiking.github.io/</p></details> |
-| **[Decoding Algorithms for Two-dimensional Constacyclic Codes over $\mathbb{F}_q$](http://arxiv.org/abs/2505.06201v1)** | 2025-05-09 | 26 pages, 1 figure |
-| **[CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation](http://arxiv.org/abs/2407.06188v2)** | 2025-05-09 | <details><summary>Proje...</summary><p>Project page: https://yukangcao.github.io/CrowdMoGen</p></details> |
-| **[Brain Hematoma Marker Recognition Using Multitask Learning: SwinTransformer and Swin-Unet](http://arxiv.org/abs/2505.06185v1)** | 2025-05-09 | 8 pages,4 figures |
-| **[Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach](http://arxiv.org/abs/2505.06182v1)** | 2025-05-09 | 16 pages; 13 figures |
-| **[DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models](http://arxiv.org/abs/2505.06166v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
+| **[A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers](http://arxiv.org/abs/2412.11293v2)** | 2025-05-12 | 18 pages, 6 figures |
+| **[ApproXAI: Energy-Efficient Hardware Acceleration of Explainable AI using Approximate Computing](http://arxiv.org/abs/2504.17929v2)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Neural Networks (IJCNN), June 30th - July 5th, 2025 in Rome, Italy</p></details> |
+| **[Large Language Models Think Too Fast To Explore Effectively](http://arxiv.org/abs/2501.18009v2)** | 2025-05-12 | <details><summary>21 pa...</summary><p>21 pages, 16 figures, under review</p></details> |
+| **[OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit](http://arxiv.org/abs/2505.07672v1)** | 2025-05-12 | 6 pages |
+| **[Gaussian entropic optimal transport: Schrödinger bridges and the Sinkhorn algorithm](http://arxiv.org/abs/2412.18432v4)** | 2025-05-12 | 80 pages |
+| **[GIFStream: 4D Gaussian-based Immersive Video with Feature Stream](http://arxiv.org/abs/2505.07539v1)** | 2025-05-12 | 14 pages, 10 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Inference on Dynamic Spatial Autoregressive Models with Change Point Detection](http://arxiv.org/abs/2411.18773v3)** | 2025-05-09 | 58 pages, 7 figure |
-| **[Patch distribution modeling framework adaptive cosine estimator (PaDiM-ACE) for anomaly detection and localization in synthetic aperture radar imagery](http://arxiv.org/abs/2504.08049v2)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted to SPIE, Defense and Commercial Sensing, Algorithms for Synthetic Aperture Radar Imagery XXXII (April 2025)</p></details> |
-| **[MotherNet: Fast Training and Inference via Hyper-Network Transformers](http://arxiv.org/abs/2312.08598v2)** | 2025-05-09 | 17 pages, 13 figures |
-| **[On expected signatures and signature cumulants in semimartingale models](http://arxiv.org/abs/2408.05085v2)** | 2025-05-09 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2102.03345</p></details> |
-| **[Interaction-Aware Parameter Privacy-Preserving Data Sharing in Coupled Systems via Particle Filter Reinforcement Learning](http://arxiv.org/abs/2505.06122v1)** | 2025-05-09 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, accepted at the 7th Annual Learning for Dynamics and Control (L4DC) Conference, 2025</p></details> |
-| **[Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for Volumetric Organ Segmentation](http://arxiv.org/abs/2303.17051v4)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted in Medical Image Analysis. The pre-trained model and adaptation code is available at: https://github.com/jusiro/fewshot-finetuning</p></details> |
+| **[DanceGRPO: Unleashing GRPO on Visual Generation](http://arxiv.org/abs/2505.07818v1)** | 2025-05-12 | <details><summary>Proje...</summary><p>Project Page: https://dancegrpo.github.io/</p></details> |
+| **[WATCH: Adaptive Monitoring for AI Deployments via Weighted-Conformal Martingales](http://arxiv.org/abs/2505.04608v2)** | 2025-05-12 | <details><summary>To be...</summary><p>To be published in The International Conference on Machine Learning (ICML), 2025</p></details> |
+| **[GP-GS: Gaussian Processes for Enhanced Gaussian Splatting](http://arxiv.org/abs/2502.02283v4)** | 2025-05-12 | 12 pages, 7 figures |
+| **[Learning from Peers in Reasoning Models](http://arxiv.org/abs/2505.07787v1)** | 2025-05-12 | 29 pages, 32 figures |
+| **[Particle Gibbs without the Gibbs bit](http://arxiv.org/abs/2505.04611v3)** | 2025-05-12 | <details><summary>Feedb...</summary><p>Feedback most welcome. 12 pages, 1 figure. Difference with previous version: the proposal mechanism was wrong for two of the proposed samplers, this is now fixed. Thanks go to Axel Finke</p></details> |
+| **[The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation](http://arxiv.org/abs/2411.06774v2)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by ISSTA 2025</p></details> |
 
