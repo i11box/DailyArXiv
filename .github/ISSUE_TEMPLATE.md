@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 15, 2025
+title: Latest 6 Papers - May 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tensor parametric Hamiltonian operator inference](http://arxiv.org/abs/2502.10888v2)** | 2025-05-13 | <details><summary>https...</summary><p>https://github.com/sandialabs/HamiltonianOpInf/tree/parametric</p></details> |
-| **[HealthBench: Evaluating Large Language Models Towards Improved Human Health](http://arxiv.org/abs/2505.08775v1)** | 2025-05-13 | <details><summary>Blog:...</summary><p>Blog: https://openai.com/index/healthbench/ Code: https://github.com/openai/simple-evals</p></details> |
-| **[HarmoniCa: Harmonizing Training and Inference for Better Feature Caching in Diffusion Transformer Acceleration](http://arxiv.org/abs/2410.01723v5)** | 2025-05-13 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
-| **[PACIFISTA: Conflict Evaluation and Management in Open RAN](http://arxiv.org/abs/2405.04395v4)** | 2025-05-13 | <details><summary>15 pa...</summary><p>15 pages, 18 figures, 7 tables</p></details> |
-| **[VTX: Real-time high-performance molecular structure and dynamics visualization software](http://arxiv.org/abs/2501.12750v2)** | 2025-05-13 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, download VTX at http://vtx.drugdesign.fr, follow development at https://github.com/VTX-Molecular-Visualization</p></details> |
-| **[Advancing Food Nutrition Estimation via Visual-Ingredient Feature Fusion](http://arxiv.org/abs/2505.08747v1)** | 2025-05-13 | <details><summary>Accep...</summary><p>Accepted for publication in ACM International Conference on Multimedia Retrieval 2025</p></details> |
+| **[UWAV: Uncertainty-weighted Weakly-supervised Audio-Visual Video Parsing](http://arxiv.org/abs/2505.09615v1)** | 2025-05-14 | CVPR 2025 |
+| **[LightLab: Controlling Light Sources in Images with Diffusion Models](http://arxiv.org/abs/2505.09608v1)** | 2025-05-14 | <details><summary>Proje...</summary><p>Project Page: https://nadmag.github.io/LightLab/</p></details> |
+| **[Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](http://arxiv.org/abs/2503.21696v2)** | 2025-05-14 | <details><summary>Code:...</summary><p>Code: https://github.com/zwq2018/embodied_reasoner Dataset: https://huggingface.co/datasets/zwq2018/embodied_reasoner</p></details> |
+| **[MDTP -- An Adaptive Multi-Source Data Transfer Protocol](http://arxiv.org/abs/2505.09597v1)** | 2025-05-14 | <details><summary>Inter...</summary><p>International Conference on Computer Communications and Networks 2025</p></details> |
+| **[WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models](http://arxiv.org/abs/2505.09595v1)** | 2025-05-14 | <details><summary>Prepr...</summary><p>Preprint. Submitted to the Journal of Artificial Intelligence Research (JAIR) on April 29, 2025</p></details> |
+| **[Online Isolation Forest](http://arxiv.org/abs/2505.09593v1)** | 2025-05-14 | <details><summary>Accep...</summary><p>Accepted at International Conference on Machine Learning (ICML 2024)</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HealthBench: Evaluating Large Language Models Towards Improved Human Health](http://arxiv.org/abs/2505.08775v1)** | 2025-05-13 | <details><summary>Blog:...</summary><p>Blog: https://openai.com/index/healthbench/ Code: https://github.com/openai/simple-evals</p></details> |
-| **[Blockchain Technology: Core Mechanisms, Evolution, and Future Implementation Challenges](http://arxiv.org/abs/2505.08772v1)** | 2025-05-13 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 12 references</p></details> |
-| **[HarmoniCa: Harmonizing Training and Inference for Better Feature Caching in Diffusion Transformer Acceleration](http://arxiv.org/abs/2410.01723v5)** | 2025-05-13 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
-| **[Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging](http://arxiv.org/abs/2504.01953v2)** | 2025-05-13 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. An extended journal manuscript is in preparation</p></details> |
-| **[Preference Optimization for Combinatorial Optimization Problems](http://arxiv.org/abs/2505.08735v1)** | 2025-05-13 | <details><summary>This ...</summary><p>This paper has been accepted by ICML 2025</p></details> |
-| **[NurValues: Real-World Nursing Values Evaluation for Large Language Models in Clinical Context](http://arxiv.org/abs/2505.08734v1)** | 2025-05-13 | <details><summary>25 pa...</summary><p>25 pages, 10 figures, 16 tables</p></details> |
+| **[Don't be lazy: CompleteP enables compute-efficient deep transformers](http://arxiv.org/abs/2505.01618v2)** | 2025-05-14 | <details><summary>10 ma...</summary><p>10 main pages, 16 appendix pages, 13 figures</p></details> |
+| **[Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers](http://arxiv.org/abs/2505.09563v1)** | 2025-05-14 | 23 pages, 1 table |
+| **[Flash-VL 2B: Optimizing Vision-Language Model Performance for Ultra-Low Latency and High Throughput](http://arxiv.org/abs/2505.09498v1)** | 2025-05-14 | 18 pages, 7 figures |
+| **[A 2D Semantic-Aware Position Encoding for Vision Transformers](http://arxiv.org/abs/2505.09466v1)** | 2025-05-14 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 3 tables</p></details> |
+| **[Eigen-inference by Marchenko-Pastur inversion](http://arxiv.org/abs/2504.03390v2)** | 2025-05-14 | 44 pages, 12 figures |
+| **[Beyond Pixels: Leveraging the Language of Soccer to Improve Spatio-Temporal Action Detection in Broadcast Videos](http://arxiv.org/abs/2505.09455v1)** | 2025-05-14 | <details><summary>12 pa...</summary><p>12 pages, submitted to Advanced Concepts for Intelligent Vision Systems 2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tensor parametric Hamiltonian operator inference](http://arxiv.org/abs/2502.10888v2)** | 2025-05-13 | <details><summary>https...</summary><p>https://github.com/sandialabs/HamiltonianOpInf/tree/parametric</p></details> |
-| **[HarmoniCa: Harmonizing Training and Inference for Better Feature Caching in Diffusion Transformer Acceleration](http://arxiv.org/abs/2410.01723v5)** | 2025-05-13 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
-| **[Advancing Food Nutrition Estimation via Visual-Ingredient Feature Fusion](http://arxiv.org/abs/2505.08747v1)** | 2025-05-13 | <details><summary>Accep...</summary><p>Accepted for publication in ACM International Conference on Multimedia Retrieval 2025</p></details> |
-| **[Towards Foundation Models for Experimental Readout Systems Combining Discrete and Continuous Data](http://arxiv.org/abs/2505.08736v1)** | 2025-05-13 | 19 pages; 14 figures |
-| **[Open-Source LLM-Driven Federated Transformer for Predictive IoV Management](http://arxiv.org/abs/2505.00651v2)** | 2025-05-13 | <details><summary>Prepr...</summary><p>Preprint version; submitted for academic peer review</p></details> |
-| **[SPAST: Arbitrary Style Transfer with Style Priors via Pre-trained Large-scale Model](http://arxiv.org/abs/2505.08695v1)** | 2025-05-13 | <details><summary>Accep...</summary><p>Accepted by Neural Networks</p></details> |
+| **[Adaptively-weighted Nearest Neighbors for Matrix Completion](http://arxiv.org/abs/2505.09612v1)** | 2025-05-14 | 25 pages, 6 figures |
+| **[LightLab: Controlling Light Sources in Images with Diffusion Models](http://arxiv.org/abs/2505.09608v1)** | 2025-05-14 | <details><summary>Proje...</summary><p>Project Page: https://nadmag.github.io/LightLab/</p></details> |
+| **[Online Isolation Forest](http://arxiv.org/abs/2505.09593v1)** | 2025-05-14 | <details><summary>Accep...</summary><p>Accepted at International Conference on Machine Learning (ICML 2024)</p></details> |
+| **[Activation Steering in Neural Theorem Provers](http://arxiv.org/abs/2502.15507v3)** | 2025-05-14 | <details><summary>incor...</summary><p>incorrect explanation for a concept, need to revise and update!</p></details> |
+| **[Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations](http://arxiv.org/abs/2505.09565v1)** | 2025-05-14 | 10 pages, 6 figures |
+| **[Learning Long-Context Diffusion Policies via Past-Token Prediction](http://arxiv.org/abs/2505.09561v1)** | 2025-05-14 | <details><summary>Video...</summary><p>Videos are available at https://long-context-dp.github.io</p></details> |
 
