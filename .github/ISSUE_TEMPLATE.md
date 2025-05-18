@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 16, 2025
+title: Latest 6 Papers - May 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UWAV: Uncertainty-weighted Weakly-supervised Audio-Visual Video Parsing](http://arxiv.org/abs/2505.09615v1)** | 2025-05-14 | CVPR 2025 |
-| **[LightLab: Controlling Light Sources in Images with Diffusion Models](http://arxiv.org/abs/2505.09608v1)** | 2025-05-14 | <details><summary>Proje...</summary><p>Project Page: https://nadmag.github.io/LightLab/</p></details> |
-| **[Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](http://arxiv.org/abs/2503.21696v2)** | 2025-05-14 | <details><summary>Code:...</summary><p>Code: https://github.com/zwq2018/embodied_reasoner Dataset: https://huggingface.co/datasets/zwq2018/embodied_reasoner</p></details> |
-| **[MDTP -- An Adaptive Multi-Source Data Transfer Protocol](http://arxiv.org/abs/2505.09597v1)** | 2025-05-14 | <details><summary>Inter...</summary><p>International Conference on Computer Communications and Networks 2025</p></details> |
-| **[WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models](http://arxiv.org/abs/2505.09595v1)** | 2025-05-14 | <details><summary>Prepr...</summary><p>Preprint. Submitted to the Journal of Artificial Intelligence Research (JAIR) on April 29, 2025</p></details> |
-| **[Online Isolation Forest](http://arxiv.org/abs/2505.09593v1)** | 2025-05-14 | <details><summary>Accep...</summary><p>Accepted at International Conference on Machine Learning (ICML 2024)</p></details> |
+| **[3D-Fixup: Advancing Photo Editing with 3D Priors](http://arxiv.org/abs/2505.10566v1)** | 2025-05-15 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025. Project page: https://3dfixup.github.io/</p></details> |
+| **[Depth Anything with Any Prior](http://arxiv.org/abs/2505.10565v1)** | 2025-05-15 | <details><summary>Home ...</summary><p>Home page: https://prior-depth-anything.github.io/</p></details> |
+| **[AneuPy: An open source Python tool for creating simulation-ready geometries of abdominal aortic aneurysms](http://arxiv.org/abs/2504.15285v2)** | 2025-05-15 | 14 pages, 5 figures |
+| **[T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback](http://arxiv.org/abs/2505.10561v1)** | 2025-05-15 | ACL 2025 |
+| **[Neural Thermodynamic Laws for Large Language Model Training](http://arxiv.org/abs/2505.10559v1)** | 2025-05-15 | 18 pages, 10 figures |
+| **[MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](http://arxiv.org/abs/2505.10557v1)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Findings</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Don't be lazy: CompleteP enables compute-efficient deep transformers](http://arxiv.org/abs/2505.01618v2)** | 2025-05-14 | <details><summary>10 ma...</summary><p>10 main pages, 16 appendix pages, 13 figures</p></details> |
-| **[Improved Sample Upper and Lower Bounds for Trace Estimation of Quantum State Powers](http://arxiv.org/abs/2505.09563v1)** | 2025-05-14 | 23 pages, 1 table |
-| **[Flash-VL 2B: Optimizing Vision-Language Model Performance for Ultra-Low Latency and High Throughput](http://arxiv.org/abs/2505.09498v1)** | 2025-05-14 | 18 pages, 7 figures |
-| **[A 2D Semantic-Aware Position Encoding for Vision Transformers](http://arxiv.org/abs/2505.09466v1)** | 2025-05-14 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 3 tables</p></details> |
-| **[Eigen-inference by Marchenko-Pastur inversion](http://arxiv.org/abs/2504.03390v2)** | 2025-05-14 | 44 pages, 12 figures |
-| **[Beyond Pixels: Leveraging the Language of Soccer to Improve Spatio-Temporal Action Detection in Broadcast Videos](http://arxiv.org/abs/2505.09455v1)** | 2025-05-14 | <details><summary>12 pa...</summary><p>12 pages, submitted to Advanced Concepts for Intelligent Vision Systems 2025</p></details> |
+| **[3D-Fixup: Advancing Photo Editing with 3D Priors](http://arxiv.org/abs/2505.10566v1)** | 2025-05-15 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025. Project page: https://3dfixup.github.io/</p></details> |
+| **[An AI-driven framework for the prediction of personalised health response to air pollution](http://arxiv.org/abs/2505.10556v1)** | 2025-05-15 | <details><summary>Kerma...</summary><p>Kermani and Naderi share first authorship. 20 pages, 6 figures and 1 table</p></details> |
+| **[Lightspeed Geometric Dataset Distance via Sliced Optimal Transport](http://arxiv.org/abs/2501.18901v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted to ICML 2025, 16 pages, 13 figures</p></details> |
+| **[LibIQ: Toward Real-Time Spectrum Classification in O-RAN dApps](http://arxiv.org/abs/2505.10537v1)** | 2025-05-15 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 2 tables</p></details> |
+| **[MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models](http://arxiv.org/abs/2505.10526v1)** | 2025-05-15 | <details><summary>Main ...</summary><p>Main paper: 11 pp., 4 figs., 3 tabs.; Supplementary: 2 pp</p></details> |
+| **[An unsupervised method for MRI recovery: Deep image prior with structured sparsity](http://arxiv.org/abs/2501.01482v2)** | 2025-05-15 | <details><summary>Magn ...</summary><p>Magn Reson Mater Phy (2025)</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adaptively-weighted Nearest Neighbors for Matrix Completion](http://arxiv.org/abs/2505.09612v1)** | 2025-05-14 | 25 pages, 6 figures |
-| **[LightLab: Controlling Light Sources in Images with Diffusion Models](http://arxiv.org/abs/2505.09608v1)** | 2025-05-14 | <details><summary>Proje...</summary><p>Project Page: https://nadmag.github.io/LightLab/</p></details> |
-| **[Online Isolation Forest](http://arxiv.org/abs/2505.09593v1)** | 2025-05-14 | <details><summary>Accep...</summary><p>Accepted at International Conference on Machine Learning (ICML 2024)</p></details> |
-| **[Activation Steering in Neural Theorem Provers](http://arxiv.org/abs/2502.15507v3)** | 2025-05-14 | <details><summary>incor...</summary><p>incorrect explanation for a concept, need to revise and update!</p></details> |
-| **[Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations](http://arxiv.org/abs/2505.09565v1)** | 2025-05-14 | 10 pages, 6 figures |
-| **[Learning Long-Context Diffusion Policies via Past-Token Prediction](http://arxiv.org/abs/2505.09561v1)** | 2025-05-14 | <details><summary>Video...</summary><p>Videos are available at https://long-context-dp.github.io</p></details> |
+| **[3D-Fixup: Advancing Photo Editing with 3D Priors](http://arxiv.org/abs/2505.10566v1)** | 2025-05-15 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025. Project page: https://3dfixup.github.io/</p></details> |
+| **[AneuPy: An open source Python tool for creating simulation-ready geometries of abdominal aortic aneurysms](http://arxiv.org/abs/2504.15285v2)** | 2025-05-15 | 14 pages, 5 figures |
+| **[Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning](http://arxiv.org/abs/2505.10547v1)** | 2025-05-15 | <details><summary>Websi...</summary><p>Website: https://milanganai.github.io/fortress/</p></details> |
+| **[AORRTC: Almost-Surely Asymptotically Optimal Planning with RRT-Connect](http://arxiv.org/abs/2505.10542v1)** | 2025-05-15 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 1 table. A video of AORRTC can be found at https://www.youtube.com/watch?v=j1itxP3KuiM . Information on the implementation of AORRTC is available at https://robotic-esp.com/code/aorrtc/</p></details> |
+| **[MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models](http://arxiv.org/abs/2505.10526v1)** | 2025-05-15 | <details><summary>Main ...</summary><p>Main paper: 11 pp., 4 figs., 3 tabs.; Supplementary: 2 pp</p></details> |
+| **[Beyond Value Iteration for Parity Games: Strategy Iteration with Universal Trees](http://arxiv.org/abs/2108.13338v4)** | 2025-05-15 | 35 pages, 9 figures |
 
