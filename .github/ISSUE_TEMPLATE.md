@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 23, 2025
+title: Latest 6 Papers - May 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Streamline Without Sacrifice -- Squeeze out Computation Redundancy in LMM](http://arxiv.org/abs/2505.15816v1)** | 2025-05-21 | ICML 2025 |
-| **[Leveraging the Powerful Attention of a Pre-trained Diffusion Model for Exemplar-based Image Colorization](http://arxiv.org/abs/2505.15812v1)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</p></details> |
-| **[On the creation of narrow AI: hierarchy and nonlocality of neural network skills](http://arxiv.org/abs/2505.15811v1)** | 2025-05-21 | 19 pages, 13 figures |
-| **[MMaDA: Multimodal Large Diffusion Language Models](http://arxiv.org/abs/2505.15809v1)** | 2025-05-21 | <details><summary>Proje...</summary><p>Project: https://github.com/Gen-Verse/MMaDA</p></details> |
-| **[Neural Conditional Transport Maps](http://arxiv.org/abs/2505.15808v1)** | 2025-05-21 | <details><summary>Under...</summary><p>Under Review. Supplementary material included in the pdf</p></details> |
-| **[The Atlas of In-Context Learning: How Attention Heads Shape In-Context Retrieval Augmentation](http://arxiv.org/abs/2505.15807v1)** | 2025-05-21 | work in progress |
+| **[ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark](http://arxiv.org/abs/2505.17021v1)** | 2025-05-22 | <details><summary>Githu...</summary><p>Github : https://github.com/mbzuai-oryx/ARB, Huggingface: https://huggingface.co/datasets/MBZUAI/ARB</p></details> |
+| **[GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning](http://arxiv.org/abs/2505.17022v1)** | 2025-05-22 | <details><summary>Githu...</summary><p>Github page refer to: https://github.com/gogoduan/GoT-R1</p></details> |
+| **[SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward](http://arxiv.org/abs/2505.17018v1)** | 2025-05-22 | <details><summary>Proje...</summary><p>Project page:https://github.com/kxfan2002/SophiaVL-R1</p></details> |
+| **[Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework](http://arxiv.org/abs/2505.17019v1)** | 2025-05-22 | <details><summary>16 pa...</summary><p>16 pages, 9 figures. Code & Dataset: https://github.com/MING-ZCH/Let-Androids-Dream-of-Electric-Sheep</p></details> |
+| **[CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms](http://arxiv.org/abs/2505.17020v1)** | 2025-05-22 | <details><summary>Proje...</summary><p>Project page: https://github.com/shilinyan99/CrossLMM</p></details> |
+| **[Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO](http://arxiv.org/abs/2505.17017v1)** | 2025-05-22 | <details><summary>Code ...</summary><p>Code is released at https://github.com/ZiyuGuo99/Image-Generation-CoT</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adaptive Estimation and Learning under Temporal Distribution Shift](http://arxiv.org/abs/2505.15803v1)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
-| **[Interspatial Attention for Efficient 4D Human Video Generation](http://arxiv.org/abs/2505.15800v1)** | 2025-05-21 | <details><summary>Proje...</summary><p>Project page: https://dsaurus.github.io/isa4d/</p></details> |
-| **[Exploring the Innovation Opportunities for Pre-trained Models](http://arxiv.org/abs/2505.15790v1)** | 2025-05-21 | <details><summary>33 pa...</summary><p>33 pages, 20 figures, 4 tables, DIS</p></details> |
-| **[Towards Reliable and Interpretable Traffic Crash Pattern Prediction and Safety Interventions Using Customized Large Language Models](http://arxiv.org/abs/2505.12545v2)** | 2025-05-21 | <details><summary>Last ...</summary><p>Last revised 13 Feb 2025. Under review in Nature portfolio</p></details> |
-| **[dMel: Speech Tokenization made Simple](http://arxiv.org/abs/2407.15835v3)** | 2025-05-21 | preprint |
-| **[Long LEM Query in BWT-Runs Space](http://arxiv.org/abs/2505.15698v1)** | 2025-05-21 | 20 pages, 2 figures |
+| **[CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms](http://arxiv.org/abs/2505.17020v1)** | 2025-05-22 | <details><summary>Proje...</summary><p>Project page: https://github.com/shilinyan99/CrossLMM</p></details> |
+| **[X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs](http://arxiv.org/abs/2505.16997v1)** | 2025-05-22 | 19 pages, 5 figures |
+| **[An Effective Training Framework for Light-Weight Automatic Speech Recognition Models](http://arxiv.org/abs/2505.16991v1)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted at InterSpeech 2025</p></details> |
+| **[Harnessing the Computation Redundancy in ViTs to Boost Adversarial Transferability](http://arxiv.org/abs/2504.10804v2)** | 2025-05-22 | 15 pages. 7 figures |
+| **[On Multilingual Encoder Language Model Compression for Low-Resource Languages](http://arxiv.org/abs/2505.16956v1)** | 2025-05-22 | Pre-print |
+| **[From Reality to Virtual Worlds: The Role of Photogrammetry in Game Development](http://arxiv.org/abs/2505.16951v1)** | 2025-05-22 | <details><summary>Paper...</summary><p>Paper accepted in the IEEE Gaming, Entertainment and Media conference</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning to Reason via Mixture-of-Thought for Logical Reasoning](http://arxiv.org/abs/2505.15817v1)** | 2025-05-21 | 38 pages |
-| **[The Atlas of In-Context Learning: How Attention Heads Shape In-Context Retrieval Augmentation](http://arxiv.org/abs/2505.15807v1)** | 2025-05-21 | work in progress |
-| **[Resource Heterogeneity-Aware and Utilization-Enhanced Scheduling for Deep Learning Clusters](http://arxiv.org/abs/2503.10918v2)** | 2025-05-21 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, IEEE Transactions on Computers</p></details> |
-| **[A Generative Diffusion Model to Solve Inverse Problems for Robust in-NICU Neonatal MRI](http://arxiv.org/abs/2410.21602v2)** | 2025-05-21 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, submitted to ICIP 2025</p></details> |
-| **[dKV-Cache: The Cache for Diffusion Language Models](http://arxiv.org/abs/2505.15781v1)** | 2025-05-21 | <details><summary>The c...</summary><p>The code is available at https://github.com/horseee/dKV-Cache</p></details> |
-| **[Mitigating Subgroup Disparities in Multi-Label Speech Emotion Recognition: A Pseudo-Labeling and Unsupervised Learning Approach](http://arxiv.org/abs/2505.14449v2)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted by InterSpeech 2025. 7 pages including 2 pages of appendix</p></details> |
+| **[Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space](http://arxiv.org/abs/2505.17011v1)** | 2025-05-22 | <details><summary>Code:...</summary><p>Code: https://github.com/VisionXLab/AdapTok</p></details> |
+| **[HyGenar: An LLM-Driven Hybrid Genetic Algorithm for Few-Shot Grammar Generation](http://arxiv.org/abs/2505.16978v1)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Findings. Code available at https://github.com/RutaTang/HyGenar</p></details> |
+| **[UniPhy: Learning a Unified Constitutive Model for Inverse Physics Simulation](http://arxiv.org/abs/2505.16971v1)** | 2025-05-22 | CVPR 2025 |
+| **[KAN-AD: Time Series Anomaly Detection with Kolmogorov-Arnold Networks](http://arxiv.org/abs/2411.00278v2)** | 2025-05-22 | 11 pages, ICML 2025 |
+| **[CASTILLO: Characterizing Response Length Distributions of Large Language Models](http://arxiv.org/abs/2505.16881v1)** | 2025-05-22 | <details><summary>Datas...</summary><p>Dataset available in https://huggingface.co/datasets/danfperam/castillo and code is available in https://github.com/DanielFPerez/castillo</p></details> |
+| **[Training-Free Efficient Video Generation via Dynamic Token Carving](http://arxiv.org/abs/2505.16864v1)** | 2025-05-22 | <details><summary>Proje...</summary><p>Project Page: https://julianjuaner.github.io/projects/jenga/ , 24 pages</p></details> |
 
