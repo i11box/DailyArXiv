@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 26, 2025
+title: Latest 6 Papers - May 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark](http://arxiv.org/abs/2505.17021v1)** | 2025-05-22 | <details><summary>Githu...</summary><p>Github : https://github.com/mbzuai-oryx/ARB, Huggingface: https://huggingface.co/datasets/MBZUAI/ARB</p></details> |
-| **[GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning](http://arxiv.org/abs/2505.17022v1)** | 2025-05-22 | <details><summary>Githu...</summary><p>Github page refer to: https://github.com/gogoduan/GoT-R1</p></details> |
-| **[SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward](http://arxiv.org/abs/2505.17018v1)** | 2025-05-22 | <details><summary>Proje...</summary><p>Project page:https://github.com/kxfan2002/SophiaVL-R1</p></details> |
-| **[Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework](http://arxiv.org/abs/2505.17019v1)** | 2025-05-22 | <details><summary>16 pa...</summary><p>16 pages, 9 figures. Code & Dataset: https://github.com/MING-ZCH/Let-Androids-Dream-of-Electric-Sheep</p></details> |
-| **[CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms](http://arxiv.org/abs/2505.17020v1)** | 2025-05-22 | <details><summary>Proje...</summary><p>Project page: https://github.com/shilinyan99/CrossLMM</p></details> |
-| **[Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO](http://arxiv.org/abs/2505.17017v1)** | 2025-05-22 | <details><summary>Code ...</summary><p>Code is released at https://github.com/ZiyuGuo99/Image-Generation-CoT</p></details> |
+| **[The Staircase of Ethics: Probing LLM Value Priorities through Multi-Step Induction to Complex Moral Dilemmas](http://arxiv.org/abs/2505.18154v1)** | 2025-05-23 | 25 pages, 8 figures |
+| **[Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs](http://arxiv.org/abs/2505.18152v1)** | 2025-05-23 | <details><summary>Githu...</summary><p>Github:https://github.com/mbzuai-oryx/FannOrFlop, Dataset:https://huggingface.co/datasets/omkarthawakar/FannOrFlop</p></details> |
+| **[WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions](http://arxiv.org/abs/2505.18151v1)** | 2025-05-23 | <details><summary>The f...</summary><p>The first two authors contributed equally. Project website: https://kyleleey.github.io/WonderPlay/</p></details> |
+| **[Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find](http://arxiv.org/abs/2505.18148v1)** | 2025-05-23 | Under Review |
+| **[TokBench: Evaluating Your Visual Tokenizer before Visual Generation](http://arxiv.org/abs/2505.18142v1)** | 2025-05-23 | <details><summary>Bench...</summary><p>Benchmark, homepagee: https://wjf5203.github.io/TokBench</p></details> |
+| **[Doubly Robust Conformalized Survival Analysis with Right-Censored Data](http://arxiv.org/abs/2412.09729v2)** | 2025-05-23 | <details><summary>Revis...</summary><p>Revision after ICML review</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms](http://arxiv.org/abs/2505.17020v1)** | 2025-05-22 | <details><summary>Proje...</summary><p>Project page: https://github.com/shilinyan99/CrossLMM</p></details> |
-| **[X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs](http://arxiv.org/abs/2505.16997v1)** | 2025-05-22 | 19 pages, 5 figures |
-| **[An Effective Training Framework for Light-Weight Automatic Speech Recognition Models](http://arxiv.org/abs/2505.16991v1)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted at InterSpeech 2025</p></details> |
-| **[Harnessing the Computation Redundancy in ViTs to Boost Adversarial Transferability](http://arxiv.org/abs/2504.10804v2)** | 2025-05-22 | 15 pages. 7 figures |
-| **[On Multilingual Encoder Language Model Compression for Low-Resource Languages](http://arxiv.org/abs/2505.16956v1)** | 2025-05-22 | Pre-print |
-| **[From Reality to Virtual Worlds: The Role of Photogrammetry in Game Development](http://arxiv.org/abs/2505.16951v1)** | 2025-05-22 | <details><summary>Paper...</summary><p>Paper accepted in the IEEE Gaming, Entertainment and Media conference</p></details> |
+| **[TokBench: Evaluating Your Visual Tokenizer before Visual Generation](http://arxiv.org/abs/2505.18142v1)** | 2025-05-23 | <details><summary>Bench...</summary><p>Benchmark, homepagee: https://wjf5203.github.io/TokBench</p></details> |
+| **[OneProt: Towards Multi-Modal Protein Foundation Models](http://arxiv.org/abs/2411.04863v2)** | 2025-05-23 | <details><summary>34 pa...</summary><p>34 pages, 7 figures, 11 tables</p></details> |
+| **[Accelerating Learned Image Compression Through Modeling Neural Training Dynamics](http://arxiv.org/abs/2505.18107v1)** | 2025-05-23 | Accepted to TMLR |
+| **[Semi-Supervised Model-Free Bayesian State Estimation from Compressed Measurements](http://arxiv.org/abs/2407.07368v4)** | 2025-05-23 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, under review at IEEE Transactions on Signal Processing</p></details> |
+| **[ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Using Lightweight Polygon Maps](http://arxiv.org/abs/2409.14723v3)** | 2025-05-23 | 20 pages, 21 figures |
+| **[Forensics Adapter: Unleashing CLIP for Generalizable Face Forgery Detection](http://arxiv.org/abs/2411.19715v3)** | 2025-05-23 | <details><summary>Exten...</summary><p>Extension of CVPR 2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space](http://arxiv.org/abs/2505.17011v1)** | 2025-05-22 | <details><summary>Code:...</summary><p>Code: https://github.com/VisionXLab/AdapTok</p></details> |
-| **[HyGenar: An LLM-Driven Hybrid Genetic Algorithm for Few-Shot Grammar Generation](http://arxiv.org/abs/2505.16978v1)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Findings. Code available at https://github.com/RutaTang/HyGenar</p></details> |
-| **[UniPhy: Learning a Unified Constitutive Model for Inverse Physics Simulation](http://arxiv.org/abs/2505.16971v1)** | 2025-05-22 | CVPR 2025 |
-| **[KAN-AD: Time Series Anomaly Detection with Kolmogorov-Arnold Networks](http://arxiv.org/abs/2411.00278v2)** | 2025-05-22 | 11 pages, ICML 2025 |
-| **[CASTILLO: Characterizing Response Length Distributions of Large Language Models](http://arxiv.org/abs/2505.16881v1)** | 2025-05-22 | <details><summary>Datas...</summary><p>Dataset available in https://huggingface.co/datasets/danfperam/castillo and code is available in https://github.com/DanielFPerez/castillo</p></details> |
-| **[Training-Free Efficient Video Generation via Dynamic Token Carving](http://arxiv.org/abs/2505.16864v1)** | 2025-05-22 | <details><summary>Proje...</summary><p>Project Page: https://julianjuaner.github.io/projects/jenga/ , 24 pages</p></details> |
+| **[Doubly Robust Conformalized Survival Analysis with Right-Censored Data](http://arxiv.org/abs/2412.09729v2)** | 2025-05-23 | <details><summary>Revis...</summary><p>Revision after ICML review</p></details> |
+| **[VideoGameBench: Can Vision-Language Models complete popular video games?](http://arxiv.org/abs/2505.18134v1)** | 2025-05-23 | <details><summary>9 pag...</summary><p>9 pages, 33 pages including supplementary</p></details> |
+| **[Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models](http://arxiv.org/abs/2505.18120v1)** | 2025-05-23 | <details><summary>11 pa...</summary><p>11 pages, under review</p></details> |
+| **[Primed Priors for Simulation-Based Validation of Bayesian Models](http://arxiv.org/abs/2408.06504v2)** | 2025-05-23 | <details><summary>Major...</summary><p>Major revision of initial version</p></details> |
+| **[Early-Exit Graph Neural Networks](http://arxiv.org/abs/2505.18088v1)** | 2025-05-23 | 37 pages, 14 figures |
+| **[What Do You Need for Diverse Trajectory Stitching in Diffusion Planning?](http://arxiv.org/abs/2505.18083v1)** | 2025-05-23 | 9 Pages |
 
