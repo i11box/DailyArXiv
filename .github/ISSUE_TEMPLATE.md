@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 28, 2025
+title: Latest 6 Papers - May 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with Structured Knowledge Tracing](http://arxiv.org/abs/2505.20245v1)** | 2025-05-26 | Accepted by KDD 2025 |
-| **[On Path to Multimodal Historical Reasoning: HistBench and HistAgent](http://arxiv.org/abs/2505.20246v1)** | 2025-05-26 | 17 pages, 7 figures |
-| **[RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models](http://arxiv.org/abs/2505.20242v1)** | 2025-05-26 | Under Review |
-| **[Efficient Speech Translation through Model Compression and Knowledge Distillation](http://arxiv.org/abs/2505.20237v1)** | 2025-05-26 | IWSLT 2025 |
-| **[Multimodal Federated Learning With Missing Modalities through Feature Imputation Network](http://arxiv.org/abs/2505.20232v1)** | 2025-05-26 | MIUA 2025 |
-| **[Towards the Automated Extraction and Refactoring of NoSQL Schemas from Application Code](http://arxiv.org/abs/2505.20230v1)** | 2025-05-26 | <details><summary>Submi...</summary><p>Submitted to Journal Systems and Software, 23 pages</p></details> |
+| **[Vision Transformers with Self-Distilled Registers](http://arxiv.org/abs/2505.21501v1)** | 2025-05-27 | 27 pages, 14 figures |
+| **[ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models](http://arxiv.org/abs/2505.21500v1)** | 2025-05-27 | <details><summary>Proje...</summary><p>Project: https://zju-real.github.io/ViewSpatial-Page/</p></details> |
+| **[Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers](http://arxiv.org/abs/2505.21497v1)** | 2025-05-27 | <details><summary>Proje...</summary><p>Project Page: https://github.com/Paper2Poster/Paper2Poster</p></details> |
+| **[UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents](http://arxiv.org/abs/2505.21496v1)** | 2025-05-27 | <details><summary>https...</summary><p>https://github.com/Euphoria16/UI-Genie</p></details> |
+| **[Be Decisive: Noise-Induced Layouts for Multi-Subject Generation](http://arxiv.org/abs/2505.21488v1)** | 2025-05-27 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025. Project page: https://omer11a.github.io/be-decisive/</p></details> |
+| **[Hardware-Efficient Attention for Fast Decoding](http://arxiv.org/abs/2505.21487v1)** | 2025-05-27 | <details><summary>37 pa...</summary><p>37 pages, 15 figures, 45 tables</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models](http://arxiv.org/abs/2505.20242v1)** | 2025-05-26 | Under Review |
-| **[Efficient Speech Translation through Model Compression and Knowledge Distillation](http://arxiv.org/abs/2505.20237v1)** | 2025-05-26 | IWSLT 2025 |
-| **[Towards the Automated Extraction and Refactoring of NoSQL Schemas from Application Code](http://arxiv.org/abs/2505.20230v1)** | 2025-05-26 | <details><summary>Submi...</summary><p>Submitted to Journal Systems and Software, 23 pages</p></details> |
-| **[From What to How: Attributing CLIP's Latent Components Reveals Unexpected Semantic Reliance](http://arxiv.org/abs/2505.20229v1)** | 2025-05-26 | <details><summary>25 pa...</summary><p>25 pages (10 pages manuscript, 4 pages references, 11 pages appendix)</p></details> |
-| **[PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology](http://arxiv.org/abs/2505.20202v1)** | 2025-05-26 | 35 pages, 9 figures |
-| **["KAN you hear me?" Exploring Kolmogorov-Arnold Networks for Spoken Language Understanding](http://arxiv.org/abs/2505.20176v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted at INTERSPEECH 2025</p></details> |
+| **[Vision Transformers with Self-Distilled Registers](http://arxiv.org/abs/2505.21501v1)** | 2025-05-27 | 27 pages, 14 figures |
+| **[Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers](http://arxiv.org/abs/2505.21497v1)** | 2025-05-27 | <details><summary>Proje...</summary><p>Project Page: https://github.com/Paper2Poster/Paper2Poster</p></details> |
+| **[OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers](http://arxiv.org/abs/2505.21448v1)** | 2025-05-27 | <details><summary>https...</summary><p>https://ziqiaopeng.github.io/OmniSync/</p></details> |
+| **[Cryptography from Lossy Reductions: Towards OWFs from ETH, and Beyond](http://arxiv.org/abs/2505.21442v1)** | 2025-05-27 | 56 pages |
+| **[Turning Up the Heat: Min-p Sampling for Creative and Coherent LLM Outputs](http://arxiv.org/abs/2407.01082v6)** | 2025-05-27 | <details><summary>Oral ...</summary><p>Oral presentation at ICLR 2025. Camera-ready version available at https://iclr.cc/virtual/2025/poster/30358</p></details> |
+| **[Autoencoding Random Forests](http://arxiv.org/abs/2505.21441v1)** | 2025-05-27 | <details><summary>10 pa...</summary><p>10 pages main text, 25 pages total. 5 figures main text, 9 figures total</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with Structured Knowledge Tracing](http://arxiv.org/abs/2505.20245v1)** | 2025-05-26 | Accepted by KDD 2025 |
-| **[On Path to Multimodal Historical Reasoning: HistBench and HistAgent](http://arxiv.org/abs/2505.20246v1)** | 2025-05-26 | 17 pages, 7 figures |
-| **[Towards the Automated Extraction and Refactoring of NoSQL Schemas from Application Code](http://arxiv.org/abs/2505.20230v1)** | 2025-05-26 | <details><summary>Submi...</summary><p>Submitted to Journal Systems and Software, 23 pages</p></details> |
-| **[Long-Context State-Space Video World Models](http://arxiv.org/abs/2505.20171v1)** | 2025-05-26 | <details><summary>Proje...</summary><p>Project website: https://ryanpo.com/ssm_wm</p></details> |
-| **[Causal Meta-Analysis: Rethinking the Foundations of Evidence-Based Medicine](http://arxiv.org/abs/2505.20168v1)** | 2025-05-26 | 16 pages, 4 figures |
-| **[Gaussian Process Methods for Covariate-Based Intensity Estimation](http://arxiv.org/abs/2505.20157v1)** | 2025-05-26 | <details><summary>8 pag...</summary><p>8 pages, to appear in New Trends in Functional Statistics and Related Fields (IWFOS 2025)</p></details> |
+| **[Hardware-Efficient Attention for Fast Decoding](http://arxiv.org/abs/2505.21487v1)** | 2025-05-27 | <details><summary>37 pa...</summary><p>37 pages, 15 figures, 45 tables</p></details> |
+| **[Annealing Flow Generative Models Towards Sampling High-Dimensional and Multi-Modal Distributions](http://arxiv.org/abs/2409.20547v4)** | 2025-05-27 | <details><summary>This ...</summary><p>This paper has been accepted to ICML 2025 and will appear in the Proceedings of Machine Learning Research (PMLR)</p></details> |
+| **[Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration](http://arxiv.org/abs/2505.21471v1)** | 2025-05-27 | <details><summary>30 pa...</summary><p>30 pages, 9 figures. Code and data are available at https://github.com/THUNLP-MT/ExtAgents</p></details> |
+| **[OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers](http://arxiv.org/abs/2505.21448v1)** | 2025-05-27 | <details><summary>https...</summary><p>https://ziqiaopeng.github.io/OmniSync/</p></details> |
+| **[Can Large Reasoning Models Self-Train?](http://arxiv.org/abs/2505.21444v1)** | 2025-05-27 | <details><summary>Proje...</summary><p>Project website: https://self-rewarding-llm-training.github.io/</p></details> |
+| **[DecisionFlow: Advancing Large Language Model as Principled Decision Maker](http://arxiv.org/abs/2505.21397v1)** | 2025-05-27 | 24 pages, 13 figures |
 
