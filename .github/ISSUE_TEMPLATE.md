@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 29, 2025
+title: Latest 6 Papers - May 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vision Transformers with Self-Distilled Registers](http://arxiv.org/abs/2505.21501v1)** | 2025-05-27 | 27 pages, 14 figures |
-| **[ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models](http://arxiv.org/abs/2505.21500v1)** | 2025-05-27 | <details><summary>Proje...</summary><p>Project: https://zju-real.github.io/ViewSpatial-Page/</p></details> |
-| **[Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers](http://arxiv.org/abs/2505.21497v1)** | 2025-05-27 | <details><summary>Proje...</summary><p>Project Page: https://github.com/Paper2Poster/Paper2Poster</p></details> |
-| **[UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents](http://arxiv.org/abs/2505.21496v1)** | 2025-05-27 | <details><summary>https...</summary><p>https://github.com/Euphoria16/UI-Genie</p></details> |
-| **[Be Decisive: Noise-Induced Layouts for Multi-Subject Generation](http://arxiv.org/abs/2505.21488v1)** | 2025-05-27 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025. Project page: https://omer11a.github.io/be-decisive/</p></details> |
-| **[Hardware-Efficient Attention for Fast Decoding](http://arxiv.org/abs/2505.21487v1)** | 2025-05-27 | <details><summary>37 pa...</summary><p>37 pages, 15 figures, 45 tables</p></details> |
+| **[Zero-Shot Vision Encoder Grafting via LLM Surrogates](http://arxiv.org/abs/2505.22664v1)** | 2025-05-28 | 15 pages |
+| **[Training Free Stylized Abstraction](http://arxiv.org/abs/2505.22663v1)** | 2025-05-28 | <details><summary>Proje...</summary><p>Project Page: https://kartik-3004.github.io/TF-SA/</p></details> |
+| **[GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Reasoning](http://arxiv.org/abs/2505.22661v1)** | 2025-05-28 | Accepted by ACL 2025 |
+| **[3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model](http://arxiv.org/abs/2505.22657v1)** | 2025-05-28 | <details><summary>demos...</summary><p>demos at: https://3dllm-mem.github.io</p></details> |
+| **[Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents](http://arxiv.org/abs/2505.22655v1)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
+| **[The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason](http://arxiv.org/abs/2505.22653v1)** | 2025-05-28 | Preprint |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vision Transformers with Self-Distilled Registers](http://arxiv.org/abs/2505.21501v1)** | 2025-05-27 | 27 pages, 14 figures |
-| **[Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers](http://arxiv.org/abs/2505.21497v1)** | 2025-05-27 | <details><summary>Proje...</summary><p>Project Page: https://github.com/Paper2Poster/Paper2Poster</p></details> |
-| **[OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers](http://arxiv.org/abs/2505.21448v1)** | 2025-05-27 | <details><summary>https...</summary><p>https://ziqiaopeng.github.io/OmniSync/</p></details> |
-| **[Cryptography from Lossy Reductions: Towards OWFs from ETH, and Beyond](http://arxiv.org/abs/2505.21442v1)** | 2025-05-27 | 56 pages |
-| **[Turning Up the Heat: Min-p Sampling for Creative and Coherent LLM Outputs](http://arxiv.org/abs/2407.01082v6)** | 2025-05-27 | <details><summary>Oral ...</summary><p>Oral presentation at ICLR 2025. Camera-ready version available at https://iclr.cc/virtual/2025/poster/30358</p></details> |
-| **[Autoencoding Random Forests](http://arxiv.org/abs/2505.21441v1)** | 2025-05-27 | <details><summary>10 pa...</summary><p>10 pages main text, 25 pages total. 5 figures main text, 9 figures total</p></details> |
+| **[Analog Computing for Signal Processing and Communications -- Part II: Toward Gigantic MIMO Beamforming](http://arxiv.org/abs/2504.07477v2)** | 2025-05-28 | <details><summary>Submi...</summary><p>Submitted to IEEE for publication</p></details> |
+| **[Effective and Efficient One-pass Compression of Speech Foundation Models Using Sparsity-aware Self-pinching Gates](http://arxiv.org/abs/2505.22608v1)** | 2025-05-28 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2025</p></details> |
+| **[An Effective Training Framework for Light-Weight Automatic Speech Recognition Models](http://arxiv.org/abs/2505.16991v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted at InterSpeech 2025</p></details> |
+| **[Fusion Steering: Prompt-Specific Activation Control](http://arxiv.org/abs/2505.22572v1)** | 2025-05-28 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 2 tables</p></details> |
+| **[A Human-Centric Approach to Explainable AI for Personalized Education](http://arxiv.org/abs/2505.22541v1)** | 2025-05-28 | <details><summary>PhD T...</summary><p>PhD Thesis, EPFL (Computer Science)</p></details> |
+| **[Prediction of the Most Fire-Sensitive Point in Building Structures with Differentiable Agents for Thermal Simulators](http://arxiv.org/abs/2502.03424v4)** | 2025-05-28 | <details><summary>This ...</summary><p>This paper has been accepted by journal Computer-Aided Civil and Infrastructure Engineering</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hardware-Efficient Attention for Fast Decoding](http://arxiv.org/abs/2505.21487v1)** | 2025-05-27 | <details><summary>37 pa...</summary><p>37 pages, 15 figures, 45 tables</p></details> |
-| **[Annealing Flow Generative Models Towards Sampling High-Dimensional and Multi-Modal Distributions](http://arxiv.org/abs/2409.20547v4)** | 2025-05-27 | <details><summary>This ...</summary><p>This paper has been accepted to ICML 2025 and will appear in the Proceedings of Machine Learning Research (PMLR)</p></details> |
-| **[Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration](http://arxiv.org/abs/2505.21471v1)** | 2025-05-27 | <details><summary>30 pa...</summary><p>30 pages, 9 figures. Code and data are available at https://github.com/THUNLP-MT/ExtAgents</p></details> |
-| **[OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers](http://arxiv.org/abs/2505.21448v1)** | 2025-05-27 | <details><summary>https...</summary><p>https://ziqiaopeng.github.io/OmniSync/</p></details> |
-| **[Can Large Reasoning Models Self-Train?](http://arxiv.org/abs/2505.21444v1)** | 2025-05-27 | <details><summary>Proje...</summary><p>Project website: https://self-rewarding-llm-training.github.io/</p></details> |
-| **[DecisionFlow: Advancing Large Language Model as Principled Decision Maker](http://arxiv.org/abs/2505.21397v1)** | 2025-05-27 | 24 pages, 13 figures |
+| **[Training Free Stylized Abstraction](http://arxiv.org/abs/2505.22663v1)** | 2025-05-28 | <details><summary>Proje...</summary><p>Project Page: https://kartik-3004.github.io/TF-SA/</p></details> |
+| **[Path-Dependent SDEs: Solutions and Parameter Estimation](http://arxiv.org/abs/2505.22646v1)** | 2025-05-28 | <details><summary>41 pa...</summary><p>41 pages, 4 figures, 4 tables</p></details> |
+| **[FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control](http://arxiv.org/abs/2505.22642v1)** | 2025-05-28 | <details><summary>Proje...</summary><p>Project webpage: https://younggyo.me/fast_td3</p></details> |
+| **[Understanding (Un)Reliability of Steering Vectors in Language Models](http://arxiv.org/abs/2505.22637v1)** | 2025-05-28 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. Presented at the ICLR 2025 Workshop on Foundation Models in the Wild</p></details> |
+| **[ObjectClear: Complete Object Removal via Object-Effect Attention](http://arxiv.org/abs/2505.22636v1)** | 2025-05-28 | <details><summary>Proje...</summary><p>Project page: https://zjx0101.github.io/projects/ObjectClear/</p></details> |
+| **[TPDE: A Fast Adaptable Compiler Back-End Framework](http://arxiv.org/abs/2505.22610v1)** | 2025-05-28 | 23 pages, 10 figures |
 
