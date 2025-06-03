@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - June 03, 2025
+title: Latest 6 Papers - June 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion](http://arxiv.org/abs/2505.24877v1)** | 2025-05-30 | <details><summary>Websi...</summary><p>Website: https://nvlabs.github.io/AdaHuman</p></details> |
-| **[The Road to Generalizable Neuro-Symbolic Learning Should be Paved with Foundation Models](http://arxiv.org/abs/2505.24874v1)** | 2025-05-30 | 19 pages, 11 figures |
-| **[MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning](http://arxiv.org/abs/2505.24871v1)** | 2025-05-30 | <details><summary>Proje...</summary><p>Project Webpage: https://modomodo-rl.github.io/</p></details> |
-| **[Consistent line clustering using geometric hypergraphs](http://arxiv.org/abs/2505.24868v1)** | 2025-05-30 | 40 pages, 4 figures |
-| **[Time Blindness: Why Video-Language Models Can't See What Humans Can?](http://arxiv.org/abs/2505.24867v1)** | 2025-05-30 | <details><summary>Proje...</summary><p>Project page at https://timeblindness.github.io/</p></details> |
-| **[ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](http://arxiv.org/abs/2505.24864v1)** | 2025-05-30 | 26 pages, 17 figures |
+| **[VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL](http://arxiv.org/abs/2505.15791v2)** | 2025-06-02 | Under review |
+| **[Large Language and Reasoning Models are Shallow Disjunctive Reasoners](http://arxiv.org/abs/2503.23487v2)** | 2025-06-02 | <details><summary>ACL 2...</summary><p>ACL 2025 main conference</p></details> |
+| **[Guiding Generative Storytelling with Knowledge Graphs](http://arxiv.org/abs/2505.24803v2)** | 2025-06-02 | <details><summary>This ...</summary><p>This manuscript was submitted for peer review in January 2025</p></details> |
+| **[Completing A Systematic Review in Hours instead of Months with Interactive AI Agents](http://arxiv.org/abs/2504.14822v2)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted as ACL 2025 (main)</p></details> |
+| **[Unveiling the Lack of LVLM Robustness to Fundamental Visual Variations: Why and Path Forward](http://arxiv.org/abs/2504.16727v3)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Findings</p></details> |
+| **[Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](http://arxiv.org/abs/2502.08826v3)** | 2025-06-02 | <details><summary>GitHu...</summary><p>GitHub repository: https://github.com/llm-lab-org/Multimodal-RAG-Survey</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[V2SFlow: Video-to-Speech Generation with Speech Decomposition and Rectified Flow](http://arxiv.org/abs/2411.19486v2)** | 2025-05-30 | ICASSP 2025 |
-| **[Binarized Neural Networks Converge Toward Algorithmic Simplicity: Empirical Support for the Learning-as-Compression Hypothesis](http://arxiv.org/abs/2505.20646v2)** | 2025-05-30 | <details><summary>10 pa...</summary><p>10 pages total, 1 figure. Submitted to NeurIPS 2025</p></details> |
-| **[NdLinear: Don't Flatten! Building Superior Neural Architectures by Preserving N-D Structure](http://arxiv.org/abs/2503.17353v2)** | 2025-05-30 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ensemble-core/NdLinear</p></details> |
-| **[Segmenting France Across Four Centuries](http://arxiv.org/abs/2505.24824v1)** | 2025-05-30 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 3 tables</p></details> |
-| **[Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape](http://arxiv.org/abs/2505.22918v2)** | 2025-05-30 | <details><summary>Submi...</summary><p>Submitted before obtaining agreement of all authors</p></details> |
-| **[ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large Language Models](http://arxiv.org/abs/2502.11404v2)** | 2025-05-30 | Accepted to ACL 2025 |
+| **[A Survey of 3D Reconstruction with Event Cameras](http://arxiv.org/abs/2505.08438v2)** | 2025-06-02 | <details><summary>24 pa...</summary><p>24 pages, 16 figures, 11 tables</p></details> |
+| **[A Fast Direct Solver for Boundary Integral Equations Using Quadrature By Expansion](http://arxiv.org/abs/2504.13809v3)** | 2025-06-02 | <details><summary>31 pa...</summary><p>31 pages, 12 figures; fixed TeX formatting (v2); highlighted contributions in introduction (v3)</p></details> |
+| **[Improving Transformer World Models for Data-Efficient RL](http://arxiv.org/abs/2502.01591v2)** | 2025-06-02 | ICML 2025 |
+| **[DX100: A Programmable Data Access Accelerator for Indirection](http://arxiv.org/abs/2505.23073v2)** | 2025-06-02 | <details><summary>Proce...</summary><p>Proceedings of the 52nd Annual International Symposium on Computer Architecture (ISCA 2025)</p></details> |
+| **[A Dual-Directional Context-Aware Test-Time Learning for Text Classification](http://arxiv.org/abs/2503.15469v4)** | 2025-06-02 | 10 pages |
+| **[Tracr-Injection: Distilling Algorithms into Pre-trained Language Models](http://arxiv.org/abs/2505.10719v3)** | 2025-06-02 | ACL Findings 2025 |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Multiple Choice: Evaluating Steering Vectors for Adaptive Free-Form Summarization](http://arxiv.org/abs/2505.24859v1)** | 2025-05-30 | <details><summary>29 pa...</summary><p>29 pages, 21 figures, preprint</p></details> |
-| **[Chameleon: A MatMul-Free Temporal Convolutional Network Accelerator for End-to-End Few-Shot and Continual Learning from Sequential Data](http://arxiv.org/abs/2505.24852v1)** | 2025-05-30 | 14 pages, 7 figures |
-| **["Give Me BF16 or Give Me Death"? Accuracy-Performance Trade-Offs in LLM Quantization](http://arxiv.org/abs/2411.02355v3)** | 2025-05-30 | Accepted to ACL 2025 |
-| **[CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning](http://arxiv.org/abs/2505.24816v1)** | 2025-05-30 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
-| **[Mitigating Subgroup Disparities in Multi-Label Speech Emotion Recognition: A Pseudo-Labeling and Unsupervised Learning Approach](http://arxiv.org/abs/2505.14449v3)** | 2025-05-30 | <details><summary>Accep...</summary><p>Accepted by InterSpeech 2025. 7 pages including 2 pages of appendix</p></details> |
-| **[Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape](http://arxiv.org/abs/2505.22918v2)** | 2025-05-30 | <details><summary>Submi...</summary><p>Submitted before obtaining agreement of all authors</p></details> |
+| **[A Fast Direct Solver for Boundary Integral Equations Using Quadrature By Expansion](http://arxiv.org/abs/2504.13809v3)** | 2025-06-02 | <details><summary>31 pa...</summary><p>31 pages, 12 figures; fixed TeX formatting (v2); highlighted contributions in introduction (v3)</p></details> |
+| **[Robust Multimodal Learning via Cross-Modal Proxy Tokens](http://arxiv.org/abs/2501.17823v3)** | 2025-06-02 | <details><summary>21 Pa...</summary><p>21 Pages, 9 Figures, 6 Tables</p></details> |
+| **[BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization](http://arxiv.org/abs/2503.07580v3)** | 2025-06-02 | <details><summary>This ...</summary><p>This paper has been accepted by ICML 2025</p></details> |
+| **[EnigmaToM: Improve LLMs' Theory-of-Mind Reasoning Capabilities with Neural Knowledge Base of Entity States](http://arxiv.org/abs/2503.03340v2)** | 2025-06-02 | Findings of ACL 2025 |
+| **[GCoT: Chain-of-Thought Prompt Learning for Graphs](http://arxiv.org/abs/2502.08092v2)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted by SIGKDD2025</p></details> |
+| **[Automating Versatile Time-Series Analysis with Tiny Transformers on Embedded FPGAs](http://arxiv.org/abs/2505.17662v2)** | 2025-06-02 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table, accepted by IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2025)</p></details> |
 
