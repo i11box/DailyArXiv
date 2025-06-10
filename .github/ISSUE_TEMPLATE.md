@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - June 10, 2025
+title: Latest 6 Papers - June 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring Diffusion Transformer Designs via Grafting](http://arxiv.org/abs/2506.05340v2)** | 2025-06-06 | <details><summary>22 pa...</summary><p>22 pages; Project website: https://grafting.stanford.edu</p></details> |
-| **[Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias](http://arxiv.org/abs/2506.06280v1)** | 2025-06-06 | <details><summary>30 pa...</summary><p>30 pages, 14 figures, published to ICML 2025</p></details> |
-| **[CoMemo: LVLMs Need Image Context with Image Memory](http://arxiv.org/abs/2506.06279v1)** | 2025-06-06 | ICML 2025 |
-| **[STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis](http://arxiv.org/abs/2506.06276v1)** | 2025-06-06 | <details><summary>TLDR:...</summary><p>TLDR: We show for the first time that normalizing flows can be scaled for high-resolution and text-conditioned image synthesis</p></details> |
-| **[Movie Facts and Fibs (MF$^2$): A Benchmark for Long Movie Understanding](http://arxiv.org/abs/2506.06275v1)** | 2025-06-06 | Under Review |
-| **[BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading](http://arxiv.org/abs/2506.06271v1)** | 2025-06-06 | <details><summary>Proje...</summary><p>Project Page: see https://jonathsch.github.io/becominglit/ ; YouTube Video: see https://youtu.be/xPyeIqKdszA</p></details> |
+| **[StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets](http://arxiv.org/abs/2506.08013v1)** | 2025-06-09 | <details><summary>Code ...</summary><p>Code is available at https://github.com/astra-vision/StableMTL</p></details> |
+| **[4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos](http://arxiv.org/abs/2506.08015v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project page: https://4dgt.github.io</p></details> |
+| **[Vision Transformers Don't Need Trained Registers](http://arxiv.org/abs/2506.08010v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project page and code: https://avdravid.github.io/test-time-registers</p></details> |
+| **[Play to Generalize: Learning to Reason Through Game Play](http://arxiv.org/abs/2506.08011v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project Page: https://yunfeixie233.github.io/ViGaL/</p></details> |
+| **[GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior](http://arxiv.org/abs/2506.08012v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project Page at https://penghao-wu.github.io/GUI_Reflection/</p></details> |
+| **[Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion](http://arxiv.org/abs/2506.08009v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project website: http://self-forcing.github.io/</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring Diffusion Transformer Designs via Grafting](http://arxiv.org/abs/2506.05340v2)** | 2025-06-06 | <details><summary>22 pa...</summary><p>22 pages; Project website: https://grafting.stanford.edu</p></details> |
-| **[STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis](http://arxiv.org/abs/2506.06276v1)** | 2025-06-06 | <details><summary>TLDR:...</summary><p>TLDR: We show for the first time that normalizing flows can be scaled for high-resolution and text-conditioned image synthesis</p></details> |
-| **[Normalizing Flows are Capable Generative Models](http://arxiv.org/abs/2412.06329v3)** | 2025-06-06 | ICML 2025 |
-| **[Quadratic Extended and Unscented Kalman Filter Updates](http://arxiv.org/abs/2506.06256v1)** | 2025-06-06 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2025 INTERNATIONAL CONFERENCE ON MULTISENSOR FUSION AND INTEGRATION FOR INTELLIGENT SYSTEMS</p></details> |
-| **[Conformal-DP: Data Density Aware Privacy on Riemannian Manifolds via Conformal Transformation](http://arxiv.org/abs/2504.20941v2)** | 2025-06-06 | <details><summary>Submi...</summary><p>Submitted and do not distribute!</p></details> |
-| **[Banyan: Improved Representation Learning with Explicit Structure](http://arxiv.org/abs/2407.17771v4)** | 2025-06-06 | <details><summary>ICML ...</summary><p>ICML 2025 Camera Ready + Code Release</p></details> |
+| **[4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos](http://arxiv.org/abs/2506.08015v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project page: https://4dgt.github.io</p></details> |
+| **[Vision Transformers Don't Need Trained Registers](http://arxiv.org/abs/2506.08010v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project page and code: https://avdravid.github.io/test-time-registers</p></details> |
+| **[Reparameterized LLM Training via Orthogonal Equivalence Transformation](http://arxiv.org/abs/2506.08001v1)** | 2025-06-09 | <details><summary>Techn...</summary><p>Technical report v1 (36 pages, 24 figures, project page: https://spherelab.ai/poet-site/)</p></details> |
+| **[What Changed and What Could Have Changed? State-Change Counterfactuals for Procedure-Aware Video Representation Learning](http://arxiv.org/abs/2503.21055v2)** | 2025-06-09 | 16 pages, 4 figures |
+| **[Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes](http://arxiv.org/abs/2506.07917v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project Page: https://speede3dgs.github.io/</p></details> |
+| **[Introspective Growth: Automatically Advancing LLM Expertise in Technology Judgment](http://arxiv.org/abs/2505.12452v2)** | 2025-06-09 | <details><summary>We op...</summary><p>We open-source our patent dataset at https://huggingface.co/datasets/UchiKlab/patent_understanding</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Practical Secure Delegated Linear Algebra with Trapdoored Matrices](http://arxiv.org/abs/2502.13060v2)** | 2025-06-06 | <details><summary>Versi...</summary><p>Version 2 (6 June 2025): added simulator proof of zero-knowledge for dishonest adversaries, added experimental data, clarified various definitions, various minor changes. A previous version of this work was titled "Sublinear-Overhead Secure Linear Algebra on a Dishonest Server"</p></details> |
-| **[Similarity Matching Networks: Hebbian Learning and Convergence Over Multiple Time Scales](http://arxiv.org/abs/2506.06134v1)** | 2025-06-06 | 28 pages, 9 figures |
-| **[Let's CONFER: A Dataset for Evaluating Natural Language Inference Models on CONditional InFERence and Presupposition](http://arxiv.org/abs/2506.06133v1)** | 2025-06-06 | <details><summary>This ...</summary><p>This paper is published in the Proceedings of the 38th Canadian Conference on Artificial Intelligence (CAIAC 2025). Please cite the conference version at https://caiac.pubpub.org/pub/keh8ij01</p></details> |
-| **[Convergence of linear programming hierarchies for Gibbs states of spin systems](http://arxiv.org/abs/2506.06125v1)** | 2025-06-06 | 11 pages |
-| **[Is Your Imitation Learning Policy Better than Mine? Policy Comparison with Near-Optimal Stopping](http://arxiv.org/abs/2503.10966v4)** | 2025-06-06 | <details><summary>14 + ...</summary><p>14 + 5 pages, 10 figures, 4 tables. Accepted to RSS 2025</p></details> |
-| **[Towards Lifecycle Unlearning Commitment Management: Measuring Sample-level Unlearning Completeness](http://arxiv.org/abs/2506.06112v1)** | 2025-06-06 | <details><summary>To ap...</summary><p>To appear in the Proceedings of USENIX Security Symposium, 2025</p></details> |
+| **[4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos](http://arxiv.org/abs/2506.08015v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project page: https://4dgt.github.io</p></details> |
+| **[Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion](http://arxiv.org/abs/2506.08009v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project website: http://self-forcing.github.io/</p></details> |
+| **[Generative Modeling of Weights: Generalization or Memorization?](http://arxiv.org/abs/2506.07998v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project page at https://boyazeng.github.io/weight_memorization</p></details> |
+| **[Reliable Collaborative Conversational Agent System Based on LLMs and Answer Set Programming](http://arxiv.org/abs/2505.06438v2)** | 2025-06-09 | 9 pages |
+| **[Language Models over Canonical Byte-Pair Encodings](http://arxiv.org/abs/2506.07956v1)** | 2025-06-09 | ICML 2025 |
+| **[Statistical Hypothesis Testing for Auditing Robustness in Language Models](http://arxiv.org/abs/2506.07947v1)** | 2025-06-09 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2412.00868</p></details> |
 
