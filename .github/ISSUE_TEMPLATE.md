@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - June 11, 2025
+title: Latest 6 Papers - June 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets](http://arxiv.org/abs/2506.08013v1)** | 2025-06-09 | <details><summary>Code ...</summary><p>Code is available at https://github.com/astra-vision/StableMTL</p></details> |
-| **[4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos](http://arxiv.org/abs/2506.08015v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project page: https://4dgt.github.io</p></details> |
-| **[Vision Transformers Don't Need Trained Registers](http://arxiv.org/abs/2506.08010v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project page and code: https://avdravid.github.io/test-time-registers</p></details> |
-| **[Play to Generalize: Learning to Reason Through Game Play](http://arxiv.org/abs/2506.08011v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project Page: https://yunfeixie233.github.io/ViGaL/</p></details> |
-| **[GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior](http://arxiv.org/abs/2506.08012v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project Page at https://penghao-wu.github.io/GUI_Reflection/</p></details> |
-| **[Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion](http://arxiv.org/abs/2506.08009v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project website: http://self-forcing.github.io/</p></details> |
+| **[From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring](http://arxiv.org/abs/2506.09996v1)** | 2025-06-11 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, and 9 tables</p></details> |
+| **[DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos](http://arxiv.org/abs/2506.09997v1)** | 2025-06-11 | <details><summary>Proje...</summary><p>Project page: https://hubert0527.github.io/dgslrm/</p></details> |
+| **[Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling](http://arxiv.org/abs/2506.09998v1)** | 2025-06-11 | <details><summary>Techn...</summary><p>Technical Report v1 (21 pages, 14 figures)</p></details> |
+| **[PlayerOne: Egocentric World Simulator](http://arxiv.org/abs/2506.09995v1)** | 2025-06-11 | <details><summary>Proje...</summary><p>Project page: https://playerone-hku.github.io/</p></details> |
+| **[EVINET: Towards Open-World Graph Learning via Evidential Reasoning Network](http://arxiv.org/abs/2506.07288v2)** | 2025-06-11 | KDD 2025 |
+| **[Text-Aware Image Restoration with Diffusion Models](http://arxiv.org/abs/2506.09993v1)** | 2025-06-11 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/TAIR/</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos](http://arxiv.org/abs/2506.08015v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project page: https://4dgt.github.io</p></details> |
-| **[Vision Transformers Don't Need Trained Registers](http://arxiv.org/abs/2506.08010v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project page and code: https://avdravid.github.io/test-time-registers</p></details> |
-| **[Reparameterized LLM Training via Orthogonal Equivalence Transformation](http://arxiv.org/abs/2506.08001v1)** | 2025-06-09 | <details><summary>Techn...</summary><p>Technical report v1 (36 pages, 24 figures, project page: https://spherelab.ai/poet-site/)</p></details> |
-| **[What Changed and What Could Have Changed? State-Change Counterfactuals for Procedure-Aware Video Representation Learning](http://arxiv.org/abs/2503.21055v2)** | 2025-06-09 | 16 pages, 4 figures |
-| **[Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes](http://arxiv.org/abs/2506.07917v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project Page: https://speede3dgs.github.io/</p></details> |
-| **[Introspective Growth: Automatically Advancing LLM Expertise in Technology Judgment](http://arxiv.org/abs/2505.12452v2)** | 2025-06-09 | <details><summary>We op...</summary><p>We open-source our patent dataset at https://huggingface.co/datasets/UchiKlab/patent_understanding</p></details> |
+| **[DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos](http://arxiv.org/abs/2506.09997v1)** | 2025-06-11 | <details><summary>Proje...</summary><p>Project page: https://hubert0527.github.io/dgslrm/</p></details> |
+| **[Constrained Denoising, Empirical Bayes, and Optimal Transport](http://arxiv.org/abs/2506.09986v1)** | 2025-06-11 | <details><summary>55 pa...</summary><p>55 pages, 4 figures. Comments welcome</p></details> |
+| **[AnimateAnyMesh: A Feed-Forward 4D Foundation Model for Text-Driven Universal Mesh Animation](http://arxiv.org/abs/2506.09982v1)** | 2025-06-11 | <details><summary>Proje...</summary><p>Project Page: https://animateanymesh.github.io/AnimateAnyMesh/</p></details> |
+| **[ReSim: Reliable World Simulation for Autonomous Driving](http://arxiv.org/abs/2506.09981v1)** | 2025-06-11 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/ReSim</p></details> |
+| **[Language Models Resist Alignment: Evidence From Data Compression](http://arxiv.org/abs/2406.06144v4)** | 2025-06-11 | <details><summary>Accep...</summary><p>Accepted by ACL2025 Main</p></details> |
+| **[HadaNorm: Diffusion Transformer Quantization through Mean-Centered Transformations](http://arxiv.org/abs/2506.09932v1)** | 2025-06-11 | 4 Pages, 5 Figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos](http://arxiv.org/abs/2506.08015v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project page: https://4dgt.github.io</p></details> |
-| **[Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion](http://arxiv.org/abs/2506.08009v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project website: http://self-forcing.github.io/</p></details> |
-| **[Generative Modeling of Weights: Generalization or Memorization?](http://arxiv.org/abs/2506.07998v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project page at https://boyazeng.github.io/weight_memorization</p></details> |
-| **[Reliable Collaborative Conversational Agent System Based on LLMs and Answer Set Programming](http://arxiv.org/abs/2505.06438v2)** | 2025-06-09 | 9 pages |
-| **[Language Models over Canonical Byte-Pair Encodings](http://arxiv.org/abs/2506.07956v1)** | 2025-06-09 | ICML 2025 |
-| **[Statistical Hypothesis Testing for Auditing Robustness in Language Models](http://arxiv.org/abs/2506.07947v1)** | 2025-06-09 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2412.00868</p></details> |
+| **[From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring](http://arxiv.org/abs/2506.09996v1)** | 2025-06-11 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, and 9 tables</p></details> |
+| **[InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions](http://arxiv.org/abs/2506.09984v1)** | 2025-06-11 | <details><summary>TL;DR...</summary><p>TL;DR: The first multi-person dialogue video generation method from pairs of reference image and audio via explicit layout-aligned condition injection. See project page https://zhenzhiwang.github.io/interacthuman/ for more details</p></details> |
+| **[Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?](http://arxiv.org/abs/2502.13909v4)** | 2025-06-11 | <details><summary>KDD 2...</summary><p>KDD 2025 Research Track</p></details> |
+| **[Stochastic block models with many communities and the Kesten--Stigum bound](http://arxiv.org/abs/2503.03047v2)** | 2025-06-11 | <details><summary>46 pa...</summary><p>46 pages, 1 figure, added discussion and minor corrections, extended abstract in COLT 2025</p></details> |
+| **[Efficient multigrid solvers for mixed-degree local discontinuous Galerkin multiphase Stokes problems](http://arxiv.org/abs/2506.09933v1)** | 2025-06-11 | <details><summary>25 pa...</summary><p>25 pages, 10 figures, 4 algorithms, 1 table</p></details> |
+| **[RNE: a plug-and-play framework for diffusion density estimation and inference-time control](http://arxiv.org/abs/2506.05668v2)** | 2025-06-11 | 39 pages; 14 figures |
 
