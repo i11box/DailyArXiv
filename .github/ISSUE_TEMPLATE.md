@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - June 16, 2025
+title: Latest 6 Papers - June 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fine-Grained Perturbation Guidance via Attention Head Selection](http://arxiv.org/abs/2506.10978v1)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/HeadHunter/</p></details> |
-| **[QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction](http://arxiv.org/abs/2506.10977v1)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project page: https://zuosc19.github.io/QuadricFormer/</p></details> |
-| **[AutoMind: Adaptive Knowledgeable Agent for Automated Data Science](http://arxiv.org/abs/2506.10974v1)** | 2025-06-12 | <details><summary>Ongoi...</summary><p>Ongoing work. Code is at https://github.com/innovatingAI/AutoMind</p></details> |
-| **[Farseer: A Refined Scaling Law in Large Language Models](http://arxiv.org/abs/2506.10972v1)** | 2025-06-12 | 34 |
-| **[Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs](http://arxiv.org/abs/2506.10967v1)** | 2025-06-12 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, code: https://github.com/Theia-4869/CDPruner, project page: https://theia-4869.github.io/CDPruner</p></details> |
-| **[SoK: Watermarking for AI-Generated Content](http://arxiv.org/abs/2411.18479v3)** | 2025-06-12 | IEEE S&P 2025 |
+| **[EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction](http://arxiv.org/abs/2506.12015v1)** | 2025-06-13 | <details><summary>Under...</summary><p>Under review. Project page: https://hsi-che-lin.github.io/EMLoC/</p></details> |
+| **[code_transformed: The Influence of Large Language Models on Code](http://arxiv.org/abs/2506.12014v1)** | 2025-06-13 | <details><summary>We re...</summary><p>We release all the experimental dataset and source code at: https://github.com/ignorancex/LLM_code</p></details> |
+| **[Tracing LLM Reasoning Processes with Strategic Games: A Framework for Planning, Revision, and Resource-Constrained Decision Making](http://arxiv.org/abs/2506.12012v1)** | 2025-06-13 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. Under review</p></details> |
+| **[An Efficient Compression of Deep Neural Network Checkpoints Based on Prediction and Context Modeling](http://arxiv.org/abs/2506.12000v1)** | 2025-06-13 | <details><summary>IEEE ...</summary><p>IEEE NW Russia Young Researchers in Electrical and Electronic Engineering Conference (EIConRusNW)</p></details> |
+| **[Generative Representational Learning of Foundation Models for Recommendation](http://arxiv.org/abs/2506.11999v1)** | 2025-06-13 | <details><summary>Proje...</summary><p>Project page is available at https://junkfood436.github.io/RecFound/</p></details> |
+| **[Improving Surgical Risk Prediction Through Integrating Automated Body Composition Analysis: a Retrospective Trial on Colectomy Surgery](http://arxiv.org/abs/2506.11996v1)** | 2025-06-13 | 32 pages, 5 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fine-Grained Perturbation Guidance via Attention Head Selection](http://arxiv.org/abs/2506.10978v1)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/HeadHunter/</p></details> |
-| **[SpectralAR: Spectral Autoregressive Visual Generation](http://arxiv.org/abs/2506.10962v1)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project Page: https://huang-yh.github.io/spectralar/</p></details> |
-| **[VINCIE: Unlocking In-context Image Editing from Video](http://arxiv.org/abs/2506.10941v1)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project page: https://vincie2025.github.io/</p></details> |
-| **[Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence](http://arxiv.org/abs/2506.10925v1)** | 2025-06-12 | <details><summary>Lunar...</summary><p>Lunar Surface Innovation Consortium 2025 Spring Meeting, May 20-22</p></details> |
-| **[Med-URWKV: Pure RWKV With ImageNet Pre-training For Medical Image Segmentation](http://arxiv.org/abs/2506.10858v1)** | 2025-06-12 | <details><summary>Prepr...</summary><p>Preprint Draft, 5 pages. This paper will be updated with a formal version in the future, Copyright: College of Computer Science, Nankai University. All rights reserved</p></details> |
-| **[Mimicking Human Intuition: Cognitive Belief-Driven Reinforcement Learning](http://arxiv.org/abs/2410.01739v3)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted by ICML 2025 Workshop on Models of Human Feedback for AI Alignment</p></details> |
+| **[EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction](http://arxiv.org/abs/2506.12015v1)** | 2025-06-13 | <details><summary>Under...</summary><p>Under review. Project page: https://hsi-che-lin.github.io/EMLoC/</p></details> |
+| **[code_transformed: The Influence of Large Language Models on Code](http://arxiv.org/abs/2506.12014v1)** | 2025-06-13 | <details><summary>We re...</summary><p>We release all the experimental dataset and source code at: https://github.com/ignorancex/LLM_code</p></details> |
+| **[An Efficient Compression of Deep Neural Network Checkpoints Based on Prediction and Context Modeling](http://arxiv.org/abs/2506.12000v1)** | 2025-06-13 | <details><summary>IEEE ...</summary><p>IEEE NW Russia Young Researchers in Electrical and Electronic Engineering Conference (EIConRusNW)</p></details> |
+| **[Compression Aware Certified Training](http://arxiv.org/abs/2506.11992v1)** | 2025-06-13 | 19 pages, 1 figure |
+| **[YOLO advances to its genesis: a decadal and comprehensive review of the You Only Look Once (YOLO) series](http://arxiv.org/abs/2406.19407v8)** | 2025-06-13 | <details><summary>Publi...</summary><p>Published in Artificial Intelligence Review as https://doi.org/10.1007/s10462-025-11253-3</p></details> |
+| **[AB-UPT: Scaling Neural CFD Surrogates for High-Fidelity Automotive Aerodynamics Simulations via Anchored-Branched Universal Physics Transformers](http://arxiv.org/abs/2502.09692v2)** | 2025-06-13 | Preprint |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs](http://arxiv.org/abs/2506.10967v1)** | 2025-06-12 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, code: https://github.com/Theia-4869/CDPruner, project page: https://theia-4869.github.io/CDPruner</p></details> |
-| **[TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems](http://arxiv.org/abs/2506.07605v2)** | 2025-06-12 | <details><summary>Proce...</summary><p>Proceedings on Privacy Enhancing Technologies (To appear) 2025(4)</p></details> |
-| **[Weak-to-Strong Jailbreaking on Large Language Models](http://arxiv.org/abs/2401.17256v3)** | 2025-06-12 | ICML 2025 |
-| **[Object-Centric Latent Action Learning](http://arxiv.org/abs/2502.09680v2)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted by Workshop on World Models at ICLR 2025</p></details> |
-| **[The Diffusion Duality](http://arxiv.org/abs/2506.10892v1)** | 2025-06-12 | <details><summary>ICML ...</summary><p>ICML 2025. We provide the code at: https://github.com/s-sahoo/duo</p></details> |
-| **[PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play](http://arxiv.org/abs/2503.14432v2)** | 2025-06-12 | <details><summary>ACL 2...</summary><p>ACL 2025 Long Paper (Findings)</p></details> |
+| **[EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction](http://arxiv.org/abs/2506.12015v1)** | 2025-06-13 | <details><summary>Under...</summary><p>Under review. Project page: https://hsi-che-lin.github.io/EMLoC/</p></details> |
+| **[VGR: Visual Grounded Reasoning](http://arxiv.org/abs/2506.11991v1)** | 2025-06-13 | 9 pages, 4 figures |
+| **[Simple Radiology VLLM Test-time Scaling with Thought Graph Traversal](http://arxiv.org/abs/2506.11989v1)** | 2025-06-13 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2404.11209 by other authors</p></details> |
+| **[SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies](http://arxiv.org/abs/2506.11948v1)** | 2025-06-13 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
+| **[T1: Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling](http://arxiv.org/abs/2501.11651v2)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
+| **[MindGrab for BrainChop: Fast and Accurate Skull Stripping for Command Line and Browser](http://arxiv.org/abs/2506.11860v1)** | 2025-06-13 | <details><summary>12 pa...</summary><p>12 pages, 1 table, 4 figures. 2 supplementary tables, 1 supplementary figure. Brainchop-cli: https://pypi.org/project/brainchop/ . Brainchop web: https://brainchop.org/</p></details> |
 
