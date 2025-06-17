@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - June 17, 2025
+title: Latest 6 Papers - June 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction](http://arxiv.org/abs/2506.12015v1)** | 2025-06-13 | <details><summary>Under...</summary><p>Under review. Project page: https://hsi-che-lin.github.io/EMLoC/</p></details> |
-| **[code_transformed: The Influence of Large Language Models on Code](http://arxiv.org/abs/2506.12014v1)** | 2025-06-13 | <details><summary>We re...</summary><p>We release all the experimental dataset and source code at: https://github.com/ignorancex/LLM_code</p></details> |
-| **[Tracing LLM Reasoning Processes with Strategic Games: A Framework for Planning, Revision, and Resource-Constrained Decision Making](http://arxiv.org/abs/2506.12012v1)** | 2025-06-13 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. Under review</p></details> |
-| **[An Efficient Compression of Deep Neural Network Checkpoints Based on Prediction and Context Modeling](http://arxiv.org/abs/2506.12000v1)** | 2025-06-13 | <details><summary>IEEE ...</summary><p>IEEE NW Russia Young Researchers in Electrical and Electronic Engineering Conference (EIConRusNW)</p></details> |
-| **[Generative Representational Learning of Foundation Models for Recommendation](http://arxiv.org/abs/2506.11999v1)** | 2025-06-13 | <details><summary>Proje...</summary><p>Project page is available at https://junkfood436.github.io/RecFound/</p></details> |
-| **[Improving Surgical Risk Prediction Through Integrating Automated Body Composition Analysis: a Retrospective Trial on Colectomy Surgery](http://arxiv.org/abs/2506.11996v1)** | 2025-06-13 | 32 pages, 5 figures |
+| **[Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value](http://arxiv.org/abs/2506.13763v1)** | 2025-06-16 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, 3 tables. Preprint. Work in Progress</p></details> |
+| **[AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](http://arxiv.org/abs/2506.13757v1)** | 2025-06-16 | <details><summary>Websi...</summary><p>Website link:https://autovla.github.io/</p></details> |
+| **[UltraZoom: Generating Gigapixel Images from Regular Photos](http://arxiv.org/abs/2506.13756v1)** | 2025-06-16 | <details><summary>Proje...</summary><p>Project page: https://ultra-zoom.github.io/</p></details> |
+| **[VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models](http://arxiv.org/abs/2506.13754v1)** | 2025-06-16 | <details><summary>Submi...</summary><p>Submitted to NeurIPS 2025. Project page: https://videopde.github.io/</p></details> |
+| **[lcpy: an open-source python package for parametric and dynamic Life Cycle Assessment and Life Cycle Costing](http://arxiv.org/abs/2506.13744v1)** | 2025-06-16 | <details><summary>Assoc...</summary><p>Associated repository at https://github.com/spirdgk/lcpy and https://doi.org/10.5281/zenodo.15675940</p></details> |
+| **[LTRR: Learning To Rank Retrievers for LLMs](http://arxiv.org/abs/2506.13743v1)** | 2025-06-16 | <details><summary>SIGIR...</summary><p>SIGIR 2025 LiveRAG Spotlight</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction](http://arxiv.org/abs/2506.12015v1)** | 2025-06-13 | <details><summary>Under...</summary><p>Under review. Project page: https://hsi-che-lin.github.io/EMLoC/</p></details> |
-| **[code_transformed: The Influence of Large Language Models on Code](http://arxiv.org/abs/2506.12014v1)** | 2025-06-13 | <details><summary>We re...</summary><p>We release all the experimental dataset and source code at: https://github.com/ignorancex/LLM_code</p></details> |
-| **[An Efficient Compression of Deep Neural Network Checkpoints Based on Prediction and Context Modeling](http://arxiv.org/abs/2506.12000v1)** | 2025-06-13 | <details><summary>IEEE ...</summary><p>IEEE NW Russia Young Researchers in Electrical and Electronic Engineering Conference (EIConRusNW)</p></details> |
-| **[Compression Aware Certified Training](http://arxiv.org/abs/2506.11992v1)** | 2025-06-13 | 19 pages, 1 figure |
-| **[YOLO advances to its genesis: a decadal and comprehensive review of the You Only Look Once (YOLO) series](http://arxiv.org/abs/2406.19407v8)** | 2025-06-13 | <details><summary>Publi...</summary><p>Published in Artificial Intelligence Review as https://doi.org/10.1007/s10462-025-11253-3</p></details> |
-| **[AB-UPT: Scaling Neural CFD Surrogates for High-Fidelity Automotive Aerodynamics Simulations via Anchored-Branched Universal Physics Transformers](http://arxiv.org/abs/2502.09692v2)** | 2025-06-13 | Preprint |
+| **[VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models](http://arxiv.org/abs/2506.13754v1)** | 2025-06-16 | <details><summary>Submi...</summary><p>Submitted to NeurIPS 2025. Project page: https://videopde.github.io/</p></details> |
+| **[Attribution-guided Pruning for Compression, Circuit Discovery, and Targeted Correction in LLMs](http://arxiv.org/abs/2506.13727v1)** | 2025-06-16 | <details><summary>Work ...</summary><p>Work in progress (10 pages manuscript, 3 pages references, 12 pages appendix)</p></details> |
+| **[A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction](http://arxiv.org/abs/2506.13678v1)** | 2025-06-16 | 18 pages, 13 figures |
+| **[Unifying Uniform and Binary-coding Quantization for Accurate Compression of Large Language Models](http://arxiv.org/abs/2506.03781v2)** | 2025-06-16 | ACL 2025 Main Track |
+| **[A Hybrid Artificial Intelligence Method for Estimating Flicker in Power Systems](http://arxiv.org/abs/2506.13611v1)** | 2025-06-16 | <details><summary>31 pa...</summary><p>31 pages, 12 figures, and 6 tables</p></details> |
+| **[Evaluation of Vision Transformers for Multimodal Image Classification: A Case Study on Brain, Lung, and Kidney Tumors](http://arxiv.org/abs/2502.05517v2)** | 2025-06-16 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 12 tables</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction](http://arxiv.org/abs/2506.12015v1)** | 2025-06-13 | <details><summary>Under...</summary><p>Under review. Project page: https://hsi-che-lin.github.io/EMLoC/</p></details> |
-| **[VGR: Visual Grounded Reasoning](http://arxiv.org/abs/2506.11991v1)** | 2025-06-13 | 9 pages, 4 figures |
-| **[Simple Radiology VLLM Test-time Scaling with Thought Graph Traversal](http://arxiv.org/abs/2506.11989v1)** | 2025-06-13 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2404.11209 by other authors</p></details> |
-| **[SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies](http://arxiv.org/abs/2506.11948v1)** | 2025-06-13 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
-| **[T1: Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling](http://arxiv.org/abs/2501.11651v2)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
-| **[MindGrab for BrainChop: Fast and Accurate Skull Stripping for Command Line and Browser](http://arxiv.org/abs/2506.11860v1)** | 2025-06-13 | <details><summary>12 pa...</summary><p>12 pages, 1 table, 4 figures. 2 supplementary tables, 1 supplementary figure. Brainchop-cli: https://pypi.org/project/brainchop/ . Brainchop web: https://brainchop.org/</p></details> |
+| **[AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](http://arxiv.org/abs/2506.13757v1)** | 2025-06-16 | <details><summary>Websi...</summary><p>Website link:https://autovla.github.io/</p></details> |
+| **[UltraZoom: Generating Gigapixel Images from Regular Photos](http://arxiv.org/abs/2506.13756v1)** | 2025-06-16 | <details><summary>Proje...</summary><p>Project page: https://ultra-zoom.github.io/</p></details> |
+| **[VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models](http://arxiv.org/abs/2506.13754v1)** | 2025-06-16 | <details><summary>Submi...</summary><p>Submitted to NeurIPS 2025. Project page: https://videopde.github.io/</p></details> |
+| **[Kolmogorov-Arnold Network for Gene Regulatory Network Inference](http://arxiv.org/abs/2506.13740v1)** | 2025-06-16 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, accepted in CMSB 2025</p></details> |
+| **[Attribution-guided Pruning for Compression, Circuit Discovery, and Targeted Correction in LLMs](http://arxiv.org/abs/2506.13727v1)** | 2025-06-16 | <details><summary>Work ...</summary><p>Work in progress (10 pages manuscript, 3 pages references, 12 pages appendix)</p></details> |
+| **[CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding](http://arxiv.org/abs/2506.13725v1)** | 2025-06-16 | 16 pages |
 
