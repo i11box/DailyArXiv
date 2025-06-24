@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - June 24, 2025
+title: Latest 6 Papers - June 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning](http://arxiv.org/abs/2506.17221v1)** | 2025-06-20 | <details><summary>proje...</summary><p>project page: www.vlnr1.github.io</p></details> |
-| **[Emergent Temporal Correspondences from Video Diffusion Transformers](http://arxiv.org/abs/2506.17220v1)** | 2025-06-20 | <details><summary>Proje...</summary><p>Project page is available at https:/cvlab-kaist.github.io/DiffTrack</p></details> |
-| **[Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](http://arxiv.org/abs/2506.17218v1)** | 2025-06-20 | <details><summary>Proje...</summary><p>Project page: https://vlm-mirage.github.io/</p></details> |
-| **[Long-term Traffic Simulation with Interleaved Autoregressive Motion and Scenario Generation](http://arxiv.org/abs/2506.17213v1)** | 2025-06-20 | <details><summary>Prepr...</summary><p>Preprint. Project page: https://orangesodahub.github.io/InfGen Code: https://github.com/OrangeSodahub/infgen</p></details> |
-| **[Fine-Tuning Lowers Safety and Disrupts Evaluation Consistency](http://arxiv.org/abs/2506.17209v1)** | 2025-06-20 | <details><summary>to ap...</summary><p>to appear at LLMSEC 2025</p></details> |
-| **[DreamCube: 3D Panorama Generation via Multi-plane Synchronization](http://arxiv.org/abs/2506.17206v1)** | 2025-06-20 | <details><summary>Proje...</summary><p>Project page: https://yukun-huang.github.io/DreamCube/</p></details> |
+| **[TC-Light: Temporally Consistent Relighting for Dynamic Long Videos](http://arxiv.org/abs/2506.18904v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project Page: https://dekuliutesla.github.io/tclight/ Code: https://github.com/Linketic/TC-Light</p></details> |
+| **[VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory](http://arxiv.org/abs/2506.18903v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project page: https://v-mem.github.io</p></details> |
+| **[jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval](http://arxiv.org/abs/2506.18902v1)** | 2025-06-23 | <details><summary>22 pa...</summary><p>22 pages, 1-10 main, 14-22 experimental results, benchmark tables</p></details> |
+| **[Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models](http://arxiv.org/abs/2506.18900v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project webpage: https://auditandrepair.github.io/</p></details> |
+| **[FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation](http://arxiv.org/abs/2506.18899v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project Page: https://filmaster-ai.github.io/</p></details> |
+| **[Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations](http://arxiv.org/abs/2506.18898v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project page: https://tar.csuhan.com</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Emergent Temporal Correspondences from Video Diffusion Transformers](http://arxiv.org/abs/2506.17220v1)** | 2025-06-20 | <details><summary>Proje...</summary><p>Project page is available at https:/cvlab-kaist.github.io/DiffTrack</p></details> |
-| **[UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation](http://arxiv.org/abs/2506.17202v1)** | 2025-06-20 | <details><summary>Code:...</summary><p>Code: https://github.com/tliby/UniFork</p></details> |
-| **[Deep generative models as the probability transformation functions](http://arxiv.org/abs/2506.17171v1)** | 2025-06-20 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, accepted for publication in "ICIST 2025 Springer Proceedings"</p></details> |
-| **[Walking Fingerprinting Using Wrist Accelerometry During Activities of Daily Living in NHANES](http://arxiv.org/abs/2506.17160v1)** | 2025-06-20 | <details><summary>19 pa...</summary><p>19 pages, 7 tables, 7 figures</p></details> |
-| **[Reassessing Code Authorship Attribution in the Era of Language Models](http://arxiv.org/abs/2506.17120v1)** | 2025-06-20 | 12 pages |
-| **[AI Should Challenge, Not Obey](http://arxiv.org/abs/2411.02263v2)** | 2025-06-20 | <details><summary>Advai...</summary><p>Advait Sarkar. 2024. AI Should Challenge, Not Obey. Commun. ACM 67, 10 (October 2024), 18-21. https://doi.org/10.1145/3649404</p></details> |
+| **[Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models](http://arxiv.org/abs/2506.18900v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project webpage: https://auditandrepair.github.io/</p></details> |
+| **[FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation](http://arxiv.org/abs/2506.18899v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project Page: https://filmaster-ai.github.io/</p></details> |
+| **[CommVQ: Commutative Vector Quantization for KV Cache Compression](http://arxiv.org/abs/2506.18879v1)** | 2025-06-23 | ICML 2025 poster |
+| **[EXPRTS: Exploring and Probing the Robustness ofTime Series Forecasting Models](http://arxiv.org/abs/2403.03508v2)** | 2025-06-23 | under review |
+| **[FullLoRA: Efficiently Boosting the Robustness of Pretrained Vision Transformers](http://arxiv.org/abs/2401.01752v2)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Image Processing (TIP). 11 pages, 3 figures, 8 tables</p></details> |
+| **[Rethinking Scientific Rankings with Breakthrough and Disruption Metrics: A Complex Network-Based Approach](http://arxiv.org/abs/2506.18804v1)** | 2025-06-23 | <details><summary>23 pa...</summary><p>23 pages and 16 figures (including Supplementary information)</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition](http://arxiv.org/abs/2506.17201v1)** | 2025-06-20 | <details><summary>Proje...</summary><p>Project page: https://hunyuan-gamecraft.github.io/</p></details> |
-| **[A Minimalist Method for Fine-tuning Text-to-Image Diffusion Models](http://arxiv.org/abs/2506.12036v2)** | 2025-06-20 | 17 pages, 6 figures |
-| **[AerialVG: A Challenging Benchmark for Aerial Visual Grounding by Exploring Positional Relations](http://arxiv.org/abs/2504.07836v3)** | 2025-06-20 | 8 pages, 6 figures |
-| **[Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?](http://arxiv.org/abs/2506.17121v1)** | 2025-06-20 | <details><summary>We re...</summary><p>We release our code publicly at https://github.com/princeton-pli/PruLong</p></details> |
-| **[RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking](http://arxiv.org/abs/2506.17119v1)** | 2025-06-20 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
-| **[How Breakable Is Privacy: Probing and Resisting Model Inversion Attacks in Collaborative Inference](http://arxiv.org/abs/2501.00824v7)** | 2025-06-20 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 6 tables. The experimental data have been corrected, and some explanations have been supplemented</p></details> |
+| **[Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations](http://arxiv.org/abs/2506.18898v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project page: https://tar.csuhan.com</p></details> |
+| **[4D-LRM: Large Space-Time Reconstruction Model From and To Any View at Any Time](http://arxiv.org/abs/2506.18890v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project page: https://4dlrm.github.io/</p></details> |
+| **[Let Your Video Listen to Your Music!](http://arxiv.org/abs/2506.18881v1)** | 2025-06-23 | <details><summary>proje...</summary><p>project page: https://zhangxinyu-xyz.github.io/MVAA/</p></details> |
+| **[CommVQ: Commutative Vector Quantization for KV Cache Compression](http://arxiv.org/abs/2506.18879v1)** | 2025-06-23 | ICML 2025 poster |
+| **[CDI: Copyrighted Data Identification in Diffusion Models](http://arxiv.org/abs/2411.12858v3)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepted at CVPR2025 (Conference on Computer Vision and Pattern Recognition) Code available at https://github.com/sprintml/copyrighted_data_identification</p></details> |
+| **[Bayesian decomposition using Besov priors](http://arxiv.org/abs/2506.18846v1)** | 2025-06-23 | <details><summary>28 pa...</summary><p>28 pages, 13 figures, this is a preprint of an article submitted to the IOP journal on inverse problems</p></details> |
 
