@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - June 25, 2025
+title: Latest 6 Papers - June 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TC-Light: Temporally Consistent Relighting for Dynamic Long Videos](http://arxiv.org/abs/2506.18904v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project Page: https://dekuliutesla.github.io/tclight/ Code: https://github.com/Linketic/TC-Light</p></details> |
-| **[VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory](http://arxiv.org/abs/2506.18903v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project page: https://v-mem.github.io</p></details> |
-| **[jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval](http://arxiv.org/abs/2506.18902v1)** | 2025-06-23 | <details><summary>22 pa...</summary><p>22 pages, 1-10 main, 14-22 experimental results, benchmark tables</p></details> |
-| **[Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models](http://arxiv.org/abs/2506.18900v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project webpage: https://auditandrepair.github.io/</p></details> |
-| **[FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation](http://arxiv.org/abs/2506.18899v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project Page: https://filmaster-ai.github.io/</p></details> |
-| **[Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations](http://arxiv.org/abs/2506.18898v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project page: https://tar.csuhan.com</p></details> |
+| **[Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation](http://arxiv.org/abs/2506.19852v1)** | 2025-06-24 | <details><summary>Code:...</summary><p>Code: https://github.com/mit-han-lab/radial-attention</p></details> |
+| **[AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models](http://arxiv.org/abs/2506.19851v1)** | 2025-06-24 | <details><summary>Proje...</summary><p>Project page: https://anima-x.github.io/</p></details> |
+| **[Unified Vision-Language-Action Model](http://arxiv.org/abs/2506.19850v1)** | 2025-06-24 | technical report |
+| **[Orthogonal Finetuning Made Scalable](http://arxiv.org/abs/2506.19847v1)** | 2025-06-24 | <details><summary>Techn...</summary><p>Technical report (17 pages, 7 figures, project page: https://spherelab.ai/oftv2/)</p></details> |
+| **[JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning](http://arxiv.org/abs/2506.19846v1)** | 2025-06-24 | <details><summary>33 pa...</summary><p>33 pages, 7 figures, under review</p></details> |
+| **[Active View Selector: Fast and Accurate Active View Selection with Cross Reference Image Quality Assessment](http://arxiv.org/abs/2506.19844v1)** | 2025-06-24 | <details><summary>Proje...</summary><p>Project page: https://avs.active.vision/</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models](http://arxiv.org/abs/2506.18900v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project webpage: https://auditandrepair.github.io/</p></details> |
-| **[FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation](http://arxiv.org/abs/2506.18899v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project Page: https://filmaster-ai.github.io/</p></details> |
-| **[CommVQ: Commutative Vector Quantization for KV Cache Compression](http://arxiv.org/abs/2506.18879v1)** | 2025-06-23 | ICML 2025 poster |
-| **[EXPRTS: Exploring and Probing the Robustness ofTime Series Forecasting Models](http://arxiv.org/abs/2403.03508v2)** | 2025-06-23 | under review |
-| **[FullLoRA: Efficiently Boosting the Robustness of Pretrained Vision Transformers](http://arxiv.org/abs/2401.01752v2)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Image Processing (TIP). 11 pages, 3 figures, 8 tables</p></details> |
-| **[Rethinking Scientific Rankings with Breakthrough and Disruption Metrics: A Complex Network-Based Approach](http://arxiv.org/abs/2506.18804v1)** | 2025-06-23 | <details><summary>23 pa...</summary><p>23 pages and 16 figures (including Supplementary information)</p></details> |
+| **[Orthogonal Finetuning Made Scalable](http://arxiv.org/abs/2506.19847v1)** | 2025-06-24 | <details><summary>Techn...</summary><p>Technical report (17 pages, 7 figures, project page: https://spherelab.ai/oftv2/)</p></details> |
+| **[A standard transformer and attention with linear biases for molecular conformer generation](http://arxiv.org/abs/2506.19834v1)** | 2025-06-24 | <details><summary>Revis...</summary><p>Revision of paper at OpenReview: https://openreview.net/forum?id=BjjerMYL3F</p></details> |
+| **[Two-Stream Spatial-Temporal Transformer Framework for Person Identification via Natural Conversational Keypoints](http://arxiv.org/abs/2502.20803v2)** | 2025-06-24 | <details><summary>I wou...</summary><p>I would like to withdraw this submission due to the need for substantial revisions in the results and analysis. I plan to correct and improve the study and submit a more complete version in the near future</p></details> |
+| **[Large language models for automated scholarly paper review: A survey](http://arxiv.org/abs/2501.10326v2)** | 2025-06-24 | <details><summary>Pleas...</summary><p>Please cite the version of Information Fusion</p></details> |
+| **[NEAR$^2$: A Nested Embedding Approach to Efficient Product Retrieval and Ranking](http://arxiv.org/abs/2506.19743v1)** | 2025-06-24 | <details><summary>This ...</summary><p>This paper is accepted to the 2025 SIGIR Workshop on eCommerce</p></details> |
+| **[MuseControlLite: Multifunctional Music Generation with Lightweight Conditioners](http://arxiv.org/abs/2506.18729v2)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted by the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations](http://arxiv.org/abs/2506.18898v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project page: https://tar.csuhan.com</p></details> |
-| **[4D-LRM: Large Space-Time Reconstruction Model From and To Any View at Any Time](http://arxiv.org/abs/2506.18890v1)** | 2025-06-23 | <details><summary>Proje...</summary><p>Project page: https://4dlrm.github.io/</p></details> |
-| **[Let Your Video Listen to Your Music!](http://arxiv.org/abs/2506.18881v1)** | 2025-06-23 | <details><summary>proje...</summary><p>project page: https://zhangxinyu-xyz.github.io/MVAA/</p></details> |
-| **[CommVQ: Commutative Vector Quantization for KV Cache Compression](http://arxiv.org/abs/2506.18879v1)** | 2025-06-23 | ICML 2025 poster |
-| **[CDI: Copyrighted Data Identification in Diffusion Models](http://arxiv.org/abs/2411.12858v3)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepted at CVPR2025 (Conference on Computer Vision and Pattern Recognition) Code available at https://github.com/sprintml/copyrighted_data_identification</p></details> |
-| **[Bayesian decomposition using Besov priors](http://arxiv.org/abs/2506.18846v1)** | 2025-06-23 | <details><summary>28 pa...</summary><p>28 pages, 13 figures, this is a preprint of an article submitted to the IOP journal on inverse problems</p></details> |
+| **[Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation](http://arxiv.org/abs/2506.19852v1)** | 2025-06-24 | <details><summary>Code:...</summary><p>Code: https://github.com/mit-han-lab/radial-attention</p></details> |
+| **[Unified Vision-Language-Action Model](http://arxiv.org/abs/2506.19850v1)** | 2025-06-24 | technical report |
+| **[ScaleCap: Inference-Time Scalable Image Captioning via Dual-Modality Debiasing](http://arxiv.org/abs/2506.19848v1)** | 2025-06-24 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Cooperx521/ScaleCap</p></details> |
+| **[Active View Selector: Fast and Accurate Active View Selection with Cross Reference Image Quality Assessment](http://arxiv.org/abs/2506.19844v1)** | 2025-06-24 | <details><summary>Proje...</summary><p>Project page: https://avs.active.vision/</p></details> |
+| **[SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution](http://arxiv.org/abs/2506.19838v1)** | 2025-06-24 | <details><summary>Proje...</summary><p>Project webpage available at https://simplegvr.github.io/</p></details> |
+| **[Inferring Higher-Order Couplings with Neural Networks](http://arxiv.org/abs/2501.06108v3)** | 2025-06-24 | <details><summary>24 Pa...</summary><p>24 Pages and 9 Figures</p></details> |
 
