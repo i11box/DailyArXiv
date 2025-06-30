@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - June 30, 2025
+title: Latest 6 Papers - July 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,27 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Whole-Body Conditioned Egocentric Video Prediction](http://arxiv.org/abs/2506.21552v1)** | 2025-06-26 | <details><summary>Proje...</summary><p>Project Page: https://dannytran123.github.io/PEVA</p></details> |
-| **[Learning to Be a Transformer to Pinpoint Anomalies](http://arxiv.org/abs/2407.04092v3)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted at IEEE Access</p></details> |
-| **[SAM4D: Segment Anything in Camera and LiDAR Streams](http://arxiv.org/abs/2506.21547v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by ICCV2025, Project Page: https://SAM4D-Project.github.io</p></details> |
-| **[HalluSegBench: Counterfactual Visual Reasoning for Segmentation Hallucination Evaluation](http://arxiv.org/abs/2506.21546v1)** | 2025-06-26 | <details><summary>Proje...</summary><p>Project webpage: https://plan-lab.github.io/hallusegbench/</p></details> |
-| **[StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning](http://arxiv.org/abs/2506.21541v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[A posteriori error estimates for the wave equation with mesh change in the leapfrog method](http://arxiv.org/abs/2411.16933v2)** | 2025-06-26 | <details><summary>30 pa...</summary><p>30 pages with appendix, 4 figures with 10 subfigures</p></details> |
+| **[WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields](http://arxiv.org/abs/2506.22433v1)** | 2025-06-27 | <details><summary>Proje...</summary><p>Project page: https://kuis-ai.github.io/WarpRF/</p></details> |
+| **[CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings](http://arxiv.org/abs/2506.22427v1)** | 2025-06-27 | 31 pages, 4 figures |
+| **[Vision Transformers Don't Need Trained Registers](http://arxiv.org/abs/2506.08010v4)** | 2025-06-27 | <details><summary>Proje...</summary><p>Project page and code: https://avdravid.github.io/test-time-registers</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Whole-Body Conditioned Egocentric Video Prediction](http://arxiv.org/abs/2506.21552v1)** | 2025-06-26 | <details><summary>Proje...</summary><p>Project Page: https://dannytran123.github.io/PEVA</p></details> |
-| **[Learning to Be a Transformer to Pinpoint Anomalies](http://arxiv.org/abs/2407.04092v3)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted at IEEE Access</p></details> |
-| **[Quantum Token Obfuscation via Superposition: A Post-Quantum Security Framework Using Multi-Basis Verification and Entropy-Driven Evolution](http://arxiv.org/abs/2411.01252v3)** | 2025-06-26 | <details><summary>16 pa...</summary><p>16 pages, Significant revisions based on reviewer feedback</p></details> |
-| **[QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning](http://arxiv.org/abs/2402.03666v4)** | 2025-06-26 | <details><summary>ICCV ...</summary><p>ICCV 2025. Code is available at https://github.com/hatchetProject/QuEST</p></details> |
-| **[From Memories to Maps: Mechanisms of In-Context Reinforcement Learning in Transformers](http://arxiv.org/abs/2506.19686v2)** | 2025-06-26 | <details><summary>Updat...</summary><p>Updates: added other funding sources; formatted title correctly</p></details> |
-| **[In-Context Learning Strategies Emerge Rationally](http://arxiv.org/abs/2506.17859v2)** | 2025-06-26 | Preprint |
+| **[Vision Transformers Don't Need Trained Registers](http://arxiv.org/abs/2506.08010v4)** | 2025-06-27 | <details><summary>Proje...</summary><p>Project page and code: https://avdravid.github.io/test-time-registers</p></details> |
+| **[L2MAC: Large Language Model Automatic Computer for Extensive Code Generation](http://arxiv.org/abs/2310.02003v6)** | 2025-06-27 | <details><summary>Publi...</summary><p>Published in The Twelfth International Conference on Learning Representations (ICLR), 2024. Copyright 2023 by the author(s)</p></details> |
+| **[Sequential Diagnosis with Language Models](http://arxiv.org/abs/2506.22405v1)** | 2025-06-27 | 23 pages, 10 figures |
+| **[HyperCLOVA X THINK Technical Report](http://arxiv.org/abs/2506.22403v1)** | 2025-06-27 | 49 pages, 13 figures |
+| **[Refining Czech GEC: Insights from a Multi-Experiment Approach](http://arxiv.org/abs/2506.22402v1)** | 2025-06-27 | Accepted to TSD 2025 |
+| **[Bridging the Gap Between Saliency Prediction and Image Quality Assessment](http://arxiv.org/abs/2405.04997v2)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted to EUSIPCO 2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Asymptotic Inference for Exchangeable Gibbs Partition](http://arxiv.org/abs/2506.21527v1)** | 2025-06-26 | 35 pages, 3 figures |
-| **[In-Context Learning Strategies Emerge Rationally](http://arxiv.org/abs/2506.17859v2)** | 2025-06-26 | Preprint |
-| **[PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries](http://arxiv.org/abs/2506.18728v2)** | 2025-06-26 | <details><summary>In Ad...</summary><p>In Adaptive Foundation Models: Evolving AI for Personalized and Efficient Learning</p></details> |
-| **[Graph Neural Network for Neutrino Physics Event Reconstruction](http://arxiv.org/abs/2403.11872v2)** | 2025-06-26 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, published in Physical Review D</p></details> |
-| **[The Sample Complexity of Learning Lipschitz Operators with respect to Gaussian Measures](http://arxiv.org/abs/2410.23440v3)** | 2025-06-26 | <details><summary>Secti...</summary><p>Section 6 about pointwise sampling in v2 of this paper has been cut and will appear elsewhere</p></details> |
-| **[DisCoPatch: Taming Adversarially-driven Batch Statistics for Improved Out-of-Distribution Detection](http://arxiv.org/abs/2501.08005v3)** | 2025-06-26 | ICCV 2025 |
+| **[CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings](http://arxiv.org/abs/2506.22427v1)** | 2025-06-27 | 31 pages, 4 figures |
+| **[Metadata Conditioning Accelerates Language Model Pre-training](http://arxiv.org/abs/2501.01956v3)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted to ICML 2025. Code available at https://github.com/princeton-pli/MeCo</p></details> |
+| **[QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization](http://arxiv.org/abs/2506.22396v1)** | 2025-06-27 | <details><summary>Prepr...</summary><p>Preprint. Under submission</p></details> |
+| **[Scalable Hypergraph Structure Learning with Diverse Smoothness Priors](http://arxiv.org/abs/2504.03583v2)** | 2025-06-27 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, submitted to IEEE for possible publication; Section I includes more applications, comparisons, and enumerated list of novel contributions; removed numerical analysis of TV terms in Section II, added more general discussion; updated Algorithm 1 and corresponding text; third experiment of Section V-C replaced with new experiment</p></details> |
+| **[Manifold-Constrained Gaussian Processes for Inference of Mixed-effects Ordinary Differential Equations with Application to Pharmacokinetics](http://arxiv.org/abs/2506.22313v1)** | 2025-06-27 | 34 pages, 4 figures |
+| **[Towards Operational Data Analytics Chatbots -- Virtual Knowledge Graph is All You Need](http://arxiv.org/abs/2506.22267v1)** | 2025-06-27 | 11 pages |
 
