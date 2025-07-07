@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - July 07, 2025
+title: Latest 6 Papers - July 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -10,6 +10,9 @@ labels: documentation
 | **[Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory](http://arxiv.org/abs/2507.02863v1)** | 2025-07-03 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/YkiWu/Point3R</p></details> |
 | **[LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans](http://arxiv.org/abs/2507.02861v1)** | 2025-07-03 | <details><summary>Proje...</summary><p>Project Page: https://litereality.github.io; Video: https://www.youtube.com/watch?v=ecK9m3LXg2c&feature=youtu.be</p></details> |
 | **[Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching](http://arxiv.org/abs/2507.02860v1)** | 2025-07-03 | <details><summary>The c...</summary><p>The code is made available at https://github.com/H-EmbodVis/EasyCache. Project page: https://h-embodvis.github.io/EasyCache/</p></details> |
+| **[Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation](http://arxiv.org/abs/2507.02859v1)** | 2025-07-03 | Accepted by ICCV2025 |
+| **[Requirements Elicitation Follow-Up Question Generation](http://arxiv.org/abs/2507.02858v1)** | 2025-07-03 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, accepted at the 33rd IEEE International Requirements Engineering 2025</p></details> |
+| **[Answer Matching Outperforms Multiple Choice for Language Model Evaluation](http://arxiv.org/abs/2507.02856v1)** | 2025-07-03 | <details><summary>34 pa...</summary><p>34 pages, Code is available at https://github.com/nikhilchandak/answer-matching</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
