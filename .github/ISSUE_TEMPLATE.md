@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - July 09, 2025
+title: Latest 6 Papers - July 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,28 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations](http://arxiv.org/abs/2507.05260v1)** | 2025-07-07 | <details><summary>ICCV ...</summary><p>ICCV 2025; 26 pages, 12 figures, 10 tables; Code at http://github.com/Xiangxu-0103/LiMA</p></details> |
-| **[Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing](http://arxiv.org/abs/2507.05259v1)** | 2025-07-07 | <details><summary>Proje...</summary><p>Project page: https://danielchyeh.github.io/x-planner/</p></details> |
-| **[Spatio-Temporal LLM: Reasoning about Environments and Actions](http://arxiv.org/abs/2507.05258v1)** | 2025-07-07 | <details><summary>Code ...</summary><p>Code and data are available at https://zoezheng126.github.io/STLLM-website/</p></details> |
-| **[Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions](http://arxiv.org/abs/2507.05257v1)** | 2025-07-07 | <details><summary>23 Pa...</summary><p>23 Pages, Y. Hu and Y. Wang contribute equally</p></details> |
+| **[Learning to Track Any Points from Human Motion](http://arxiv.org/abs/2507.06233v1)** | 2025-07-08 | <details><summary>Proje...</summary><p>Project Page: https://cvlab-kaist.github.io/AnthroTAP/</p></details> |
+| **[Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers](http://arxiv.org/abs/2507.06223v1)** | 2025-07-08 | under review |
+| **[Is Diversity All You Need for Scalable Robotic Manipulation?](http://arxiv.org/abs/2507.06219v1)** | 2025-07-08 | <details><summary>Code ...</summary><p>Code is available at https://github.com/OpenDriveLab/AgiBot-World</p></details> |
+| **[Embedding Atlas: Low-Friction, Interactive Embedding Visualization](http://arxiv.org/abs/2505.06386v2)** | 2025-07-08 | <details><summary>Websi...</summary><p>Website: https://apple.github.io/embedding-atlas/</p></details> |
+| **[Robust Score-Based Quickest Change Detection](http://arxiv.org/abs/2407.11094v4)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted manuscript. Published in IEEE Transactions on Information Theory. arXiv admin note: text overlap with arXiv:2306.05091</p></details> |
+| **[Unitary designs in nearly optimal depth](http://arxiv.org/abs/2507.06216v1)** | 2025-07-08 | <details><summary>8+31 ...</summary><p>8+31 pages, 3+1 figures</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Late Chunking: Contextual Chunk Embeddings Using Long-Context Embedding Models](http://arxiv.org/abs/2409.04701v3)** | 2025-07-07 | 11 pages, 3rd draft |
-| **[Improvement of Sinc-collocation methods for Volterra-Fredholm integral equations of the second kind and their theoretical analysis](http://arxiv.org/abs/2503.11569v3)** | 2025-07-07 | <details><summary>Keywo...</summary><p>Keywords: Volterra integral equations, Fredholm integral equations, collocation method, Sinc approximation, SE transformation, DE transformation</p></details> |
-| **[OminiControl: Minimal and Universal Control for Diffusion Transformer](http://arxiv.org/abs/2411.15098v6)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[Real-Time AI-Driven Pipeline for Automated Medical Study Content Generation in Low-Resource Settings: A Kenyan Case Study](http://arxiv.org/abs/2507.05212v1)** | 2025-07-07 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, a pilot at Kenyan medical institutions. Source code available upon request, arXiv:2410.23769, arXiv:2305.09617, arXiv:2311.05232</p></details> |
-| **[Satellite-based Rabi rice paddy field mapping in India: a case study on Telangana state](http://arxiv.org/abs/2507.05189v1)** | 2025-07-07 | <details><summary>60 pa...</summary><p>60 pages, 17 figures. Intended for submission to Remote Sensing Applications: Society and Environment (RSASE). Funded by the European Union - NextGenerationEU, Mission 4 Component 1.5</p></details> |
-| **[CycleVAR: Repurposing Autoregressive Model for Unsupervised One-Step Image Translation](http://arxiv.org/abs/2506.23347v2)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Code available at: https://github.com/IamCreateAI/CycleVAR</p></details> |
+| **[StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation](http://arxiv.org/abs/2312.12491v2)** | 2025-07-08 | <details><summary>tech ...</summary><p>tech report, the code is available at https://github.com/cumulo-autumn/StreamDiffusion</p></details> |
+| **[Modern Methods in Associative Memory](http://arxiv.org/abs/2507.06211v1)** | 2025-07-08 | <details><summary>Tutor...</summary><p>Tutorial at ICML 2025</p></details> |
+| **[Quantum Computing and Cybersecurity in Accounting and Finance: Current and Future Challenges and the Opportunities for Securing Accounting and Finance Systems in the Post-Quantum World](http://arxiv.org/abs/2506.12096v2)** | 2025-07-08 | <details><summary>44 Pa...</summary><p>44 Pages, 2 Figures, 4 Tables, 1 Flow Diagram</p></details> |
+| **[Transformers Simulate MLE for Sequence Generation in Bayesian Networks](http://arxiv.org/abs/2501.02547v2)** | 2025-07-08 | <details><summary>51 pa...</summary><p>51 pages, 17 figures, 5 tables</p></details> |
+| **[The Algorithmic State Architecture (ASA): An Integrated Framework for AI-Enabled Government](http://arxiv.org/abs/2503.08725v3)** | 2025-07-08 | <details><summary>Main ...</summary><p>Main text: 25 pages, with references: 35 pages, 2 figures</p></details> |
+| **[Contrastive and Transfer Learning for Effective Audio Fingerprinting through a Real-World Evaluation Protocol](http://arxiv.org/abs/2507.06070v1)** | 2025-07-08 | <details><summary>Inter...</summary><p>International Journal of Music Science, Technology and Art, 15 pages, 7 figures</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Marginal to Joint Predictions: Evaluating Scene-Consistent Trajectory Prediction Approaches for Automated Driving](http://arxiv.org/abs/2507.05254v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted at International Conference on Intelligent Transportation Systems 2025 (ITSC 2025)</p></details> |
-| **[Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration](http://arxiv.org/abs/2507.05244v1)** | 2025-07-07 | <details><summary>Best ...</summary><p>Best Paper Award at the RSS 2025 Generative Models x HRI (GenAI-HRI) Workshop</p></details> |
-| **[Cascade: Token-Sharded Private LLM Inference](http://arxiv.org/abs/2507.05228v1)** | 2025-07-07 | <details><summary>To be...</summary><p>To be published in ICML 2025 Main Proceedings as "Hidden No More: Attacking and Defending Private Third-Party LLM Inference", together with arXiv:2505.18332</p></details> |
-| **[QuEst: Enhancing Estimates of Quantile-Based Distributional Measures Using Model Predictions](http://arxiv.org/abs/2507.05220v1)** | 2025-07-07 | <details><summary>Publi...</summary><p>Published as a conference paper at ICML 2025</p></details> |
-| **[Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view RGB and Event Streams](http://arxiv.org/abs/2412.06770v3)** | 2025-07-07 | <details><summary>17 pa...</summary><p>17 pages, 13 figures, 7 tables; CVPRW 2025</p></details> |
-| **[VideoLifter: Lifting Videos to 3D with Fast Hierarchical Stereo Alignment](http://arxiv.org/abs/2501.01949v3)** | 2025-07-07 | <details><summary>proje...</summary><p>project page: https://videolifter.github.io</p></details> |
+| **[Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion](http://arxiv.org/abs/2507.06230v1)** | 2025-07-08 | <details><summary>To ap...</summary><p>To appear at ICCV 2025. Christoph Reich and Aleksandar Jevti\'c - both authors contributed equally. Code: https://github.com/tum-vision/scenedino Project page: https://visinf.github.io/scenedino</p></details> |
+| **[Embedding Atlas: Low-Friction, Interactive Embedding Visualization](http://arxiv.org/abs/2505.06386v2)** | 2025-07-08 | <details><summary>Websi...</summary><p>Website: https://apple.github.io/embedding-atlas/</p></details> |
+| **[Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model](http://arxiv.org/abs/2507.06174v1)** | 2025-07-08 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, Submitted to CoRL 2025</p></details> |
+| **[HyperGaussians: High-Dimensional Gaussian Splatting for High-Fidelity Animatable Face Avatars](http://arxiv.org/abs/2507.02803v2)** | 2025-07-08 | <details><summary>Proje...</summary><p>Project page: https://gserifi.github.io/HyperGaussians, Code: https://github.com/gserifi/HyperGaussians</p></details> |
+| **[Inferring Higher-Order Couplings with Neural Networks](http://arxiv.org/abs/2501.06108v4)** | 2025-07-08 | <details><summary>24 Pa...</summary><p>24 Pages and 9 Figures</p></details> |
+| **[Fast and Accurate Collision Probability Estimation for Autonomous Vehicles using Adaptive Sigma-Point Sampling](http://arxiv.org/abs/2507.06149v1)** | 2025-07-08 | 8 pages, 6 figures |
 
