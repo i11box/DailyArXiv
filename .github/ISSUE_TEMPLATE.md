@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - July 14, 2025
+title: Latest 6 Papers - July 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PyVision: Agentic Vision with Dynamic Tooling](http://arxiv.org/abs/2507.07998v1)** | 2025-07-10 | <details><summary>26 Pa...</summary><p>26 Pages, 10 Figures, Technical report</p></details> |
-| **[Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs](http://arxiv.org/abs/2507.07996v1)** | 2025-07-10 | 9 pages, 7 figures |
-| **[Multigranular Evaluation for Brain Visual Decoding](http://arxiv.org/abs/2507.07993v1)** | 2025-07-10 | <details><summary>Proje...</summary><p>Project: https://weihaox.github.io/BASIC</p></details> |
-| **[Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs](http://arxiv.org/abs/2507.07990v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted at ICCV2025; Project page: https://www.jshyun.me/projects/sttm</p></details> |
-| **[Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)](http://arxiv.org/abs/2407.14937v2)** | 2025-07-10 | <details><summary>Trans...</summary><p>Transactions of Machine Learning Research (TMLR)</p></details> |
-| **[Automating Expert-Level Medical Reasoning Evaluation of Large Language Models](http://arxiv.org/abs/2507.07988v1)** | 2025-07-10 | 22 pages,6 figures |
+| **[The Non-Linear Representation Dilemma: Is Causal Abstraction Enough for Mechanistic Interpretability?](http://arxiv.org/abs/2507.08802v1)** | 2025-07-11 | <details><summary>42 pa...</summary><p>42 pages, 17 figures, code available in github.com/densutter/non-linear-representation-dilemma</p></details> |
+| **[Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](http://arxiv.org/abs/2507.08801v1)** | 2025-07-11 | <details><summary>Code ...</summary><p>Code and Models: https://github.com/alibaba-damo-academy/Lumos</p></details> |
+| **[X-Dancer: Expressive Music to Human Dance Video Generation](http://arxiv.org/abs/2502.17414v2)** | 2025-07-11 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project Page: https://zeyuan-chen.com/X-Dancer/</p></details> |
+| **[Learning-aided Bigraph Matching Approach to Multi-Crew Restoration of Damaged Power Networks Coupled with Road Transportation Networks](http://arxiv.org/abs/2506.19703v2)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
+| **[Exploring Efficient Quantification of Modeling Uncertainties with Differentiable Physics-Informed Machine Learning Architectures](http://arxiv.org/abs/2506.18247v2)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
+| **[Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms](http://arxiv.org/abs/2506.16710v3)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Single-pass Adaptive Image Tokenization for Minimum Program Search](http://arxiv.org/abs/2507.07995v1)** | 2025-07-10 | <details><summary>Code ...</summary><p>Code at: https://github.com/ShivamDuggal4/karl Keywords: Representation Learning, Adaptive Tokenization, Compression, Algorithmic Information Theory, Kolmogorov Complexity, Upside-Down RL</p></details> |
-| **[Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs](http://arxiv.org/abs/2507.07990v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted at ICCV2025; Project page: https://www.jshyun.me/projects/sttm</p></details> |
-| **[Long-Form Speech Generation with Spoken Language Models](http://arxiv.org/abs/2412.18603v2)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted to ICML 2025 (oral)</p></details> |
-| **[EinHops: Einsum Notation for Expressive Homomorphic Operations on RNS-CKKS Tensors](http://arxiv.org/abs/2507.07972v1)** | 2025-07-10 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 1 table</p></details> |
-| **[Input Conditioned Layer Dropping in Speech Foundation Models](http://arxiv.org/abs/2507.07954v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted at IEEE MLSP 2025</p></details> |
-| **[BarcodeBERT: Transformers for Biodiversity Analysis](http://arxiv.org/abs/2311.02401v3)** | 2025-07-10 | <details><summary>Main ...</summary><p>Main text: 14 pages, Total: 23 pages, 10 figures, formerly accepted at the 4th Workshop on Self-Supervised Learning: Theory and Practice (NeurIPS 2023)</p></details> |
+| **[X-Dancer: Expressive Music to Human Dance Video Generation](http://arxiv.org/abs/2502.17414v2)** | 2025-07-11 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project Page: https://zeyuan-chen.com/X-Dancer/</p></details> |
+| **[Exploring Efficient Quantification of Modeling Uncertainties with Differentiable Physics-Informed Machine Learning Architectures](http://arxiv.org/abs/2506.18247v2)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
+| **[Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees](http://arxiv.org/abs/2507.08784v1)** | 2025-07-11 | 18 pages, 5 figures |
+| **[CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering](http://arxiv.org/abs/2507.08776v1)** | 2025-07-11 | <details><summary>Proje...</summary><p>Project page: https://c-lift.github.io</p></details> |
+| **[Compress Any Segment Anything Model (SAM)](http://arxiv.org/abs/2507.08765v1)** | 2025-07-11 | <details><summary>13 pa...</summary><p>13 pages, 6 tables, 8 figures</p></details> |
+| **[Alternating Gradient Flows: A Theory of Feature Learning in Two-layer Neural Networks](http://arxiv.org/abs/2506.06489v2)** | 2025-07-11 | 39 pages, 7 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs](http://arxiv.org/abs/2507.07996v1)** | 2025-07-10 | 9 pages, 7 figures |
-| **[Long-Form Speech Generation with Spoken Language Models](http://arxiv.org/abs/2412.18603v2)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted to ICML 2025 (oral)</p></details> |
-| **[Watermarking Degrades Alignment in Language Models: Analysis and Mitigation](http://arxiv.org/abs/2506.04462v2)** | 2025-07-10 | <details><summary>Publi...</summary><p>Published at the 1st Workshop on GenAI Watermarking, collocated with ICLR 2025. OpenReview: https://openreview.net/forum?id=SIBkIV48gF</p></details> |
-| **[Input Conditioned Layer Dropping in Speech Foundation Models](http://arxiv.org/abs/2507.07954v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted at IEEE MLSP 2025</p></details> |
-| **[Late Fusion Multi-task Learning for Semiparametric Inference with Nuisance Parameters](http://arxiv.org/abs/2507.07941v1)** | 2025-07-10 | 21 pages, 3 figures |
-| **[KIS-S: A GPU-Aware Kubernetes Inference Simulator with RL-Based Auto-Scaling](http://arxiv.org/abs/2507.07932v1)** | 2025-07-10 | 8 pages, 6 figures |
+| **[Drowning in Documents: Consequences of Scaling Reranker Inference](http://arxiv.org/abs/2411.11767v2)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted to ReNeuIR 2025 Workshop at SIGIR 2025 Conference</p></details> |
+| **[Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](http://arxiv.org/abs/2507.08801v1)** | 2025-07-11 | <details><summary>Code ...</summary><p>Code and Models: https://github.com/alibaba-damo-academy/Lumos</p></details> |
+| **[Compress Any Segment Anything Model (SAM)](http://arxiv.org/abs/2507.08765v1)** | 2025-07-11 | <details><summary>13 pa...</summary><p>13 pages, 6 tables, 8 figures</p></details> |
+| **[Hashing for Fast Pattern Set Selection](http://arxiv.org/abs/2507.08745v1)** | 2025-07-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, to appear at ECML-PKDD 2025</p></details> |
+| **[Influence of river incision on landslides triggered in Nepal by the Gorkha earthquake: Results from a pixel-based susceptibility model using inlabru](http://arxiv.org/abs/2507.08742v1)** | 2025-07-11 | 45 pages |
+| **[Weak-to-Strong Jailbreaking on Large Language Models](http://arxiv.org/abs/2401.17256v4)** | 2025-07-11 | ICML 2025 |
 
