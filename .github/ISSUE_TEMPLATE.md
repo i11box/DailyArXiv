@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - July 15, 2025
+title: Latest 6 Papers - July 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Non-Linear Representation Dilemma: Is Causal Abstraction Enough for Mechanistic Interpretability?](http://arxiv.org/abs/2507.08802v1)** | 2025-07-11 | <details><summary>42 pa...</summary><p>42 pages, 17 figures, code available in github.com/densutter/non-linear-representation-dilemma</p></details> |
-| **[Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](http://arxiv.org/abs/2507.08801v1)** | 2025-07-11 | <details><summary>Code ...</summary><p>Code and Models: https://github.com/alibaba-damo-academy/Lumos</p></details> |
-| **[X-Dancer: Expressive Music to Human Dance Video Generation](http://arxiv.org/abs/2502.17414v2)** | 2025-07-11 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project Page: https://zeyuan-chen.com/X-Dancer/</p></details> |
-| **[Learning-aided Bigraph Matching Approach to Multi-Crew Restoration of Damaged Power Networks Coupled with Road Transportation Networks](http://arxiv.org/abs/2506.19703v2)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
-| **[Exploring Efficient Quantification of Modeling Uncertainties with Differentiable Physics-Informed Machine Learning Architectures](http://arxiv.org/abs/2506.18247v2)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
-| **[Experimental Setup and Software Pipeline to Evaluate Optimization based Autonomous Multi-Robot Search Algorithms](http://arxiv.org/abs/2506.16710v3)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
+| **[EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](http://arxiv.org/abs/2507.10548v1)** | 2025-07-14 | <details><summary>Proje...</summary><p>Project page: https://mxllc.github.io/EmbRACE-3K/</p></details> |
+| **[Disentangling Neural Disjunctive Normal Form Models](http://arxiv.org/abs/2507.10546v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted at NeSy 2025</p></details> |
+| **[ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions](http://arxiv.org/abs/2507.10542v1)** | 2025-07-14 | <details><summary>(SIGG...</summary><p>(SIGGRAPH 2025) Paper Video: https://youtu.be/VyWkgsGdbkk Project Page: https://shivangi-aneja.github.io/projects/scaffoldavatar/</p></details> |
+| **[REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once](http://arxiv.org/abs/2507.10541v1)** | 2025-07-14 | <details><summary>REST ...</summary><p>REST (Reasoning Evaluation through Simultaneous Testing), a stress-testing framework that concurrently exposes LRMs to multiple problems simultaneously</p></details> |
+| **[CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks](http://arxiv.org/abs/2507.10535v1)** | 2025-07-14 | <details><summary>Datas...</summary><p>Dataset is available at https://huggingface.co/datasets/mattymchen/codejudgebench</p></details> |
+| **[Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination](http://arxiv.org/abs/2507.10532v1)** | 2025-07-14 | 26 pages |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[X-Dancer: Expressive Music to Human Dance Video Generation](http://arxiv.org/abs/2502.17414v2)** | 2025-07-11 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project Page: https://zeyuan-chen.com/X-Dancer/</p></details> |
-| **[Exploring Efficient Quantification of Modeling Uncertainties with Differentiable Physics-Informed Machine Learning Architectures](http://arxiv.org/abs/2506.18247v2)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
-| **[Greedy Low-Rank Gradient Compression for Distributed Learning with Convergence Guarantees](http://arxiv.org/abs/2507.08784v1)** | 2025-07-11 | 18 pages, 5 figures |
-| **[CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering](http://arxiv.org/abs/2507.08776v1)** | 2025-07-11 | <details><summary>Proje...</summary><p>Project page: https://c-lift.github.io</p></details> |
-| **[Compress Any Segment Anything Model (SAM)](http://arxiv.org/abs/2507.08765v1)** | 2025-07-11 | <details><summary>13 pa...</summary><p>13 pages, 6 tables, 8 figures</p></details> |
-| **[Alternating Gradient Flows: A Theory of Feature Learning in Two-layer Neural Networks](http://arxiv.org/abs/2506.06489v2)** | 2025-07-11 | 39 pages, 7 figures |
+| **[Self-supervised Learning on Camera Trap Footage Yields a Strong Universal Face Embedder](http://arxiv.org/abs/2507.10552v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted for publication. Project page, code and weights: https://www.robots.ox.ac.uk/~vgg/research/ChimpUFE/</p></details> |
+| **[Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation](http://arxiv.org/abs/2507.10524v1)** | 2025-07-14 | <details><summary>36 pa...</summary><p>36 pages, 9 figures, 14 tables, codes at https://github.com/raymin0223/mixture_of_recursions</p></details> |
+| **[Cameras as Relative Positional Encoding](http://arxiv.org/abs/2507.10496v1)** | 2025-07-14 | <details><summary>Proje...</summary><p>Project Page: https://www.liruilong.cn/prope/</p></details> |
+| **[The Target Polish: A New Approach to Outlier-Resistant Non-Negative Matrix and Tensor Factorization](http://arxiv.org/abs/2507.10484v1)** | 2025-07-14 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, International Conference on Robust Statistics 2025, Stresa, Italy</p></details> |
+| **[From BERT to Qwen: Hate Detection across architectures](http://arxiv.org/abs/2507.10468v1)** | 2025-07-14 | <details><summary>4 pag...</summary><p>4 pages, 5 figures. EE-559 Deep Learning course project (Group 11)</p></details> |
+| **[Flexible Modeling of Multivariate Skewed and Heavy-Tailed Data via a Non-Central Skew t Distribution: Application to Tumor Shape Data](http://arxiv.org/abs/2507.10465v1)** | 2025-07-14 | 22 pages, 9 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Drowning in Documents: Consequences of Scaling Reranker Inference](http://arxiv.org/abs/2411.11767v2)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted to ReNeuIR 2025 Workshop at SIGIR 2025 Conference</p></details> |
-| **[Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](http://arxiv.org/abs/2507.08801v1)** | 2025-07-11 | <details><summary>Code ...</summary><p>Code and Models: https://github.com/alibaba-damo-academy/Lumos</p></details> |
-| **[Compress Any Segment Anything Model (SAM)](http://arxiv.org/abs/2507.08765v1)** | 2025-07-11 | <details><summary>13 pa...</summary><p>13 pages, 6 tables, 8 figures</p></details> |
-| **[Hashing for Fast Pattern Set Selection](http://arxiv.org/abs/2507.08745v1)** | 2025-07-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, to appear at ECML-PKDD 2025</p></details> |
-| **[Influence of river incision on landslides triggered in Nepal by the Gorkha earthquake: Results from a pixel-based susceptibility model using inlabru](http://arxiv.org/abs/2507.08742v1)** | 2025-07-11 | 45 pages |
-| **[Weak-to-Strong Jailbreaking on Large Language Models](http://arxiv.org/abs/2401.17256v4)** | 2025-07-11 | ICML 2025 |
+| **[GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting](http://arxiv.org/abs/2408.11447v4)** | 2025-07-14 | <details><summary>Proje...</summary><p>Project page: https://ganwanshui.github.io/GaussianOcc/</p></details> |
+| **[Overcoming catastrophic forgetting in neural networks](http://arxiv.org/abs/2507.10485v1)** | 2025-07-14 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, EE-411 Fundamentals of inference and learning course project</p></details> |
+| **[The Target Polish: A New Approach to Outlier-Resistant Non-Negative Matrix and Tensor Factorization](http://arxiv.org/abs/2507.10484v1)** | 2025-07-14 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, International Conference on Robust Statistics 2025, Stresa, Italy</p></details> |
+| **[GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space](http://arxiv.org/abs/2507.10473v1)** | 2025-07-14 | Accepted in ICCV2025 |
+| **[Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model](http://arxiv.org/abs/2507.06174v2)** | 2025-07-14 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, Submitted to CoRL 2025</p></details> |
+| **[Flexible Modeling of Multivariate Skewed and Heavy-Tailed Data via a Non-Central Skew t Distribution: Application to Tumor Shape Data](http://arxiv.org/abs/2507.10465v1)** | 2025-07-14 | 22 pages, 9 figures |
 
