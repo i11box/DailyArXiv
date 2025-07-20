@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - July 18, 2025
+title: Latest 6 Papers - July 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Language Models Improve When Pretraining Data Matches Target Tasks](http://arxiv.org/abs/2507.12466v1)** | 2025-07-16 | <details><summary>44 pa...</summary><p>44 pages, 25 figures, 13 tables</p></details> |
-| **[PhysX: Physical-Grounded 3D Asset Generation](http://arxiv.org/abs/2507.12465v1)** | 2025-07-16 | <details><summary>Proje...</summary><p>Project page: https://physx-3d.github.io/</p></details> |
-| **[CytoSAE: Interpretable Cell Embeddings for Hematology](http://arxiv.org/abs/2507.12464v1)** | 2025-07-16 | 11 pages, 5 figures |
-| **[Diffused Responsibility: Analyzing the Energy Consumption of Generative Text-to-Audio Diffusion Models](http://arxiv.org/abs/2505.07615v2)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted at WASPAA 2025</p></details> |
-| **[Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis](http://arxiv.org/abs/2507.12461v1)** | 2025-07-16 | ACM MM 2025 |
-| **[A single chip 1.024 Tb/s silicon photonics PAM4 receiver](http://arxiv.org/abs/2507.12452v1)** | 2025-07-16 | <details><summary>29 pa...</summary><p>29 pages, 5 main figures, 4 extended data figures, 1 extended data table</p></details> |
+| **[VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding](http://arxiv.org/abs/2507.13353v1)** | 2025-07-17 | Technical Report |
+| **[Hierarchical Rectified Flow Matching with Mini-Batch Couplings](http://arxiv.org/abs/2507.13350v1)** | 2025-07-17 | <details><summary>Proje...</summary><p>Project Page: https://riccizz.github.io/HRF_coupling</p></details> |
+| **[VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](http://arxiv.org/abs/2507.13348v1)** | 2025-07-17 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/dvlab-research/VisionThink</p></details> |
+| **[$π^3$: Scalable Permutation-Equivariant Visual Geometry Learning](http://arxiv.org/abs/2507.13347v1)** | 2025-07-17 | <details><summary>Proje...</summary><p>Project page: https://yyfz.github.io/pi3/</p></details> |
+| **[Imbalance in Balance: Online Concept Balancing in Generation Models](http://arxiv.org/abs/2507.13345v1)** | 2025-07-17 | Accepted by ICCV2025 |
+| **[AutoPartGen: Autogressive 3D Part Generation and Discovery](http://arxiv.org/abs/2507.13346v1)** | 2025-07-17 | <details><summary>Proje...</summary><p>Project page: https://silent-chen.github.io/AutoPartGen/</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CytoSAE: Interpretable Cell Embeddings for Hematology](http://arxiv.org/abs/2507.12464v1)** | 2025-07-16 | 11 pages, 5 figures |
-| **[Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis](http://arxiv.org/abs/2507.12461v1)** | 2025-07-16 | ACM MM 2025 |
-| **[Flow-GRPO: Training Flow Matching Models via Online RL](http://arxiv.org/abs/2505.05470v4)** | 2025-07-16 | <details><summary>Code:...</summary><p>Code: https://github.com/yifan123/flow_grpo</p></details> |
-| **[BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration](http://arxiv.org/abs/2507.12444v1)** | 2025-07-16 | <details><summary>15 pa...</summary><p>15 pages, 18 figures, 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA)</p></details> |
-| **[Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length](http://arxiv.org/abs/2507.12442v1)** | 2025-07-16 | 12 pages, 7 figures |
-| **[Unit-Based Histopathology Tissue Segmentation via Multi-Level Feature Representation](http://arxiv.org/abs/2507.12427v1)** | 2025-07-16 | 12 pages, 6 figures |
+| **[VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](http://arxiv.org/abs/2507.13348v1)** | 2025-07-17 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/dvlab-research/VisionThink</p></details> |
+| **[Taming Diffusion Transformer for Real-Time Mobile Video Generation](http://arxiv.org/abs/2507.13343v1)** | 2025-07-17 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
+| **[GeoReg: Weight-Constrained Few-Shot Regression for Socio-Economic Estimation using LLM](http://arxiv.org/abs/2507.13323v1)** | 2025-07-17 | <details><summary>15 pa...</summary><p>15 pages, 13 figures, 7 tables</p></details> |
+| **[Modelling the spillover from online engagement to offline protest: stochastic dynamics and mean-field approximations on networks](http://arxiv.org/abs/2507.13310v1)** | 2025-07-17 | 44 pages, 33 figures |
+| **[Efficient Adaptation of Pre-trained Vision Transformer underpinned by Approximately Orthogonal Fine-Tuning Strategy](http://arxiv.org/abs/2507.13260v1)** | 2025-07-17 | <details><summary>This ...</summary><p>This paper is accepted by ICCV 2025</p></details> |
+| **[$S^2M^2$: Scalable Stereo Matching Model for Reliable Depth Estimation](http://arxiv.org/abs/2507.13229v1)** | 2025-07-17 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, ICCV accepted paper</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CytoSAE: Interpretable Cell Embeddings for Hematology](http://arxiv.org/abs/2507.12464v1)** | 2025-07-16 | 11 pages, 5 figures |
-| **[Diffused Responsibility: Analyzing the Energy Consumption of Generative Text-to-Audio Diffusion Models](http://arxiv.org/abs/2505.07615v2)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted at WASPAA 2025</p></details> |
-| **[Flow-GRPO: Training Flow Matching Models via Online RL](http://arxiv.org/abs/2505.05470v4)** | 2025-07-16 | <details><summary>Code:...</summary><p>Code: https://github.com/yifan123/flow_grpo</p></details> |
-| **[Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length](http://arxiv.org/abs/2507.12442v1)** | 2025-07-16 | 12 pages, 7 figures |
-| **[Hierarchical Temporal Point Process Modeling of Aggressive Behavior Onset in Psychiatric Inpatient Youth with Autism for Branching Factor Estimation](http://arxiv.org/abs/2507.12424v1)** | 2025-07-16 | <details><summary>Submi...</summary><p>Submitted to BMC Bioinformatics</p></details> |
-| **[ROC-n-reroll: How verifier imperfection affects test-time scaling](http://arxiv.org/abs/2507.12399v1)** | 2025-07-16 | 35 pages, 9 Figures |
+| **[Taming Diffusion Transformer for Real-Time Mobile Video Generation](http://arxiv.org/abs/2507.13343v1)** | 2025-07-17 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
+| **[SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation](http://arxiv.org/abs/2507.13336v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted in RecSys 2025. arXiv admin note: substantial text overlap with arXiv:2404.15954</p></details> |
+| **[A Survey of Context Engineering for Large Language Models](http://arxiv.org/abs/2507.13334v1)** | 2025-07-17 | <details><summary>ongoi...</summary><p>ongoing work; 165 pages, 1401 citations</p></details> |
+| **[A Real-Time System for Egocentric Hand-Object Interaction Detection in Industrial Domains](http://arxiv.org/abs/2507.13326v1)** | 2025-07-17 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, In International Conference on Image Analysis and Processing</p></details> |
+| **[GPU Performance Portability needs Autotuning](http://arxiv.org/abs/2505.03780v3)** | 2025-07-17 | <details><summary>revis...</summary><p>revision after reviewers feedback, broadening autotune study</p></details> |
+| **[Retraining-Free Merging of Sparse MoE via Hierarchical Clustering](http://arxiv.org/abs/2410.08589v3)** | 2025-07-17 | <details><summary>Code:...</summary><p>Code: https://github.com/wazenmai/HC-SMoE</p></details> |
 
