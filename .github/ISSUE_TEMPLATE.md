@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - July 23, 2025
+title: Latest 6 Papers - July 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diffusion Beats Autoregressive in Data-Constrained Settings](http://arxiv.org/abs/2507.15857v1)** | 2025-07-21 | <details><summary>Proje...</summary><p>Project Webpage: https://diffusion-scaling.github.io</p></details> |
-| **[Latent Denoising Makes Good Visual Tokenizers](http://arxiv.org/abs/2507.15856v1)** | 2025-07-21 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/Jiawei-Yang/DeTok</p></details> |
-| **[SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction](http://arxiv.org/abs/2507.15852v1)** | 2025-07-21 | <details><summary>proje...</summary><p>project page: https://rookiexiong7.github.io/projects/SeC/; code: https://github.com/OpenIXCLab/SeC; dataset: https://huggingface.co/datasets/OpenIXCLab/SeCVOS</p></details> |
-| **[The Other Mind: How Language Models Exhibit Human Temporal Cognition](http://arxiv.org/abs/2507.15851v1)** | 2025-07-21 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 4 tables</p></details> |
-| **[Iterative thresholding low-rank time integration](http://arxiv.org/abs/2507.15848v1)** | 2025-07-21 | 35 pages |
-| **[Hierarchical Budget Policy Optimization for Adaptive Reasoning](http://arxiv.org/abs/2507.15844v1)** | 2025-07-21 | <details><summary>Code:...</summary><p>Code: https://github.com/zju-real/hbpo Project Page:https://zju-real.github.io/hbpo/</p></details> |
+| **[ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](http://arxiv.org/abs/2507.16815v1)** | 2025-07-22 | <details><summary>Proje...</summary><p>Project page: https://jasper0314-huang.github.io/thinkact-vla/</p></details> |
+| **[MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning](http://arxiv.org/abs/2507.16812v1)** | 2025-07-22 | <details><summary>39 pa...</summary><p>39 pages; Github: https://github.com/GAIR-NLP/MegaScience; HF: https://huggingface.co/MegaScience</p></details> |
+| **[LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs](http://arxiv.org/abs/2507.16809v1)** | 2025-07-22 | <details><summary>41 pa...</summary><p>41 pages, 17 figures, 10 tables</p></details> |
+| **[Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis](http://arxiv.org/abs/2507.16808v1)** | 2025-07-22 | <details><summary>13pag...</summary><p>13pages with 9 pictures and 2 tables</p></details> |
+| **[Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading with Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2507.16796v1)** | 2025-07-22 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 1 table, Proceedings of the Main Track of the European Conference on Artificial Intelligence (ECAI 2025), October 25-30, 2025</p></details> |
+| **[Edge of Stochastic Stability: Revisiting the Edge of Stability for SGD](http://arxiv.org/abs/2412.20553v4)** | 2025-07-22 | 71 pages, 43 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction](http://arxiv.org/abs/2507.15852v1)** | 2025-07-21 | <details><summary>proje...</summary><p>project page: https://rookiexiong7.github.io/projects/SeC/; code: https://github.com/OpenIXCLab/SeC; dataset: https://huggingface.co/datasets/OpenIXCLab/SeCVOS</p></details> |
-| **[The Other Mind: How Language Models Exhibit Human Temporal Cognition](http://arxiv.org/abs/2507.15851v1)** | 2025-07-21 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 4 tables</p></details> |
-| **[Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers](http://arxiv.org/abs/2507.15833v1)** | 2025-07-21 | 13 pages, 10 figures |
-| **[Efficient Multi-Camera Tokenization with Triplanes for End-to-End Driving](http://arxiv.org/abs/2506.12251v2)** | 2025-07-21 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, 5 tables</p></details> |
-| **[Hyperelastic nature of the Hoek-Brown criterion](http://arxiv.org/abs/2507.15813v1)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted for publication in European Journal of Mechanics - A/Solids</p></details> |
-| **[Hypergraphs on high dimensional time series sets using signature transform](http://arxiv.org/abs/2507.15802v1)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted at GSI25 conference. Pending publication in Springer proceedings</p></details> |
+| **[ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](http://arxiv.org/abs/2507.16815v1)** | 2025-07-22 | <details><summary>Proje...</summary><p>Project page: https://jasper0314-huang.github.io/thinkact-vla/</p></details> |
+| **[Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading with Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2507.16796v1)** | 2025-07-22 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 1 table, Proceedings of the Main Track of the European Conference on Artificial Intelligence (ECAI 2025), October 25-30, 2025</p></details> |
+| **[Learning novel representations of variable sources from multi-modal $\textit{Gaia}$ data via autoencoders](http://arxiv.org/abs/2505.16320v2)** | 2025-07-22 | <details><summary>Manus...</summary><p>Manuscript accepted on Astronomy & Astrophysics, 20 pages, 20 figures, 2 tables</p></details> |
+| **[CMP: A Composable Meta Prompt for SAM-Based Cross-Domain Few-Shot Segmentation](http://arxiv.org/abs/2507.16753v1)** | 2025-07-22 | 3 figures |
+| **[Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges](http://arxiv.org/abs/2507.16731v1)** | 2025-07-22 | 35 pages, 9 figures |
+| **[ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](http://arxiv.org/abs/2504.20630v4)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction](http://arxiv.org/abs/2507.15852v1)** | 2025-07-21 | <details><summary>proje...</summary><p>project page: https://rookiexiong7.github.io/projects/SeC/; code: https://github.com/OpenIXCLab/SeC; dataset: https://huggingface.co/datasets/OpenIXCLab/SeCVOS</p></details> |
-| **[A Survey of Context Engineering for Large Language Models](http://arxiv.org/abs/2507.13334v2)** | 2025-07-21 | <details><summary>ongoi...</summary><p>ongoing work; 166 pages, 1411 citations</p></details> |
-| **[Efficient Multi-Camera Tokenization with Triplanes for End-to-End Driving](http://arxiv.org/abs/2506.12251v2)** | 2025-07-21 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, 5 tables</p></details> |
-| **[Empirical Likelihood Based Inference for a Divergence Measure Based on Survival Extropy](http://arxiv.org/abs/2507.15810v1)** | 2025-07-21 | 16 pages |
-| **[Reservoir Computing as a Language Model](http://arxiv.org/abs/2507.15779v1)** | 2025-07-21 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
-| **[Dissociating model architectures from inference computations](http://arxiv.org/abs/2507.15776v1)** | 2025-07-21 | 3 pages, 1 figure |
+| **[LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs](http://arxiv.org/abs/2507.16809v1)** | 2025-07-22 | <details><summary>41 pa...</summary><p>41 pages, 17 figures, 10 tables</p></details> |
+| **[Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning](http://arxiv.org/abs/2507.16784v1)** | 2025-07-22 | Research preview |
+| **[Can we have it all? Non-asymptotically valid and asymptotically exact confidence intervals for expectations and linear regressions](http://arxiv.org/abs/2507.16776v1)** | 2025-07-22 | 69 pages |
+| **[Multi-RIS-Empowered Communication Systems: Capacity Analysis and Optimization](http://arxiv.org/abs/2507.16767v1)** | 2025-07-22 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, book chapter</p></details> |
+| **[Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning](http://arxiv.org/abs/2507.16746v1)** | 2025-07-22 | <details><summary>datas...</summary><p>dataset link: https://huggingface.co/datasets/multimodal-reasoning-lab/Zebra-CoT</p></details> |
+| **[T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs](http://arxiv.org/abs/2507.10183v2)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted to MLoG-GenAI Workshop @ KDD 2025 (Oral)</p></details> |
 
