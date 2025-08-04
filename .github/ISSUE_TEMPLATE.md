@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - August 04, 2025
+title: Latest 6 Papers - August 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Amplitude amplification and estimation require inverses](http://arxiv.org/abs/2507.23787v1)** | 2025-07-31 | 20 pages |
-| **[Gaussian Variation Field Diffusion for High-fidelity Video-to-4D Synthesis](http://arxiv.org/abs/2507.23785v1)** | 2025-07-31 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://gvfdiffusion.github.io/</p></details> |
-| **[SUB: Benchmarking CBM Generalization via Synthetic Attribute Substitutions](http://arxiv.org/abs/2507.23784v1)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
-| **[Cascaded Information Disclosure for Generalized Evaluation of Problem Solving Capabilities](http://arxiv.org/abs/2507.23776v1)** | 2025-07-31 | Under review |
-| **[Consensus-Driven Active Model Selection](http://arxiv.org/abs/2507.23771v1)** | 2025-07-31 | <details><summary>ICCV ...</summary><p>ICCV 2025 Highlight. 16 pages, 8 figures</p></details> |
-| **[Scaled Beta Models and Feature Dilution for Dynamic Ticket Pricing](http://arxiv.org/abs/2507.23767v1)** | 2025-07-31 | <details><summary>27 pa...</summary><p>27 pages, 11 figures, 3 tables</p></details> |
+| **[Local Poisson Deconvolution for Discrete Signals](http://arxiv.org/abs/2508.00824v1)** | 2025-08-01 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
+| **[IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation](http://arxiv.org/abs/2508.00823v1)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Project page: https://gwxuan.github.io/IGL-Nav/</p></details> |
+| **[Beyond Fixed: Variable-Length Denoising for Diffusion Large Language Models](http://arxiv.org/abs/2508.00819v1)** | 2025-08-01 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Li-Jinsong/DAEDAL</p></details> |
+| **[Efficient Solving of Large Single Input Superstate Decomposable Markovian Decision Process](http://arxiv.org/abs/2508.00816v1)** | 2025-08-01 | <details><summary>Prepr...</summary><p>Preprint article submitted to ValueTools2025</p></details> |
+| **[Adacc: Adaptive Compression and Activation Checkpointing for LLM Memory Management](http://arxiv.org/abs/2508.00806v1)** | 2025-08-01 | 8 pages |
+| **[Online Fine-Tuning of Carbon Emission Predictions using Real-Time Recurrent Learning for State Space Models](http://arxiv.org/abs/2508.00804v1)** | 2025-08-01 | 6 pages |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Amplitude amplification and estimation require inverses](http://arxiv.org/abs/2507.23787v1)** | 2025-07-31 | 20 pages |
-| **[Gaussian Variation Field Diffusion for High-fidelity Video-to-4D Synthesis](http://arxiv.org/abs/2507.23785v1)** | 2025-07-31 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://gvfdiffusion.github.io/</p></details> |
-| **[Generalizable Motion Policies through Keypoint Parameterization and Transportation Maps](http://arxiv.org/abs/2404.13458v2)** | 2025-07-31 | <details><summary>This ...</summary><p>This article was accepted at IEEE Transactions on Robotics (T-RO)</p></details> |
-| **[Graph Reconstruction from Noisy Random Subgraphs](http://arxiv.org/abs/2405.04261v2)** | 2025-07-31 | <details><summary>6 pag...</summary><p>6 pages, to appear in ISIT 2024</p></details> |
-| **[Automating AI Failure Tracking: Semantic Association of Reports in AI Incident Database](http://arxiv.org/abs/2507.23669v1)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted at the 28th European Conference on Artificial Intelligence (ECAI 2025)</p></details> |
-| **[Arabic Hate Speech Identification and Masking in Social Media using Deep Learning Models and Pre-trained Models Fine-tuning](http://arxiv.org/abs/2507.23661v1)** | 2025-07-31 | 23 pages, 5 figures |
+| **[Adacc: Adaptive Compression and Activation Checkpointing for LLM Memory Management](http://arxiv.org/abs/2508.00806v1)** | 2025-08-01 | 8 pages |
+| **[How LLMs are Shaping the Future of Virtual Reality](http://arxiv.org/abs/2508.00737v1)** | 2025-08-01 | Pre-print |
+| **[AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation](http://arxiv.org/abs/2508.00733v1)** | 2025-08-01 | 12 pages, 2 figures |
+| **[Towards Fair In-Context Learning with Tabular Foundation Models](http://arxiv.org/abs/2505.09503v3)** | 2025-08-01 | <details><summary>30 pa...</summary><p>30 pages, 12 figures, 5 tables</p></details> |
+| **[On-Device Diffusion Transformer Policy for Efficient Robot Manipulation](http://arxiv.org/abs/2508.00697v1)** | 2025-08-01 | ICCV 2025 |
+| **[Semantic-Aware Adaptive Video Streaming Using Latent Diffusion Models for Wireless Networks](http://arxiv.org/abs/2502.05695v3)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted in IEEE Wireless Communications</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Consensus-Driven Active Model Selection](http://arxiv.org/abs/2507.23771v1)** | 2025-07-31 | <details><summary>ICCV ...</summary><p>ICCV 2025 Highlight. 16 pages, 8 figures</p></details> |
-| **[Relative Bias Under Imperfect Identification in Observational Causal Inference](http://arxiv.org/abs/2507.23743v1)** | 2025-07-31 | <details><summary>19 pa...</summary><p>19 pages, 2 figures, plus references and appendices</p></details> |
-| **[DICOM De-Identification via Hybrid AI and Rule-Based Framework for Scalable, Uncertainty-Aware Redaction](http://arxiv.org/abs/2507.23736v1)** | 2025-07-31 | 15 pages, 6 figures, |
-| **[Inference for Dispersion and Curvature of Random Objects](http://arxiv.org/abs/2505.09844v2)** | 2025-07-31 | 87 pages, 17 figures |
-| **[SDFit: 3D Object Pose and Shape by Fitting a Morphable SDF to a Single Image](http://arxiv.org/abs/2409.16178v3)** | 2025-07-31 | <details><summary>ICCV'...</summary><p>ICCV'25 Camera Ready; 12 pages, 11 figures, 5 tables</p></details> |
-| **[An approach to robust Bayesian regression in astronomy](http://arxiv.org/abs/2411.02380v3)** | 2025-07-31 | <details><summary>16 pa...</summary><p>16 pages, 21 figures; accepted for publication in RASTI</p></details> |
+| **[Beyond Fixed: Variable-Length Denoising for Diffusion Large Language Models](http://arxiv.org/abs/2508.00819v1)** | 2025-08-01 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Li-Jinsong/DAEDAL</p></details> |
+| **[FalconGym: A Photorealistic Simulation Framework for Zero-Shot Sim-to-Real Vision-Based Quadrotor Navigation](http://arxiv.org/abs/2503.02198v2)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted in IROS 2025</p></details> |
+| **[Online Fine-Tuning of Carbon Emission Predictions using Real-Time Recurrent Learning for State Space Models](http://arxiv.org/abs/2508.00804v1)** | 2025-08-01 | 6 pages |
+| **[RecPS: Privacy Risk Scoring for Recommender Systems](http://arxiv.org/abs/2507.18365v3)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted by ACM RecSys 2025; to appear</p></details> |
+| **[GUAVA: Generalizable Upper Body 3D Gaussian Avatar](http://arxiv.org/abs/2505.03351v2)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025, Project page: https://eastbeanzhang.github.io/GUAVA/</p></details> |
+| **[Harnessing the Power of Interleaving and Counterfactual Evaluation for Airbnb Search Ranking](http://arxiv.org/abs/2508.00751v1)** | 2025-08-01 | 10 pages |
 
