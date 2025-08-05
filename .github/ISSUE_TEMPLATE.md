@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - August 05, 2025
+title: Latest 6 Papers - August 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Local Poisson Deconvolution for Discrete Signals](http://arxiv.org/abs/2508.00824v1)** | 2025-08-01 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
-| **[IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation](http://arxiv.org/abs/2508.00823v1)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Project page: https://gwxuan.github.io/IGL-Nav/</p></details> |
-| **[Beyond Fixed: Variable-Length Denoising for Diffusion Large Language Models](http://arxiv.org/abs/2508.00819v1)** | 2025-08-01 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Li-Jinsong/DAEDAL</p></details> |
-| **[Efficient Solving of Large Single Input Superstate Decomposable Markovian Decision Process](http://arxiv.org/abs/2508.00816v1)** | 2025-08-01 | <details><summary>Prepr...</summary><p>Preprint article submitted to ValueTools2025</p></details> |
-| **[Adacc: Adaptive Compression and Activation Checkpointing for LLM Memory Management](http://arxiv.org/abs/2508.00806v1)** | 2025-08-01 | 8 pages |
-| **[Online Fine-Tuning of Carbon Emission Predictions using Real-Time Recurrent Learning for State Space Models](http://arxiv.org/abs/2508.00804v1)** | 2025-08-01 | 6 pages |
+| **[Raw Data Matters: Enhancing Prompt Tuning by Internal Augmentation on Vision-Language Models](http://arxiv.org/abs/2508.02671v1)** | 2025-08-04 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 15 tables</p></details> |
+| **[MedVLThinker: Simple Baselines for Multimodal Medical Reasoning](http://arxiv.org/abs/2508.02669v1)** | 2025-08-04 | <details><summary>Proje...</summary><p>Project page and code: https://ucsc-vlaa.github.io/MedVLThinker/</p></details> |
+| **[Manip4Care: Robotic Manipulation of Human Limbs for Solving Assistive Tasks](http://arxiv.org/abs/2508.02649v1)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
+| **[Evaluating Variance in Visual Question Answering Benchmarks](http://arxiv.org/abs/2508.02645v1)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted in ICCV 2025 Workshop on What's Next in Multimodal Foundational Models</p></details> |
+| **[FastCSP: Accelerated Molecular Crystal Structure Prediction with Universal Model for Atoms](http://arxiv.org/abs/2508.02641v1)** | 2025-08-04 | <details><summary>52 pa...</summary><p>52 pages, 19 figures, 6 tables</p></details> |
+| **[An Efficient Continuous-Time MILP for Integrated Aircraft Hangar Scheduling and Layout](http://arxiv.org/abs/2508.02640v1)** | 2025-08-04 | 35 pages, 7 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adacc: Adaptive Compression and Activation Checkpointing for LLM Memory Management](http://arxiv.org/abs/2508.00806v1)** | 2025-08-01 | 8 pages |
-| **[How LLMs are Shaping the Future of Virtual Reality](http://arxiv.org/abs/2508.00737v1)** | 2025-08-01 | Pre-print |
-| **[AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation](http://arxiv.org/abs/2508.00733v1)** | 2025-08-01 | 12 pages, 2 figures |
-| **[Towards Fair In-Context Learning with Tabular Foundation Models](http://arxiv.org/abs/2505.09503v3)** | 2025-08-01 | <details><summary>30 pa...</summary><p>30 pages, 12 figures, 5 tables</p></details> |
-| **[On-Device Diffusion Transformer Policy for Efficient Robot Manipulation](http://arxiv.org/abs/2508.00697v1)** | 2025-08-01 | ICCV 2025 |
-| **[Semantic-Aware Adaptive Video Streaming Using Latent Diffusion Models for Wireless Networks](http://arxiv.org/abs/2502.05695v3)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted in IEEE Wireless Communications</p></details> |
+| **[CAK: Emergent Audio Effects from Minimal Deep Learning](http://arxiv.org/abs/2508.02643v1)** | 2025-08-04 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, code and other resources at https://github.com/gloame-ai/cak-audio/tree/main/cak-audio</p></details> |
+| **[Pointer: Linear-Complexity Long-Range Modeling without Pre-training](http://arxiv.org/abs/2508.02631v1)** | 2025-08-04 | <details><summary>Submi...</summary><p>Submitted to Nordic AI Meet 2025</p></details> |
+| **[Functional limit theorems and parameter inference for multiscale stochastic models of enzyme kinetics](http://arxiv.org/abs/2409.06565v2)** | 2025-08-04 | Typos fixed |
+| **[Extrapolation by Association: Length Generalization Transfer in Transformers](http://arxiv.org/abs/2506.09251v2)** | 2025-08-04 | 23 pages, 20 figures |
+| **[Explainable AI for Automated User-specific Feedback in Surgical Skill Acquisition](http://arxiv.org/abs/2508.02593v1)** | 2025-08-04 | 10 pages, 4 figures |
+| **[Solved in Unit Domain: JacobiNet for Differentiable Coordinate Transformations](http://arxiv.org/abs/2508.02537v1)** | 2025-08-04 | <details><summary>Submi...</summary><p>Submitted to CMAME, revision in progress</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Fixed: Variable-Length Denoising for Diffusion Large Language Models](http://arxiv.org/abs/2508.00819v1)** | 2025-08-01 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Li-Jinsong/DAEDAL</p></details> |
-| **[FalconGym: A Photorealistic Simulation Framework for Zero-Shot Sim-to-Real Vision-Based Quadrotor Navigation](http://arxiv.org/abs/2503.02198v2)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted in IROS 2025</p></details> |
-| **[Online Fine-Tuning of Carbon Emission Predictions using Real-Time Recurrent Learning for State Space Models](http://arxiv.org/abs/2508.00804v1)** | 2025-08-01 | 6 pages |
-| **[RecPS: Privacy Risk Scoring for Recommender Systems](http://arxiv.org/abs/2507.18365v3)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted by ACM RecSys 2025; to appear</p></details> |
-| **[GUAVA: Generalizable Upper Body 3D Gaussian Avatar](http://arxiv.org/abs/2505.03351v2)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025, Project page: https://eastbeanzhang.github.io/GUAVA/</p></details> |
-| **[Harnessing the Power of Interleaving and Counterfactual Evaluation for Airbnb Search Ranking](http://arxiv.org/abs/2508.00751v1)** | 2025-08-01 | 10 pages |
+| **[Causal Estimation and Inference in Nonlinear Mendelian Randomization Studies](http://arxiv.org/abs/2402.01121v2)** | 2025-08-04 | 25 pages, 7 figures |
+| **[HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents](http://arxiv.org/abs/2508.02629v1)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Workshop on Multi-Modal Reasoning for Agentic Intelligence</p></details> |
+| **[Functional limit theorems and parameter inference for multiscale stochastic models of enzyme kinetics](http://arxiv.org/abs/2409.06565v2)** | 2025-08-04 | Typos fixed |
+| **[Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction](http://arxiv.org/abs/2508.02558v1)** | 2025-08-04 | 11 pages, 6 figures |
+| **[Stakeholder Perspectives on Humanistic Implementation of Computer Perception in Healthcare: A Qualitative Study](http://arxiv.org/abs/2508.02550v1)** | 2025-08-04 | 65 pages |
+| **[Accurate and Interpretable Postmenstrual Age Prediction via Multimodal Large Language Model](http://arxiv.org/abs/2508.02525v1)** | 2025-08-04 | <details><summary>Submi...</summary><p>Submitted to the NeurIPS 2025 Workshop GenAI4Health. Conference website: https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/</p></details> |
 
