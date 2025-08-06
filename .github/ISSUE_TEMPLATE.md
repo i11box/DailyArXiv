@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - August 06, 2025
+title: Latest 6 Papers - August 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Raw Data Matters: Enhancing Prompt Tuning by Internal Augmentation on Vision-Language Models](http://arxiv.org/abs/2508.02671v1)** | 2025-08-04 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 15 tables</p></details> |
-| **[MedVLThinker: Simple Baselines for Multimodal Medical Reasoning](http://arxiv.org/abs/2508.02669v1)** | 2025-08-04 | <details><summary>Proje...</summary><p>Project page and code: https://ucsc-vlaa.github.io/MedVLThinker/</p></details> |
-| **[Manip4Care: Robotic Manipulation of Human Limbs for Solving Assistive Tasks](http://arxiv.org/abs/2508.02649v1)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
-| **[Evaluating Variance in Visual Question Answering Benchmarks](http://arxiv.org/abs/2508.02645v1)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted in ICCV 2025 Workshop on What's Next in Multimodal Foundational Models</p></details> |
-| **[FastCSP: Accelerated Molecular Crystal Structure Prediction with Universal Model for Atoms](http://arxiv.org/abs/2508.02641v1)** | 2025-08-04 | <details><summary>52 pa...</summary><p>52 pages, 19 figures, 6 tables</p></details> |
-| **[An Efficient Continuous-Time MILP for Integrated Aircraft Hangar Scheduling and Layout](http://arxiv.org/abs/2508.02640v1)** | 2025-08-04 | 35 pages, 7 figures |
+| **[Trokens: Semantic-Aware Relational Trajectory Tokens for Few-Shot Action Recognition](http://arxiv.org/abs/2508.03695v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025; First two authors contributed equally</p></details> |
+| **[LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences](http://arxiv.org/abs/2508.03692v1)** | 2025-08-05 | <details><summary>Prepr...</summary><p>Preprint; 28 pages, 18 figures, 12 tables; Project Page at https://lidarcrafter.github.io</p></details> |
+| **[PAC Apprenticeship Learning with Bayesian Active Inverse Reinforcement Learning](http://arxiv.org/abs/2508.03693v1)** | 2025-08-05 | <details><summary>Publi...</summary><p>Published at RLC 2025</p></details> |
+| **[La La LiDAR: Large-Scale Layout Generation from LiDAR Data](http://arxiv.org/abs/2508.03691v1)** | 2025-08-05 | <details><summary>Prepr...</summary><p>Preprint; 10 pages, 6 figures, 7 tables</p></details> |
+| **[Veila: Panoramic LiDAR Generation from a Monocular RGB Image](http://arxiv.org/abs/2508.03690v1)** | 2025-08-05 | <details><summary>Prepr...</summary><p>Preprint; 10 pages, 6 figures, 7 tables</p></details> |
+| **[Learning quadratic neural networks in high dimensions: SGD dynamics and scaling laws](http://arxiv.org/abs/2508.03688v1)** | 2025-08-05 | 84 pages |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CAK: Emergent Audio Effects from Minimal Deep Learning](http://arxiv.org/abs/2508.02643v1)** | 2025-08-04 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, code and other resources at https://github.com/gloame-ai/cak-audio/tree/main/cak-audio</p></details> |
-| **[Pointer: Linear-Complexity Long-Range Modeling without Pre-training](http://arxiv.org/abs/2508.02631v1)** | 2025-08-04 | <details><summary>Submi...</summary><p>Submitted to Nordic AI Meet 2025</p></details> |
-| **[Functional limit theorems and parameter inference for multiscale stochastic models of enzyme kinetics](http://arxiv.org/abs/2409.06565v2)** | 2025-08-04 | Typos fixed |
-| **[Extrapolation by Association: Length Generalization Transfer in Transformers](http://arxiv.org/abs/2506.09251v2)** | 2025-08-04 | 23 pages, 20 figures |
-| **[Explainable AI for Automated User-specific Feedback in Surgical Skill Acquisition](http://arxiv.org/abs/2508.02593v1)** | 2025-08-04 | 10 pages, 4 figures |
-| **[Solved in Unit Domain: JacobiNet for Differentiable Coordinate Transformations](http://arxiv.org/abs/2508.02537v1)** | 2025-08-04 | <details><summary>Submi...</summary><p>Submitted to CMAME, revision in progress</p></details> |
+| **[Trokens: Semantic-Aware Relational Trajectory Tokens for Few-Shot Action Recognition](http://arxiv.org/abs/2508.03695v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025; First two authors contributed equally</p></details> |
+| **[What If, But Privately: Private Counterfactual Retrieval](http://arxiv.org/abs/2508.03681v1)** | 2025-08-05 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2410.13812, arXiv:2411.10429</p></details> |
+| **[FairLangProc: A Python package for fairness in NLP](http://arxiv.org/abs/2508.03677v1)** | 2025-08-05 | <details><summary>40 pa...</summary><p>40 pages, 4 figures, 3 tables</p></details> |
+| **[What Changed and What Could Have Changed? State-Change Counterfactuals for Procedure-Aware Video Representation Learning](http://arxiv.org/abs/2503.21055v5)** | 2025-08-05 | 16 pages, 4 figures |
+| **[Optimized imaging prefiltering for enhanced image segmentation](http://arxiv.org/abs/2508.03653v1)** | 2025-08-05 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, 8 tables</p></details> |
+| **[Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images](http://arxiv.org/abs/2508.03643v1)** | 2025-08-05 | <details><summary>The c...</summary><p>The code is available at https://github.com/HorizonRobotics/Uni3R</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Causal Estimation and Inference in Nonlinear Mendelian Randomization Studies](http://arxiv.org/abs/2402.01121v2)** | 2025-08-04 | 25 pages, 7 figures |
-| **[HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents](http://arxiv.org/abs/2508.02629v1)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Workshop on Multi-Modal Reasoning for Agentic Intelligence</p></details> |
-| **[Functional limit theorems and parameter inference for multiscale stochastic models of enzyme kinetics](http://arxiv.org/abs/2409.06565v2)** | 2025-08-04 | Typos fixed |
-| **[Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction](http://arxiv.org/abs/2508.02558v1)** | 2025-08-04 | 11 pages, 6 figures |
-| **[Stakeholder Perspectives on Humanistic Implementation of Computer Perception in Healthcare: A Qualitative Study](http://arxiv.org/abs/2508.02550v1)** | 2025-08-04 | 65 pages |
-| **[Accurate and Interpretable Postmenstrual Age Prediction via Multimodal Large Language Model](http://arxiv.org/abs/2508.02525v1)** | 2025-08-04 | <details><summary>Submi...</summary><p>Submitted to the NeurIPS 2025 Workshop GenAI4Health. Conference website: https://aihealth.ischool.utexas.edu/GenAI4HealthNeurips2025/</p></details> |
+| **[PAC Apprenticeship Learning with Bayesian Active Inverse Reinforcement Learning](http://arxiv.org/abs/2508.03693v1)** | 2025-08-05 | <details><summary>Publi...</summary><p>Published at RLC 2025</p></details> |
+| **[Learning Event-recording Automata Passively](http://arxiv.org/abs/2508.03627v1)** | 2025-08-05 | <details><summary>Short...</summary><p>Shorter version of this article has been accepted at ATVA 2025</p></details> |
+| **[Stratification in Randomised Clinical Trials and Analysis of Covariance: Some Simple Theory and Recommendations](http://arxiv.org/abs/2408.06760v3)** | 2025-08-05 | 22 pages, 7 Figures |
+| **[A First-order Generative Bilevel Optimization Framework for Diffusion Models](http://arxiv.org/abs/2502.08808v2)** | 2025-08-05 | <details><summary>Camer...</summary><p>Cameral-ready version: added experiments using the HPSv2 reward, improved notation consistency for the diffusion model, and added related works</p></details> |
+| **[Block: Balancing Load in LLM Serving with Context, Knowledge and Predictive Scheduling](http://arxiv.org/abs/2508.03611v1)** | 2025-08-05 | <details><summary>12 pa...</summary><p>12 pages, 8 figures excluding appendix</p></details> |
+| **[DyCAF-Net: Dynamic Class-Aware Fusion Network](http://arxiv.org/abs/2508.03598v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted to IEEE DSAA 2025 (10 pages, 5 figures)</p></details> |
 
