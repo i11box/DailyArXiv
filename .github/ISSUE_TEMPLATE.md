@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - August 08, 2025
+title: Latest 6 Papers - August 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Occupancy Learning with Spatiotemporal Memory](http://arxiv.org/abs/2508.04705v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted to ICCV2025. Project website: https://matthew-leng.github.io/stocc</p></details> |
-| **[Stochastic Taylor expansion via Poisson point processes](http://arxiv.org/abs/2508.04703v1)** | 2025-08-06 | <details><summary>44 pa...</summary><p>44 pages, 10 figures, 7 tables, Stochastic formulation of Taylor's theorem, function approximation, non-linear regression model</p></details> |
-| **[SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience](http://arxiv.org/abs/2508.04700v1)** | 2025-08-06 | <details><summary>Code ...</summary><p>Code at https://github.com/SunzeY/SEAgent</p></details> |
-| **[Achieving Precise and Reliable Locomotion with Differentiable Simulation-Based System Identification](http://arxiv.org/abs/2508.04696v1)** | 2025-08-06 | <details><summary>6 pag...</summary><p>6 pages, Accepted for IROS 2025</p></details> |
-| **[MienCap: Realtime Performance-Based Facial Animation with Live Mood Dynamics](http://arxiv.org/abs/2508.04687v1)** | 2025-08-06 | <details><summary>IEEE ...</summary><p>IEEE VR extended authors version of the article published in 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). This work was supported by the European Union's Horizon 2020 research and innovation programme under Grant 101017779</p></details> |
-| **[TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction](http://arxiv.org/abs/2508.04682v1)** | 2025-08-06 | ICCV 2025 |
+| **[FaceAnonyMixer: Cancelable Faces via Identity Consistent Latent Space Mixing](http://arxiv.org/abs/2508.05636v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Biometrics (IJCB) 2025</p></details> |
+| **[Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](http://arxiv.org/abs/2508.05635v1)** | 2025-08-07 | <details><summary>https...</summary><p>https://genie-envisioner.github.io/</p></details> |
+| **[Diffusion Beats Autoregressive in Data-Constrained Settings](http://arxiv.org/abs/2507.15857v5)** | 2025-08-07 | <details><summary>Proje...</summary><p>Project Webpage: https://diffusion-scaling.github.io</p></details> |
+| **[GAP: Gaussianize Any Point Clouds with Text Guidance](http://arxiv.org/abs/2508.05631v1)** | 2025-08-07 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://weiqi-zhang.github.io/GAP</p></details> |
+| **[On the Generalization of SFT: A Reinforcement Learning Perspective with Reward Rectification](http://arxiv.org/abs/2508.05629v1)** | 2025-08-07 | 14 pages, 3 figures |
+| **[Error Bounds for Radial Network Topology Learning from Quantized Measurements](http://arxiv.org/abs/2508.05620v1)** | 2025-08-07 | 3 pages, 2 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MisVisFix: An Interactive Dashboard for Detecting, Explaining, and Correcting Misleading Visualizations using Large Language Models](http://arxiv.org/abs/2508.04679v1)** | 2025-08-06 | <details><summary>11 pa...</summary><p>11 pages, 6 figures. Accepted at IEEE VIS: Visualization & Visual Analytics 2025 conference, November 2-7, 2025, Vienna, Austria</p></details> |
-| **[Adaptive Audio-Visual Speech Recognition via Matryoshka-Based Multimodal LLMs](http://arxiv.org/abs/2503.06362v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted to IEEE ASRU 2025</p></details> |
-| **[p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay](http://arxiv.org/abs/2412.04449v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025; Code released at https://github.com/MCG-NJU/p-MoD</p></details> |
-| **[FinMMR: Make Financial Numerical Reasoning More Multimodal, Comprehensive, and Challenging](http://arxiv.org/abs/2508.04625v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025. arXiv admin note: text overlap with arXiv:2311.06602 by other authors</p></details> |
-| **[A Reproducible, Scalable Pipeline for Synthesizing Autoregressive Model Literature](http://arxiv.org/abs/2508.04612v1)** | 2025-08-06 | 9 pages |
-| **[Neutralizing Token Aggregation via Information Augmentation for Efficient Test-Time Adaptation](http://arxiv.org/abs/2508.03388v2)** | 2025-08-06 | 9 pages, 7 figures |
+| **[Back to Bits: Extending Shannon's communication performance framework to computing](http://arxiv.org/abs/2508.05621v1)** | 2025-08-07 | 5 pages, 4 figures |
+| **[Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](http://arxiv.org/abs/2508.05615v1)** | 2025-08-07 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/gui-rcpo Code: https://github.com/zju-real/gui-rcpo</p></details> |
+| **[WeTok: Powerful Discrete Tokenization for High-Fidelity Visual Reconstruction](http://arxiv.org/abs/2508.05599v1)** | 2025-08-07 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, 37 tables</p></details> |
+| **[Efficient optimization of expensive black-box simulators via marginal means, with application to neutrino detector design](http://arxiv.org/abs/2508.01834v2)** | 2025-08-07 | <details><summary>updat...</summary><p>updated funding information</p></details> |
+| **[A Runtime-Adaptive Transformer Neural Network Accelerator on FPGAs](http://arxiv.org/abs/2411.18148v4)** | 2025-08-07 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2409.14023</p></details> |
+| **[Efficient Pain Recognition via Respiration Signals: A Single Cross-Attention Transformer Multi-Window Fusion Pipeline](http://arxiv.org/abs/2507.21886v4)** | 2025-08-07 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2507.21881, arXiv:2507.21875</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Stochastic Taylor expansion via Poisson point processes](http://arxiv.org/abs/2508.04703v1)** | 2025-08-06 | <details><summary>44 pa...</summary><p>44 pages, 10 figures, 7 tables, Stochastic formulation of Taylor's theorem, function approximation, non-linear regression model</p></details> |
-| **[A Scalable Pretraining Framework for Link Prediction with Efficient Adaptation](http://arxiv.org/abs/2508.04645v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 Research Track</p></details> |
-| **[p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay](http://arxiv.org/abs/2412.04449v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025; Code released at https://github.com/MCG-NJU/p-MoD</p></details> |
-| **[Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline](http://arxiv.org/abs/2508.04597v1)** | 2025-08-06 | IROS 2025 |
-| **[Neutralizing Token Aggregation via Information Augmentation for Efficient Test-Time Adaptation](http://arxiv.org/abs/2508.03388v2)** | 2025-08-06 | 9 pages, 7 figures |
-| **[Think How to Think: Mitigating Overthinking with Autonomous Difficulty Cognition in Large Reasoning Models](http://arxiv.org/abs/2507.02663v2)** | 2025-08-06 | 19 pages, 19 figures |
+| **[Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](http://arxiv.org/abs/2508.05635v1)** | 2025-08-07 | <details><summary>https...</summary><p>https://genie-envisioner.github.io/</p></details> |
+| **[Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling](http://arxiv.org/abs/2508.05634v1)** | 2025-08-07 | <details><summary>9th C...</summary><p>9th Conference on Robot Learning (CoRL 2025); Project website: https://gen-safe-nav.github.io/. arXiv admin note: text overlap with arXiv:2407.17460</p></details> |
+| **[GAP: Gaussianize Any Point Clouds with Text Guidance](http://arxiv.org/abs/2508.05631v1)** | 2025-08-07 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://weiqi-zhang.github.io/GAP</p></details> |
+| **[Physically Controllable Relighting of Photographs](http://arxiv.org/abs/2508.05626v1)** | 2025-08-07 | <details><summary>Proc....</summary><p>Proc. SIGGRAPH 2025, 10 pages, 9 figures</p></details> |
+| **[TrajEvo: Trajectory Prediction Heuristics Design via LLM-driven Evolution](http://arxiv.org/abs/2508.05616v1)** | 2025-08-07 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2505.04480</p></details> |
+| **[Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](http://arxiv.org/abs/2508.05615v1)** | 2025-08-07 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/gui-rcpo Code: https://github.com/zju-real/gui-rcpo</p></details> |
 
