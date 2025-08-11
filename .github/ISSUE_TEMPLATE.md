@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - August 11, 2025
+title: Latest 6 Papers - August 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FaceAnonyMixer: Cancelable Faces via Identity Consistent Latent Space Mixing](http://arxiv.org/abs/2508.05636v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted at the International Joint Conference on Biometrics (IJCB) 2025</p></details> |
-| **[Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](http://arxiv.org/abs/2508.05635v1)** | 2025-08-07 | <details><summary>https...</summary><p>https://genie-envisioner.github.io/</p></details> |
-| **[Diffusion Beats Autoregressive in Data-Constrained Settings](http://arxiv.org/abs/2507.15857v5)** | 2025-08-07 | <details><summary>Proje...</summary><p>Project Webpage: https://diffusion-scaling.github.io</p></details> |
-| **[GAP: Gaussianize Any Point Clouds with Text Guidance](http://arxiv.org/abs/2508.05631v1)** | 2025-08-07 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://weiqi-zhang.github.io/GAP</p></details> |
-| **[On the Generalization of SFT: A Reinforcement Learning Perspective with Reward Rectification](http://arxiv.org/abs/2508.05629v1)** | 2025-08-07 | 14 pages, 3 figures |
-| **[Error Bounds for Radial Network Topology Learning from Quantized Measurements](http://arxiv.org/abs/2508.05620v1)** | 2025-08-07 | 3 pages, 2 figures |
+| **[LightSwitch: Multi-view Relighting with Material-guided Diffusion](http://arxiv.org/abs/2508.06494v1)** | 2025-08-08 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project page & Code: https://yehonathanlitman.github.io/light_switch/</p></details> |
+| **[Effective Training Data Synthesis for Improving MLLM Chart Understanding](http://arxiv.org/abs/2508.06492v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025 (poster). 26 pages, 17 figures</p></details> |
+| **[LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation](http://arxiv.org/abs/2505.11528v2)** | 2025-08-08 | CoRL 2025 |
+| **[Self-Steering Language Models](http://arxiv.org/abs/2504.07081v2)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted to COLM 2025</p></details> |
+| **[Can Test-Time Scaling Improve World Foundation Model?](http://arxiv.org/abs/2503.24320v2)** | 2025-08-08 | Accepted by COLM2025 |
+| **[Generative Video Bi-flow](http://arxiv.org/abs/2503.06364v2)** | 2025-08-08 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project Page at https://ryushinn.github.io/ode-video</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Back to Bits: Extending Shannon's communication performance framework to computing](http://arxiv.org/abs/2508.05621v1)** | 2025-08-07 | 5 pages, 4 figures |
-| **[Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](http://arxiv.org/abs/2508.05615v1)** | 2025-08-07 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/gui-rcpo Code: https://github.com/zju-real/gui-rcpo</p></details> |
-| **[WeTok: Powerful Discrete Tokenization for High-Fidelity Visual Reconstruction](http://arxiv.org/abs/2508.05599v1)** | 2025-08-07 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, 37 tables</p></details> |
-| **[Efficient optimization of expensive black-box simulators via marginal means, with application to neutrino detector design](http://arxiv.org/abs/2508.01834v2)** | 2025-08-07 | <details><summary>updat...</summary><p>updated funding information</p></details> |
-| **[A Runtime-Adaptive Transformer Neural Network Accelerator on FPGAs](http://arxiv.org/abs/2411.18148v4)** | 2025-08-07 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2409.14023</p></details> |
-| **[Efficient Pain Recognition via Respiration Signals: A Single Cross-Attention Transformer Multi-Window Fusion Pipeline](http://arxiv.org/abs/2507.21886v4)** | 2025-08-07 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2507.21881, arXiv:2507.21875</p></details> |
+| **[Crop Pest Classification Using Deep Learning Techniques: A Review](http://arxiv.org/abs/2507.01494v3)** | 2025-08-08 | <details><summary>This ...</summary><p>This version adds co-authors who were unintentionally left out of the prior submission. Additionally, Table 1 has been reformatted for clarity, and several typographical errors have been corrected</p></details> |
+| **[ScamAgents: How AI Agents Can Simulate Human-Level Scam Calls](http://arxiv.org/abs/2508.06457v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted at CAMLIS 25: Conference on Applied Machine Learning for Information Security. 10 pages, 3 figures</p></details> |
+| **[eSASRec: Enhancing Transformer-based Recommendations in a Modular Fashion](http://arxiv.org/abs/2508.06450v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted at ACM RecSys 2025</p></details> |
+| **[Structural Embedding Projection for Contextual Large Language Model Inference](http://arxiv.org/abs/2501.18826v2)** | 2025-08-08 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
+| **[Algorithmic Segmentation and Behavioral Profiling for Ransomware Detection Using Temporal-Correlation Graphs](http://arxiv.org/abs/2501.17429v2)** | 2025-08-08 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
+| **[Structured Convergence in Large Language Model Representations via Hierarchical Latent Space Folding](http://arxiv.org/abs/2502.08947v2)** | 2025-08-08 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](http://arxiv.org/abs/2508.05635v1)** | 2025-08-07 | <details><summary>https...</summary><p>https://genie-envisioner.github.io/</p></details> |
-| **[Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling](http://arxiv.org/abs/2508.05634v1)** | 2025-08-07 | <details><summary>9th C...</summary><p>9th Conference on Robot Learning (CoRL 2025); Project website: https://gen-safe-nav.github.io/. arXiv admin note: text overlap with arXiv:2407.17460</p></details> |
-| **[GAP: Gaussianize Any Point Clouds with Text Guidance](http://arxiv.org/abs/2508.05631v1)** | 2025-08-07 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://weiqi-zhang.github.io/GAP</p></details> |
-| **[Physically Controllable Relighting of Photographs](http://arxiv.org/abs/2508.05626v1)** | 2025-08-07 | <details><summary>Proc....</summary><p>Proc. SIGGRAPH 2025, 10 pages, 9 figures</p></details> |
-| **[TrajEvo: Trajectory Prediction Heuristics Design via LLM-driven Evolution](http://arxiv.org/abs/2508.05616v1)** | 2025-08-07 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2505.04480</p></details> |
-| **[Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](http://arxiv.org/abs/2508.05615v1)** | 2025-08-07 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/gui-rcpo Code: https://github.com/zju-real/gui-rcpo</p></details> |
+| **[LightSwitch: Multi-view Relighting with Material-guided Diffusion](http://arxiv.org/abs/2508.06494v1)** | 2025-08-08 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project page & Code: https://yehonathanlitman.github.io/light_switch/</p></details> |
+| **[Self-Steering Language Models](http://arxiv.org/abs/2504.07081v2)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted to COLM 2025</p></details> |
+| **[Can Test-Time Scaling Improve World Foundation Model?](http://arxiv.org/abs/2503.24320v2)** | 2025-08-08 | Accepted by COLM2025 |
+| **[Echoes of Automation: The Increasing Use of LLMs in Newsmaking](http://arxiv.org/abs/2508.06445v1)** | 2025-08-08 | <details><summary>To ap...</summary><p>To appear in 18th International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation, and to be published in the Springer LNCS series</p></details> |
+| **[Structural Embedding Projection for Contextual Large Language Model Inference](http://arxiv.org/abs/2501.18826v2)** | 2025-08-08 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
+| **[Contextual Morphogenesis in Large Language Models: A Novel Approach to Self-Organizing Token Representations](http://arxiv.org/abs/2502.00301v2)** | 2025-08-08 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
 
