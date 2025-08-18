@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - August 18, 2025
+title: Latest 6 Papers - August 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Quantum Visual Fields with Neural Amplitude Encoding](http://arxiv.org/abs/2508.10900v1)** | 2025-08-14 | <details><summary>17 pa...</summary><p>17 pages, 15 figures and four tables; project page: https://4dqv.mpi-inf.mpg.de/QVF/</p></details> |
-| **[Puppeteer: Rig and Animate Your 3D Models](http://arxiv.org/abs/2508.10898v1)** | 2025-08-14 | <details><summary>Proje...</summary><p>Project page: https://chaoyuesong.github.io/Puppeteer/</p></details> |
-| **[ESSENTIAL: Episodic and Semantic Memory Integration for Video Class-Incremental Learning](http://arxiv.org/abs/2508.10896v1)** | 2025-08-14 | <details><summary>2025 ...</summary><p>2025 ICCV Highlight paper, 17 pages including supplementary material</p></details> |
-| **[CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks](http://arxiv.org/abs/2507.10535v2)** | 2025-08-14 | <details><summary>Datas...</summary><p>Dataset is available at https://huggingface.co/datasets/mattymchen/codejudgebench</p></details> |
-| **[STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer](http://arxiv.org/abs/2508.10893v1)** | 2025-08-14 | <details><summary>TL;DR...</summary><p>TL;DR: Streaming 4D reconstruction using causal transformer. Project page: https://nirvanalan.github.io/projects/stream3r</p></details> |
-| **[BiasGym: Fantastic LLM Biases and How to Find (and Remove) Them](http://arxiv.org/abs/2508.08855v2)** | 2025-08-14 | Under review |
+| **[Thyme: Think Beyond Images](http://arxiv.org/abs/2508.11630v1)** | 2025-08-15 | <details><summary>Proje...</summary><p>Project page: https://thyme-vl.github.io/</p></details> |
+| **[Diffusion Beats Autoregressive in Data-Constrained Settings](http://arxiv.org/abs/2507.15857v6)** | 2025-08-15 | <details><summary>Proje...</summary><p>Project Webpage: https://diffusion-scaling.github.io</p></details> |
+| **[LoRAtorio: An intrinsic approach to LoRA Skill Composition](http://arxiv.org/abs/2508.11624v1)** | 2025-08-15 | 32 pages, 17 figures |
+| **[Approximate Factor Model with S-vine Copula Structure](http://arxiv.org/abs/2508.11619v1)** | 2025-08-15 | 47 pages |
+| **[Optimal CO2 storage management considering safety constraints in multi-stakeholder multi-site CCS projects: a game theoretic perspective](http://arxiv.org/abs/2508.11618v1)** | 2025-08-15 | 38 pages, 16 figures |
+| **[Controlling Multimodal LLMs via Reward-guided Decoding](http://arxiv.org/abs/2508.11616v1)** | 2025-08-15 | <details><summary>Publi...</summary><p>Published at ICCV 2025</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Puppeteer: Rig and Animate Your 3D Models](http://arxiv.org/abs/2508.10898v1)** | 2025-08-14 | <details><summary>Proje...</summary><p>Project page: https://chaoyuesong.github.io/Puppeteer/</p></details> |
-| **[STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer](http://arxiv.org/abs/2508.10893v1)** | 2025-08-14 | <details><summary>TL;DR...</summary><p>TL;DR: Streaming 4D reconstruction using causal transformer. Project page: https://nirvanalan.github.io/projects/stream3r</p></details> |
-| **[Integrating Terrestrial and Non-Terrestrial Networks for Sustainable 6G Operations: A Latency-Aware Multi-Tier Cell-Switching Approach](http://arxiv.org/abs/2508.10849v1)** | 2025-08-14 | 9 pages, 6 figures |
-| **[Generalizable Federated Learning using Client Adaptive Focal Modulation](http://arxiv.org/abs/2508.10840v1)** | 2025-08-14 | <details><summary>WACV ...</summary><p>WACV 2024 Extended Paper</p></details> |
-| **[OpenCUA: Open Foundations for Computer-Use Agents](http://arxiv.org/abs/2508.09123v2)** | 2025-08-14 | <details><summary>Updat...</summary><p>Updata author list, modify first page format, correct typos</p></details> |
-| **[Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation](http://arxiv.org/abs/2508.10774v1)** | 2025-08-14 | Tech report |
+| **[DashCam Video: A complementary low-cost data stream for on-demand forest-infrastructure system monitoring](http://arxiv.org/abs/2508.11591v1)** | 2025-08-15 | 35 Pages, 15 figures |
+| **[Convolutional Autoencoders for Data Compression and Anomaly Detection in Small Satellite Technologies](http://arxiv.org/abs/2505.00040v2)** | 2025-08-15 | 10 pages, 6 figures |
+| **[TrajSV: A Trajectory-based Model for Sports Video Representations and Applications](http://arxiv.org/abs/2508.11569v1)** | 2025-08-15 | <details><summary>This ...</summary><p>This paper has been accepted by TCSVT</p></details> |
+| **[Emphasis Sensitivity in Speech Representations](http://arxiv.org/abs/2508.11566v1)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted to IEEE ASRU 2025</p></details> |
+| **[CoMoNM: A Cost Modeling Framework for Compute-Near-Memory Systems](http://arxiv.org/abs/2508.11451v1)** | 2025-08-15 | 12 pages, 16 Figures |
+| **[GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution](http://arxiv.org/abs/2501.01460v4)** | 2025-08-15 | <details><summary>GDSR:...</summary><p>GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Quantum Visual Fields with Neural Amplitude Encoding](http://arxiv.org/abs/2508.10900v1)** | 2025-08-14 | <details><summary>17 pa...</summary><p>17 pages, 15 figures and four tables; project page: https://4dqv.mpi-inf.mpg.de/QVF/</p></details> |
-| **[Puppeteer: Rig and Animate Your 3D Models](http://arxiv.org/abs/2508.10898v1)** | 2025-08-14 | <details><summary>Proje...</summary><p>Project page: https://chaoyuesong.github.io/Puppeteer/</p></details> |
-| **[DAmodel: Hierarchical Bayesian Modelling of DA White Dwarfs for Spectrophotometric Calibration](http://arxiv.org/abs/2412.08809v3)** | 2025-08-14 | <details><summary>34 pa...</summary><p>34 pages, 26 figures, 6 tables. Accepted for publication in MNRAS. Published SEDs can be found at: https://zenodo.org/records/14339960</p></details> |
-| **[iFairy: the First 2-bit Complex LLM with All Parameters in $\{\pm1, \pm i\}$](http://arxiv.org/abs/2508.05571v2)** | 2025-08-14 | 15 pages, 9 figures |
-| **[The Knowledge-Reasoning Dissociation: Fundamental Limitations of LLMs in Clinical Natural Language Inference](http://arxiv.org/abs/2508.10777v1)** | 2025-08-14 | 19 pages |
-| **[Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation](http://arxiv.org/abs/2508.10774v1)** | 2025-08-14 | Tech report |
+| **[LoRAtorio: An intrinsic approach to LoRA Skill Composition](http://arxiv.org/abs/2508.11624v1)** | 2025-08-15 | 32 pages, 17 figures |
+| **[Controlling Multimodal LLMs via Reward-guided Decoding](http://arxiv.org/abs/2508.11616v1)** | 2025-08-15 | <details><summary>Publi...</summary><p>Published at ICCV 2025</p></details> |
+| **[DashCam Video: A complementary low-cost data stream for on-demand forest-infrastructure system monitoring](http://arxiv.org/abs/2508.11591v1)** | 2025-08-15 | 35 Pages, 15 figures |
+| **[Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks](http://arxiv.org/abs/2508.11584v1)** | 2025-08-15 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, 2 tables</p></details> |
+| **[Reinforcing Video Reasoning Segmentation to Think Before It Segments](http://arxiv.org/abs/2508.11538v1)** | 2025-08-15 | 12 pages |
+| **[DSperse: A Framework for Targeted Verification in Zero-Knowledge Machine Learning](http://arxiv.org/abs/2508.06972v2)** | 2025-08-15 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, and 10 tables</p></details> |
 
