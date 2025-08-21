@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - August 20, 2025
+title: Latest 6 Papers - August 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[4DNeX: Feed-Forward 4D Generative Modeling Made Easy](http://arxiv.org/abs/2508.13154v1)** | 2025-08-18 | <details><summary>Proje...</summary><p>Project Page: https://4dnex.github.io/</p></details> |
-| **[RepreGuard: Detecting LLM-Generated Text by Revealing Hidden Representation Patterns](http://arxiv.org/abs/2508.13152v1)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted to TACL 2025. This version is a pre-MIT Press publication version</p></details> |
-| **[New Interaction Paradigm for Complex EDA Software Leveraging GPT](http://arxiv.org/abs/2307.14740v2)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted to ICML 2025 Workshop on New In Machine Learning (NewInML), 9 pages, 8 figures</p></details> |
-| **[Exploring Autonomous Agents: A Closer Look at Why They Fail When Completing Tasks](http://arxiv.org/abs/2508.13143v1)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted by ASE 2025 NIER</p></details> |
-| **[OptimalThinkingBench: Evaluating Over and Underthinking in LLMs](http://arxiv.org/abs/2508.13141v1)** | 2025-08-18 | <details><summary>26 pa...</summary><p>26 pages, 6 tables, 10 figures</p></details> |
-| **[Motion2Motion: Cross-topology Motion Transfer with Sparse Correspondence](http://arxiv.org/abs/2508.13139v1)** | 2025-08-18 | SIGGRAPH Asia 2025 |
+| **[Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs](http://arxiv.org/abs/2508.14896v1)** | 2025-08-20 | <details><summary>Techn...</summary><p>Technical Report, Work in Progress</p></details> |
+| **[Virtual Community: An Open World for Humans, Robots, and Society](http://arxiv.org/abs/2508.14893v1)** | 2025-08-20 | <details><summary>websi...</summary><p>website https://virtual-community-ai.github.io/</p></details> |
+| **[Snap-Snap: Taking Two Images to Reconstruct 3D Human Gaussians in Milliseconds](http://arxiv.org/abs/2508.14892v1)** | 2025-08-20 | <details><summary>Proje...</summary><p>Project page: https://hustvl.github.io/Snap-Snap/</p></details> |
+| **[GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects](http://arxiv.org/abs/2508.14891v1)** | 2025-08-20 | <details><summary>Proje...</summary><p>Project Page: https://sainingzhang.github.io/project/gaussianart/</p></details> |
+| **[Novel Knockoff Generation and Importance Measures with Heterogeneous Data via Conditional Residuals and Local Gradients](http://arxiv.org/abs/2508.14882v1)** | 2025-08-20 | Submitted to JMLR |
+| **[RotBench: Evaluating Multimodal Large Language Models on Identifying Image Rotation](http://arxiv.org/abs/2508.13968v2)** | 2025-08-20 | <details><summary>20 pa...</summary><p>20 pages. Code and data: https://github.com/tianyiniu/RotBench</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Causally-Guided Pairwise Transformer -- Towards Foundational Digital Twins in Process Industry](http://arxiv.org/abs/2508.13111v1)** | 2025-08-18 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
-| **[Multi-agent Task-Driven Exploration via Intelligent Map Compression and Sharing](http://arxiv.org/abs/2403.14780v2)** | 2025-08-18 | 15 pages, 5 figures |
-| **[From Transthoracic to Transesophageal: Cross-Modality Generation using LoRA Diffusion](http://arxiv.org/abs/2508.13077v1)** | 2025-08-18 | MICCAI 2025; ASMUS |
-| **[Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey](http://arxiv.org/abs/2508.13073v1)** | 2025-08-18 | <details><summary>Proje...</summary><p>Project Page: https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation</p></details> |
-| **[When can in-context learning generalize out of task distribution?](http://arxiv.org/abs/2506.05574v2)** | 2025-08-18 | ICML 2025 |
-| **[Quantformer: from attention to profit with a quantitative transformer trading strategy](http://arxiv.org/abs/2404.00424v3)** | 2025-08-18 | <details><summary>The i...</summary><p>The implementation details and code is available on https://github.com/zhangmordred/QuantFormer</p></details> |
+| **[Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs](http://arxiv.org/abs/2508.14896v1)** | 2025-08-20 | <details><summary>Techn...</summary><p>Technical Report, Work in Progress</p></details> |
+| **[Virtual Community: An Open World for Humans, Robots, and Society](http://arxiv.org/abs/2508.14893v1)** | 2025-08-20 | <details><summary>websi...</summary><p>website https://virtual-community-ai.github.io/</p></details> |
+| **[Snap-Snap: Taking Two Images to Reconstruct 3D Human Gaussians in Milliseconds](http://arxiv.org/abs/2508.14892v1)** | 2025-08-20 | <details><summary>Proje...</summary><p>Project page: https://hustvl.github.io/Snap-Snap/</p></details> |
+| **[What Makes for Good Image Captions?](http://arxiv.org/abs/2405.00485v3)** | 2025-08-20 | EMNLP 2025 Findings |
+| **[GenVC: Self-Supervised Zero-Shot Voice Conversion](http://arxiv.org/abs/2502.04519v2)** | 2025-08-20 | <details><summary>accep...</summary><p>accepted by 2025 IEEE ASRU</p></details> |
+| **[Multimodal Quantum Vision Transformer for Enzyme Commission Classification from Biochemical Representations](http://arxiv.org/abs/2508.14844v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted at IEEE International Conference on Quantum Artificial Intelligence (QAI) 2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A polynomial formula for the perspective four points problem](http://arxiv.org/abs/2501.13058v2)** | 2025-08-18 | 17 pages |
-| **[Is This News Still Interesting to You?: Lifetime-aware Interest Matching for News Recommendation](http://arxiv.org/abs/2508.13064v1)** | 2025-08-18 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 4 tables, accepted at ACM International Conference on Information and Knowledge Management (CIKM)</p></details> |
-| **[Fast Controlled Generation from Language Models with Adaptive Weighted Rejection Sampling](http://arxiv.org/abs/2504.05410v2)** | 2025-08-18 | COLM 2025 |
-| **[Quantization Hurts Reasoning? An Empirical Study on Quantized Reasoning Models](http://arxiv.org/abs/2504.04823v2)** | 2025-08-18 | COLM 2025 |
-| **[Can Large Models Teach Student Models to Solve Mathematical Problems Like Human Beings? A Reasoning Distillation Method via Multi-LoRA Interaction](http://arxiv.org/abs/2508.13037v1)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted by IJCAI2025</p></details> |
-| **[Matrix-Driven Instant Review: Confident Detection and Reconstruction of LLM Plagiarism on PC](http://arxiv.org/abs/2508.06309v2)** | 2025-08-18 | <details><summary>The c...</summary><p>The code is available at the same directory as the TeX source. Run `main_mdir.py` for details</p></details> |
+| **[Fast randomized least-squares solvers can be just as accurate and stable as classical direct solvers](http://arxiv.org/abs/2406.03468v3)** | 2025-08-20 | <details><summary>45 pa...</summary><p>45 pages, 6 figures; v3 revisions to improve presentation and clarity</p></details> |
+| **[Long Chain-of-Thought Reasoning Across Languages](http://arxiv.org/abs/2508.14828v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted to SCALR @ COLM 2025</p></details> |
+| **[Repeating Words for Video-Language Retrieval with Coarse-to-Fine Objectives](http://arxiv.org/abs/2508.14812v1)** | 2025-08-20 | 11 pages, 4 figures |
+| **[Regularized e-processes: anytime valid inference with knowledge-based efficiency gains](http://arxiv.org/abs/2410.01427v4)** | 2025-08-20 | <details><summary>Comme...</summary><p>Comments welcome (via email or) at https://researchers.one/articles/24.09.00003</p></details> |
+| **[A likelihood-based Bayesian inference framework for the calibration of and selection between stochastic velocity-jump models](http://arxiv.org/abs/2505.19292v2)** | 2025-08-20 | <details><summary>30 pa...</summary><p>30 pages, 8 figures SI: 21 pages, 17 figures</p></details> |
+| **[From App Features to Explanation Needs: Analyzing Correlations and Predictive Potential](http://arxiv.org/abs/2508.03881v2)** | 2025-08-20 | <details><summary>This ...</summary><p>This paper has been accepted at the 33rd IEEE International Requirements Engineering Workshop (REW 2025)</p></details> |
 
