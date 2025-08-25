@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - August 25, 2025
+title: Latest 6 Papers - August 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scaling Group Inference for Diverse and High-Quality Generation](http://arxiv.org/abs/2508.15773v1)** | 2025-08-21 | <details><summary>Proje...</summary><p>Project website: https://www.cs.cmu.edu/~group-inference, GitHub: https://github.com/GaParmar/group-inference</p></details> |
-| **[CineScale: Free Lunch in High-Resolution Cinematic Visual Generation](http://arxiv.org/abs/2508.15774v1)** | 2025-08-21 | <details><summary>CineS...</summary><p>CineScale is an extended work of FreeScale (ICCV 2025). Project Page: https://eyeline-labs.github.io/CineScale/, Code Repo: https://github.com/Eyeline-Labs/CineScale</p></details> |
-| **[Visual Autoregressive Modeling for Instruction-Guided Image Editing](http://arxiv.org/abs/2508.15772v1)** | 2025-08-21 | <details><summary>Sourc...</summary><p>Source codes and models are available at https://github.com/HiDream-ai/VAREdit</p></details> |
-| **[SceneGen: Single-Image 3D Scene Generation in One Feedforward Pass](http://arxiv.org/abs/2508.15769v1)** | 2025-08-21 | <details><summary>Techn...</summary><p>Technical Report; Project Page: https://mengmouxu.github.io/SceneGen</p></details> |
-| **[ATLAS: Decoupling Skeletal and Shape Parameters for Expressive Parametric Human Modeling](http://arxiv.org/abs/2508.15767v1)** | 2025-08-21 | <details><summary>ICCV ...</summary><p>ICCV 2025; Website: https://jindapark.github.io/projects/atlas/</p></details> |
-| **[Language-Guided Tuning: Enhancing Numeric Optimization with Textual Feedback](http://arxiv.org/abs/2508.15757v1)** | 2025-08-21 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 4 tables</p></details> |
+| **[MV-RAG: Retrieval Augmented Multiview Diffusion](http://arxiv.org/abs/2508.16577v1)** | 2025-08-22 | <details><summary>Proje...</summary><p>Project page: https://yosefdayani.github.io/MV-RAG</p></details> |
+| **[Benchmarking Training Paradigms, Dataset Composition, and Model Scaling for Child ASR in ESPnet](http://arxiv.org/abs/2508.16576v1)** | 2025-08-22 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, presented at WOCCI 2025 (Workshop on Child Computer Interaction), satellite workshop of Interspeech 2025</p></details> |
+| **[Are LLM-Powered Social Media Bots Realistic?](http://arxiv.org/abs/2508.00998v2)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted into SBP-BRiMS 2025</p></details> |
+| **[ORCA: Mitigating Over-Reliance for Multi-Task Dwell Time Prediction with Causal Decoupling](http://arxiv.org/abs/2508.16573v1)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted as a short paper at CIKM 2025</p></details> |
+| **[ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel](http://arxiv.org/abs/2506.08706v2)** | 2025-08-22 | 22 pages |
+| **[Explicit Correspondence Matching for Generalizable Neural Radiance Fields](http://arxiv.org/abs/2304.12294v2)** | 2025-08-22 | <details><summary>TPAMI...</summary><p>TPAMI 2025, Project page: https://donydchen.github.io/matchnerf, Code: https://github.com/donydchen/matchnerf</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MoCHA-former: Moiré-Conditioned Hybrid Adaptive Transformer for Video Demoiréing](http://arxiv.org/abs/2508.14423v2)** | 2025-08-21 | <details><summary>Pleas...</summary><p>Please visit our project page at [this http URL link](https://cmlab-korea.github.io/MoCHAformer-Demo/)</p></details> |
-| **[StreamMem: Query-Agnostic KV Cache Memory for Streaming Video Understanding](http://arxiv.org/abs/2508.15717v1)** | 2025-08-21 | 15 pages, 3 figures |
-| **[End-to-End Analysis of Charge Stability Diagrams with Transformers](http://arxiv.org/abs/2508.15710v1)** | 2025-08-21 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, RM and LS contributed equally</p></details> |
-| **[Communication Efficient LLM Pre-training with SparseLoCo](http://arxiv.org/abs/2508.15706v1)** | 2025-08-21 | <details><summary>15 pa...</summary><p>15 pages, 9 tables, 2 figures</p></details> |
-| **[Discrete Radar based on Modulo Arithmetic](http://arxiv.org/abs/2508.15671v1)** | 2025-08-21 | <details><summary>36 pa...</summary><p>36 pages, 7 figures, submitted to EURASIP JASP</p></details> |
-| **[Joint Classification of Haze and Dust Events Using Factorial Hidden Markov Model Framework](http://arxiv.org/abs/2508.15661v1)** | 2025-08-21 | <details><summary>37 pa...</summary><p>37 pages, 15 figures, 15 tables. Submitted to Journal of the Royal Statistical Society: Series C (Applied Statistics)</p></details> |
+| **[Explicit Correspondence Matching for Generalizable Neural Radiance Fields](http://arxiv.org/abs/2304.12294v2)** | 2025-08-22 | <details><summary>TPAMI...</summary><p>TPAMI 2025, Project page: https://donydchen.github.io/matchnerf, Code: https://github.com/donydchen/matchnerf</p></details> |
+| **[A Curious Case of Remarkable Resilience to Gradient Attacks via Fully Convolutional and Differentiable Front End with a Skip Connection](http://arxiv.org/abs/2402.17018v2)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted at TMLR (2025/08)</p></details> |
+| **[Enhanced NIRMAL Optimizer With Damped Nesterov Acceleration: A Comparative Analysis](http://arxiv.org/abs/2508.16550v1)** | 2025-08-22 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 1 table. arXiv admin note: substantial text overlap with arXiv:2508.04293</p></details> |
+| **[FLAIR: Frequency and Locality-Aware Implicit Neural Representations](http://arxiv.org/abs/2508.13544v2)** | 2025-08-22 | <details><summary>Pleas...</summary><p>Please visit our project page at https://cmlab-korea.github.io/FLAIR/</p></details> |
+| **[HOSt3R: Keypoint-free Hand-Object 3D Reconstruction from RGB images](http://arxiv.org/abs/2508.16465v1)** | 2025-08-22 | 12 pages, 8 figures |
+| **[Modular Embedding Recomposition for Incremental Learning](http://arxiv.org/abs/2508.16463v1)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted to the 36th British Machine Vision Conference (BMVC 2025), Sheffield, UK</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scaling Group Inference for Diverse and High-Quality Generation](http://arxiv.org/abs/2508.15773v1)** | 2025-08-21 | <details><summary>Proje...</summary><p>Project website: https://www.cs.cmu.edu/~group-inference, GitHub: https://github.com/GaParmar/group-inference</p></details> |
-| **[CineScale: Free Lunch in High-Resolution Cinematic Visual Generation](http://arxiv.org/abs/2508.15774v1)** | 2025-08-21 | <details><summary>CineS...</summary><p>CineScale is an extended work of FreeScale (ICCV 2025). Project Page: https://eyeline-labs.github.io/CineScale/, Code Repo: https://github.com/Eyeline-Labs/CineScale</p></details> |
-| **[Exploration of Evolving Quantum Key Distribution Network Architecture Using Model-Based Systems Engineering](http://arxiv.org/abs/2508.15733v1)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by the IEEE International Symposium on Systems Engineering, Oct 28-30, 2025</p></details> |
-| **[Towards Comprehensive Cellular Characterisation of H&E slides](http://arxiv.org/abs/2508.09926v2)** | 2025-08-21 | 25 pages, 4 figures |
-| **[Row-Column Hybrid Grouping for Fault-Resilient Multi-Bit Weight Representation on IMC Arrays](http://arxiv.org/abs/2508.15685v1)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted to appear at ICCAD'25 (Munich, Germany)</p></details> |
-| **[Continuous and algebraic domains in univalent foundations](http://arxiv.org/abs/2407.06956v4)** | 2025-08-21 | <details><summary>v4: A...</summary><p>v4: Accepted for publication in the Journal of Pure and Applied Algebra. This revision adds an abridged version of arXiv:2407.06952 at the request of the journal</p></details> |
+| **[MV-RAG: Retrieval Augmented Multiview Diffusion](http://arxiv.org/abs/2508.16577v1)** | 2025-08-22 | <details><summary>Proje...</summary><p>Project page: https://yosefdayani.github.io/MV-RAG</p></details> |
+| **[Spherical latent space models for social network analysis](http://arxiv.org/abs/2508.16556v1)** | 2025-08-22 | <details><summary>37 pa...</summary><p>37 pages, 8 figures, 4 tables</p></details> |
+| **[TinyML Towards Industry 4.0: Resource-Efficient Process Monitoring of a Milling Machine](http://arxiv.org/abs/2508.16553v1)** | 2025-08-22 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 1 table</p></details> |
+| **[Superconvergent Discontinuous Galerkin Method for the Scalar Teukolsky Equation on Hyperboloidal Domains: Efficient Waveform and Self-Force Computation](http://arxiv.org/abs/2503.11523v2)** | 2025-08-22 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, and 2 tables. Accepted to the General Relativity and Gravitation journal's topical collection on hyperboloidal foliations. Version 2 includes an extended discussion of long-lived "junk tails" at future null infinity and additional dissipative self-force computations</p></details> |
+| **[Exploring natural variation in tendon constitutive parameters via Bayesian data selection and mixed effects models](http://arxiv.org/abs/2412.12983v2)** | 2025-08-22 | 24 pages, 10 figures |
+| **[Modular Embedding Recomposition for Incremental Learning](http://arxiv.org/abs/2508.16463v1)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted to the 36th British Machine Vision Conference (BMVC 2025), Sheffield, UK</p></details> |
 
