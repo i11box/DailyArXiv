@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - August 26, 2025
+title: Latest 6 Papers - August 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MV-RAG: Retrieval Augmented Multiview Diffusion](http://arxiv.org/abs/2508.16577v1)** | 2025-08-22 | <details><summary>Proje...</summary><p>Project page: https://yosefdayani.github.io/MV-RAG</p></details> |
-| **[Benchmarking Training Paradigms, Dataset Composition, and Model Scaling for Child ASR in ESPnet](http://arxiv.org/abs/2508.16576v1)** | 2025-08-22 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, presented at WOCCI 2025 (Workshop on Child Computer Interaction), satellite workshop of Interspeech 2025</p></details> |
-| **[Are LLM-Powered Social Media Bots Realistic?](http://arxiv.org/abs/2508.00998v2)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted into SBP-BRiMS 2025</p></details> |
-| **[ORCA: Mitigating Over-Reliance for Multi-Task Dwell Time Prediction with Causal Decoupling](http://arxiv.org/abs/2508.16573v1)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted as a short paper at CIKM 2025</p></details> |
-| **[ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel](http://arxiv.org/abs/2506.08706v2)** | 2025-08-22 | 22 pages |
-| **[Explicit Correspondence Matching for Generalizable Neural Radiance Fields](http://arxiv.org/abs/2304.12294v2)** | 2025-08-22 | <details><summary>TPAMI...</summary><p>TPAMI 2025, Project page: https://donydchen.github.io/matchnerf, Code: https://github.com/donydchen/matchnerf</p></details> |
+| **[CoMPaSS: Enhancing Spatial Understanding in Text-to-Image Diffusion Models](http://arxiv.org/abs/2412.13195v2)** | 2025-08-25 | <details><summary>21 pa...</summary><p>21 pages, 12 figures. Accepted to ICCV 2025</p></details> |
+| **[ObjFiller-3D: Consistent Multi-view 3D Inpainting via Video Diffusion Models](http://arxiv.org/abs/2508.18271v1)** | 2025-08-25 | <details><summary>Proje...</summary><p>Project page: https://objfiller3d.github.io/ Code: https://github.com/objfiller3d/ObjFiller-3D</p></details> |
+| **[SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation](http://arxiv.org/abs/2508.18268v1)** | 2025-08-25 | <details><summary>Proje...</summary><p>Project website is at: https://denghaoyuan123.github.io/SafeBimanip/</p></details> |
+| **[MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs](http://arxiv.org/abs/2508.18264v1)** | 2025-08-25 | <details><summary>Proje...</summary><p>Project page: https://project.ironieser.cc/mmtok</p></details> |
+| **[MIRAGE: Scaling Test-Time Inference with Parallel Graph-Retrieval-Augmented Reasoning Chains](http://arxiv.org/abs/2508.18260v1)** | 2025-08-25 | <details><summary>10 pa...</summary><p>10 pages, 8 figures (including tables), plus appendix. Submitted to AAAI 2026</p></details> |
+| **[Measuring Sycophancy of Language Models in Multi-turn Dialogues](http://arxiv.org/abs/2505.23840v2)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2025</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Explicit Correspondence Matching for Generalizable Neural Radiance Fields](http://arxiv.org/abs/2304.12294v2)** | 2025-08-22 | <details><summary>TPAMI...</summary><p>TPAMI 2025, Project page: https://donydchen.github.io/matchnerf, Code: https://github.com/donydchen/matchnerf</p></details> |
-| **[A Curious Case of Remarkable Resilience to Gradient Attacks via Fully Convolutional and Differentiable Front End with a Skip Connection](http://arxiv.org/abs/2402.17018v2)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted at TMLR (2025/08)</p></details> |
-| **[Enhanced NIRMAL Optimizer With Damped Nesterov Acceleration: A Comparative Analysis](http://arxiv.org/abs/2508.16550v1)** | 2025-08-22 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 1 table. arXiv admin note: substantial text overlap with arXiv:2508.04293</p></details> |
-| **[FLAIR: Frequency and Locality-Aware Implicit Neural Representations](http://arxiv.org/abs/2508.13544v2)** | 2025-08-22 | <details><summary>Pleas...</summary><p>Please visit our project page at https://cmlab-korea.github.io/FLAIR/</p></details> |
-| **[HOSt3R: Keypoint-free Hand-Object 3D Reconstruction from RGB images](http://arxiv.org/abs/2508.16465v1)** | 2025-08-22 | 12 pages, 8 figures |
-| **[Modular Embedding Recomposition for Incremental Learning](http://arxiv.org/abs/2508.16463v1)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted to the 36th British Machine Vision Conference (BMVC 2025), Sheffield, UK</p></details> |
+| **[Follow My Hold: Hand-Object Interaction Reconstruction through Geometric Guidance](http://arxiv.org/abs/2508.18213v1)** | 2025-08-25 | <details><summary>Proje...</summary><p>Project page: https://aidilayce.github.io/FollowMyHold-page/</p></details> |
+| **[SEAM: Semantically Equivalent Across Modalities Benchmark for Vision-Language Models](http://arxiv.org/abs/2508.18179v1)** | 2025-08-25 | COLM 2025 |
+| **[HOSt3R: Keypoint-free Hand-Object 3D Reconstruction from RGB images](http://arxiv.org/abs/2508.16465v2)** | 2025-08-25 | 12 pages, 8 figures |
+| **[Deep Learning-based Cross-modal Reconstruction of Vehicle Target from Sparse 3D SAR Image](http://arxiv.org/abs/2406.04158v6)** | 2025-08-25 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Transferring Styles for Reduced Texture Bias and Improved Robustness in Semantic Segmentation Networks](http://arxiv.org/abs/2507.10239v2)** | 2025-08-25 | <details><summary>accep...</summary><p>accepted at ECAI 2025</p></details> |
+| **[Frozen in Time: Parameter-Efficient Time Series Transformers via Reservoir-Induced Feature Expansion and Fixed Random Dynamics](http://arxiv.org/abs/2508.18130v1)** | 2025-08-25 | <details><summary>8 pag...</summary><p>8 pages, 5 tables, 3 figures, accepted at ECAI 2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MV-RAG: Retrieval Augmented Multiview Diffusion](http://arxiv.org/abs/2508.16577v1)** | 2025-08-22 | <details><summary>Proje...</summary><p>Project page: https://yosefdayani.github.io/MV-RAG</p></details> |
-| **[Spherical latent space models for social network analysis](http://arxiv.org/abs/2508.16556v1)** | 2025-08-22 | <details><summary>37 pa...</summary><p>37 pages, 8 figures, 4 tables</p></details> |
-| **[TinyML Towards Industry 4.0: Resource-Efficient Process Monitoring of a Milling Machine](http://arxiv.org/abs/2508.16553v1)** | 2025-08-22 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 1 table</p></details> |
-| **[Superconvergent Discontinuous Galerkin Method for the Scalar Teukolsky Equation on Hyperboloidal Domains: Efficient Waveform and Self-Force Computation](http://arxiv.org/abs/2503.11523v2)** | 2025-08-22 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, and 2 tables. Accepted to the General Relativity and Gravitation journal's topical collection on hyperboloidal foliations. Version 2 includes an extended discussion of long-lived "junk tails" at future null infinity and additional dissipative self-force computations</p></details> |
-| **[Exploring natural variation in tendon constitutive parameters via Bayesian data selection and mixed effects models](http://arxiv.org/abs/2412.12983v2)** | 2025-08-22 | 24 pages, 10 figures |
-| **[Modular Embedding Recomposition for Incremental Learning](http://arxiv.org/abs/2508.16463v1)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted to the 36th British Machine Vision Conference (BMVC 2025), Sheffield, UK</p></details> |
+| **[MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs](http://arxiv.org/abs/2508.18264v1)** | 2025-08-25 | <details><summary>Proje...</summary><p>Project page: https://project.ironieser.cc/mmtok</p></details> |
+| **[MIRAGE: Scaling Test-Time Inference with Parallel Graph-Retrieval-Augmented Reasoning Chains](http://arxiv.org/abs/2508.18260v1)** | 2025-08-25 | <details><summary>10 pa...</summary><p>10 pages, 8 figures (including tables), plus appendix. Submitted to AAAI 2026</p></details> |
+| **[Testing frequency distributions in a stream](http://arxiv.org/abs/2309.11175v2)** | 2025-08-25 | 28 pages, 4 figures |
+| **[AffordanceSAM: Segment Anything Once More in Affordance Grounding](http://arxiv.org/abs/2504.15650v2)** | 2025-08-25 | <details><summary>SAM M...</summary><p>SAM Meets Affordance Grounding</p></details> |
+| **[Follow My Hold: Hand-Object Interaction Reconstruction through Geometric Guidance](http://arxiv.org/abs/2508.18213v1)** | 2025-08-25 | <details><summary>Proje...</summary><p>Project page: https://aidilayce.github.io/FollowMyHold-page/</p></details> |
+| **[TranSQL+: Serving Large Language Models with SQL on Low-Resource Hardware](http://arxiv.org/abs/2502.02818v2)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted by SIGMOD2026</p></details> |
 
