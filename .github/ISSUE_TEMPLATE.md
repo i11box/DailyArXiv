@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - August 29, 2025
+title: Latest 6 Papers - September 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer Use Agent with Decoupled Reinforcement Learning](http://arxiv.org/abs/2508.20096v1)** | 2025-08-27 | <details><summary>code ...</summary><p>code available at this url: https://github.com/OpenIXCLab/CODA</p></details> |
-| **[Unifying the Extremes: Developing a Unified Model for Detecting and Predicting Extremist Traits and Radicalization](http://arxiv.org/abs/2501.04820v2)** | 2025-08-27 | <details><summary>17 pa...</summary><p>17 pages, 7 figures, 4 tables</p></details> |
-| **[Pseudo-Simulation for Autonomous Driving](http://arxiv.org/abs/2506.04218v2)** | 2025-08-27 | CoRL 2025 |
-| **[Smart Contract Intent Detection with Pre-trained Programming Language Model](http://arxiv.org/abs/2508.20086v1)** | 2025-08-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, conference</p></details> |
-| **[RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](http://arxiv.org/abs/2506.18088v2)** | 2025-08-27 | <details><summary>Proje...</summary><p>Project Page: https://robotwin-platform.github.io/, Code: https://github.com/robotwin-Platform/robotwin, Doc: https://robotwin-platform.github.io/doc/</p></details> |
-| **[Approximate Lifted Model Construction](http://arxiv.org/abs/2504.20784v3)** | 2025-08-27 | <details><summary>Exten...</summary><p>Extended version of paper accepted to the Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI-2025)</p></details> |
+| **[First-Place Solution to NeurIPS 2024 Invisible Watermark Removal Challenge](http://arxiv.org/abs/2508.21072v1)** | 2025-08-28 | <details><summary>Winni...</summary><p>Winning solution to the NeurIPS 2024 Erasing the Invisible challenge</p></details> |
+| **[Dress&Dance: Dress up and Dance as You Like It - Technical Preview](http://arxiv.org/abs/2508.21070v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/DressAndDance/</p></details> |
+| **[OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning](http://arxiv.org/abs/2508.21066v1)** | 2025-08-28 | <details><summary>proje...</summary><p>project url: https://one-reward.github.io</p></details> |
+| **[OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn Dialogue with Large Language Models](http://arxiv.org/abs/2508.21061v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted to UIST 2025. 18 pages, 9 figures, 2 tables. For a demo video, see https://youtu.be/uobhmxo6EIE</p></details> |
+| **[Multi-View 3D Point Tracking](http://arxiv.org/abs/2508.21060v1)** | 2025-08-28 | <details><summary>ICCV ...</summary><p>ICCV 2025, Oral. Project page: https://ethz-vlg.github.io/mvtracker</p></details> |
+| **[Mixture of Contexts for Long Video Generation](http://arxiv.org/abs/2508.21058v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project page: https://primecai.github.io/moc/</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Seam360GS: Seamless 360° Gaussian Splatting from Real-World Omnidirectional Images](http://arxiv.org/abs/2508.20080v1)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. 10 pages main text, 4 figures, 4 tables, supplementary material included</p></details> |
-| **[Refining Czech GEC: Insights from a Multi-Experiment Approach](http://arxiv.org/abs/2506.22402v2)** | 2025-08-27 | Accepted to TSD 2025 |
-| **[Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](http://arxiv.org/abs/2508.20072v1)** | 2025-08-27 | 15 pages |
-| **[The Coherent Multiplex: Scalable Real-Time Wavelet Coherence Architecture](http://arxiv.org/abs/2508.19994v1)** | 2025-08-27 | <details><summary>Submi...</summary><p>Submitted to International Symposium for Signal Processing 2025</p></details> |
-| **[CapTune: Adapting Non-Speech Captions With Anchored Generative Models](http://arxiv.org/abs/2508.19971v1)** | 2025-08-27 | ASSETS 2025 |
-| **[Dhati+: Fine-tuned Large Language Models for Arabic Subjectivity Evaluation](http://arxiv.org/abs/2508.19966v1)** | 2025-08-27 | 25 pages, 7 figures |
+| **[Multi-View 3D Point Tracking](http://arxiv.org/abs/2508.21060v1)** | 2025-08-28 | <details><summary>ICCV ...</summary><p>ICCV 2025, Oral. Project page: https://ethz-vlg.github.io/mvtracker</p></details> |
+| **[Mixture of Contexts for Long Video Generation](http://arxiv.org/abs/2508.21058v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project page: https://primecai.github.io/moc/</p></details> |
+| **[CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification](http://arxiv.org/abs/2508.21046v1)** | 2025-08-28 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, Project Page: https://jiutian-vl.github.io/CogVLA-page</p></details> |
+| **[Efficient Fine-Tuning of DINOv3 Pretrained on Natural Images for Atypical Mitotic Figure Classification in MIDOG 2025](http://arxiv.org/abs/2508.21041v1)** | 2025-08-28 | <details><summary>3 pag...</summary><p>3 pages. Challenge report for MIDOG 2025 (Task 2: Atypical Mitotic Figure Classification)</p></details> |
+| **[From Promise to Practical Reality: Transforming Diffusion MRI Analysis with Fast Deep Learning Enhancement](http://arxiv.org/abs/2508.10950v2)** | 2025-08-28 | 24 pages, 5 figures |
+| **[RANGAN: GAN-empowered Anomaly Detection in 5G Cloud RAN](http://arxiv.org/abs/2508.20985v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted for presentation in the 2025 IEEE Conference on Standards for Communications and Networking (CSCN)</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Approximate Lifted Model Construction](http://arxiv.org/abs/2504.20784v3)** | 2025-08-27 | <details><summary>Exten...</summary><p>Extended version of paper accepted to the Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI-2025)</p></details> |
-| **[OpenM3D: Open Vocabulary Multi-view Indoor 3D Object Detection without Human Annotations](http://arxiv.org/abs/2508.20063v1)** | 2025-08-27 | ICCV2025 |
-| **[GeoSAM2: Unleashing the Power of SAM2 for 3D Part Segmentation](http://arxiv.org/abs/2508.14036v2)** | 2025-08-27 | <details><summary>https...</summary><p>https://detailgen3d.github.io/GeoSAM2/</p></details> |
-| **[Scalable Bayesian Structure Learning for Gaussian Graphical Models Using Marginal Pseudo-likelihood](http://arxiv.org/abs/2307.00127v4)** | 2025-08-27 | 39 pages |
-| **[Cross-Platform E-Commerce Product Categorization and Recategorization: A Multimodal Hierarchical Classification Approach](http://arxiv.org/abs/2508.20013v1)** | 2025-08-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
-| **[NAPER: Fault Protection for Real-Time Resource-Constrained Deep Neural Networks](http://arxiv.org/abs/2504.06591v2)** | 2025-08-27 | <details><summary>This ...</summary><p>This work has been accepted for publication in IEEE IOLTS 2025. The final published version available via IEEE Xplore</p></details> |
+| **[CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification](http://arxiv.org/abs/2508.21046v1)** | 2025-08-28 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, Project Page: https://jiutian-vl.github.io/CogVLA-page</p></details> |
+| **[MMG-Vid: Maximizing Marginal Gains at Segment-level and Token-level for Efficient Video LLMs](http://arxiv.org/abs/2508.21044v1)** | 2025-08-28 | 10 pages, 3 figures |
+| **[From Promise to Practical Reality: Transforming Diffusion MRI Analysis with Fast Deep Learning Enhancement](http://arxiv.org/abs/2508.10950v2)** | 2025-08-28 | 24 pages, 5 figures |
+| **[Reusing Computation in Text-to-Image Diffusion for Efficient Generation of Image Sets](http://arxiv.org/abs/2508.21032v1)** | 2025-08-28 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://ddecatur.github.io/hierarchical-diffusion/</p></details> |
+| **[Pivotal inference for linear predictions in stationary processes](http://arxiv.org/abs/2508.21025v1)** | 2025-08-28 | 31, pages, 3 figures |
+| **[An Agile Method for Implementing Retrieval Augmented Generation Tools in Industrial SMEs](http://arxiv.org/abs/2508.21024v1)** | 2025-08-28 | 20 pages, 3 figures |
 
