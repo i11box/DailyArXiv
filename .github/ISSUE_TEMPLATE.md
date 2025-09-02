@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 02, 2025
+title: Latest 6 Papers - September 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -9,6 +9,10 @@ labels: documentation
 | --- | --- | --- |
 | **[DriveQA: Passing the Driving Knowledge Test](http://arxiv.org/abs/2508.21824v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025. Project page: https://driveqaiccv.github.io/</p></details> |
 | **[ROSE: A Reward-Oriented Data Selection Framework for LLM Task-Specific Instruction Tuning](http://arxiv.org/abs/2412.00631v2)** | 2025-08-29 | EMNLP 2025 Findings |
+| **[The Demon is in Ambiguity: Revisiting Situation Recognition with Single Positive Multi-Label Learning](http://arxiv.org/abs/2508.21816v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted by ICDM 2025</p></details> |
+| **[Active Domain Knowledge Acquisition with 100-Dollar Budget: Enhancing LLMs via Cost-Efficient, Expert-Involved Interaction in Sensitive Domains](http://arxiv.org/abs/2508.17202v2)** | 2025-08-29 | EMNLP 2025 Findings |
+| **[Epsilon-saturation for stable graphs and Littlestone classes](http://arxiv.org/abs/2508.21807v1)** | 2025-08-29 | 30 pages, 2 figures |
+| **[Automated Clinical Problem Detection from SOAP Notes using a Collaborative Multi-Agent LLM Architecture](http://arxiv.org/abs/2508.21803v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to The 16th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2025)(Poster Paper)</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
