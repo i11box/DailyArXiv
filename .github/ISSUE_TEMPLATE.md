@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 03, 2025
+title: Latest 6 Papers - September 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,26 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DriveQA: Passing the Driving Knowledge Test](http://arxiv.org/abs/2508.21824v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025. Project page: https://driveqaiccv.github.io/</p></details> |
-| **[ROSE: A Reward-Oriented Data Selection Framework for LLM Task-Specific Instruction Tuning](http://arxiv.org/abs/2412.00631v2)** | 2025-08-29 | EMNLP 2025 Findings |
-| **[The Demon is in Ambiguity: Revisiting Situation Recognition with Single Positive Multi-Label Learning](http://arxiv.org/abs/2508.21816v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted by ICDM 2025</p></details> |
-| **[Active Domain Knowledge Acquisition with 100-Dollar Budget: Enhancing LLMs via Cost-Efficient, Expert-Involved Interaction in Sensitive Domains](http://arxiv.org/abs/2508.17202v2)** | 2025-08-29 | EMNLP 2025 Findings |
-| **[Epsilon-saturation for stable graphs and Littlestone classes](http://arxiv.org/abs/2508.21807v1)** | 2025-08-29 | 30 pages, 2 figures |
-| **[Automated Clinical Problem Detection from SOAP Notes using a Collaborative Multi-Agent LLM Architecture](http://arxiv.org/abs/2508.21803v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to The 16th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2025)(Poster Paper)</p></details> |
+| **[Text Meets Topology: Rethinking Out-of-distribution Detection in Text-Rich Networks](http://arxiv.org/abs/2508.17690v2)** | 2025-09-02 | EMNLP2025 Main |
+| **[NOCTIS: Novel Object Cyclic Threshold based Instance Segmentation](http://arxiv.org/abs/2507.01463v2)** | 2025-09-02 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 5 tables, ICLR 2026 preprint</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for Lifelong User Post-click Behaviors](http://arxiv.org/abs/2508.21801v1)** | 2025-08-29 | 8 pages, 5 figures |
-| **[Unsupervised Video Continual Learning via Non-Parametric Deep Embedded Clustering](http://arxiv.org/abs/2508.21773v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to The 36th British Machine Vision Conference (BMVC 2025), Sheffield, UK</p></details> |
-| **[Distributed Constrained Online Nonconvex Optimization with Compressed Communication](http://arxiv.org/abs/2503.22410v2)** | 2025-08-29 | <details><summary>31 pa...</summary><p>31 pages, 2 figures. arXiv admin note: text overlap with arXiv:2411.11574</p></details> |
-| **[A Hybrid Fully Convolutional CNN-Transformer Model for Inherently Interpretable Disease Detection from Retinal Fundus Images](http://arxiv.org/abs/2504.08481v3)** | 2025-08-29 | <details><summary>I mad...</summary><p>I made an error in this version</p></details> |
-| **[Towards Interactive Lesion Segmentation in Whole-Body PET/CT with Promptable Models](http://arxiv.org/abs/2508.21680v1)** | 2025-08-29 | <details><summary>atuoP...</summary><p>atuoPET4 Team LesionLocator</p></details> |
-| **[Time-RA: Towards Time Series Reasoning for Anomaly with LLM Feedback](http://arxiv.org/abs/2507.15066v3)** | 2025-08-29 | <details><summary>Under...</summary><p>Under review. 19 pages, 8 figures, 12 tables. Code and dataset are publicly available</p></details> |
+| **[Text Meets Topology: Rethinking Out-of-distribution Detection in Text-Rich Networks](http://arxiv.org/abs/2508.17690v2)** | 2025-09-02 | EMNLP2025 Main |
+| **[Learnable cut flow for high energy physics](http://arxiv.org/abs/2503.22498v3)** | 2025-09-02 | <details><summary>31 pa...</summary><p>31 pages, 26 figures, 8 tables, source code and data are available at GitHub</p></details> |
+| **[Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning](http://arxiv.org/abs/2508.19855v2)** | 2025-09-02 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 6 tables</p></details> |
+| **[Drawing2CAD: Sequence-to-Sequence Learning for CAD Generation from Vector Drawings](http://arxiv.org/abs/2508.18733v2)** | 2025-09-02 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025</p></details> |
+| **[VSRM: A Robust Mamba-Based Framework for Video Super-Resolution](http://arxiv.org/abs/2506.22762v2)** | 2025-09-02 | <details><summary>Arxiv...</summary><p>Arxiv version of ICCV 2025 paper</p></details> |
+| **[Machine Learning the 6d Supergravity Landscape](http://arxiv.org/abs/2505.16131v2)** | 2025-09-02 | <details><summary>50 pa...</summary><p>50 pages; code and data available at https://github.com/nait400/ML-6d-sugra-landscape; v2: references added</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for Lifelong User Post-click Behaviors](http://arxiv.org/abs/2508.21801v1)** | 2025-08-29 | 8 pages, 5 figures |
-| **[Tree-Guided Diffusion Planner](http://arxiv.org/abs/2508.21800v1)** | 2025-08-29 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, 14 tables (main paper + appendix) / under review / project page will be available after the paper becomes public in arxiv</p></details> |
-| **[COBRA-PPM: A Causal Bayesian Reasoning Architecture Using Probabilistic Programming for Robot Manipulation Under Uncertainty](http://arxiv.org/abs/2403.14488v4)** | 2025-08-29 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, accepted to the 2025 IEEE European Conference on Mobile Robots (ECMR 2025)</p></details> |
-| **[Refusal Tokens: A Simple Way to Calibrate Refusals in Large Language Models](http://arxiv.org/abs/2412.06748v2)** | 2025-08-29 | 20 pages |
-| **[Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness](http://arxiv.org/abs/2504.05163v2)** | 2025-08-29 | IRISAI'25 |
-| **[Analysis of Semantic Communication for Logic-based Hypothesis Deduction](http://arxiv.org/abs/2508.21755v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE Global Communications Conference</p></details> |
+| **[PromiseTune: Unveiling Causally Promising and Explainable Configuration Tuning](http://arxiv.org/abs/2507.05995v4)** | 2025-09-02 | <details><summary>This ...</summary><p>This paper has been accepted by ICSE26</p></details> |
+| **[Identifying Macro Causal Effects in a C-DMG over ADMGs](http://arxiv.org/abs/2504.01551v2)** | 2025-09-02 | Accepted to TMLR |
+| **[Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA](http://arxiv.org/abs/2502.12122v2)** | 2025-09-02 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2025</p></details> |
+| **[CF3: Compact and Fast 3D Feature Fields](http://arxiv.org/abs/2508.05254v3)** | 2025-09-02 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project Page: https://jjoonii.github.io/cf3-website/</p></details> |
+| **[Bridging Synthetic-to-Real Gaps: Frequency-Aware Perturbation and Selection for Single-shot Multi-Parametric Mapping Reconstruction](http://arxiv.org/abs/2503.03475v2)** | 2025-09-02 | <details><summary>This ...</summary><p>This paper is in a very niche field. We need to improve it to make it more applicable to all quantitative MRIs</p></details> |
+| **[Armijo Line-search Can Make (Stochastic) Gradient Descent Provably Faster](http://arxiv.org/abs/2503.00229v3)** | 2025-09-02 | ICML 2025. 37 pages |
 
