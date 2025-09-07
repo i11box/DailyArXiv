@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 05, 2025
+title: Latest 6 Papers - September 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Can LLMs Lie? Investigation beyond Hallucination](http://arxiv.org/abs/2509.03518v1)** | 2025-09-03 | <details><summary>Websi...</summary><p>Website at https://llm-liar.github.io/</p></details> |
-| **[LumiNet: Latent Intrinsics Meets Diffusion Models for Indoor Scene Relighting](http://arxiv.org/abs/2412.00177v3)** | 2025-09-03 | <details><summary>Corre...</summary><p>Corrects an evaluation bug in Table 1 due to a data normalization error. Thanks to the Sony PlayStation team for discovering and reporting the issue. The paper's core contributions, qualitative results, and user study are unaffected. We also include a minor update to the method to further improve result quality. Project page: https://luminet-relight.github.io/</p></details> |
-| **[Easier Painting Than Thinking: Can Text-to-Image Models Set the Stage, but Not Direct the Play?](http://arxiv.org/abs/2509.03516v1)** | 2025-09-03 | <details><summary>Proje...</summary><p>Project Page: https://t2i-corebench.github.io/</p></details> |
-| **[Bayesian Multivariate Sparse Functional PCA](http://arxiv.org/abs/2509.03512v1)** | 2025-09-03 | <details><summary>24 pa...</summary><p>24 pages, 7 figures for main text. Appendix contains supplemental material</p></details> |
-| **[Emulating compact binary population synthesis simulations with uncertainty quantification and model comparison using Bayesian normalizing flows](http://arxiv.org/abs/2506.05657v2)** | 2025-09-03 | 16 pages, 4 figures |
-| **[MPCritic: A plug-and-play MPC architecture for reinforcement learning](http://arxiv.org/abs/2504.01086v2)** | 2025-09-03 | <details><summary>CDC 2...</summary><p>CDC 2025 final version</p></details> |
+| **[Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview](http://arxiv.org/abs/2509.04450v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/VirtualFittingRoom/</p></details> |
+| **[TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection](http://arxiv.org/abs/2509.04448v1)** | 2025-09-04 | <details><summary>EMNLP...</summary><p>EMNLP 2025; Project Homepage: https://yanzehong.github.io/trust-vl/</p></details> |
+| **[Fuzzy to Clear: Elucidating the Threat Hunter Cognitive Process and Cognitive Support Needs](http://arxiv.org/abs/2408.04348v3)** | 2025-09-04 | <details><summary>22 Pa...</summary><p>22 Pages; 5 Figures; 8 Tables</p></details> |
+| **[ACING: Actor-Critic for Instruction Learning in Black-Box LLMs](http://arxiv.org/abs/2411.12736v2)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
+| **[Understanding sparse autoencoder scaling in the presence of feature manifolds](http://arxiv.org/abs/2509.02565v2)** | 2025-09-04 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, short workshop submission</p></details> |
+| **[Durian: Dual Reference-guided Portrait Animation with Attribute Transfer](http://arxiv.org/abs/2509.04434v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project Page: https://hyunsoocha.github.io/durian</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation](http://arxiv.org/abs/2509.03498v1)** | 2025-09-03 | technical report |
-| **[Efficiently Editing Mixture-of-Experts Models with Compressed Experts](http://arxiv.org/abs/2503.00634v2)** | 2025-09-03 | EMNLP 2025 Findings |
-| **[A Lorentz-Equivariant Transformer for All of the LHC](http://arxiv.org/abs/2411.00446v3)** | 2025-09-03 | <details><summary>27 pa...</summary><p>27 pages, 7 figures, 9 tables. v2: added table 5, improved tagging results. v3: added table 7, incorporate feedback</p></details> |
-| **[Continuous Saudi Sign Language Recognition: A Vision Transformer Approach](http://arxiv.org/abs/2509.03467v1)** | 2025-09-03 | <details><summary>23 pa...</summary><p>23 pages, 13 figures, 5 tables</p></details> |
-| **[Learning Mechanism Underlying NLP Pre-Training and Fine-Tuning](http://arxiv.org/abs/2509.03407v1)** | 2025-09-03 | <details><summary>46 pa...</summary><p>46 pages, 18 figures, 10 tables</p></details> |
-| **[Transformer-Based Power Optimization for Max-Min Fairness in Cell-Free Massive MIMO](http://arxiv.org/abs/2503.03561v2)** | 2025-09-03 | <details><summary>Journ...</summary><p>Journal: IEEE Wireless Communications Letters Publication Date: AUGUST 2025</p></details> |
+| **[Durian: Dual Reference-guided Portrait Animation with Attribute Transfer](http://arxiv.org/abs/2509.04434v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project Page: https://hyunsoocha.github.io/durian</p></details> |
+| **[Few-step Flow for 3D Generation via Marginal-Data Transport Distillation](http://arxiv.org/abs/2509.04406v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project page: https://github.com/Zanue/MDT-dist</p></details> |
+| **[Stitching the Story: Creating Panoramic Incident Summaries from Body-Worn Footage](http://arxiv.org/abs/2509.04370v1)** | 2025-09-04 | 5 pages, 3 figures |
+| **[Parking Availability Prediction via Fusing Multi-Source Data with A Self-Supervised Learning Enhanced Spatio-Temporal Inverted Transformer](http://arxiv.org/abs/2509.04362v1)** | 2025-09-04 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, under review for journal publication</p></details> |
+| **[From Editor to Dense Geometry Estimator](http://arxiv.org/abs/2509.04338v1)** | 2025-09-04 | 20pages |
+| **[From eigenvector nonlinearities with quadratic structure to eigenvalue nonlinearities with algebraic structure](http://arxiv.org/abs/2506.16182v3)** | 2025-09-04 | 23 pages, 5 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Easier Painting Than Thinking: Can Text-to-Image Models Set the Stage, but Not Direct the Play?](http://arxiv.org/abs/2509.03516v1)** | 2025-09-03 | <details><summary>Proje...</summary><p>Project Page: https://t2i-corebench.github.io/</p></details> |
-| **[Bayesian Multivariate Sparse Functional PCA](http://arxiv.org/abs/2509.03512v1)** | 2025-09-03 | <details><summary>24 pa...</summary><p>24 pages, 7 figures for main text. Appendix contains supplemental material</p></details> |
-| **[Emulating compact binary population synthesis simulations with uncertainty quantification and model comparison using Bayesian normalizing flows](http://arxiv.org/abs/2506.05657v2)** | 2025-09-03 | 16 pages, 4 figures |
-| **[LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence](http://arxiv.org/abs/2509.03505v1)** | 2025-09-03 | 56 pages |
-| **[OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation](http://arxiv.org/abs/2509.03498v1)** | 2025-09-03 | technical report |
-| **[AIM 2025 Rip Current Segmentation (RipSeg) Challenge Report](http://arxiv.org/abs/2508.13401v2)** | 2025-09-03 | <details><summary>Chall...</summary><p>Challenge report paper from AIM2025 Workshop at ICCVW 2025</p></details> |
+| **[Few-step Flow for 3D Generation via Marginal-Data Transport Distillation](http://arxiv.org/abs/2509.04406v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project page: https://github.com/Zanue/MDT-dist</p></details> |
+| **[Leveraging Equivariances and Symmetries in the Control Barrier Function Synthesis](http://arxiv.org/abs/2509.04399v1)** | 2025-09-04 | 15 pages |
+| **[PagedEviction: Structured Block-wise KV Cache Pruning for Efficient Large Language Model Inference](http://arxiv.org/abs/2509.04377v1)** | 2025-09-04 | Preprint |
+| **[FADE: A Dataset for Detecting Falling Objects around Buildings in Video](http://arxiv.org/abs/2408.05750v2)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Information Forensics and Security (TIFS), 2025</p></details> |
+| **[MiniCPM4: Ultra-Efficient LLMs on End Devices](http://arxiv.org/abs/2506.07900v2)** | 2025-09-04 | <details><summary>MiniC...</summary><p>MiniCPM4 Technical Report</p></details> |
+| **[Moco: A Learnable Meta Optimizer for Combinatorial Optimization](http://arxiv.org/abs/2402.04915v3)** | 2025-09-04 | <details><summary>20 pa...</summary><p>20 pages, 2 figures. A prior version was published in Advances in Knowledge Discovery and Data Mining. PAKDD 2025. Lecture Notes in Computer Science, vol 15872. Springer, Singapore</p></details> |
 
