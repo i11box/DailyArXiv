@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 08, 2025
+title: Latest 6 Papers - September 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview](http://arxiv.org/abs/2509.04450v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/VirtualFittingRoom/</p></details> |
-| **[TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection](http://arxiv.org/abs/2509.04448v1)** | 2025-09-04 | <details><summary>EMNLP...</summary><p>EMNLP 2025; Project Homepage: https://yanzehong.github.io/trust-vl/</p></details> |
-| **[Fuzzy to Clear: Elucidating the Threat Hunter Cognitive Process and Cognitive Support Needs](http://arxiv.org/abs/2408.04348v3)** | 2025-09-04 | <details><summary>22 Pa...</summary><p>22 Pages; 5 Figures; 8 Tables</p></details> |
-| **[ACING: Actor-Critic for Instruction Learning in Black-Box LLMs](http://arxiv.org/abs/2411.12736v2)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
-| **[Understanding sparse autoencoder scaling in the presence of feature manifolds](http://arxiv.org/abs/2509.02565v2)** | 2025-09-04 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, short workshop submission</p></details> |
-| **[Durian: Dual Reference-guided Portrait Animation with Attribute Transfer](http://arxiv.org/abs/2509.04434v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project Page: https://hyunsoocha.github.io/durian</p></details> |
+| **[FlowSeek: Optical Flow Made Easier with Depth Foundation Models and Motion Bases](http://arxiv.org/abs/2509.05297v1)** | 2025-09-05 | <details><summary>ICCV ...</summary><p>ICCV 2025 - Project Page: https://flowseek25.github.io/ - Code: https://github.com/mattpoggi/flowseek</p></details> |
+| **[Quality control in sublinear time: a case study via random graphs](http://arxiv.org/abs/2508.16531v2)** | 2025-09-05 | 70 pages |
+| **[Simple Yet Effective: An Information-Theoretic Approach to Multi-LLM Uncertainty Quantification](http://arxiv.org/abs/2507.07236v2)** | 2025-09-05 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Main Conference</p></details> |
+| **[Conversational Education at Scale: A Multi-LLM Agent Workflow for Procedural Learning and Pedagogic Quality Assessment](http://arxiv.org/abs/2507.05528v2)** | 2025-09-05 | <details><summary>14 pa...</summary><p>14 pages, accepted by EMNLP 2025</p></details> |
+| **[Elucidating the Design Space of Decay in Linear Attention](http://arxiv.org/abs/2509.05282v1)** | 2025-09-05 | <details><summary>Accep...</summary><p>Accepted to COLM 2025. Yiran Zhong is the corresponding author. Code is available at https://github.com/Doraemonzzz/xmixers</p></details> |
+| **[CFaults: Model-Based Diagnosis for Fault Localization in C Programs with Multiple Test Cases](http://arxiv.org/abs/2407.09337v2)** | 2025-09-05 | <details><summary>Accep...</summary><p>Accepted at FM 2024. 15 pages, 2 figures, 3 tables and 5 listings</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Durian: Dual Reference-guided Portrait Animation with Attribute Transfer](http://arxiv.org/abs/2509.04434v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project Page: https://hyunsoocha.github.io/durian</p></details> |
-| **[Few-step Flow for 3D Generation via Marginal-Data Transport Distillation](http://arxiv.org/abs/2509.04406v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project page: https://github.com/Zanue/MDT-dist</p></details> |
-| **[Stitching the Story: Creating Panoramic Incident Summaries from Body-Worn Footage](http://arxiv.org/abs/2509.04370v1)** | 2025-09-04 | 5 pages, 3 figures |
-| **[Parking Availability Prediction via Fusing Multi-Source Data with A Self-Supervised Learning Enhanced Spatio-Temporal Inverted Transformer](http://arxiv.org/abs/2509.04362v1)** | 2025-09-04 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, under review for journal publication</p></details> |
-| **[From Editor to Dense Geometry Estimator](http://arxiv.org/abs/2509.04338v1)** | 2025-09-04 | 20pages |
-| **[From eigenvector nonlinearities with quadratic structure to eigenvalue nonlinearities with algebraic structure](http://arxiv.org/abs/2506.16182v3)** | 2025-09-04 | 23 pages, 5 figures |
+| **[Recomposer: Event-roll-guided generative audio editing](http://arxiv.org/abs/2509.05256v1)** | 2025-09-05 | 5 pages, 5 figures |
+| **[COGITAO: A Visual Reasoning Framework To Study Compositionality & Generalization](http://arxiv.org/abs/2509.05249v1)** | 2025-09-05 | <details><summary>10 ma...</summary><p>10 main pages, 3 figure, appendix available</p></details> |
+| **[HoPE: Hyperbolic Rotary Positional Encoding for Stable Long-Range Dependency Modeling in Large Language Models](http://arxiv.org/abs/2509.05218v1)** | 2025-09-05 | <details><summary>This ...</summary><p>This paper proposes Hyperbolic Rotary Positional Encoding (HoPE), a geometric reformulation of positional encoding inspired by Lorentz transformations. HoPE addresses limitations of existing methods like RoPE by enabling stable long-distance dependency modeling. Code and data will be made available upon publication</p></details> |
+| **[AI-Assisted Modeling: DSL-Driven AI Interactions](http://arxiv.org/abs/2509.05160v1)** | 2025-09-05 | 7 pages, 4 figures |
+| **[Graph Transformer-Based Flood Susceptibility Mapping: Application to the French Riviera and Railway Infrastructure Under Climate Change](http://arxiv.org/abs/2504.03727v2)** | 2025-09-05 | <details><summary>Submi...</summary><p>Submitted to Engineering Applications of Artificial Intelligence</p></details> |
+| **[Quantum-Informed Machine Learning for Predicting Spatiotemporal Chaos](http://arxiv.org/abs/2507.19861v4)** | 2025-09-05 | 41 pages, 15 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Few-step Flow for 3D Generation via Marginal-Data Transport Distillation](http://arxiv.org/abs/2509.04406v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project page: https://github.com/Zanue/MDT-dist</p></details> |
-| **[Leveraging Equivariances and Symmetries in the Control Barrier Function Synthesis](http://arxiv.org/abs/2509.04399v1)** | 2025-09-04 | 15 pages |
-| **[PagedEviction: Structured Block-wise KV Cache Pruning for Efficient Large Language Model Inference](http://arxiv.org/abs/2509.04377v1)** | 2025-09-04 | Preprint |
-| **[FADE: A Dataset for Detecting Falling Objects around Buildings in Video](http://arxiv.org/abs/2408.05750v2)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Information Forensics and Security (TIFS), 2025</p></details> |
-| **[MiniCPM4: Ultra-Efficient LLMs on End Devices](http://arxiv.org/abs/2506.07900v2)** | 2025-09-04 | <details><summary>MiniC...</summary><p>MiniCPM4 Technical Report</p></details> |
-| **[Moco: A Learnable Meta Optimizer for Combinatorial Optimization](http://arxiv.org/abs/2402.04915v3)** | 2025-09-04 | <details><summary>20 pa...</summary><p>20 pages, 2 figures. A prior version was published in Advances in Knowledge Discovery and Data Mining. PAKDD 2025. Lecture Notes in Computer Science, vol 15872. Springer, Singapore</p></details> |
+| **[DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning](http://arxiv.org/abs/2507.00008v2)** | 2025-09-05 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference</p></details> |
+| **[Inferring Change Points in High-Dimensional Regression via Approximate Message Passing](http://arxiv.org/abs/2404.07864v3)** | 2025-09-05 | <details><summary>49 pa...</summary><p>49 pages, 9 figures. To appear in the Journal of Machine Learning Research</p></details> |
+| **[Less is More Tokens: Efficient Math Reasoning via Difficulty-Aware Chain-of-Thought Distillation](http://arxiv.org/abs/2509.05226v1)** | 2025-09-05 | 28 Pages |
+| **[ParEval-Repo: A Benchmark Suite for Evaluating LLMs with Repository-level HPC Translation Tasks](http://arxiv.org/abs/2506.20938v2)** | 2025-09-05 | 10 pages, 5 figures |
+| **[Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets](http://arxiv.org/abs/2508.15442v3)** | 2025-09-05 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Main Conference (Oral)</p></details> |
+| **[Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations](http://arxiv.org/abs/2509.05186v1)** | 2025-09-05 | <details><summary>First...</summary><p>First two authors contributed equally</p></details> |
 
