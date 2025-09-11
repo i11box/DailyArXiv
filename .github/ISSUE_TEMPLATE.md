@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 11, 2025
+title: Latest 6 Papers - September 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Parallel-R1: Towards Parallel Thinking via Reinforcement Learning](http://arxiv.org/abs/2509.07980v1)** | 2025-09-09 | <details><summary>Proje...</summary><p>Project website: https://zhengkid.github.io/Parallel_R1.github.io/</p></details> |
-| **[Visual Representation Alignment for Multimodal Large Language Models](http://arxiv.org/abs/2509.07979v1)** | 2025-09-09 | <details><summary>Proje...</summary><p>Project Page: https://cvlab-kaist.github.io/VIRAL/</p></details> |
-| **[One View, Many Worlds: Single-Image to 3D Object Meets Generative Domain Randomization for One-Shot 6D Pose Estimation](http://arxiv.org/abs/2509.07978v1)** | 2025-09-09 | <details><summary>CoRL ...</summary><p>CoRL 2025 Oral, Project page: https://gzwsama.github.io/OnePoseviaGen.github.io/</p></details> |
-| **[Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search](http://arxiv.org/abs/2509.07969v1)** | 2025-09-09 | <details><summary>Code,...</summary><p>Code, datasets, models are available at https://github.com/Mini-o3/Mini-o3. Project Page: https://mini-o3.github.io/</p></details> |
-| **[Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images](http://arxiv.org/abs/2509.07966v1)** | 2025-09-09 | Work in Progress |
-| **[Customizing the Inductive Biases of Softmax Attention using Structured Matrices](http://arxiv.org/abs/2509.07963v1)** | 2025-09-09 | <details><summary>ICML ...</summary><p>ICML 2025. Code available at https://github.com/YilunKuang/structured-attention</p></details> |
+| **[RewardDance: Reward Scaling in Visual Generation](http://arxiv.org/abs/2509.08826v1)** | 2025-09-10 | <details><summary>Byted...</summary><p>Bytedance Seed Technical Report</p></details> |
+| **[TweakLLM: A Routing Architecture for Dynamic Tailoring of Cached Responses](http://arxiv.org/abs/2507.23674v2)** | 2025-09-10 | 13 pages, 9 figures |
+| **[A Survey of TinyML Applications in Beekeeping for Hive Monitoring and Management](http://arxiv.org/abs/2509.08822v1)** | 2025-09-10 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 3 tables. Survey of TinyML and IoT applications in beekeeping (datasets, benchmarking, deployment). Submitted to ACM Computing Surveys (under review)</p></details> |
+| **[RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation](http://arxiv.org/abs/2509.08820v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025, Project Page: https://zzongzheng0918.github.io/RoboChemist.github.io/</p></details> |
+| **[Subjective Behaviors and Preferences in LLM: Language of Browsing](http://arxiv.org/abs/2508.15474v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
+| **[A comparative study of efficient multigrid solvers for high-order local discontinuous Galerkin methods: Poisson, elliptic interface, and multiphase Stokes problems](http://arxiv.org/abs/2412.12506v2)** | 2025-09-10 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, 1 legend, 1 algorithm, 2 tables</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Customizing the Inductive Biases of Softmax Attention using Structured Matrices](http://arxiv.org/abs/2509.07963v1)** | 2025-09-09 | <details><summary>ICML ...</summary><p>ICML 2025. Code available at https://github.com/YilunKuang/structured-attention</p></details> |
-| **[Graph-Fused Vision-Language-Action for Policy Reasoning in Multi-Arm Robotic Manipulation](http://arxiv.org/abs/2509.07957v1)** | 2025-09-09 | <details><summary>This ...</summary><p>This paper is submitted to IEEE IROS 2025 Workshop AIR4S</p></details> |
-| **[Bringing Multi-Modal Multi-Task Federated Foundation Models to Education Domain: Prospects and Challenges](http://arxiv.org/abs/2509.07946v1)** | 2025-09-09 | 12 pages, 2 figures |
-| **[Feature Space Analysis by Guided Diffusion Model](http://arxiv.org/abs/2509.07936v1)** | 2025-09-09 | <details><summary>19 pa...</summary><p>19 pages, 13 figures, codes: https://github.com/KimiakiShirahama/FeatureSpaceAnalysisByGuidedDiffusionModel</p></details> |
-| **[A Non-Monotonic Relationship: An Empirical Analysis of Hybrid Quantum Classifiers for Unseen Ransomware Detection](http://arxiv.org/abs/2509.07924v1)** | 2025-09-09 | <details><summary>A Non...</summary><p>A Non-Monotonic Relationship: An Empirical Analysis of Hybrid Quantum Classifiers for Unseen Ransomware Detection</p></details> |
-| **[Bio-KGvec2go: Serving up-to-date Dynamic Biomedical Knowledge Graph Embeddings](http://arxiv.org/abs/2509.07905v1)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted at ISWC Poster and Demo Track 2025</p></details> |
+| **[Do All Autoregressive Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms](http://arxiv.org/abs/2509.08778v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
+| **[Reangle-A-Video: 4D Video Generation as Video-to-Video Translation](http://arxiv.org/abs/2503.09151v3)** | 2025-09-10 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project page: https://hyeonho99.github.io/reangle-a-video/</p></details> |
+| **[Permutation-Avoiding FFT-Based Convolution](http://arxiv.org/abs/2506.12718v2)** | 2025-09-10 | <details><summary>42 pa...</summary><p>42 pages, 22 tables, 2 figures, 22 algorithms</p></details> |
+| **[CrowdQuery: Density-Guided Query Module for Enhanced 2D and 3D Detection in Crowded Scenes](http://arxiv.org/abs/2509.08738v1)** | 2025-09-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, accepted by IROS 2025</p></details> |
+| **[Compressing CNN models for resource-constrained systems by channel and layer pruning](http://arxiv.org/abs/2509.08714v1)** | 2025-09-10 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</p></details> |
+| **[Computational Imaging for Enhanced Computer Vision](http://arxiv.org/abs/2509.08712v1)** | 2025-09-10 | <details><summary>Inter...</summary><p>International Journal of Engineering Research & Technology, 2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search](http://arxiv.org/abs/2509.07969v1)** | 2025-09-09 | <details><summary>Code,...</summary><p>Code, datasets, models are available at https://github.com/Mini-o3/Mini-o3. Project Page: https://mini-o3.github.io/</p></details> |
-| **[Accelerating Local AI on Consumer GPUs: A Hardware-Aware Dynamic Strategy for YOLOv10s](http://arxiv.org/abs/2509.07928v1)** | 2025-09-09 | 6 pages, 7 figures |
-| **[ScoreHOI: Physically Plausible Reconstruction of Human-Object Interaction via Score-Guided Diffusion](http://arxiv.org/abs/2509.07920v1)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[Active Membership Inference Test (aMINT): Enhancing Model Auditability with Multi-Task Learning](http://arxiv.org/abs/2509.07879v1)** | 2025-09-09 | <details><summary>In Pr...</summary><p>In Proc. IEEE/CVF Intenational Conference on Computer Vision, ICCV, 2025</p></details> |
-| **[Point Linguist Model: Segment Any Object via Bridged Large 3D-Language Model](http://arxiv.org/abs/2509.07825v1)** | 2025-09-09 | Preprint |
-| **[Fast Decoding of Interleaved Linearized Reed-Solomon Codes and Variants](http://arxiv.org/abs/2201.01339v4)** | 2025-09-09 | <details><summary>Advan...</summary><p>Advances in Mathematics of Communications, 46 pages, 5 figures</p></details> |
+| **[A Survey of TinyML Applications in Beekeeping for Hive Monitoring and Management](http://arxiv.org/abs/2509.08822v1)** | 2025-09-10 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 3 tables. Survey of TinyML and IoT applications in beekeeping (datasets, benchmarking, deployment). Submitted to ACM Computing Surveys (under review)</p></details> |
+| **[Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval-Augmented Parsing with Expert Knowledge](http://arxiv.org/abs/2509.08808v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to COLM 2024</p></details> |
+| **[Doubly robust average treatment effect estimation for survival data](http://arxiv.org/abs/2509.08788v1)** | 2025-09-10 | 18 pages |
+| **[Distributed Algorithms for Potential Problems](http://arxiv.org/abs/2507.12038v3)** | 2025-09-10 | <details><summary>28 pa...</summary><p>28 pages, 4 figures. Acknowledgments added in v2. Some bugs in the proofs were corrected in v3</p></details> |
+| **[Reangle-A-Video: 4D Video Generation as Video-to-Video Translation](http://arxiv.org/abs/2503.09151v3)** | 2025-09-10 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project page: https://hyeonho99.github.io/reangle-a-video/</p></details> |
+| **[Permutation-Avoiding FFT-Based Convolution](http://arxiv.org/abs/2506.12718v2)** | 2025-09-10 | <details><summary>42 pa...</summary><p>42 pages, 22 tables, 2 figures, 22 algorithms</p></details> |
 
