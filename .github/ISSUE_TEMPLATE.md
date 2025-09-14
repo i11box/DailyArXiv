@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 12, 2025
+title: Latest 6 Papers - September 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RewardDance: Reward Scaling in Visual Generation](http://arxiv.org/abs/2509.08826v1)** | 2025-09-10 | <details><summary>Byted...</summary><p>Bytedance Seed Technical Report</p></details> |
-| **[TweakLLM: A Routing Architecture for Dynamic Tailoring of Cached Responses](http://arxiv.org/abs/2507.23674v2)** | 2025-09-10 | 13 pages, 9 figures |
-| **[A Survey of TinyML Applications in Beekeeping for Hive Monitoring and Management](http://arxiv.org/abs/2509.08822v1)** | 2025-09-10 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 3 tables. Survey of TinyML and IoT applications in beekeeping (datasets, benchmarking, deployment). Submitted to ACM Computing Surveys (under review)</p></details> |
-| **[RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation](http://arxiv.org/abs/2509.08820v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025, Project Page: https://zzongzheng0918.github.io/RoboChemist.github.io/</p></details> |
-| **[Subjective Behaviors and Preferences in LLM: Language of Browsing](http://arxiv.org/abs/2508.15474v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
-| **[A comparative study of efficient multigrid solvers for high-order local discontinuous Galerkin methods: Poisson, elliptic interface, and multiphase Stokes problems](http://arxiv.org/abs/2412.12506v2)** | 2025-09-10 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, 1 legend, 1 algorithm, 2 tables</p></details> |
+| **[FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark](http://arxiv.org/abs/2509.09680v1)** | 2025-09-11 | <details><summary>Proje...</summary><p>Project page: https://flux-reason-6m.github.io/</p></details> |
+| **[ButterflyQuant: Ultra-low-bit LLM Quantization through Learnable Orthogonal Butterfly Transforms](http://arxiv.org/abs/2509.09679v1)** | 2025-09-11 | <details><summary>Repla...</summary><p>Replace discrete Hadamard transforms with continuous Butterfly transforms to facilitate the learning of rotation matrices in LLM quantization</p></details> |
+| **[Data Compression with Relative Entropy Coding](http://arxiv.org/abs/2506.16309v2)** | 2025-09-11 | <details><summary>PhD T...</summary><p>PhD Thesis. 224 pages, 19 figures</p></details> |
+| **[SpatialVID: A Large-Scale Video Dataset with Spatial Annotations](http://arxiv.org/abs/2509.09676v1)** | 2025-09-11 | <details><summary>Proje...</summary><p>Project page: https://nju-3dv.github.io/projects/SpatialVID/</p></details> |
+| **[CDE: Curiosity-Driven Exploration for Efficient Reinforcement Learning in Large Language Models](http://arxiv.org/abs/2509.09675v1)** | 2025-09-11 | 21 pages |
+| **[Locality in Image Diffusion Models Emerges from Data Statistics](http://arxiv.org/abs/2509.09672v1)** | 2025-09-11 | <details><summary>30 pa...</summary><p>30 pages, 18 figures, 6 tables</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do All Autoregressive Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms](http://arxiv.org/abs/2509.08778v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
-| **[Reangle-A-Video: 4D Video Generation as Video-to-Video Translation](http://arxiv.org/abs/2503.09151v3)** | 2025-09-10 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project page: https://hyeonho99.github.io/reangle-a-video/</p></details> |
-| **[Permutation-Avoiding FFT-Based Convolution](http://arxiv.org/abs/2506.12718v2)** | 2025-09-10 | <details><summary>42 pa...</summary><p>42 pages, 22 tables, 2 figures, 22 algorithms</p></details> |
-| **[CrowdQuery: Density-Guided Query Module for Enhanced 2D and 3D Detection in Crowded Scenes](http://arxiv.org/abs/2509.08738v1)** | 2025-09-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, accepted by IROS 2025</p></details> |
-| **[Compressing CNN models for resource-constrained systems by channel and layer pruning](http://arxiv.org/abs/2509.08714v1)** | 2025-09-10 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</p></details> |
-| **[Computational Imaging for Enhanced Computer Vision](http://arxiv.org/abs/2509.08712v1)** | 2025-09-10 | <details><summary>Inter...</summary><p>International Journal of Engineering Research & Technology, 2025</p></details> |
+| **[ButterflyQuant: Ultra-low-bit LLM Quantization through Learnable Orthogonal Butterfly Transforms](http://arxiv.org/abs/2509.09679v1)** | 2025-09-11 | <details><summary>Repla...</summary><p>Replace discrete Hadamard transforms with continuous Butterfly transforms to facilitate the learning of rotation matrices in LLM quantization</p></details> |
+| **[Data Compression with Relative Entropy Coding](http://arxiv.org/abs/2506.16309v2)** | 2025-09-11 | <details><summary>PhD T...</summary><p>PhD Thesis. 224 pages, 19 figures</p></details> |
+| **[Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration](http://arxiv.org/abs/2509.09671v1)** | 2025-09-11 | CoRL 2025 |
+| **[Deep Learning Framework for Early Detection of Pancreatic Cancer Using Multi-Modal Medical Imaging Analysis](http://arxiv.org/abs/2508.20877v2)** | 2025-09-11 | 21 pages, 17 figure |
+| **[Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication](http://arxiv.org/abs/2509.09597v1)** | 2025-09-11 | 23 pages |
+| **[Deep Learning-based Cross-modal Reconstruction of Vehicle Target from Sparse 3D SAR Image](http://arxiv.org/abs/2406.04158v7)** | 2025-09-11 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Survey of TinyML Applications in Beekeeping for Hive Monitoring and Management](http://arxiv.org/abs/2509.08822v1)** | 2025-09-10 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 3 tables. Survey of TinyML and IoT applications in beekeeping (datasets, benchmarking, deployment). Submitted to ACM Computing Surveys (under review)</p></details> |
-| **[Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval-Augmented Parsing with Expert Knowledge](http://arxiv.org/abs/2509.08808v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to COLM 2024</p></details> |
-| **[Doubly robust average treatment effect estimation for survival data](http://arxiv.org/abs/2509.08788v1)** | 2025-09-10 | 18 pages |
-| **[Distributed Algorithms for Potential Problems](http://arxiv.org/abs/2507.12038v3)** | 2025-09-10 | <details><summary>28 pa...</summary><p>28 pages, 4 figures. Acknowledgments added in v2. Some bugs in the proofs were corrected in v3</p></details> |
-| **[Reangle-A-Video: 4D Video Generation as Video-to-Video Translation](http://arxiv.org/abs/2503.09151v3)** | 2025-09-10 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project page: https://hyeonho99.github.io/reangle-a-video/</p></details> |
-| **[Permutation-Avoiding FFT-Based Convolution](http://arxiv.org/abs/2506.12718v2)** | 2025-09-10 | <details><summary>42 pa...</summary><p>42 pages, 22 tables, 2 figures, 22 algorithms</p></details> |
+| **[Modular Jump Gaussian Processes](http://arxiv.org/abs/2505.15557v2)** | 2025-09-11 | 19 pages, 13 figures |
+| **[Joint parameter estimations for spin glasses](http://arxiv.org/abs/2406.10760v2)** | 2025-09-11 | <details><summary>v2: r...</summary><p>v2: results improved by dropping the non flatness of free energy condition. Fixed an issue in the proof of existence of MPLE. Minor updates on the proof of concentration Lemma 2.1 and Proof of positivity of the Hessian. 25 pages, 1 figure</p></details> |
+| **[Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis](http://arxiv.org/abs/2509.09595v1)** | 2025-09-11 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://klingavatar.github.io/</p></details> |
+| **[Fast Polarisation-Aware Decoder for Non-Binary Polar Codes](http://arxiv.org/abs/2509.09554v1)** | 2025-09-11 | <details><summary>8 pag...</summary><p>8 pages and 8 figures. Paper submitted to Annals of Telecommunications (August 2025)</p></details> |
+| **[TrEnv: Transparently Share Serverless Execution Environments Across Different Functions and Nodes](http://arxiv.org/abs/2509.09525v1)** | 2025-09-11 | 38 pages |
+| **[LoRA-PAR: A Flexible Dual-System LoRA Partitioning Approach to Efficient LLM Fine-Tuning](http://arxiv.org/abs/2507.20999v2)** | 2025-09-11 | 12 pages |
 
