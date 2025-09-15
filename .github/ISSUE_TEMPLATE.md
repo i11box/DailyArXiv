@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 15, 2025
+title: Latest 6 Papers - September 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,26 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark](http://arxiv.org/abs/2509.09680v1)** | 2025-09-11 | <details><summary>Proje...</summary><p>Project page: https://flux-reason-6m.github.io/</p></details> |
-| **[ButterflyQuant: Ultra-low-bit LLM Quantization through Learnable Orthogonal Butterfly Transforms](http://arxiv.org/abs/2509.09679v1)** | 2025-09-11 | <details><summary>Repla...</summary><p>Replace discrete Hadamard transforms with continuous Butterfly transforms to facilitate the learning of rotation matrices in LLM quantization</p></details> |
-| **[Data Compression with Relative Entropy Coding](http://arxiv.org/abs/2506.16309v2)** | 2025-09-11 | <details><summary>PhD T...</summary><p>PhD Thesis. 224 pages, 19 figures</p></details> |
-| **[SpatialVID: A Large-Scale Video Dataset with Spatial Annotations](http://arxiv.org/abs/2509.09676v1)** | 2025-09-11 | <details><summary>Proje...</summary><p>Project page: https://nju-3dv.github.io/projects/SpatialVID/</p></details> |
-| **[CDE: Curiosity-Driven Exploration for Efficient Reinforcement Learning in Large Language Models](http://arxiv.org/abs/2509.09675v1)** | 2025-09-11 | 21 pages |
-| **[Locality in Image Diffusion Models Emerges from Data Statistics](http://arxiv.org/abs/2509.09672v1)** | 2025-09-11 | <details><summary>30 pa...</summary><p>30 pages, 18 figures, 6 tables</p></details> |
+| **[GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation](http://arxiv.org/abs/2509.10454v1)** | 2025-09-12 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025. Project page: [this https URL](https://bagh2178.github.io/GC-VLN/)</p></details> |
+| **[WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained Speech Recognition Transformers](http://arxiv.org/abs/2509.10452v1)** | 2025-09-12 | 5 pages, 2 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ButterflyQuant: Ultra-low-bit LLM Quantization through Learnable Orthogonal Butterfly Transforms](http://arxiv.org/abs/2509.09679v1)** | 2025-09-11 | <details><summary>Repla...</summary><p>Replace discrete Hadamard transforms with continuous Butterfly transforms to facilitate the learning of rotation matrices in LLM quantization</p></details> |
-| **[Data Compression with Relative Entropy Coding](http://arxiv.org/abs/2506.16309v2)** | 2025-09-11 | <details><summary>PhD T...</summary><p>PhD Thesis. 224 pages, 19 figures</p></details> |
-| **[Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration](http://arxiv.org/abs/2509.09671v1)** | 2025-09-11 | CoRL 2025 |
-| **[Deep Learning Framework for Early Detection of Pancreatic Cancer Using Multi-Modal Medical Imaging Analysis](http://arxiv.org/abs/2508.20877v2)** | 2025-09-11 | 21 pages, 17 figure |
-| **[Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication](http://arxiv.org/abs/2509.09597v1)** | 2025-09-11 | 23 pages |
-| **[Deep Learning-based Cross-modal Reconstruction of Vehicle Target from Sparse 3D SAR Image](http://arxiv.org/abs/2406.04158v7)** | 2025-09-11 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained Speech Recognition Transformers](http://arxiv.org/abs/2509.10452v1)** | 2025-09-12 | 5 pages, 2 figures |
+| **[Router-Tuning: A Simple and Effective Approach for Enabling Dynamic-Depth in Transformers](http://arxiv.org/abs/2410.13184v6)** | 2025-09-12 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference</p></details> |
+| **[Long Context Automated Essay Scoring with Language Models](http://arxiv.org/abs/2509.10417v1)** | 2025-09-12 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2 tables</p></details> |
+| **[Bayesian Sheaf Neural Networks](http://arxiv.org/abs/2410.09590v2)** | 2025-09-12 | 32 pages, 4 figures |
+| **[Attacking Attention of Foundation Models Disrupts Downstream Tasks](http://arxiv.org/abs/2506.05394v3)** | 2025-09-12 | <details><summary>Paper...</summary><p>Paper published at CVPR 2025 Workshop Advml</p></details> |
+| **[Is Adversarial Training with Compressed Datasets Effective?](http://arxiv.org/abs/2402.05675v3)** | 2025-09-12 | <details><summary>22 pa...</summary><p>22 pages, 10 figures, 3 tables, accepted at Scandinavian Conference on Image Analysis 2025 (SCIA 2025)</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Modular Jump Gaussian Processes](http://arxiv.org/abs/2505.15557v2)** | 2025-09-11 | 19 pages, 13 figures |
-| **[Joint parameter estimations for spin glasses](http://arxiv.org/abs/2406.10760v2)** | 2025-09-11 | <details><summary>v2: r...</summary><p>v2: results improved by dropping the non flatness of free energy condition. Fixed an issue in the proof of existence of MPLE. Minor updates on the proof of concentration Lemma 2.1 and Proof of positivity of the Hessian. 25 pages, 1 figure</p></details> |
-| **[Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis](http://arxiv.org/abs/2509.09595v1)** | 2025-09-11 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://klingavatar.github.io/</p></details> |
-| **[Fast Polarisation-Aware Decoder for Non-Binary Polar Codes](http://arxiv.org/abs/2509.09554v1)** | 2025-09-11 | <details><summary>8 pag...</summary><p>8 pages and 8 figures. Paper submitted to Annals of Telecommunications (August 2025)</p></details> |
-| **[TrEnv: Transparently Share Serverless Execution Environments Across Different Functions and Nodes](http://arxiv.org/abs/2509.09525v1)** | 2025-09-11 | 38 pages |
-| **[LoRA-PAR: A Flexible Dual-System LoRA Partitioning Approach to Efficient LLM Fine-Tuning](http://arxiv.org/abs/2507.20999v2)** | 2025-09-11 | 12 pages |
+| **[WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained Speech Recognition Transformers](http://arxiv.org/abs/2509.10452v1)** | 2025-09-12 | 5 pages, 2 figures |
+| **[Self-supervised Learning Of Visual Pose Estimation Without Pose Labels By Classifying LED States](http://arxiv.org/abs/2509.10405v1)** | 2025-09-12 | <details><summary>accep...</summary><p>accepted at CoRL 2025</p></details> |
+| **[Evolving Voices Based on Temporal Poisson Factorisation](http://arxiv.org/abs/2410.18486v2)** | 2025-09-12 | <details><summary>main ...</summary><p>main paper: 20 pages (2 single figures, 3 double figures, 3 tables), appendix: 2 pages, supplementary materials: 18 pages (2 plots, 4 quadruple plots, 2 tables), references: 3 pages</p></details> |
+| **[The Language of Approval: Identifying the Drivers of Positive Feedback Online](http://arxiv.org/abs/2509.10370v1)** | 2025-09-12 | <details><summary>Prepr...</summary><p>Preprint: 21 pages, 7 figures, 7 tables</p></details> |
+| **[UIO-LLMs: Unbiased Incremental Optimization for Long-Context LLMs](http://arxiv.org/abs/2406.18173v3)** | 2025-09-12 | <details><summary>This ...</summary><p>This article was not accepted, and its quality is not very good. Therefore, we have decided to withdraw the submission and will not resubmit it elsewhere</p></details> |
+| **[AdaFusion: Prompt-Guided Inference with Adaptive Fusion of Pathology Foundation Models](http://arxiv.org/abs/2508.05084v2)** | 2025-09-12 | 6 Tables, 11 Figures |
 
