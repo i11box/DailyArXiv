@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 18, 2025
+title: Latest 6 Papers - September 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[3D Aware Region Prompted Vision Language Model](http://arxiv.org/abs/2509.13317v1)** | 2025-09-16 | <details><summary>Proje...</summary><p>Project Website: https://www.anjiecheng.me/sr3d</p></details> |
-| **[Do Natural Language Descriptions of Model Activations Convey Privileged Information?](http://arxiv.org/abs/2509.13316v1)** | 2025-09-16 | 34 pages, 6 figures |
-| **[ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](http://arxiv.org/abs/2509.13313v1)** | 2025-09-16 | <details><summary>https...</summary><p>https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/</p></details> |
-| **[Towards General Agentic Intelligence via Environment Scaling](http://arxiv.org/abs/2509.13311v1)** | 2025-09-16 | <details><summary>https...</summary><p>https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/</p></details> |
-| **[Scaling Agents via Continual Pre-training](http://arxiv.org/abs/2509.13310v1)** | 2025-09-16 | <details><summary>https...</summary><p>https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/</p></details> |
-| **[WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning](http://arxiv.org/abs/2509.13305v1)** | 2025-09-16 | <details><summary>https...</summary><p>https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/</p></details> |
+| **[Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision](http://arxiv.org/abs/2509.14234v1)** | 2025-09-17 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 2 tables</p></details> |
+| **[Cinéaste: A Fine-grained Contextual Movie Question Answering Benchmark](http://arxiv.org/abs/2509.14227v1)** | 2025-09-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 5 tables</p></details> |
+| **[MAVL: A Multilingual Audio-Video Lyrics Dataset for Animated Song Translation](http://arxiv.org/abs/2505.18614v3)** | 2025-09-17 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025, Project Page: https://k1064190.github.io/papers/paper1.html, our codes and datasets are available at https://github.com/k1064190/MAVL</p></details> |
+| **[Defending Diffusion Models Against Membership Inference Attacks via Higher-Order Langevin Dynamics](http://arxiv.org/abs/2509.14225v1)** | 2025-09-17 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table</p></details> |
+| **[Adaptive Off-Policy Inference for M-Estimators Under Model Misspecification](http://arxiv.org/abs/2509.14218v1)** | 2025-09-17 | 36 pages, 6 figures |
+| **[A Universal Banach--Bregman Framework for Stochastic Iterations: Unifying Stochastic Mirror Descent, Learning and LLM Training](http://arxiv.org/abs/2509.14216v1)** | 2025-09-17 | <details><summary>69 pa...</summary><p>69 pages, 10 figures. Preprint</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Converse of the Real Orthogonal Holant Theorem](http://arxiv.org/abs/2409.06911v3)** | 2025-09-16 | 29 pages, 11 figures |
-| **[OGF: An Online Gradient Flow Method for Optimizing the Statistical Steady-State Time Averages of Unsteady Turbulent Flows](http://arxiv.org/abs/2507.05149v2)** | 2025-09-16 | 34 pages, 13 figures |
-| **[B-TGAT: A Bi-directional Temporal Graph Attention Transformer for Clustering Multivariate Spatiotemporal Data](http://arxiv.org/abs/2509.13202v1)** | 2025-09-16 | 10 pages, In review |
-| **[Evaluation of Objective Image Quality Metrics for High-Fidelity Image Compression](http://arxiv.org/abs/2509.13150v1)** | 2025-09-16 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, Submitted to IEEE Access</p></details> |
-| **[TexTAR : Textual Attribute Recognition in Multi-domain and Multi-lingual Document Images](http://arxiv.org/abs/2509.13151v1)** | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted at ICDAR 2025 (Oral)</p></details> |
-| **[The Belief State Transformer](http://arxiv.org/abs/2410.23506v3)** | 2025-09-16 | <details><summary>Updat...</summary><p>Updated report with new improvements and authors</p></details> |
+| **[A Universal Banach--Bregman Framework for Stochastic Iterations: Unifying Stochastic Mirror Descent, Learning and LLM Training](http://arxiv.org/abs/2509.14216v1)** | 2025-09-17 | <details><summary>69 pa...</summary><p>69 pages, 10 figures. Preprint</p></details> |
+| **[PoPStat-COVID19: Leveraging Population Pyramids to Quantify Demographic Vulnerability to COVID-19](http://arxiv.org/abs/2509.14213v1)** | 2025-09-17 | <details><summary>14 pa...</summary><p>14 pages, 4 Figures, 25th ICTer Conference</p></details> |
+| **[Canary-1B-v2 & Parakeet-TDT-0.6B-v3: Efficient and High-Performance Models for Multilingual ASR and AST](http://arxiv.org/abs/2509.14128v1)** | 2025-09-17 | <details><summary>Mini ...</summary><p>Mini Version of it Submitted to ICASSP 2026</p></details> |
+| **[KALL-E:Autoregressive Speech Synthesis with Next-Distribution Prediction](http://arxiv.org/abs/2412.16846v2)** | 2025-09-17 | 6 figures, 5 tables |
+| **[Benchmarking Large Language Models for Cryptanalysis and Side-Channel Vulnerabilities](http://arxiv.org/abs/2505.24621v2)** | 2025-09-17 | EMNLP'25 Findings |
+| **[On estimating the trace of quantum state powers](http://arxiv.org/abs/2410.13559v3)** | 2025-09-17 | <details><summary>57 pa...</summary><p>57 pages, 3 tables, 3 algorithms. v3: Added a paragraph on recent developments, fixed the proof of Lemma 2.17 (Lemma 2.9 in the SODA proceedings), and made other minor changes. v2: Minor changes (particularly quantum query complexity lower bound for the hard regime, Theorem 5.8 in the SODA proceedings) and added references</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[3D Aware Region Prompted Vision Language Model](http://arxiv.org/abs/2509.13317v1)** | 2025-09-16 | <details><summary>Proje...</summary><p>Project Website: https://www.anjiecheng.me/sr3d</p></details> |
-| **[Inferring Soil Drydown Behaviour with Adaptive Bayesian Online Changepoint Analysis](http://arxiv.org/abs/2509.13293v1)** | 2025-09-16 | <details><summary>21 pa...</summary><p>21 pages of main manuscript and 3 pages if supplemental document</p></details> |
-| **[Evaluating LLM Alignment on Personality Inference from Real-World Interview Data](http://arxiv.org/abs/2509.13244v1)** | 2025-09-16 | 8 pages, 3 figures |
-| **[Is the Top Still Spinning? Evaluating Subjectivity in Narrative Understanding](http://arxiv.org/abs/2504.01132v2)** | 2025-09-16 | EMNLP 2025 |
-| **[Metacognitive Reuse: Turning Recurring LLM Reasoning Into Concise Behaviors](http://arxiv.org/abs/2509.13237v1)** | 2025-09-16 | <details><summary>18 pa...</summary><p>18 pages, 9 Figures, 5 Tables</p></details> |
-| **[Scaling Up Throughput-oriented LLM Inference Applications on Heterogeneous Opportunistic GPU Clusters with Pervasive Context Management](http://arxiv.org/abs/2509.13201v1)** | 2025-09-16 | 10 pages |
+| **[Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision](http://arxiv.org/abs/2509.14234v1)** | 2025-09-17 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 2 tables</p></details> |
+| **[Defending Diffusion Models Against Membership Inference Attacks via Higher-Order Langevin Dynamics](http://arxiv.org/abs/2509.14225v1)** | 2025-09-17 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table</p></details> |
+| **[Adaptive Off-Policy Inference for M-Estimators Under Model Misspecification](http://arxiv.org/abs/2509.14218v1)** | 2025-09-17 | 36 pages, 6 figures |
+| **[Active Inference Framework for Closed-Loop Sensing, Communication, and Control in UAV Systems](http://arxiv.org/abs/2509.14201v1)** | 2025-09-17 | 5 pages, 2 figures |
+| **[Canary-1B-v2 & Parakeet-TDT-0.6B-v3: Efficient and High-Performance Models for Multilingual ASR and AST](http://arxiv.org/abs/2509.14128v1)** | 2025-09-17 | <details><summary>Mini ...</summary><p>Mini Version of it Submitted to ICASSP 2026</p></details> |
+| **[GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model](http://arxiv.org/abs/2509.14117v1)** | 2025-09-17 | Under Review |
 
