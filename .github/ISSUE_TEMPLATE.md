@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 19, 2025
+title: Latest 6 Papers - September 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision](http://arxiv.org/abs/2509.14234v1)** | 2025-09-17 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 2 tables</p></details> |
-| **[Cinéaste: A Fine-grained Contextual Movie Question Answering Benchmark](http://arxiv.org/abs/2509.14227v1)** | 2025-09-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 5 tables</p></details> |
-| **[MAVL: A Multilingual Audio-Video Lyrics Dataset for Animated Song Translation](http://arxiv.org/abs/2505.18614v3)** | 2025-09-17 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025, Project Page: https://k1064190.github.io/papers/paper1.html, our codes and datasets are available at https://github.com/k1064190/MAVL</p></details> |
-| **[Defending Diffusion Models Against Membership Inference Attacks via Higher-Order Langevin Dynamics](http://arxiv.org/abs/2509.14225v1)** | 2025-09-17 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table</p></details> |
-| **[Adaptive Off-Policy Inference for M-Estimators Under Model Misspecification](http://arxiv.org/abs/2509.14218v1)** | 2025-09-17 | 36 pages, 6 figures |
-| **[A Universal Banach--Bregman Framework for Stochastic Iterations: Unifying Stochastic Mirror Descent, Learning and LLM Training](http://arxiv.org/abs/2509.14216v1)** | 2025-09-17 | <details><summary>69 pa...</summary><p>69 pages, 10 figures. Preprint</p></details> |
+| **[Lost in Translation? Vocabulary Alignment for Source-Free Domain Adaptation in Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2509.15225v1)** | 2025-09-18 | <details><summary>BMVC ...</summary><p>BMVC 2025 - Project Page: https://thegoodailab.org/blog/vocalign - Code: https://github.com/Sisso16/VocAlign</p></details> |
+| **[Calibration-Aware Prompt Learning for Medical Vision-Language Models](http://arxiv.org/abs/2509.15226v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted in BMVC 2025</p></details> |
+| **[Depth AnyEvent: A Cross-Modal Distillation Paradigm for Event-Based Monocular Depth Estimation](http://arxiv.org/abs/2509.15224v1)** | 2025-09-18 | <details><summary>ICCV ...</summary><p>ICCV 2025. Code: https://github.com/bartn8/depthanyevent/ Project Page: https://bartn8.github.io/depthanyevent/</p></details> |
+| **[Two Web Toolkits for Multimodal Piano Performance Dataset Acquisition and Fingering Annotation](http://arxiv.org/abs/2509.15222v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted to the Late-Breaking Demo Session of the 26th International Society for Music Information Retrieval (ISMIR) Conference, 2025</p></details> |
+| **[Lightweight and Accurate Multi-View Stereo with Confidence-Aware Diffusion Model](http://arxiv.org/abs/2509.15220v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted to IEEE T-PAMI 2025. Code: https://github.com/cvg/diffmvs</p></details> |
+| **[RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation](http://arxiv.org/abs/2509.15212v1)** | 2025-09-18 | <details><summary>GitHu...</summary><p>GitHub Project: https://github.com/alibaba-damo-academy/RynnVLA-001</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Universal Banach--Bregman Framework for Stochastic Iterations: Unifying Stochastic Mirror Descent, Learning and LLM Training](http://arxiv.org/abs/2509.14216v1)** | 2025-09-17 | <details><summary>69 pa...</summary><p>69 pages, 10 figures. Preprint</p></details> |
-| **[PoPStat-COVID19: Leveraging Population Pyramids to Quantify Demographic Vulnerability to COVID-19](http://arxiv.org/abs/2509.14213v1)** | 2025-09-17 | <details><summary>14 pa...</summary><p>14 pages, 4 Figures, 25th ICTer Conference</p></details> |
-| **[Canary-1B-v2 & Parakeet-TDT-0.6B-v3: Efficient and High-Performance Models for Multilingual ASR and AST](http://arxiv.org/abs/2509.14128v1)** | 2025-09-17 | <details><summary>Mini ...</summary><p>Mini Version of it Submitted to ICASSP 2026</p></details> |
-| **[KALL-E:Autoregressive Speech Synthesis with Next-Distribution Prediction](http://arxiv.org/abs/2412.16846v2)** | 2025-09-17 | 6 figures, 5 tables |
-| **[Benchmarking Large Language Models for Cryptanalysis and Side-Channel Vulnerabilities](http://arxiv.org/abs/2505.24621v2)** | 2025-09-17 | EMNLP'25 Findings |
-| **[On estimating the trace of quantum state powers](http://arxiv.org/abs/2410.13559v3)** | 2025-09-17 | <details><summary>57 pa...</summary><p>57 pages, 3 tables, 3 algorithms. v3: Added a paragraph on recent developments, fixed the proof of Lemma 2.17 (Lemma 2.9 in the SODA proceedings), and made other minor changes. v2: Minor changes (particularly quantum query complexity lower bound for the hard regime, Theorem 5.8 in the SODA proceedings) and added references</p></details> |
+| **[RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation](http://arxiv.org/abs/2509.15212v1)** | 2025-09-18 | <details><summary>GitHu...</summary><p>GitHub Project: https://github.com/alibaba-damo-academy/RynnVLA-001</p></details> |
+| **[Geometric Image Synchronization with Deep Watermarking](http://arxiv.org/abs/2509.15208v1)** | 2025-09-18 | <details><summary>Pre-p...</summary><p>Pre-print. Code at: https://github.com/facebookresearch/wmar/tree/main/syncseal</p></details> |
+| **[MaRVIn: A Cross-Layer Mixed-Precision RISC-V Framework for DNN Inference, from ISA Extension to Hardware Acceleration](http://arxiv.org/abs/2509.15187v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted for publication by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, March 2025</p></details> |
+| **[Conditional Prior-based Non-stationary Channel Estimation Using Accelerated Diffusion Models](http://arxiv.org/abs/2509.15182v1)** | 2025-09-18 | ICASSP 2026 |
+| **[Self-Improving Embodied Foundation Models](http://arxiv.org/abs/2509.15155v1)** | 2025-09-18 | <details><summary>Appea...</summary><p>Appearing in the Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Asymptotic Study of In-context Learning with Random Transformers through Equivalent Models](http://arxiv.org/abs/2509.15152v1)** | 2025-09-18 | <details><summary>MLSP ...</summary><p>MLSP 2025, 6 pages 2 figures</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision](http://arxiv.org/abs/2509.14234v1)** | 2025-09-17 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 2 tables</p></details> |
-| **[Defending Diffusion Models Against Membership Inference Attacks via Higher-Order Langevin Dynamics](http://arxiv.org/abs/2509.14225v1)** | 2025-09-17 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table</p></details> |
-| **[Adaptive Off-Policy Inference for M-Estimators Under Model Misspecification](http://arxiv.org/abs/2509.14218v1)** | 2025-09-17 | 36 pages, 6 figures |
-| **[Active Inference Framework for Closed-Loop Sensing, Communication, and Control in UAV Systems](http://arxiv.org/abs/2509.14201v1)** | 2025-09-17 | 5 pages, 2 figures |
-| **[Canary-1B-v2 & Parakeet-TDT-0.6B-v3: Efficient and High-Performance Models for Multilingual ASR and AST](http://arxiv.org/abs/2509.14128v1)** | 2025-09-17 | <details><summary>Mini ...</summary><p>Mini Version of it Submitted to ICASSP 2026</p></details> |
-| **[GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model](http://arxiv.org/abs/2509.14117v1)** | 2025-09-17 | Under Review |
+| **[Depth AnyEvent: A Cross-Modal Distillation Paradigm for Event-Based Monocular Depth Estimation](http://arxiv.org/abs/2509.15224v1)** | 2025-09-18 | <details><summary>ICCV ...</summary><p>ICCV 2025. Code: https://github.com/bartn8/depthanyevent/ Project Page: https://bartn8.github.io/depthanyevent/</p></details> |
+| **[Fast and Fluent Diffusion Language Models via Convolutional Decoding and Rejective Fine-tuning](http://arxiv.org/abs/2509.15188v1)** | 2025-09-18 | <details><summary>NeurI...</summary><p>NeurIPS 2025 spotlight</p></details> |
+| **[MaRVIn: A Cross-Layer Mixed-Precision RISC-V Framework for DNN Inference, from ISA Extension to Hardware Acceleration](http://arxiv.org/abs/2509.15187v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted for publication by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, March 2025</p></details> |
+| **[Conditional Prior-based Non-stationary Channel Estimation Using Accelerated Diffusion Models](http://arxiv.org/abs/2509.15182v1)** | 2025-09-18 | ICASSP 2026 |
+| **[Maize Seedling Detection Dataset (MSDD): A Curated High-Resolution RGB Dataset for Seedling Maize Detection and Benchmarking with YOLOv9, YOLO11, YOLOv12 and Faster-RCNN](http://arxiv.org/abs/2509.15181v1)** | 2025-09-18 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 8 tables. Submitted to IEEE Journal of Selected Topics in Signal Processing (JSTSP) Special Series on Artificial Intelligence for Smart Agriculture</p></details> |
+| **[Parallel Simulation of Contact and Actuation for Soft Growing Robots](http://arxiv.org/abs/2509.15180v1)** | 2025-09-18 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 1 table. Under review</p></details> |
 
