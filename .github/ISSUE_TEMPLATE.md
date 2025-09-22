@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 22, 2025
+title: Latest 6 Papers - September 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lost in Translation? Vocabulary Alignment for Source-Free Domain Adaptation in Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2509.15225v1)** | 2025-09-18 | <details><summary>BMVC ...</summary><p>BMVC 2025 - Project Page: https://thegoodailab.org/blog/vocalign - Code: https://github.com/Sisso16/VocAlign</p></details> |
-| **[Calibration-Aware Prompt Learning for Medical Vision-Language Models](http://arxiv.org/abs/2509.15226v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted in BMVC 2025</p></details> |
-| **[Depth AnyEvent: A Cross-Modal Distillation Paradigm for Event-Based Monocular Depth Estimation](http://arxiv.org/abs/2509.15224v1)** | 2025-09-18 | <details><summary>ICCV ...</summary><p>ICCV 2025. Code: https://github.com/bartn8/depthanyevent/ Project Page: https://bartn8.github.io/depthanyevent/</p></details> |
-| **[Two Web Toolkits for Multimodal Piano Performance Dataset Acquisition and Fingering Annotation](http://arxiv.org/abs/2509.15222v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted to the Late-Breaking Demo Session of the 26th International Society for Music Information Retrieval (ISMIR) Conference, 2025</p></details> |
-| **[Lightweight and Accurate Multi-View Stereo with Confidence-Aware Diffusion Model](http://arxiv.org/abs/2509.15220v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted to IEEE T-PAMI 2025. Code: https://github.com/cvg/diffmvs</p></details> |
-| **[RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation](http://arxiv.org/abs/2509.15212v1)** | 2025-09-18 | <details><summary>GitHu...</summary><p>GitHub Project: https://github.com/alibaba-damo-academy/RynnVLA-001</p></details> |
+| **[FocalCodec-Stream: Streaming Low-Bitrate Speech Coding via Causal Distillation](http://arxiv.org/abs/2509.16195v1)** | 2025-09-19 | 5 pages, 1 figure |
+| **[FSLI: An Interpretable Formal Semantic System for One-Dimensional Ordering Inference](http://arxiv.org/abs/2502.08415v2)** | 2025-09-19 | <details><summary>3 fig...</summary><p>3 figures, 9 pages main paper and 8 pages references and appendix</p></details> |
+| **[Quantum Generative Adversarial Autoencoders: Learning latent representations for quantum data generation](http://arxiv.org/abs/2509.16186v1)** | 2025-09-19 | <details><summary>27 pa...</summary><p>27 pages, 28 figures, 4 tables, 1 algorithm</p></details> |
+| **[Fast OTSU Thresholding Using Bisection Method](http://arxiv.org/abs/2509.16179v1)** | 2025-09-19 | 12 pages, 7 tables |
+| **[FlightDiffusion: Revolutionising Autonomous Drone Training with Diffusion Models Generating FPV Video](http://arxiv.org/abs/2509.14082v2)** | 2025-09-19 | <details><summary>Submi...</summary><p>Submitted to conference</p></details> |
+| **[UniMRSeg: Unified Modality-Relax Segmentation via Hierarchical Self-Supervised Compensation](http://arxiv.org/abs/2509.16170v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation](http://arxiv.org/abs/2509.15212v1)** | 2025-09-18 | <details><summary>GitHu...</summary><p>GitHub Project: https://github.com/alibaba-damo-academy/RynnVLA-001</p></details> |
-| **[Geometric Image Synchronization with Deep Watermarking](http://arxiv.org/abs/2509.15208v1)** | 2025-09-18 | <details><summary>Pre-p...</summary><p>Pre-print. Code at: https://github.com/facebookresearch/wmar/tree/main/syncseal</p></details> |
-| **[MaRVIn: A Cross-Layer Mixed-Precision RISC-V Framework for DNN Inference, from ISA Extension to Hardware Acceleration](http://arxiv.org/abs/2509.15187v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted for publication by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, March 2025</p></details> |
-| **[Conditional Prior-based Non-stationary Channel Estimation Using Accelerated Diffusion Models](http://arxiv.org/abs/2509.15182v1)** | 2025-09-18 | ICASSP 2026 |
-| **[Self-Improving Embodied Foundation Models](http://arxiv.org/abs/2509.15155v1)** | 2025-09-18 | <details><summary>Appea...</summary><p>Appearing in the Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Asymptotic Study of In-context Learning with Random Transformers through Equivalent Models](http://arxiv.org/abs/2509.15152v1)** | 2025-09-18 | <details><summary>MLSP ...</summary><p>MLSP 2025, 6 pages 2 figures</p></details> |
+| **[FocalCodec-Stream: Streaming Low-Bitrate Speech Coding via Causal Distillation](http://arxiv.org/abs/2509.16195v1)** | 2025-09-19 | 5 pages, 1 figure |
+| **[FSLI: An Interpretable Formal Semantic System for One-Dimensional Ordering Inference](http://arxiv.org/abs/2502.08415v2)** | 2025-09-19 | <details><summary>3 fig...</summary><p>3 figures, 9 pages main paper and 8 pages references and appendix</p></details> |
+| **[Quantum Generative Adversarial Autoencoders: Learning latent representations for quantum data generation](http://arxiv.org/abs/2509.16186v1)** | 2025-09-19 | <details><summary>27 pa...</summary><p>27 pages, 28 figures, 4 tables, 1 algorithm</p></details> |
+| **[Spatio-temporal, multi-field deep learning of shock propagation in meso-structured media](http://arxiv.org/abs/2509.16139v1)** | 2025-09-19 | 16 pages, 10 figures |
+| **[Integrating Spatiotemporal Vision Transformer into Digital Twins for High-Resolution Heat Stress Forecasting in Campus Environments](http://arxiv.org/abs/2502.09657v2)** | 2025-09-19 | <details><summary>Revis...</summary><p>Revised version after peer review (minor revision)</p></details> |
+| **[SENTRA: Selected-Next-Token Transformer for LLM Text Detection](http://arxiv.org/abs/2509.12385v2)** | 2025-09-19 | EMNLP Findings 2025 |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Depth AnyEvent: A Cross-Modal Distillation Paradigm for Event-Based Monocular Depth Estimation](http://arxiv.org/abs/2509.15224v1)** | 2025-09-18 | <details><summary>ICCV ...</summary><p>ICCV 2025. Code: https://github.com/bartn8/depthanyevent/ Project Page: https://bartn8.github.io/depthanyevent/</p></details> |
-| **[Fast and Fluent Diffusion Language Models via Convolutional Decoding and Rejective Fine-tuning](http://arxiv.org/abs/2509.15188v1)** | 2025-09-18 | <details><summary>NeurI...</summary><p>NeurIPS 2025 spotlight</p></details> |
-| **[MaRVIn: A Cross-Layer Mixed-Precision RISC-V Framework for DNN Inference, from ISA Extension to Hardware Acceleration](http://arxiv.org/abs/2509.15187v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted for publication by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, March 2025</p></details> |
-| **[Conditional Prior-based Non-stationary Channel Estimation Using Accelerated Diffusion Models](http://arxiv.org/abs/2509.15182v1)** | 2025-09-18 | ICASSP 2026 |
-| **[Maize Seedling Detection Dataset (MSDD): A Curated High-Resolution RGB Dataset for Seedling Maize Detection and Benchmarking with YOLOv9, YOLO11, YOLOv12 and Faster-RCNN](http://arxiv.org/abs/2509.15181v1)** | 2025-09-18 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 8 tables. Submitted to IEEE Journal of Selected Topics in Signal Processing (JSTSP) Special Series on Artificial Intelligence for Smart Agriculture</p></details> |
-| **[Parallel Simulation of Contact and Actuation for Soft Growing Robots](http://arxiv.org/abs/2509.15180v1)** | 2025-09-18 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 1 table. Under review</p></details> |
+| **[FSLI: An Interpretable Formal Semantic System for One-Dimensional Ordering Inference](http://arxiv.org/abs/2502.08415v2)** | 2025-09-19 | <details><summary>3 fig...</summary><p>3 figures, 9 pages main paper and 8 pages references and appendix</p></details> |
+| **[Fast OTSU Thresholding Using Bisection Method](http://arxiv.org/abs/2509.16179v1)** | 2025-09-19 | 12 pages, 7 tables |
+| **[UniMRSeg: Unified Modality-Relax Segmentation via Hierarchical Self-Supervised Compensation](http://arxiv.org/abs/2509.16170v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Reasoning](http://arxiv.org/abs/2502.20587v2)** | 2025-09-19 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference. Mingyuan, Jize, and Haozhen contributed equally, while Minjia, Chengxiang, and Klara advised equally</p></details> |
+| **[Recovering Parametric Scenes from Very Few Time-of-Flight Pixels](http://arxiv.org/abs/2509.16132v1)** | 2025-09-19 | ICCV 2025 |
+| **[Efficient Bayesian multi-fidelity inverse analysis for expensive and non-differentiable physics-based simulations in high stochastic dimensions](http://arxiv.org/abs/2505.24708v2)** | 2025-09-19 | 40 pages, 20 figures |
 
