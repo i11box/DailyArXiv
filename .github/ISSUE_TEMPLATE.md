@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 24, 2025
+title: Latest 6 Papers - September 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers](http://arxiv.org/abs/2509.18096v1)** | 2025-09-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project page: https://cvlab-kaist.github.io/Seg4Diff/</p></details> |
-| **[Beyond Human Judgment: A Bayesian Evaluation of LLMs' Moral Values Understanding](http://arxiv.org/abs/2508.13804v2)** | 2025-09-22 | <details><summary>Appea...</summary><p>Appears in UncertaiNLP@EMNLP 2025</p></details> |
-| **[UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning](http://arxiv.org/abs/2509.18094v1)** | 2025-09-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Camera Ready. Project Page: https://polyu-chenlab.github.io/unipixel/</p></details> |
-| **[ComposeMe: Attribute-Specific Image Prompts for Controllable Human Image Generation](http://arxiv.org/abs/2509.18092v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2025, webpage: https://snap-research.github.io/composeme/</p></details> |
-| **[OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System](http://arxiv.org/abs/2509.18091v1)** | 2025-09-22 | <details><summary>OnePi...</summary><p>OnePiece Technical Report; Applied in Shopee</p></details> |
-| **[GeoSVR: Taming Sparse Voxels for Geometrically Accurate Surface Reconstruction](http://arxiv.org/abs/2509.18090v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 (Spotlight). Project page: https://fictionarry.github.io/GeoSVR-project/</p></details> |
+| **[mRadNet: A Compact Radar Object Detector with MetaFormer](http://arxiv.org/abs/2509.16223v2)** | 2025-09-23 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, submitted to IEEE ICASSP 2026. Code availble at https://github.com/huaiyu-chen/mRadNet</p></details> |
+| **[VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction](http://arxiv.org/abs/2509.19297v1)** | 2025-09-23 | <details><summary>Proje...</summary><p>Project Page: https://lhmd.top/volsplat, Code: https://github.com/ziplab/VolSplat</p></details> |
+| **[Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation](http://arxiv.org/abs/2509.19296v1)** | 2025-09-23 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/toronto-ai/lyra/</p></details> |
+| **[Audio-Based Pedestrian Detection in the Presence of Vehicular Noise](http://arxiv.org/abs/2509.19295v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted to the 10th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE), 2025</p></details> |
+| **[A Preliminary Study on the Robustness of Code Generation by Large Language Models](http://arxiv.org/abs/2503.20197v4)** | 2025-09-23 | 10 pages |
+| **[Earth Observation Foundation Model PhilEO: Pretraining on the MajorTOM and FastTOM Datasets](http://arxiv.org/abs/2506.14765v4)** | 2025-09-23 | <details><summary>15 pa...</summary><p>15 pages, 22 figures, 2 tables, 64 references</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers](http://arxiv.org/abs/2509.18096v1)** | 2025-09-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project page: https://cvlab-kaist.github.io/Seg4Diff/</p></details> |
-| **[OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System](http://arxiv.org/abs/2509.18091v1)** | 2025-09-22 | <details><summary>OnePi...</summary><p>OnePiece Technical Report; Applied in Shopee</p></details> |
-| **[GraDeT-HTR: A Resource-Efficient Bengali Handwritten Text Recognition System utilizing Grapheme-based Tokenizer and Decoder-only Transformer](http://arxiv.org/abs/2509.18081v1)** | 2025-09-22 | <details><summary>7 pag...</summary><p>7 pages. Accepted at the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) System Demonstrations. Equal Contribution: Md. Mahmudul Hasan and Ahmed Nesar Tahsin Choudhury</p></details> |
-| **[Learning to Rank with Top-$K$ Fairness](http://arxiv.org/abs/2509.18067v1)** | 2025-09-22 | <details><summary>Alrea...</summary><p>Already accepted: https://openreview.net/forum?id=SSPCc39XvO @article{ zhang2025learning, title={Learning to Rank with Top-\$K\$ Fairness}, author={Boyang Zhang and Quanqi Hu and Mingxuan Sun and Qihang Lin and Tianbao Yang}, journal={Transactions on Machine Learning Research}, issn={2835-8856}, year={2025}, url={https://openreview.net/forum?id=SSPCc39XvO}, note={} }</p></details> |
-| **[Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers](http://arxiv.org/abs/2507.15833v2)** | 2025-09-22 | <details><summary>Proje...</summary><p>Project page: https://ian-chuang.github.io/gaze-av-aloha/</p></details> |
-| **[TempSamp-R1: Effective Temporal Sampling with Reinforcement Fine-Tuning for Video LLMs](http://arxiv.org/abs/2509.18056v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Earth Observation Foundation Model PhilEO: Pretraining on the MajorTOM and FastTOM Datasets](http://arxiv.org/abs/2506.14765v4)** | 2025-09-23 | <details><summary>15 pa...</summary><p>15 pages, 22 figures, 2 tables, 64 references</p></details> |
+| **[LightThinker: Thinking Step-by-Step Compression](http://arxiv.org/abs/2502.15589v2)** | 2025-09-23 | EMNLP 2025 (oral) |
+| **[Unified Spatiotemporal Physics-Informed Learning (USPIL): A Framework for Modeling Complex Predator-Prey Dynamics](http://arxiv.org/abs/2509.13425v3)** | 2025-09-23 | <details><summary>20 pa...</summary><p>20 pages, 11 figures. A preprint on using a unified physics-informed neural network framework to model predator-prey dynamics</p></details> |
+| **[Lavida-O: Elastic Masked Diffusion Models for Unified Multimodal Understanding and Generation](http://arxiv.org/abs/2509.19244v1)** | 2025-09-23 | 32 pages, 15 figures |
+| **[MEGS$^{2}$: Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning](http://arxiv.org/abs/2509.07021v2)** | 2025-09-23 | <details><summary>20 pa...</summary><p>20 pages, 8 figures. Project page at https://megs-2.github.io/</p></details> |
+| **[A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](http://arxiv.org/abs/2503.05613v3)** | 2025-09-23 | EMNLP 2025 Findings |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning](http://arxiv.org/abs/2509.18094v1)** | 2025-09-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Camera Ready. Project Page: https://polyu-chenlab.github.io/unipixel/</p></details> |
-| **[Neuromorphic Intelligence](http://arxiv.org/abs/2509.11940v2)** | 2025-09-22 | 18 pages, 3 figures |
-| **[TempSamp-R1: Effective Temporal Sampling with Reinforcement Fine-Tuning for Video LLMs](http://arxiv.org/abs/2509.18056v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[The PIMMUR Principles: Ensuring Validity in Collective Behavior of LLM Societies](http://arxiv.org/abs/2509.18052v1)** | 2025-09-22 | Preprint |
-| **[The Impact of Feature Scaling In Machine Learning: Effects on Regression and Classification Tasks](http://arxiv.org/abs/2506.08274v4)** | 2025-09-22 | 36 pages |
-| **[VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model](http://arxiv.org/abs/2509.09372v2)** | 2025-09-22 | <details><summary>28 pa...</summary><p>28 pages; Project page: https://vla-adapter.github.io/; Github: https://github.com/OpenHelix-Team/VLA-Adapter; HuggingFace: https://huggingface.co/VLA-Adapter</p></details> |
+| **[Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation](http://arxiv.org/abs/2509.19296v1)** | 2025-09-23 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/toronto-ai/lyra/</p></details> |
+| **[A Gradient Flow Approach to Solving Inverse Problems with Latent Diffusion Models](http://arxiv.org/abs/2509.19276v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted at the 2nd Workshop on Frontiers in Probabilistic Inference: Sampling Meets Learning, 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Latent Representation Learning of Multi-scale Thermophysics: Application to Dynamics in Shocked Porous Energetic Material](http://arxiv.org/abs/2506.12996v2)** | 2025-09-23 | <details><summary>32 pa...</summary><p>32 pages, 19 figures, complementary results added, restructured Introduction section</p></details> |
+| **[Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner](http://arxiv.org/abs/2508.15044v3)** | 2025-09-23 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference</p></details> |
+| **[LightThinker: Thinking Step-by-Step Compression](http://arxiv.org/abs/2502.15589v2)** | 2025-09-23 | EMNLP 2025 (oral) |
+| **[Unified Spatiotemporal Physics-Informed Learning (USPIL): A Framework for Modeling Complex Predator-Prey Dynamics](http://arxiv.org/abs/2509.13425v3)** | 2025-09-23 | <details><summary>20 pa...</summary><p>20 pages, 11 figures. A preprint on using a unified physics-informed neural network framework to model predator-prey dynamics</p></details> |
 
