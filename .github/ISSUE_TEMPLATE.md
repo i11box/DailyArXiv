@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 26, 2025
+title: Latest 6 Papers - September 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation](http://arxiv.org/abs/2509.20358v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. This is the preview version; the camera-ready version is still in preparation</p></details> |
-| **[Language Models that Think, Chat Better](http://arxiv.org/abs/2509.20357v1)** | 2025-09-24 | <details><summary>Prepr...</summary><p>Preprint; we release our code and models publicly at https://github.com/princeton-pli/RLMT</p></details> |
-| **[EmbeddingGemma: Powerful and Lightweight Text Representations](http://arxiv.org/abs/2509.20354v1)** | 2025-09-24 | <details><summary>18 pa...</summary><p>18 pages. Models are available in HuggingFace (at https://huggingface.co/collections/google/embeddinggemma-68b9ae3a72a82f0562a80dc4), Kaggle (at https://www.kaggle.com/models/google/embeddinggemma/), and Vertex AI (at https://pantheon.corp.google.com/vertex-ai/publishers/google/model-garden/embeddinggemma)</p></details> |
-| **[Efficiently learning depth-3 circuits via quantum agnostic boosting](http://arxiv.org/abs/2509.14461v2)** | 2025-09-24 | <details><summary>53 pa...</summary><p>53 pages; Updated complexities with explicit error dependence</p></details> |
-| **[Interactive Inference: A Neuromorphic Theory of Human-Computer Interaction](http://arxiv.org/abs/2502.05935v4)** | 2025-09-24 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, 1 table, 37 mathematical formulas, in press</p></details> |
-| **[Efficient Encoder-Free Pose Conditioning and Pose Control for Virtual Try-On](http://arxiv.org/abs/2509.20343v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
+| **[SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines](http://arxiv.org/abs/2509.21320v1)** | 2025-09-25 | technical report |
+| **[SD3.5-Flash: Distribution-Guided Distillation of Generative Flows](http://arxiv.org/abs/2509.21318v1)** | 2025-09-25 | <details><summary>Proje...</summary><p>Project Page: https://hmrishavbandy.github.io/sd35flash/</p></details> |
+| **[Interactive Recommendation Agent with Active User Commands](http://arxiv.org/abs/2509.21317v1)** | 2025-09-25 | Under Review |
+| **[SAGE: A Realistic Benchmark for Semantic Understanding](http://arxiv.org/abs/2509.21310v1)** | 2025-09-25 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling</p></details> |
+| **[NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics](http://arxiv.org/abs/2509.21309v1)** | 2025-09-25 | <details><summary>All d...</summary><p>All data and code is available at https://github.com/pandayuanyu/NewtonGen</p></details> |
+| **[VerifyBench: Benchmarking Reference-based Reward Systems for Large Language Models](http://arxiv.org/abs/2505.15801v3)** | 2025-09-25 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/VerifyBench Dataset: https://huggingface.co/datasets/ZJU-REAL/VerifyBench Code: https://github.com/ZJU-REAL/VerifyBench</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Uncovering Graph Reasoning in Decoder-only Transformers with Circuit Tracing](http://arxiv.org/abs/2509.20336v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted by the Workshop on Efficient Reasoning, Neurips 2025</p></details> |
-| **[Video models are zero-shot learners and reasoners](http://arxiv.org/abs/2509.20328v1)** | 2025-09-24 | <details><summary>Proje...</summary><p>Project page: https://video-zero-shot.github.io/</p></details> |
-| **[UNComp: Can Matrix Entropy Uncover Sparsity? -- A Compressor Design from an Uncertainty-Aware Perspective](http://arxiv.org/abs/2410.03090v2)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 (Main Conference)</p></details> |
-| **[PGCLODA: Prompt-Guided Graph Contrastive Learning for Oligopeptide-Infectious Disease Association Prediction](http://arxiv.org/abs/2509.20290v1)** | 2025-09-24 | 12page and 8 figures |
-| **[AnchDrive: Bootstrapping Diffusion Policies with Hybrid Trajectory Anchors for End-to-End Driving](http://arxiv.org/abs/2509.20253v1)** | 2025-09-24 | IWACIII 2025 |
-| **[CANDLE: A Cross-Modal Agentic Knowledge Distillation Framework for Interpretable Sarcopenia Diagnosis](http://arxiv.org/abs/2507.21179v2)** | 2025-09-24 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 5 tables</p></details> |
+| **[Interactive Recommendation Agent with Active User Commands](http://arxiv.org/abs/2509.21317v1)** | 2025-09-25 | Under Review |
+| **[SAGE: A Realistic Benchmark for Semantic Understanding](http://arxiv.org/abs/2509.21310v1)** | 2025-09-25 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling</p></details> |
+| **[ButterflyQuant: Ultra-low-bit LLM Quantization through Learnable Orthogonal Butterfly Transforms](http://arxiv.org/abs/2509.09679v2)** | 2025-09-25 | <details><summary>Repla...</summary><p>Replace discrete Hadamard transforms with continuous Butterfly transforms to facilitate the learning of rotation matrices in LLM quantization</p></details> |
+| **[Semantic Clustering of Civic Proposals: A Case Study on Brazil's National Participation Platform](http://arxiv.org/abs/2509.21292v1)** | 2025-09-25 | <details><summary>12 pa...</summary><p>12 pages, in Portuguese language</p></details> |
+| **[MoCLIP-Lite: Efficient Video Recognition by Fusing CLIP with Motion Vectors](http://arxiv.org/abs/2509.17084v2)** | 2025-09-25 | 6 pages, 3 figures |
+| **[MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence](http://arxiv.org/abs/2505.23764v2)** | 2025-09-25 | <details><summary>34 pa...</summary><p>34 pages. A comprehensive, fully human-curated, multi-image-based spatial intelligence benchmark with reasoning annotation for MLLMs. Project page: https://runsenxu.com/projects/MMSI_Bench</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Interactive Inference: A Neuromorphic Theory of Human-Computer Interaction](http://arxiv.org/abs/2502.05935v4)** | 2025-09-24 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, 1 table, 37 mathematical formulas, in press</p></details> |
-| **[BBoE: Leveraging Bundle of Edges for Kinodynamic Bidirectional Motion Planning](http://arxiv.org/abs/2509.20333v1)** | 2025-09-24 | 8 Pages, 7 Figures |
-| **[RAG Security and Privacy: Formalizing the Threat Model and Attack Surface](http://arxiv.org/abs/2509.20324v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at the 5th ICDM Workshop on September 20, 2025</p></details> |
-| **[A Comprehensive Evaluation of YOLO-based Deer Detection Performance on Edge Devices](http://arxiv.org/abs/2509.20318v1)** | 2025-09-24 | 13 pages, 7 figures |
-| **[AORRTC: Almost-Surely Asymptotically Optimal Planning with RRT-Connect](http://arxiv.org/abs/2505.10542v4)** | 2025-09-24 | <details><summary>IEEE ...</summary><p>IEEE Robotics and Automation Letters (RA-L). 8 pages, 4 figures, 1 table. A video of AORRTC can be found at https://www.youtube.com/watch?v=j1itxP3KuiM . Information on the implementation of AORRTC is available at https://robotic-esp.com/code/aorrtc/</p></details> |
-| **[UNComp: Can Matrix Entropy Uncover Sparsity? -- A Compressor Design from an Uncertainty-Aware Perspective](http://arxiv.org/abs/2410.03090v2)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 (Main Conference)</p></details> |
+| **[Hybrid Summary Statistics](http://arxiv.org/abs/2410.07548v2)** | 2025-09-25 | <details><summary>7 pag...</summary><p>7 pages, 4 figures. Accepted to ML4PS2024 at NeurIPS 2024. Code available at https://github.com/tlmakinen/hybridStats</p></details> |
+| **[Semantic Edge-Cloud Communication for Real-Time Urban Traffic Surveillance with ViT and LLMs over Mobile Networks](http://arxiv.org/abs/2509.21259v1)** | 2025-09-25 | 17 pages, 12 figures |
+| **[Instruction-tuned Self-Questioning Framework for Multimodal Reasoning](http://arxiv.org/abs/2509.21251v1)** | 2025-09-25 | <details><summary>This ...</summary><p>This paper was accepted to the "CLVL: 5th Workshop on Closing the Loop Between Vision and Language (ICCV 2023 CLVL workshop)."</p></details> |
+| **[TempSamp-R1: Effective Temporal Sampling with Reinforcement Fine-Tuning for Video LLMs](http://arxiv.org/abs/2509.18056v2)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Evading Overlapping Community Detection via Proxy Node Injection](http://arxiv.org/abs/2509.21211v1)** | 2025-09-25 | 16 pages, 11 figures |
+| **[GEP: A GCG-Based method for extracting personally identifiable information from chatbots built on small language models](http://arxiv.org/abs/2509.21192v1)** | 2025-09-25 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 4 tables. Under review as a conference paper at ICLR 2026</p></details> |
 
