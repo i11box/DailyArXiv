@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 29, 2025
+title: Latest 6 Papers - September 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines](http://arxiv.org/abs/2509.21320v1)** | 2025-09-25 | technical report |
-| **[SD3.5-Flash: Distribution-Guided Distillation of Generative Flows](http://arxiv.org/abs/2509.21318v1)** | 2025-09-25 | <details><summary>Proje...</summary><p>Project Page: https://hmrishavbandy.github.io/sd35flash/</p></details> |
-| **[Interactive Recommendation Agent with Active User Commands](http://arxiv.org/abs/2509.21317v1)** | 2025-09-25 | Under Review |
-| **[SAGE: A Realistic Benchmark for Semantic Understanding](http://arxiv.org/abs/2509.21310v1)** | 2025-09-25 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling</p></details> |
-| **[NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics](http://arxiv.org/abs/2509.21309v1)** | 2025-09-25 | <details><summary>All d...</summary><p>All data and code is available at https://github.com/pandayuanyu/NewtonGen</p></details> |
-| **[VerifyBench: Benchmarking Reference-based Reward Systems for Large Language Models](http://arxiv.org/abs/2505.15801v3)** | 2025-09-25 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/VerifyBench Dataset: https://huggingface.co/datasets/ZJU-REAL/VerifyBench Code: https://github.com/ZJU-REAL/VerifyBench</p></details> |
+| **[Pixel Motion Diffusion is What We Need for Robot Control](http://arxiv.org/abs/2509.22652v1)** | 2025-09-26 | 16 pages, 7 figures |
+| **[See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation](http://arxiv.org/abs/2509.22653v1)** | 2025-09-26 | <details><summary>CoRL ...</summary><p>CoRL 2025. Project page: https://spf-web.pages.dev</p></details> |
+| **[RefAM: Attention Magnets for Zero-Shot Referral Segmentation](http://arxiv.org/abs/2509.22650v1)** | 2025-09-26 | <details><summary>Proje...</summary><p>Project Page: https://refam-diffusion.github.io/</p></details> |
+| **[CapRL: Stimulating Dense Image Caption Capabilities via Reinforcement Learning](http://arxiv.org/abs/2509.22647v1)** | 2025-09-26 | <details><summary>Code ...</summary><p>Code is available at https://github.com/InternLM/CapRL</p></details> |
+| **[Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal LLMs](http://arxiv.org/abs/2509.22646v1)** | 2025-09-26 | <details><summary>Proje...</summary><p>Project Page: https://deeptracereward.github.io/</p></details> |
+| **[VLA-Reasoner: Empowering Vision-Language-Action Models with Reasoning via Online Monte Carlo Tree Search](http://arxiv.org/abs/2509.22643v1)** | 2025-09-26 | 9 pages |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Interactive Recommendation Agent with Active User Commands](http://arxiv.org/abs/2509.21317v1)** | 2025-09-25 | Under Review |
-| **[SAGE: A Realistic Benchmark for Semantic Understanding](http://arxiv.org/abs/2509.21310v1)** | 2025-09-25 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling</p></details> |
-| **[ButterflyQuant: Ultra-low-bit LLM Quantization through Learnable Orthogonal Butterfly Transforms](http://arxiv.org/abs/2509.09679v2)** | 2025-09-25 | <details><summary>Repla...</summary><p>Replace discrete Hadamard transforms with continuous Butterfly transforms to facilitate the learning of rotation matrices in LLM quantization</p></details> |
-| **[Semantic Clustering of Civic Proposals: A Case Study on Brazil's National Participation Platform](http://arxiv.org/abs/2509.21292v1)** | 2025-09-25 | <details><summary>12 pa...</summary><p>12 pages, in Portuguese language</p></details> |
-| **[MoCLIP-Lite: Efficient Video Recognition by Fusing CLIP with Motion Vectors](http://arxiv.org/abs/2509.17084v2)** | 2025-09-25 | 6 pages, 3 figures |
-| **[MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence](http://arxiv.org/abs/2505.23764v2)** | 2025-09-25 | <details><summary>34 pa...</summary><p>34 pages. A comprehensive, fully human-curated, multi-image-based spatial intelligence benchmark with reasoning annotation for MLLMs. Project page: https://runsenxu.com/projects/MMSI_Bench</p></details> |
+| **[See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation](http://arxiv.org/abs/2509.22653v1)** | 2025-09-26 | <details><summary>CoRL ...</summary><p>CoRL 2025. Project page: https://spf-web.pages.dev</p></details> |
+| **[RefAM: Attention Magnets for Zero-Shot Referral Segmentation](http://arxiv.org/abs/2509.22650v1)** | 2025-09-26 | <details><summary>Proje...</summary><p>Project Page: https://refam-diffusion.github.io/</p></details> |
+| **[Scale-Wise VAR is Secretly Discrete Diffusion](http://arxiv.org/abs/2509.22636v1)** | 2025-09-26 | Technical Reports |
+| **[The STAR-XAI Protocol: A Framework for Inducing and Verifying Agency, Reasoning, and Reliability in AI Agents](http://arxiv.org/abs/2509.17978v2)** | 2025-09-26 | <details><summary>Versi...</summary><p>Version 2: This article consolidates and replaces a previous version to present the complete research in a single, comprehensive manuscript</p></details> |
+| **[Training-Free Bayesianization for Low-Rank Adapters of Large Language Models](http://arxiv.org/abs/2412.05723v3)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[RMT-KD: Random Matrix Theoretic Causal Knowledge Distillation](http://arxiv.org/abs/2509.15724v2)** | 2025-09-26 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP 2026, September 2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hybrid Summary Statistics](http://arxiv.org/abs/2410.07548v2)** | 2025-09-25 | <details><summary>7 pag...</summary><p>7 pages, 4 figures. Accepted to ML4PS2024 at NeurIPS 2024. Code available at https://github.com/tlmakinen/hybridStats</p></details> |
-| **[Semantic Edge-Cloud Communication for Real-Time Urban Traffic Surveillance with ViT and LLMs over Mobile Networks](http://arxiv.org/abs/2509.21259v1)** | 2025-09-25 | 17 pages, 12 figures |
-| **[Instruction-tuned Self-Questioning Framework for Multimodal Reasoning](http://arxiv.org/abs/2509.21251v1)** | 2025-09-25 | <details><summary>This ...</summary><p>This paper was accepted to the "CLVL: 5th Workshop on Closing the Loop Between Vision and Language (ICCV 2023 CLVL workshop)."</p></details> |
-| **[TempSamp-R1: Effective Temporal Sampling with Reinforcement Fine-Tuning for Video LLMs](http://arxiv.org/abs/2509.18056v2)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Evading Overlapping Community Detection via Proxy Node Injection](http://arxiv.org/abs/2509.21211v1)** | 2025-09-25 | 16 pages, 11 figures |
-| **[GEP: A GCG-Based method for extracting personally identifiable information from chatbots built on small language models](http://arxiv.org/abs/2509.21192v1)** | 2025-09-25 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 4 tables. Under review as a conference paper at ICLR 2026</p></details> |
+| **[Scale-Wise VAR is Secretly Discrete Diffusion](http://arxiv.org/abs/2509.22636v1)** | 2025-09-26 | Technical Reports |
+| **[LongLive: Real-time Interactive Long Video Generation](http://arxiv.org/abs/2509.22622v1)** | 2025-09-26 | <details><summary>Code,...</summary><p>Code, model, and demos are available at https://github.com/NVlabs/LongLive</p></details> |
+| **[Training-Free Bayesianization for Low-Rank Adapters of Large Language Models](http://arxiv.org/abs/2412.05723v3)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[RMT-KD: Random Matrix Theoretic Causal Knowledge Distillation](http://arxiv.org/abs/2509.15724v2)** | 2025-09-26 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP 2026, September 2025</p></details> |
+| **[A Nonparametric Bayesian Solution of the Empirical Stochastic Inverse Problem](http://arxiv.org/abs/2509.22597v1)** | 2025-09-26 | 48 pages, 14 figures |
+| **[Self-Supervised Learning of Graph Representations for Network Intrusion Detection](http://arxiv.org/abs/2509.16625v2)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 
