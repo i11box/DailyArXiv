@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - October 01, 2025
+title: Latest 6 Papers - October 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fast Feature Field ($\text{F}^3$): A Predictive Representation of Events](http://arxiv.org/abs/2509.25146v1)** | 2025-09-29 | 39 pages, 9 figures |
-| **[Paired by the Teacher: Turning Unpaired Data into High-Fidelity Pairs for Low-Resource Text Generation](http://arxiv.org/abs/2509.25144v1)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 (Main Conference)</p></details> |
-| **[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](http://arxiv.org/abs/2509.25140v1)** | 2025-09-29 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 4 tables</p></details> |
-| **[MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech](http://arxiv.org/abs/2509.25131v1)** | 2025-09-29 | <details><summary>Code ...</summary><p>Code is available at https://github.com/dvlab-research/MGM-Omni</p></details> |
-| **[Safe Planning in Unknown Environments using Conformalized Semantic Maps](http://arxiv.org/abs/2509.25124v1)** | 2025-09-29 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 algorithms, 1 table</p></details> |
-| **[Triangle Splatting+: Differentiable Rendering with Opaque Triangles](http://arxiv.org/abs/2509.25122v1)** | 2025-09-29 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables</p></details> |
+| **[Stitch: Training-Free Position Control in Multimodal Diffusion Transformers](http://arxiv.org/abs/2509.26644v1)** | 2025-09-30 | Preprint |
+| **[TTT3R: 3D Reconstruction as Test-Time Training](http://arxiv.org/abs/2509.26645v1)** | 2025-09-30 | <details><summary>Page:...</summary><p>Page: https://rover-xingyu.github.io/TTT3R Code: https://github.com/Inception3D/TTT3R</p></details> |
+| **[Convergence and Divergence of Language Models under Different Random Seeds](http://arxiv.org/abs/2509.26643v1)** | 2025-09-30 | <details><summary>Publi...</summary><p>Published at EMNLP 2025</p></details> |
+| **[Query-Kontext: An Unified Multimodal Model for Image Generation and Editing](http://arxiv.org/abs/2509.26641v1)** | 2025-09-30 | 23 pages, 10 figures |
+| **[SPATA: Systematic Pattern Analysis for Detailed and Transparent Data Cards](http://arxiv.org/abs/2509.26640v1)** | 2025-09-30 | <details><summary>16 pa...</summary><p>16 pages, 3 tables, 6 figures, SynDAiTE, ECML PKDD 2025</p></details> |
+| **[OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction](http://arxiv.org/abs/2509.26633v1)** | 2025-09-30 | <details><summary>Proje...</summary><p>Project website: https://omniretarget.github.io</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Paired by the Teacher: Turning Unpaired Data into High-Fidelity Pairs for Low-Resource Text Generation](http://arxiv.org/abs/2509.25144v1)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 (Main Conference)</p></details> |
-| **[Curriculum Imitation Learning of Distributed Multi-Robot Policies](http://arxiv.org/abs/2509.25097v1)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted and presented at the Eight Iberian Robotics Conference, 2025</p></details> |
-| **[UniLat3D: Geometry-Appearance Unified Latents for Single-Stage 3D Generation](http://arxiv.org/abs/2509.25079v1)** | 2025-09-29 | <details><summary>Proje...</summary><p>Project page: https://unilat3d.github.io/</p></details> |
-| **[An empirical study on the limitation of Transformers in program trace generation](http://arxiv.org/abs/2509.25073v1)** | 2025-09-29 | <details><summary>two-p...</summary><p>two-page extended abstract</p></details> |
-| **[A multiscale analysis of mean-field transformers in the moderate interaction regime](http://arxiv.org/abs/2509.25040v1)** | 2025-09-29 | 30 pages, 4 figures |
-| **[LVT: Large-Scale Scene Reconstruction via Local View Transformers](http://arxiv.org/abs/2509.25001v1)** | 2025-09-29 | <details><summary>SIGGR...</summary><p>SIGGRAPH Asia 2025 camera-ready version; project page https://toobaimt.github.io/lvt/</p></details> |
+| **[Stitch: Training-Free Position Control in Multimodal Diffusion Transformers](http://arxiv.org/abs/2509.26644v1)** | 2025-09-30 | Preprint |
+| **[On Fitting Flow Models with Large Sinkhorn Couplings](http://arxiv.org/abs/2506.05526v3)** | 2025-09-30 | 23 pages, 14 figures |
+| **[HART: Human Aligned Reconstruction Transformer](http://arxiv.org/abs/2509.26621v1)** | 2025-09-30 | <details><summary>Proje...</summary><p>Project page: https://xiyichen.github.io/hart</p></details> |
+| **[The Dragon Hatchling: The Missing Link between the Transformer and Models of the Brain](http://arxiv.org/abs/2509.26507v1)** | 2025-09-30 | <details><summary>Code ...</summary><p>Code available at: https://github.com/pathwaycom/bdh Accompanying blog: https://pathway.com/research/bdh</p></details> |
+| **[Photography Perspective Composition: Towards Aesthetic Perspective Recommendation](http://arxiv.org/abs/2505.20655v3)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted at NeurIPS25</p></details> |
+| **[Apple: Toward General Active Perception via Reinforcement Learning](http://arxiv.org/abs/2505.06182v3)** | 2025-09-30 | <details><summary>16 pa...</summary><p>16 pages; 13 figures Under Review</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fast Feature Field ($\text{F}^3$): A Predictive Representation of Events](http://arxiv.org/abs/2509.25146v1)** | 2025-09-29 | 39 pages, 9 figures |
-| **[MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech](http://arxiv.org/abs/2509.25131v1)** | 2025-09-29 | <details><summary>Code ...</summary><p>Code is available at https://github.com/dvlab-research/MGM-Omni</p></details> |
-| **[Triangle Splatting+: Differentiable Rendering with Opaque Triangles](http://arxiv.org/abs/2509.25122v1)** | 2025-09-29 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 2 tables</p></details> |
-| **[Accelerating Dynamic Image Graph Construction on FPGA for Vision GNNs](http://arxiv.org/abs/2509.25121v1)** | 2025-09-29 | IEEE HPEC 2025 |
-| **[CharGen: Fast and Fluent Portrait Modification](http://arxiv.org/abs/2509.25058v1)** | 2025-09-29 | <details><summary>Proje...</summary><p>Project page: https://chargen.jdihlmann.com/</p></details> |
-| **[A multiscale analysis of mean-field transformers in the moderate interaction regime](http://arxiv.org/abs/2509.25040v1)** | 2025-09-29 | 30 pages, 4 figures |
+| **[Learning Generalizable Shape Completion with SIM(3) Equivariance](http://arxiv.org/abs/2509.26631v1)** | 2025-09-30 | NeurIPS 2025 |
+| **[Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models](http://arxiv.org/abs/2509.26626v1)** | 2025-09-30 | 24 pages, 9 figures |
+| **[On Fitting Flow Models with Large Sinkhorn Couplings](http://arxiv.org/abs/2506.05526v3)** | 2025-09-30 | 23 pages, 14 figures |
+| **[Black-box Context-free Grammar Inference for Readable & Natural Grammars](http://arxiv.org/abs/2509.26616v1)** | 2025-09-30 | 20 pages |
+| **[A Note on Inferential Decisions, Errors and Path-Dependency](http://arxiv.org/abs/2507.05634v4)** | 2025-09-30 | <details><summary>11 pa...</summary><p>11 pages: 1 for highlight, 6 for main text, 3 for appendix and 1 for references</p></details> |
+| **[Statistical Inference Framework for Extended Target Detection in mmWave Automotive Radar](http://arxiv.org/abs/2509.26573v1)** | 2025-09-30 | 12 pages, 12 figures |
 
