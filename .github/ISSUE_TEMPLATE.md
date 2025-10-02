@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - October 02, 2025
+title: Latest 6 Papers - October 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,25 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Stitch: Training-Free Position Control in Multimodal Diffusion Transformers](http://arxiv.org/abs/2509.26644v1)** | 2025-09-30 | Preprint |
-| **[TTT3R: 3D Reconstruction as Test-Time Training](http://arxiv.org/abs/2509.26645v1)** | 2025-09-30 | <details><summary>Page:...</summary><p>Page: https://rover-xingyu.github.io/TTT3R Code: https://github.com/Inception3D/TTT3R</p></details> |
-| **[Convergence and Divergence of Language Models under Different Random Seeds](http://arxiv.org/abs/2509.26643v1)** | 2025-09-30 | <details><summary>Publi...</summary><p>Published at EMNLP 2025</p></details> |
-| **[Query-Kontext: An Unified Multimodal Model for Image Generation and Editing](http://arxiv.org/abs/2509.26641v1)** | 2025-09-30 | 23 pages, 10 figures |
-| **[SPATA: Systematic Pattern Analysis for Detailed and Transparent Data Cards](http://arxiv.org/abs/2509.26640v1)** | 2025-09-30 | <details><summary>16 pa...</summary><p>16 pages, 3 tables, 6 figures, SynDAiTE, ECML PKDD 2025</p></details> |
-| **[OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction](http://arxiv.org/abs/2509.26633v1)** | 2025-09-30 | <details><summary>Proje...</summary><p>Project website: https://omniretarget.github.io</p></details> |
+| **[Prompt Tuning Decision Transformers with Structured and Scalable Bandits](http://arxiv.org/abs/2502.04979v3)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Stitch: Training-Free Position Control in Multimodal Diffusion Transformers](http://arxiv.org/abs/2509.26644v1)** | 2025-09-30 | Preprint |
-| **[On Fitting Flow Models with Large Sinkhorn Couplings](http://arxiv.org/abs/2506.05526v3)** | 2025-09-30 | 23 pages, 14 figures |
-| **[HART: Human Aligned Reconstruction Transformer](http://arxiv.org/abs/2509.26621v1)** | 2025-09-30 | <details><summary>Proje...</summary><p>Project page: https://xiyichen.github.io/hart</p></details> |
-| **[The Dragon Hatchling: The Missing Link between the Transformer and Models of the Brain](http://arxiv.org/abs/2509.26507v1)** | 2025-09-30 | <details><summary>Code ...</summary><p>Code available at: https://github.com/pathwaycom/bdh Accompanying blog: https://pathway.com/research/bdh</p></details> |
-| **[Photography Perspective Composition: Towards Aesthetic Perspective Recommendation](http://arxiv.org/abs/2505.20655v3)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted at NeurIPS25</p></details> |
-| **[Apple: Toward General Active Perception via Reinforcement Learning](http://arxiv.org/abs/2505.06182v3)** | 2025-09-30 | <details><summary>16 pa...</summary><p>16 pages; 13 figures Under Review</p></details> |
+| **[Prompt Tuning Decision Transformers with Structured and Scalable Bandits](http://arxiv.org/abs/2502.04979v3)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Unpacking Let Alone: Human-Scale Models Generalize to a Rare Construction in Form but not Meaning](http://arxiv.org/abs/2506.04408v2)** | 2025-10-01 | <details><summary>Empir...</summary><p>Empirical Methods for Natural Language Processing (EMNLP) 2025, Camera-Ready Version</p></details> |
+| **[REAL: Reading Out Transformer Activations for Precise Localization in Language Model Steering](http://arxiv.org/abs/2506.08359v2)** | 2025-10-01 | Preprint |
+| **[Estimating Visceral Adiposity from Wrist-Worn Accelerometry](http://arxiv.org/abs/2506.09167v2)** | 2025-10-01 | <details><summary>This ...</summary><p>This article has been accepted for publication in IEEE Journal of Biomedical and Health Informatics</p></details> |
+| **[SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](http://arxiv.org/abs/2410.02367v9)** | 2025-10-01 | <details><summary>@inpr...</summary><p>@inproceedings{zhang2025sageattention, title={SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration}, author={Zhang, Jintao and Wei, Jia and Zhang, Pengle and Zhu, Jun and Chen, Jianfei}, booktitle={International Conference on Learning Representations (ICLR)}, year={2025} }</p></details> |
+| **[CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification](http://arxiv.org/abs/2508.21046v2)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025, Project Page: https://jiutian-vl.github.io/CogVLA-page</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning Generalizable Shape Completion with SIM(3) Equivariance](http://arxiv.org/abs/2509.26631v1)** | 2025-09-30 | NeurIPS 2025 |
-| **[Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models](http://arxiv.org/abs/2509.26626v1)** | 2025-09-30 | 24 pages, 9 figures |
-| **[On Fitting Flow Models with Large Sinkhorn Couplings](http://arxiv.org/abs/2506.05526v3)** | 2025-09-30 | 23 pages, 14 figures |
-| **[Black-box Context-free Grammar Inference for Readable & Natural Grammars](http://arxiv.org/abs/2509.26616v1)** | 2025-09-30 | 20 pages |
-| **[A Note on Inferential Decisions, Errors and Path-Dependency](http://arxiv.org/abs/2507.05634v4)** | 2025-09-30 | <details><summary>11 pa...</summary><p>11 pages: 1 for highlight, 6 for main text, 3 for appendix and 1 for references</p></details> |
-| **[Statistical Inference Framework for Extended Target Detection in mmWave Automotive Radar](http://arxiv.org/abs/2509.26573v1)** | 2025-09-30 | 12 pages, 12 figures |
+| **[Prompt Tuning Decision Transformers with Structured and Scalable Bandits](http://arxiv.org/abs/2502.04979v3)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct](http://arxiv.org/abs/2509.25035v2)** | 2025-10-01 | <details><summary>56 pa...</summary><p>56 pages, 7 figures, 7 tables</p></details> |
+| **[REAL: Reading Out Transformer Activations for Precise Localization in Language Model Steering](http://arxiv.org/abs/2506.08359v2)** | 2025-10-01 | Preprint |
+| **[Estimating Visceral Adiposity from Wrist-Worn Accelerometry](http://arxiv.org/abs/2506.09167v2)** | 2025-10-01 | <details><summary>This ...</summary><p>This article has been accepted for publication in IEEE Journal of Biomedical and Health Informatics</p></details> |
+| **[SpargeAttention: Accurate and Training-free Sparse Attention Accelerating Any Model Inference](http://arxiv.org/abs/2502.18137v7)** | 2025-10-01 | <details><summary>@inpr...</summary><p>@inproceedings{zhang2025spargeattn, title={Spargeattn: Accurate sparse attention accelerating any model inference}, author={Zhang, Jintao and Xiang, Chendong and Huang, Haofeng and Wei, Jia and Xi, Haocheng and Zhu, Jun and Chen, Jianfei}, booktitle={International Conference on Machine Learning (ICML)}, year={2025} }</p></details> |
+| **[On Causal Inference for the Survivor Function](http://arxiv.org/abs/2507.16691v3)** | 2025-10-01 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2306.16571</p></details> |
 
