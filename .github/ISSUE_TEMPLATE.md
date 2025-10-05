@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - October 03, 2025
+title: Latest 6 Papers - October 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Prompt Tuning Decision Transformers with Structured and Scalable Bandits](http://arxiv.org/abs/2502.04979v3)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Optimal Control Meets Flow Matching: A Principled Route to Multi-Subject Fidelity](http://arxiv.org/abs/2510.02315v1)** | 2025-10-02 | <details><summary>Code:...</summary><p>Code: https://github.com/ericbill21/FOCUS/</p></details> |
+| **[Differential Information Distribution: A Bayesian Perspective on Direct Preference Optimization](http://arxiv.org/abs/2505.23761v2)** | 2025-10-02 | <details><summary>Prepr...</summary><p>Preprint, under review. 39 pages, 12 figures. Updates from v1: Added new theoretical results on DPO training dynamics and policy exploration, included experiments with Qwen3-4B, and refined the discussion of log-margin dynamics</p></details> |
+| **[Clink! Chop! Thud! -- Learning Object Sounds from Real-World Interactions](http://arxiv.org/abs/2510.02313v1)** | 2025-10-02 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://clink-chop-thud.github.io/</p></details> |
+| **[KaVa: Latent Reasoning via Compressed KV-Cache Distillation](http://arxiv.org/abs/2510.02312v1)** | 2025-10-02 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
+| **[Drawing Conclusions from Draws: Rethinking Preference Semantics in Arena-Style LLM Evaluation](http://arxiv.org/abs/2510.02306v1)** | 2025-10-02 | 6 pages, 4 figures |
+| **[Knowledge Distillation Detection for Open-weights Models](http://arxiv.org/abs/2510.02302v1)** | 2025-10-02 | NeurIPS 2025 |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Prompt Tuning Decision Transformers with Structured and Scalable Bandits](http://arxiv.org/abs/2502.04979v3)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Unpacking Let Alone: Human-Scale Models Generalize to a Rare Construction in Form but not Meaning](http://arxiv.org/abs/2506.04408v2)** | 2025-10-01 | <details><summary>Empir...</summary><p>Empirical Methods for Natural Language Processing (EMNLP) 2025, Camera-Ready Version</p></details> |
-| **[REAL: Reading Out Transformer Activations for Precise Localization in Language Model Steering](http://arxiv.org/abs/2506.08359v2)** | 2025-10-01 | Preprint |
-| **[Estimating Visceral Adiposity from Wrist-Worn Accelerometry](http://arxiv.org/abs/2506.09167v2)** | 2025-10-01 | <details><summary>This ...</summary><p>This article has been accepted for publication in IEEE Journal of Biomedical and Health Informatics</p></details> |
-| **[SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](http://arxiv.org/abs/2410.02367v9)** | 2025-10-01 | <details><summary>@inpr...</summary><p>@inproceedings{zhang2025sageattention, title={SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration}, author={Zhang, Jintao and Wei, Jia and Zhang, Pengle and Zhu, Jun and Chen, Jianfei}, booktitle={International Conference on Learning Representations (ICLR)}, year={2025} }</p></details> |
-| **[CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification](http://arxiv.org/abs/2508.21046v2)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025, Project Page: https://jiutian-vl.github.io/CogVLA-page</p></details> |
+| **[KaVa: Latent Reasoning via Compressed KV-Cache Distillation](http://arxiv.org/abs/2510.02312v1)** | 2025-10-02 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
+| **[VideoNSA: Native Sparse Attention Scales Video Understanding](http://arxiv.org/abs/2510.02295v1)** | 2025-10-02 | <details><summary>Proje...</summary><p>Project Page: https://enxinsong.com/VideoNSA-web/, Code: https://github.com/Espere-1119-Song/VideoNSA</p></details> |
+| **[Higher-order, generically complete, continuous, and polynomial-time isometry invariants of periodic sets](http://arxiv.org/abs/2509.15088v2)** | 2025-10-02 | <details><summary>44 pa...</summary><p>44 pages, 11 figures, 18 tables. The 2nd version includes more examples in Figures 10-11 and 4 new tables. The latest version is maintained at http://kurlin.org/projects/periodic-geometry/higher-order-PDD.pdf</p></details> |
+| **[Self-Forcing++: Towards Minute-Scale High-Quality Video Generation](http://arxiv.org/abs/2510.02283v1)** | 2025-10-02 | preprint |
+| **[DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing](http://arxiv.org/abs/2510.02253v1)** | 2025-10-02 | Preprint |
+| **[Boundless Byte Pair Encoding: Breaking the Pre-tokenization Barrier](http://arxiv.org/abs/2504.00178v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted to COLM 2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Prompt Tuning Decision Transformers with Structured and Scalable Bandits](http://arxiv.org/abs/2502.04979v3)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct](http://arxiv.org/abs/2509.25035v2)** | 2025-10-01 | <details><summary>56 pa...</summary><p>56 pages, 7 figures, 7 tables</p></details> |
-| **[REAL: Reading Out Transformer Activations for Precise Localization in Language Model Steering](http://arxiv.org/abs/2506.08359v2)** | 2025-10-01 | Preprint |
-| **[Estimating Visceral Adiposity from Wrist-Worn Accelerometry](http://arxiv.org/abs/2506.09167v2)** | 2025-10-01 | <details><summary>This ...</summary><p>This article has been accepted for publication in IEEE Journal of Biomedical and Health Informatics</p></details> |
-| **[SpargeAttention: Accurate and Training-free Sparse Attention Accelerating Any Model Inference](http://arxiv.org/abs/2502.18137v7)** | 2025-10-01 | <details><summary>@inpr...</summary><p>@inproceedings{zhang2025spargeattn, title={Spargeattn: Accurate sparse attention accelerating any model inference}, author={Zhang, Jintao and Xiang, Chendong and Huang, Haofeng and Wei, Jia and Xi, Haocheng and Zhu, Jun and Chen, Jianfei}, booktitle={International Conference on Machine Learning (ICML)}, year={2025} }</p></details> |
-| **[On Causal Inference for the Survivor Function](http://arxiv.org/abs/2507.16691v3)** | 2025-10-01 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2306.16571</p></details> |
+| **[KaVa: Latent Reasoning via Compressed KV-Cache Distillation](http://arxiv.org/abs/2510.02312v1)** | 2025-10-02 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
+| **[Test-Time Anchoring for Discrete Diffusion Posterior Sampling](http://arxiv.org/abs/2510.02291v1)** | 2025-10-02 | Preprint |
+| **[Do You Know Where Your Camera Is? View-Invariant Policy Learning with Camera Conditioning](http://arxiv.org/abs/2510.02268v1)** | 2025-10-02 | <details><summary>Code ...</summary><p>Code and project materials are available at ripl.github.io/know_your_camera</p></details> |
+| **[VITA: Vision-to-Action Flow Matching Policy](http://arxiv.org/abs/2507.13231v2)** | 2025-10-02 | <details><summary>Proje...</summary><p>Project page: https://ucd-dare.github.io/VITA/ Code: https://github.com/ucd-dare/VITA</p></details> |
+| **[xLSTM Scaling Laws: Competitive Performance with Linear Time-Complexity](http://arxiv.org/abs/2510.02228v1)** | 2025-10-02 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/NX-AI/xlstm_scaling_laws</p></details> |
+| **[TempoControl: Temporal Attention Guidance for Text-to-Video Models](http://arxiv.org/abs/2510.02226v1)** | 2025-10-02 | Under Review |
 
