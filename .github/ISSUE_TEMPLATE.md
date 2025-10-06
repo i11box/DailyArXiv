@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - October 06, 2025
+title: Latest 6 Papers - October 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Optimal Control Meets Flow Matching: A Principled Route to Multi-Subject Fidelity](http://arxiv.org/abs/2510.02315v1)** | 2025-10-02 | <details><summary>Code:...</summary><p>Code: https://github.com/ericbill21/FOCUS/</p></details> |
-| **[Differential Information Distribution: A Bayesian Perspective on Direct Preference Optimization](http://arxiv.org/abs/2505.23761v2)** | 2025-10-02 | <details><summary>Prepr...</summary><p>Preprint, under review. 39 pages, 12 figures. Updates from v1: Added new theoretical results on DPO training dynamics and policy exploration, included experiments with Qwen3-4B, and refined the discussion of log-margin dynamics</p></details> |
-| **[Clink! Chop! Thud! -- Learning Object Sounds from Real-World Interactions](http://arxiv.org/abs/2510.02313v1)** | 2025-10-02 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://clink-chop-thud.github.io/</p></details> |
-| **[KaVa: Latent Reasoning via Compressed KV-Cache Distillation](http://arxiv.org/abs/2510.02312v1)** | 2025-10-02 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
-| **[Drawing Conclusions from Draws: Rethinking Preference Semantics in Arena-Style LLM Evaluation](http://arxiv.org/abs/2510.02306v1)** | 2025-10-02 | 6 pages, 4 figures |
-| **[Knowledge Distillation Detection for Open-weights Models](http://arxiv.org/abs/2510.02302v1)** | 2025-10-02 | NeurIPS 2025 |
+| **[Generative Modeling of Weights: Generalization or Memorization?](http://arxiv.org/abs/2506.07998v2)** | 2025-10-03 | <details><summary>Proje...</summary><p>Project page at https://boyazeng.github.io/weight_memorization</p></details> |
+| **[Cheat-Penalised Quantum Weak Coin-Flipping](http://arxiv.org/abs/2510.03218v1)** | 2025-10-03 | 61 pages, 11 figures |
+| **[Wave-GMS: Lightweight Multi-Scale Generative Model for Medical Image Segmentation](http://arxiv.org/abs/2510.03216v1)** | 2025-10-03 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 4 tables; Submitted to IEEE Conference for possible publication</p></details> |
+| **[To Distill or Decide? Understanding the Algorithmic Trade-off in Partially Observable Reinforcement Learning](http://arxiv.org/abs/2510.03207v1)** | 2025-10-03 | <details><summary>45 pa...</summary><p>45 pages, 9 figures, published at NeurIPS 2025</p></details> |
+| **[Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner](http://arxiv.org/abs/2510.03206v1)** | 2025-10-03 | 27 pages |
+| **[Automatic Generation of Digital Twins for Network Testing](http://arxiv.org/abs/2510.03205v1)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted to ANMS at ICDCS 2025</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[KaVa: Latent Reasoning via Compressed KV-Cache Distillation](http://arxiv.org/abs/2510.02312v1)** | 2025-10-02 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
-| **[VideoNSA: Native Sparse Attention Scales Video Understanding](http://arxiv.org/abs/2510.02295v1)** | 2025-10-02 | <details><summary>Proje...</summary><p>Project Page: https://enxinsong.com/VideoNSA-web/, Code: https://github.com/Espere-1119-Song/VideoNSA</p></details> |
-| **[Higher-order, generically complete, continuous, and polynomial-time isometry invariants of periodic sets](http://arxiv.org/abs/2509.15088v2)** | 2025-10-02 | <details><summary>44 pa...</summary><p>44 pages, 11 figures, 18 tables. The 2nd version includes more examples in Figures 10-11 and 4 new tables. The latest version is maintained at http://kurlin.org/projects/periodic-geometry/higher-order-PDD.pdf</p></details> |
-| **[Self-Forcing++: Towards Minute-Scale High-Quality Video Generation](http://arxiv.org/abs/2510.02283v1)** | 2025-10-02 | preprint |
-| **[DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing](http://arxiv.org/abs/2510.02253v1)** | 2025-10-02 | Preprint |
-| **[Boundless Byte Pair Encoding: Breaking the Pre-tokenization Barrier](http://arxiv.org/abs/2504.00178v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted to COLM 2025</p></details> |
+| **[Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner](http://arxiv.org/abs/2510.03206v1)** | 2025-10-03 | 27 pages |
+| **[Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft](http://arxiv.org/abs/2510.03198v1)** | 2025-10-03 | 19 pages, 8 figures |
+| **[Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs](http://arxiv.org/abs/2502.14837v2)** | 2025-10-03 | <details><summary>16 pa...</summary><p>16 pages, 8 figures; Accepted to ACL 2025</p></details> |
+| **[Ultra-Efficient Decoding for End-to-End Neural Compression and Reconstruction](http://arxiv.org/abs/2510.01407v2)** | 2025-10-03 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, NeurIPS 2025 Workshop MLForSys</p></details> |
+| **[Modern Methods in Associative Memory](http://arxiv.org/abs/2507.06211v2)** | 2025-10-03 | <details><summary>Tutor...</summary><p>Tutorial at ICML 2025</p></details> |
+| **[CHORD: Customizing Hybrid-precision On-device Model for Sequential Recommendation with Device-cloud Collaboration](http://arxiv.org/abs/2510.03038v1)** | 2025-10-03 | <details><summary>accep...</summary><p>accepted by ACM MM'25</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[KaVa: Latent Reasoning via Compressed KV-Cache Distillation](http://arxiv.org/abs/2510.02312v1)** | 2025-10-02 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
-| **[Test-Time Anchoring for Discrete Diffusion Posterior Sampling](http://arxiv.org/abs/2510.02291v1)** | 2025-10-02 | Preprint |
-| **[Do You Know Where Your Camera Is? View-Invariant Policy Learning with Camera Conditioning](http://arxiv.org/abs/2510.02268v1)** | 2025-10-02 | <details><summary>Code ...</summary><p>Code and project materials are available at ripl.github.io/know_your_camera</p></details> |
-| **[VITA: Vision-to-Action Flow Matching Policy](http://arxiv.org/abs/2507.13231v2)** | 2025-10-02 | <details><summary>Proje...</summary><p>Project page: https://ucd-dare.github.io/VITA/ Code: https://github.com/ucd-dare/VITA</p></details> |
-| **[xLSTM Scaling Laws: Competitive Performance with Linear Time-Complexity](http://arxiv.org/abs/2510.02228v1)** | 2025-10-02 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/NX-AI/xlstm_scaling_laws</p></details> |
-| **[TempoControl: Temporal Attention Guidance for Text-to-Video Models](http://arxiv.org/abs/2510.02226v1)** | 2025-10-02 | Under Review |
+| **[Generative Modeling of Weights: Generalization or Memorization?](http://arxiv.org/abs/2506.07998v2)** | 2025-10-03 | <details><summary>Proje...</summary><p>Project page at https://boyazeng.github.io/weight_memorization</p></details> |
+| **[Best-of-Majority: Minimax-Optimal Strategy for Pass@$k$ Inference Scaling](http://arxiv.org/abs/2510.03199v1)** | 2025-10-03 | 29 pages, 3 figures |
+| **[The Challenges of Hyperparameter Tuning for Accurate Causal Effect Estimation](http://arxiv.org/abs/2303.01412v2)** | 2025-10-03 | <details><summary>Subst...</summary><p>Substantially revised version. 18 pages of main content (33 pages in total), 4 main figures (11 in total)</p></details> |
+| **[Highly Efficient and Effective LLMs with Multi-Boolean Architectures](http://arxiv.org/abs/2505.22811v2)** | 2025-10-03 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
+| **[Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs](http://arxiv.org/abs/2502.14837v2)** | 2025-10-03 | <details><summary>16 pa...</summary><p>16 pages, 8 figures; Accepted to ACL 2025</p></details> |
+| **[Excited, Skeptical, or Worried? A Multi-Institutional Study of Student Views on Generative AI in Computing Education](http://arxiv.org/abs/2510.03107v1)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted to Koli Calling '25</p></details> |
 
