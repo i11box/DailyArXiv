@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - October 08, 2025
+title: Latest 6 Papers - October 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TopInG: Topologically Interpretable Graph Learning via Persistent Rationale Filtration](http://arxiv.org/abs/2510.05102v1)** | 2025-10-06 | <details><summary>submi...</summary><p>submitted to ICML 2025</p></details> |
-| **[Pulp Motion: Framing-aware multimodal camera and human motion generation](http://arxiv.org/abs/2510.05097v1)** | 2025-10-06 | <details><summary>Proje...</summary><p>Project page: https://www.lix.polytechnique.fr/vista/projects/2025_pulpmotion_courant/</p></details> |
-| **[Paper2Video: Automatic Video Generation from Scientific Papers](http://arxiv.org/abs/2510.05096v1)** | 2025-10-06 | 20 pages, 8 figures |
-| **[VChain: Chain-of-Visual-Thought for Reasoning in Video Generation](http://arxiv.org/abs/2510.05094v1)** | 2025-10-06 | <details><summary>Proje...</summary><p>Project page: https://eyeline-labs.github.io/VChain Code: https://github.com/Eyeline-Labs/VChain</p></details> |
-| **[Learning to Interpret Weight Differences in Language Models](http://arxiv.org/abs/2510.05092v1)** | 2025-10-06 | <details><summary>The w...</summary><p>The weight diffs and DIT adapters trained in the paper can be found at https://huggingface.co/diff-interpretation-tuning/loras</p></details> |
-| **[MALT: Improving Reasoning with Multi-Agent LLM Training](http://arxiv.org/abs/2412.01928v3)** | 2025-10-06 | <details><summary>Publi...</summary><p>Published at COLM 2025</p></details> |
+| **[Human3R: Everyone Everywhere All at Once](http://arxiv.org/abs/2510.06219v1)** | 2025-10-07 | <details><summary>Page:...</summary><p>Page: https://fanegg.github.io/Human3R Code: https://github.com/fanegg/Human3R</p></details> |
+| **[Fine-grained Defocus Blur Control for Generative Image Models](http://arxiv.org/abs/2510.06215v1)** | 2025-10-07 | <details><summary>Proje...</summary><p>Project link: https://www.ayshrv.com/defocus-blur-gen</p></details> |
+| **[Drive&Gen: Co-Evaluating End-to-End Driving and Video Generation Models](http://arxiv.org/abs/2510.06209v1)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted by IROS 2025</p></details> |
+| **[ShapeGen4D: Towards High Quality 4D Shape Generation from Videos](http://arxiv.org/abs/2510.06208v1)** | 2025-10-07 | <details><summary>Proje...</summary><p>Project page: https://shapegen4d.github.io/</p></details> |
+| **[EmbodiedCoder: Parameterized Embodied Mobile Manipulation via Modern Coding Model](http://arxiv.org/abs/2510.06207v1)** | 2025-10-07 | <details><summary>Demo ...</summary><p>Demo Page: https://anonymous.4open.science/w/Embodied-Coder/</p></details> |
+| **[An algebra modality admitting countably many deriving transformations](http://arxiv.org/abs/2510.03953v2)** | 2025-10-07 | <details><summary>45 pa...</summary><p>45 pages. Fixed an issue with hyperlinks</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Pulp Motion: Framing-aware multimodal camera and human motion generation](http://arxiv.org/abs/2510.05097v1)** | 2025-10-06 | <details><summary>Proje...</summary><p>Project page: https://www.lix.polytechnique.fr/vista/projects/2025_pulpmotion_courant/</p></details> |
-| **[ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning](http://arxiv.org/abs/2510.05070v1)** | 2025-10-06 | 9 pages, 8 figures |
-| **[RowDetr: End-to-End Crop Row Detection Using Polynomials](http://arxiv.org/abs/2412.10525v3)** | 2025-10-06 | <details><summary>Code ...</summary><p>Code will be open sourced upon publication</p></details> |
-| **[Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models](http://arxiv.org/abs/2510.05034v1)** | 2025-10-06 | The 1st version |
-| **[Latent Uncertainty Representations for Video-based Driver Action and Intention Recognition](http://arxiv.org/abs/2510.05006v1)** | 2025-10-06 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, 7 tables, under submission</p></details> |
-| **[Power Transform Revisited: Numerically Stable, and Federated](http://arxiv.org/abs/2510.04995v1)** | 2025-10-06 | 25 pages |
+| **[Fine-grained Defocus Blur Control for Generative Image Models](http://arxiv.org/abs/2510.06215v1)** | 2025-10-07 | <details><summary>Proje...</summary><p>Project link: https://www.ayshrv.com/defocus-blur-gen</p></details> |
+| **[An algebra modality admitting countably many deriving transformations](http://arxiv.org/abs/2510.03953v2)** | 2025-10-07 | <details><summary>45 pa...</summary><p>45 pages. Fixed an issue with hyperlinks</p></details> |
+| **[Hierarchical Reasoning Models: Perspectives and Misconceptions](http://arxiv.org/abs/2510.00355v2)** | 2025-10-07 | <details><summary>Found...</summary><p>Found errors in some results of v1. Removed them and changed conclusions</p></details> |
+| **[Latent Speech-Text Transformer](http://arxiv.org/abs/2510.06195v1)** | 2025-10-07 | 16 pages, 13 figures |
+| **[Smartphone-based iris recognition through high-quality visible-spectrum iris image capture.V2](http://arxiv.org/abs/2510.06170v1)** | 2025-10-07 | <details><summary>We bu...</summary><p>We build upon our earlier work, arXiv:2412.13063</p></details> |
+| **[OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation](http://arxiv.org/abs/2509.03498v3)** | 2025-10-07 | <details><summary>techn...</summary><p>technical report, project url:https://onecat-ai.github.io/</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VChain: Chain-of-Visual-Thought for Reasoning in Video Generation](http://arxiv.org/abs/2510.05094v1)** | 2025-10-06 | <details><summary>Proje...</summary><p>Project page: https://eyeline-labs.github.io/VChain Code: https://github.com/Eyeline-Labs/VChain</p></details> |
-| **[Factuality Matters: When Image Generation and Editing Meet Structured Visuals](http://arxiv.org/abs/2510.05091v1)** | 2025-10-06 | <details><summary>Proje...</summary><p>Project page: https://structvisuals.github.io</p></details> |
-| **[TeachLM: Post-Training LLMs for Education Using Authentic Learning Data](http://arxiv.org/abs/2510.05087v1)** | 2025-10-06 | 28 pages, 9 figures |
-| **[RowDetr: End-to-End Crop Row Detection Using Polynomials](http://arxiv.org/abs/2412.10525v3)** | 2025-10-06 | <details><summary>Code ...</summary><p>Code will be open sourced upon publication</p></details> |
-| **[Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models](http://arxiv.org/abs/2510.05034v1)** | 2025-10-06 | The 1st version |
-| **[Curiosity-Driven Co-Development of Action and Language in Robots Through Self-Exploration](http://arxiv.org/abs/2510.05013v1)** | 2025-10-06 | <details><summary>26 pa...</summary><p>26 pages, 14 pages of supplementary material</p></details> |
+| **[Fine-grained Defocus Blur Control for Generative Image Models](http://arxiv.org/abs/2510.06215v1)** | 2025-10-07 | <details><summary>Proje...</summary><p>Project link: https://www.ayshrv.com/defocus-blur-gen</p></details> |
+| **[Latent Speech-Text Transformer](http://arxiv.org/abs/2510.06195v1)** | 2025-10-07 | 16 pages, 13 figures |
+| **[pRRTC: GPU-Parallel RRT-Connect for Fast, Consistent, and Low-Cost Motion Planning](http://arxiv.org/abs/2503.06757v2)** | 2025-10-07 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, 1 table. Submitted to IEEE International Conference on Robotics and Automation 2026</p></details> |
+| **[OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation](http://arxiv.org/abs/2509.03498v3)** | 2025-10-07 | <details><summary>techn...</summary><p>technical report, project url:https://onecat-ai.github.io/</p></details> |
+| **[CreditDecoding: Accelerating Parallel Decoding in Diffusion Large Language Models with Trace Credits](http://arxiv.org/abs/2510.06133v1)** | 2025-10-07 | <details><summary>18 pa...</summary><p>18 pages,8 figures,4 tables</p></details> |
+| **[lm-Meter: Unveiling Runtime Inference Latency for On-Device Language Models](http://arxiv.org/abs/2510.06126v1)** | 2025-10-07 | <details><summary>This ...</summary><p>This is the preprint version of the paper accepted to The 10th ACM/IEEE Symposium on Edge Computing (SEC 2025)</p></details> |
 
