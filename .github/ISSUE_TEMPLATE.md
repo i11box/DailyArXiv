@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - October 10, 2025
+title: Latest 6 Papers - October 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Hippocampus Networks for Efficient Long-Context Modeling](http://arxiv.org/abs/2510.07318v1)** | 2025-10-08 | <details><summary>Code:...</summary><p>Code: https://github.com/ByteDance-Seed/AHN</p></details> |
-| **[NdLinear: Preserving Multi-Dimensional Structure for Parameter-Efficient Neural Networks](http://arxiv.org/abs/2503.17353v3)** | 2025-10-08 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ensemble-core/NdLinear</p></details> |
-| **[Pixel-Perfect Depth with Semantics-Prompted Diffusion Transformers](http://arxiv.org/abs/2510.07316v1)** | 2025-10-08 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project page: https://pixel-perfect-depth.github.io/</p></details> |
-| **[Vibe Checker: Aligning Code Evaluation with Human Preference](http://arxiv.org/abs/2510.07315v1)** | 2025-10-08 | Preprint |
-| **[GyroSwin: 5D Surrogates for Gyrokinetic Plasma Turbulence Simulations](http://arxiv.org/abs/2510.07314v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning](http://arxiv.org/abs/2510.07312v1)** | 2025-10-08 | <details><summary>Prepr...</summary><p>Preprint, 31 pages, 8 figures</p></details> |
+| **[StreamingVLM: Real-Time Understanding for Infinite Video Streams](http://arxiv.org/abs/2510.09608v1)** | 2025-10-10 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
+| **[VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation](http://arxiv.org/abs/2510.09607v1)** | 2025-10-10 | <details><summary>Homep...</summary><p>Homepage: https://ltbai.github.io/VITA-VLA/</p></details> |
+| **[SpaceVista: All-Scale Visual Spatial Reasoning from mm to km](http://arxiv.org/abs/2510.09606v1)** | 2025-10-10 | <details><summary>Proje...</summary><p>Project Page: https://peiwensun2000.github.io/mm2km/</p></details> |
+| **[VisPile: A Visual Analytics System for Analyzing Multiple Text Documents With Large Language Models and Knowledge Graphs](http://arxiv.org/abs/2510.09605v1)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to HICSS 2026. 10 pages, 4 figures. For a demo video, see https://youtu.be/vY6SqkkNeMQ. For a live demo, visit https://adamcoscia.com/papers/vispile/demo/. The source code is available at https://github.com/AdamCoscia/VisPile</p></details> |
+| **[Gaussian Scenes: Pose-Free Sparse-View Scene Reconstruction using Depth-Enhanced Diffusion Priors](http://arxiv.org/abs/2411.15966v3)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to TMLR 2025. Code and models released at https://gaussianscenes.github.io/</p></details> |
+| **[CLARITY: Clinical Assistant for Routing, Inference, and Triage](http://arxiv.org/abs/2510.02463v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Industrial Track)</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Hippocampus Networks for Efficient Long-Context Modeling](http://arxiv.org/abs/2510.07318v1)** | 2025-10-08 | <details><summary>Code:...</summary><p>Code: https://github.com/ByteDance-Seed/AHN</p></details> |
-| **[Quantum-enhanced Computer Vision: Going Beyond Classical Algorithms](http://arxiv.org/abs/2510.07317v1)** | 2025-10-08 | <details><summary>44 pa...</summary><p>44 pages, 23 figures and 6 tables</p></details> |
-| **[NdLinear: Preserving Multi-Dimensional Structure for Parameter-Efficient Neural Networks](http://arxiv.org/abs/2503.17353v3)** | 2025-10-08 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ensemble-core/NdLinear</p></details> |
-| **[Pixel-Perfect Depth with Semantics-Prompted Diffusion Transformers](http://arxiv.org/abs/2510.07316v1)** | 2025-10-08 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project page: https://pixel-perfect-depth.github.io/</p></details> |
-| **[GyroSwin: 5D Surrogates for Gyrokinetic Plasma Turbulence Simulations](http://arxiv.org/abs/2510.07314v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[SpecGuard: Spectral Projection-based Advanced Invisible Watermarking](http://arxiv.org/abs/2510.07302v1)** | 2025-10-08 | <details><summary>ICCV ...</summary><p>ICCV 2025 Accepted Paper</p></details> |
+| **[STaTS: Structure-Aware Temporal Sequence Summarization via Statistical Window Merging](http://arxiv.org/abs/2510.09593v1)** | 2025-10-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 4 tables. Under Review</p></details> |
+| **[FSP-DETR: Few-Shot Prototypical Parasitic Ova Detection](http://arxiv.org/abs/2510.09583v1)** | 2025-10-10 | <details><summary>10 pa...</summary><p>10 pages, 3 Figures, 5 Tables. Under Review</p></details> |
+| **[Understanding Ice Crystal Habit Diversity with Self-Supervised Learning](http://arxiv.org/abs/2509.07688v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Workshop: Tackling Climate Change with Machine Learning</p></details> |
+| **[AutoPR: Let's Automate Your Academic Promotion!](http://arxiv.org/abs/2510.09558v1)** | 2025-10-10 | <details><summary>Prepr...</summary><p>Preprint. Code: https://github.com/LightChen2333/AutoPR . Benchmark: https://huggingface.co/datasets/yzweak/PRBench</p></details> |
+| **[Hierarchical Indexing with Knowledge Enrichment for Multilingual Video Corpus Retrieval](http://arxiv.org/abs/2510.09553v1)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to NLPCC 2025 (Springer), to appear November 2025</p></details> |
+| **[FLOWING: Implicit Neural Flows for Structure-Preserving Morphing](http://arxiv.org/abs/2510.09537v1)** | 2025-10-10 | <details><summary>10 pa...</summary><p>10 pages main paper; 9 pages references and appendix</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Hippocampus Networks for Efficient Long-Context Modeling](http://arxiv.org/abs/2510.07318v1)** | 2025-10-08 | <details><summary>Code:...</summary><p>Code: https://github.com/ByteDance-Seed/AHN</p></details> |
-| **[h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning](http://arxiv.org/abs/2510.07312v1)** | 2025-10-08 | <details><summary>Prepr...</summary><p>Preprint, 31 pages, 8 figures</p></details> |
-| **[SpecGuard: Spectral Projection-based Advanced Invisible Watermarking](http://arxiv.org/abs/2510.07302v1)** | 2025-10-08 | <details><summary>ICCV ...</summary><p>ICCV 2025 Accepted Paper</p></details> |
-| **[Valid Inference with Imperfect Synthetic Data](http://arxiv.org/abs/2508.06635v2)** | 2025-10-08 | NeurIPS 2025 |
-| **[AudioMarathon: A Comprehensive Benchmark for Long-Context Audio Understanding and Efficiency in Audio LLMs](http://arxiv.org/abs/2510.07293v1)** | 2025-10-08 | <details><summary>26 pa...</summary><p>26 pages, 23 figures, the code is available at \url{https://github.com/DabDans/AudioMarathon}</p></details> |
-| **[Empirical Comparison of Membership Inference Attacks in Deep Transfer Learning](http://arxiv.org/abs/2510.05753v2)** | 2025-10-08 | <details><summary>30 pa...</summary><p>30 pages, 13 figures, published in TMLR https://openreview.net/forum?id=UligTUCgdt</p></details> |
+| **[StreamingVLM: Real-Time Understanding for Infinite Video Streams](http://arxiv.org/abs/2510.09608v1)** | 2025-10-10 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
+| **[CLARITY: Clinical Assistant for Routing, Inference, and Triage](http://arxiv.org/abs/2510.02463v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Industrial Track)</p></details> |
+| **[Prompting Test-Time Scaling Is A Strong LLM Reasoning Data Augmentation](http://arxiv.org/abs/2510.09599v1)** | 2025-10-10 | <details><summary>Our c...</summary><p>Our code and data are available at https://github.com/VILA-Lab/PTTS</p></details> |
+| **[Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity](http://arxiv.org/abs/2510.01171v3)** | 2025-10-10 | <details><summary>82 pa...</summary><p>82 pages, 28 figures, 32 tables. Code is available at https://github.com/CHATS-lab/verbalize-sampling</p></details> |
+| **[FSP-DETR: Few-Shot Prototypical Parasitic Ova Detection](http://arxiv.org/abs/2510.09583v1)** | 2025-10-10 | <details><summary>10 pa...</summary><p>10 pages, 3 Figures, 5 Tables. Under Review</p></details> |
+| **[Zero-shot Structure Learning and Planning for Autonomous Robot Navigation using Active Inference](http://arxiv.org/abs/2510.09574v1)** | 2025-10-10 | yet to be submitted |
 
