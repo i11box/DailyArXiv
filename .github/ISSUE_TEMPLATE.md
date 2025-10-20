@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - October 20, 2025
+title: Latest 6 Papers - October 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Coupled Diffusion Sampling for Training-Free Multi-View Image Editing](http://arxiv.org/abs/2510.14981v1)** | 2025-10-16 | <details><summary>Proje...</summary><p>Project page: https://coupled-diffusion.github.io</p></details> |
-| **[From Pixels to Words -- Towards Native Vision-Language Primitives at Scale](http://arxiv.org/abs/2510.14979v1)** | 2025-10-16 | 21 pages, 7 figures |
-| **[Agentic Design of Compositional Machines](http://arxiv.org/abs/2510.14980v1)** | 2025-10-16 | <details><summary>75 pa...</summary><p>75 pages, 31 figures, Project Page: https://besiegefield.github.io</p></details> |
-| **[Learning an Image Editing Model without Image Editing Pairs](http://arxiv.org/abs/2510.14978v1)** | 2025-10-16 | <details><summary>proje...</summary><p>project page: https://nupurkmr9.github.io/npedit/</p></details> |
-| **[Ponimator: Unfolding Interactive Pose for Versatile Human-human Interaction Animation](http://arxiv.org/abs/2510.14976v1)** | 2025-10-16 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Project page: https://stevenlsw.github.io/ponimator/</p></details> |
-| **[Terra: Explorable Native 3D World Model with Point Latents](http://arxiv.org/abs/2510.14977v1)** | 2025-10-16 | <details><summary>Proje...</summary><p>Project Page: https://huang-yh.github.io/terra/</p></details> |
+| **[OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding LLM](http://arxiv.org/abs/2510.15870v1)** | 2025-10-17 | <details><summary>Techn...</summary><p>Technical Report. Code: https://github.com/NVlabs/OmniVinci</p></details> |
+| **[Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v1)** | 2025-10-17 | <details><summary>Proje...</summary><p>Project page: https://skyfall-gs.jayinnn.dev/</p></details> |
+| **[LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal](http://arxiv.org/abs/2510.15868v1)** | 2025-10-17 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://ray-1026.github.io/lightsout/</p></details> |
+| **[BiomedXPro: Prompt Optimization for Explainable Diagnosis with Biomedical Vision Language Models](http://arxiv.org/abs/2510.15866v1)** | 2025-10-17 | <details><summary>10 Pa...</summary><p>10 Pages + 15 Supplementary Material Pages, 5 figures</p></details> |
+| **[PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction](http://arxiv.org/abs/2510.15863v1)** | 2025-10-17 | <details><summary>29 pa...</summary><p>29 pages, 6 figures, 8 tables</p></details> |
+| **[InfiMed-ORBIT: Aligning LLMs on Open-Ended Complex Tasks via Rubric-Based Incremental Training](http://arxiv.org/abs/2510.15859v1)** | 2025-10-17 | 17 pages, 6 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Identity-Link IRT for Label-Free LLM Evaluation: Preserving Additivity in TVD-MI Scores](http://arxiv.org/abs/2510.14966v1)** | 2025-10-16 | 9 pages, 2 figures |
-| **[Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models](http://arxiv.org/abs/2510.14961v1)** | 2025-10-16 | <details><summary>Code ...</summary><p>Code can be found at https://github.com/seal-rg/recurrent-pretraining</p></details> |
-| **[TABSurfer: a Hybrid Deep Learning Architecture for Subcortical Segmentation](http://arxiv.org/abs/2312.08267v2)** | 2025-10-16 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 2 tables</p></details> |
-| **[EdgeNavMamba: Mamba Optimized Object Detection for Energy Efficient Edge Devices](http://arxiv.org/abs/2510.14946v1)** | 2025-10-16 | <details><summary>The 1...</summary><p>The 11th IEEE International Conference on Edge Computing and Scalable Cloud (IEEE EdgeCom 2025)</p></details> |
-| **[Chiplet-Based RISC-V SoC with Modular AI Acceleration](http://arxiv.org/abs/2509.18355v2)** | 2025-10-16 | <details><summary>3 pag...</summary><p>3 pages, 3 figures and 2 tables</p></details> |
-| **[DE-Sinc approximation for unilateral rapidly decreasing functions and its computational error bound](http://arxiv.org/abs/2510.11411v3)** | 2025-10-16 | <details><summary>Keywo...</summary><p>Keywords: Sinc approximation, double-exponential transformation, unilateral rapidly decreasing function, computation with guaranteed accuracy</p></details> |
+| **[Transfer Orthology Networks](http://arxiv.org/abs/2510.15837v1)** | 2025-10-17 | 4 pages |
+| **[Emergence of Linear Truth Encodings in Language Models](http://arxiv.org/abs/2510.15804v1)** | 2025-10-17 | <details><summary>Accep...</summary><p>Accepted in Neurips 2025</p></details> |
+| **[A Simple Geometric Proof of the Optimality of the Sequential Probability Ratio Test for Symmetric Bernoulli Hypotheses](http://arxiv.org/abs/2510.15790v1)** | 2025-10-17 | 20 pages |
+| **[Migration as a Probe: A Generalizable Benchmark Framework for Specialist vs. Generalist Machine-Learned Force Fields](http://arxiv.org/abs/2509.00090v2)** | 2025-10-17 | <details><summary>10 pa...</summary><p>10 pages (+Appendix 22 pages), 8 figures. To appear in 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: AI for Accelerated Materials Discovery (AI4Mat) Workshop. Code and datasets available at https://github.com/yicao-elina/MigrationBench.git</p></details> |
+| **[DGME-T: Directional Grid Motion Encoding for Transformer-Based Historical Camera Movement Classification](http://arxiv.org/abs/2510.15725v1)** | 2025-10-17 | <details><summary>9 pag...</summary><p>9 pages, accepted at ACMMM2025 SUMAC</p></details> |
+| **[ProofOptimizer: Training Language Models to Simplify Proofs without Human Demonstrations](http://arxiv.org/abs/2510.15700v1)** | 2025-10-17 | <details><summary>52 pa...</summary><p>52 pages, 16 figures, website: http://proof-optimizer.github.io/</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Coupled Diffusion Sampling for Training-Free Multi-View Image Editing](http://arxiv.org/abs/2510.14981v1)** | 2025-10-16 | <details><summary>Proje...</summary><p>Project page: https://coupled-diffusion.github.io</p></details> |
-| **[Ponimator: Unfolding Interactive Pose for Versatile Human-human Interaction Animation](http://arxiv.org/abs/2510.14976v1)** | 2025-10-16 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Project page: https://stevenlsw.github.io/ponimator/</p></details> |
-| **[pi-Flow: Policy-Based Few-Step Generation via Imitation Distillation](http://arxiv.org/abs/2510.14974v1)** | 2025-10-16 | <details><summary>Code:...</summary><p>Code: https://github.com/Lakonik/piFlow Demos: https://huggingface.co/spaces/Lakonik/pi-Qwen and https://huggingface.co/spaces/Lakonik/pi-FLUX.1</p></details> |
-| **[Biology-informed neural networks learn nonlinear representations from omics data to improve genomic prediction and interpretability](http://arxiv.org/abs/2510.14970v1)** | 2025-10-16 | 35 pages, 12 figures |
-| **[Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models](http://arxiv.org/abs/2510.14961v1)** | 2025-10-16 | <details><summary>Code ...</summary><p>Code can be found at https://github.com/seal-rg/recurrent-pretraining</p></details> |
-| **[Architecture Is All You Need: Diversity-Enabled Sweet Spots for Robust Humanoid Locomotion](http://arxiv.org/abs/2510.14947v1)** | 2025-10-16 | 8 pages |
+| **[A Markov Chain Monte Carlo Method for Efficient Finite-Length LDPC Code Design](http://arxiv.org/abs/2504.16071v2)** | 2025-10-17 | <details><summary>14 pa...</summary><p>14 pages (double column), 4 figures, submitted to the IEEE Transactions on Communications (TCOM)</p></details> |
+| **[Blackwell's Approachability for Sequential Conformal Inference](http://arxiv.org/abs/2510.15824v1)** | 2025-10-17 | 25 pages, 0 figures |
+| **[Dynamic Recalibration in LiDAR SLAM: Integrating AI and Geometric Methods with Real-Time Feedback Using INAF Fusion](http://arxiv.org/abs/2510.15803v1)** | 2025-10-17 | 9 pages, 9 figures |
+| **[Ambusher: Exploring the Security of Distributed SDN Controllers Through Protocol State Fuzzing](http://arxiv.org/abs/2510.15798v1)** | 2025-10-17 | 17 pages, 16 figures |
+| **[DeepRV: Accelerating spatiotemporal inference with pre-trained neural priors](http://arxiv.org/abs/2503.21473v2)** | 2025-10-17 | <details><summary>Code ...</summary><p>Code to reproduce all experiments is available in the ancillary file deep_rv_code, with instructions in the included README</p></details> |
+| **[REX: Causal discovery based on machine learning and explainability techniques](http://arxiv.org/abs/2501.12706v3)** | 2025-10-17 | <details><summary>22 pa...</summary><p>22 pages, 30 figures, Published in Elsevier's Pattern Recognition</p></details> |
 
