@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - October 24, 2025
+title: Latest 6 Papers - October 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tight Lower Bounds for Central String Queries in Compressed Space](http://arxiv.org/abs/2510.19820v1)** | 2025-10-22 | <details><summary>Full ...</summary><p>Full version of a SODA 2026 paper</p></details> |
-| **[Is This Tracker On? A Benchmark Protocol for Dynamic Tracking](http://arxiv.org/abs/2510.19819v1)** | 2025-10-22 | <details><summary>Proje...</summary><p>Project page: https://glab-caltech.github.io/ITTO/</p></details> |
-| **[olmOCR 2: Unit Test Rewards for Document OCR](http://arxiv.org/abs/2510.19817v1)** | 2025-10-22 | <details><summary>https...</summary><p>https://olmocr.allen.ai/</p></details> |
-| **[Explaining the Inherent Tradeoffs for Suffix Array Functionality: Equivalences between String Problems and Prefix Range Queries](http://arxiv.org/abs/2510.19815v1)** | 2025-10-22 | <details><summary>Full ...</summary><p>Full version of a SODA 2026 paper</p></details> |
-| **[Unlearned but Not Forgotten: Data Extraction after Exact Unlearning in LLM](http://arxiv.org/abs/2505.24379v3)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted by Neurips 2025</p></details> |
-| **[Resilient Full-Duplex ISAC in the Face of Imperfect SI Cancellation: Globally Optimal Timeslot Allocation and Beam Selection](http://arxiv.org/abs/2510.15810v2)** | 2025-10-22 | <details><summary>Europ...</summary><p>European Wireless Conference (EW 2025)</p></details> |
+| **[HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives](http://arxiv.org/abs/2510.20822v1)** | 2025-10-23 | <details><summary>Proje...</summary><p>Project page and code: https://holo-cine.github.io/</p></details> |
+| **[Language Models use Lookbacks to Track Beliefs](http://arxiv.org/abs/2505.14685v2)** | 2025-10-23 | <details><summary>31 pa...</summary><p>31 pages, 33 figures. Code and data at https://belief.baulab.info/</p></details> |
+| **[LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas](http://arxiv.org/abs/2510.20820v1)** | 2025-10-23 | 9 pages, preprint |
+| **[Real Deep Research for AI, Robotics and Beyond](http://arxiv.org/abs/2510.20809v1)** | 2025-10-23 | <details><summary>websi...</summary><p>website: https://realdeepresearch.github.io</p></details> |
+| **[Video Prediction of Dynamic Physical Simulations With Pixel-Space Spatiotemporal Transformers](http://arxiv.org/abs/2510.20807v1)** | 2025-10-23 | 14 pages, 14 figures |
+| **[ARGenSeg: Image Segmentation with Autoregressive Image Generation Model](http://arxiv.org/abs/2510.20803v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025, 18 pages</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tight Lower Bounds for Central String Queries in Compressed Space](http://arxiv.org/abs/2510.19820v1)** | 2025-10-22 | <details><summary>Full ...</summary><p>Full version of a SODA 2026 paper</p></details> |
-| **[Explaining the Inherent Tradeoffs for Suffix Array Functionality: Equivalences between String Problems and Prefix Range Queries](http://arxiv.org/abs/2510.19815v1)** | 2025-10-22 | <details><summary>Full ...</summary><p>Full version of a SODA 2026 paper</p></details> |
-| **[Resilient Full-Duplex ISAC in the Face of Imperfect SI Cancellation: Globally Optimal Timeslot Allocation and Beam Selection](http://arxiv.org/abs/2510.15810v2)** | 2025-10-22 | <details><summary>Europ...</summary><p>European Wireless Conference (EW 2025)</p></details> |
-| **[On Scaling LT-Coded Blockchains in Heterogeneous Networks and their Vulnerabilities to DoS Threats](http://arxiv.org/abs/2402.05620v3)** | 2025-10-22 | <details><summary>To ap...</summary><p>To appear in Future Generation Computer Systems, 2025. This is an extended version of a shorter version that has appeared in IEEE ICC 2024</p></details> |
-| **[Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents](http://arxiv.org/abs/2506.08800v2)** | 2025-10-22 | <details><summary>Publi...</summary><p>Published in Transactions of Machine Learning Research (TMLR), 10/2025 https://openreview.net/forum?id=MB0TCLfLn1</p></details> |
-| **[Training-Free Constrained Generation With Stable Diffusion Models](http://arxiv.org/abs/2502.05625v4)** | 2025-10-22 | <details><summary>Spotl...</summary><p>Spotlight at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Video Prediction of Dynamic Physical Simulations With Pixel-Space Spatiotemporal Transformers](http://arxiv.org/abs/2510.20807v1)** | 2025-10-23 | 14 pages, 14 figures |
+| **[Compression of Voxelized Vector Field Data by Boxes is Hard](http://arxiv.org/abs/2510.20801v1)** | 2025-10-23 | 50 pages, 4 figures |
+| **[DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing](http://arxiv.org/abs/2510.02253v2)** | 2025-10-23 | Preprint |
+| **[Simple Context Compression: Mean-Pooling and Multi-Ratio Training](http://arxiv.org/abs/2510.20797v1)** | 2025-10-23 | <details><summary>Code ...</summary><p>Code available at https://github.com/lil-lab/simple-context-compression</p></details> |
+| **[Bayesian Inference of Primordial Magnetic Field Parameters from CMB with Spherical Graph Neural Networks](http://arxiv.org/abs/2510.20795v1)** | 2025-10-23 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 4 tables</p></details> |
+| **[Text2Mem: A Unified Memory Operation Language for Memory Operating System](http://arxiv.org/abs/2509.11145v2)** | 2025-10-23 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 2 tables</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Benchmarking World-Model Learning](http://arxiv.org/abs/2510.19788v1)** | 2025-10-22 | 30 pages, 10 figures |
-| **[Environment Inference for Learning Generalizable Dynamical System](http://arxiv.org/abs/2510.19784v1)** | 2025-10-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
-| **[SmartSwitch: Advancing LLM Reasoning by Overcoming Underthinking via Promoting Deeper Thought Exploration](http://arxiv.org/abs/2510.19767v1)** | 2025-10-22 | <details><summary>Code:...</summary><p>Code: https://github.com/dvlab-research/SmartSwitch</p></details> |
-| **[gLSTM: Mitigating Over-Squashing by Increasing Storage Capacity](http://arxiv.org/abs/2510.08450v2)** | 2025-10-22 | <details><summary>23 pa...</summary><p>23 pages, 22 figures, 7 tables. v2: clarified over-squashing separation in light of related work</p></details> |
-| **[A flexible framework for structural plasticity in GPU-accelerated sparse spiking neural networks](http://arxiv.org/abs/2510.19764v1)** | 2025-10-22 | <details><summary>22 pa...</summary><p>22 pages, 9 figures, 2 tables</p></details> |
-| **[A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation](http://arxiv.org/abs/2510.19755v1)** | 2025-10-22 | 22 pages,2 figures |
+| **[Real Deep Research for AI, Robotics and Beyond](http://arxiv.org/abs/2510.20809v1)** | 2025-10-23 | <details><summary>websi...</summary><p>website: https://realdeepresearch.github.io</p></details> |
+| **[ARGenSeg: Image Segmentation with Autoregressive Image Generation Model](http://arxiv.org/abs/2510.20803v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025, 18 pages</p></details> |
+| **[Bayesian Inference of Primordial Magnetic Field Parameters from CMB with Spherical Graph Neural Networks](http://arxiv.org/abs/2510.20795v1)** | 2025-10-23 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 4 tables</p></details> |
+| **[CUPID: Pose-Grounded Generative 3D Reconstruction from a Single Image](http://arxiv.org/abs/2510.20776v1)** | 2025-10-23 | <details><summary>proje...</summary><p>project page at https://cupid3d.github.io</p></details> |
+| **[CSU-PCAST: A Dual-Branch Transformer Framework for medium-range ensemble Precipitation Forecasting](http://arxiv.org/abs/2510.20769v1)** | 2025-10-23 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, submitted to arXiv under Atmospheric and Oceanic Physics (physics.ao-ph) and Machine Learning (cs.LG)</p></details> |
+| **[Engineering Fast and Space-Efficient Recompression from SLP-Compressed Text](http://arxiv.org/abs/2506.12011v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to ALENEX 2026</p></details> |
 
