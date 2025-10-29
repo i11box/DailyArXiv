@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - October 29, 2025
+title: Latest 6 Papers - October 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial Representations](http://arxiv.org/abs/2510.23607v1)** | 2025-10-27 | <details><summary>NeurI...</summary><p>NeurIPS 2025, produced by Pointcept, project page: https://pointcept.github.io/Concerto</p></details> |
-| **[Variational Masked Diffusion Models](http://arxiv.org/abs/2510.23606v1)** | 2025-10-27 | <details><summary>Proje...</summary><p>Project Page: https://riccizz.github.io/VMD</p></details> |
-| **[Track, Inpaint, Resplat: Subject-driven 3D and 4D Generation with Progressive Texture Infilling](http://arxiv.org/abs/2510.23605v1)** | 2025-10-27 | <details><summary>NeurI...</summary><p>NeurIPS 2025, 38 pages, 22 figures</p></details> |
-| **[PixelRefer: A Unified Framework for Spatio-Temporal Object Referring with Arbitrary Granularity](http://arxiv.org/abs/2510.23603v1)** | 2025-10-27 | 22 pages, 13 figures |
-| **[Alita-G: Self-Evolving Generative Agent for Agent Generation](http://arxiv.org/abs/2510.23601v1)** | 2025-10-27 | 15 pages, 3 figures |
-| **[Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models](http://arxiv.org/abs/2506.05314v2)** | 2025-10-27 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems</p></details> |
+| **[Generative View Stitching](http://arxiv.org/abs/2510.24718v1)** | 2025-10-28 | <details><summary>Proje...</summary><p>Project website: https://andrewsonga.github.io/gvs</p></details> |
+| **[Uniform Discrete Diffusion with Metric Path for Video Generation](http://arxiv.org/abs/2510.24717v1)** | 2025-10-28 | 19 pages, 10 figures |
+| **[Memory Mosaics at scale](http://arxiv.org/abs/2507.03285v2)** | 2025-10-28 | Oral @ NeurIPS 2025 |
+| **[A Single-Loop First-Order Algorithm for Linearly Constrained Bilevel Optimization](http://arxiv.org/abs/2510.24710v1)** | 2025-10-28 | NeurIPS 2025 |
+| **[Does Object Binding Naturally Emerge in Large Pretrained Vision Transformers?](http://arxiv.org/abs/2510.24709v1)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted as a Spotlight at NeurIPS 2025</p></details> |
+| **[Retrieval-Augmented Generation-based Relation Extraction](http://arxiv.org/abs/2404.13397v2)** | 2025-10-28 | <details><summary>publi...</summary><p>published at the Semantic Web journal. The last version is available: https://doi.org/10.1177/22104968251385519</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Alita-G: Self-Evolving Generative Agent for Agent Generation](http://arxiv.org/abs/2510.23601v1)** | 2025-10-27 | 15 pages, 3 figures |
-| **[FARMER: Flow AutoRegressive Transformer over Pixels](http://arxiv.org/abs/2510.23588v1)** | 2025-10-27 | <details><summary>Byted...</summary><p>Bytedance Seed Technical Report</p></details> |
-| **[Lookahead Anchoring: Preserving Character Identity in Audio-Driven Human Animation](http://arxiv.org/abs/2510.23581v1)** | 2025-10-27 | <details><summary>Proje...</summary><p>Project page: https://lookahead-anchoring.github.io</p></details> |
-| **[LLM4Cell: A Survey of Large Language and Agentic Models for Single-Cell Biology](http://arxiv.org/abs/2510.07793v2)** | 2025-10-27 | <details><summary>34 pa...</summary><p>34 pages, 5 figures, 7 tables</p></details> |
-| **[RobotArena $\infty$: Scalable Robot Benchmarking via Real-to-Sim Translation](http://arxiv.org/abs/2510.23571v1)** | 2025-10-27 | <details><summary>Websi...</summary><p>Website: https://robotarenainf.github.io</p></details> |
-| **[A U-Net and Transformer Pipeline for Multilingual Image Translation](http://arxiv.org/abs/2510.23554v1)** | 2025-10-27 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 5 tables, and 2 algorithms. Prepared in IEEE double-column format</p></details> |
+| **[Memory Mosaics at scale](http://arxiv.org/abs/2507.03285v2)** | 2025-10-28 | Oral @ NeurIPS 2025 |
+| **[Does Object Binding Naturally Emerge in Large Pretrained Vision Transformers?](http://arxiv.org/abs/2510.24709v1)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted as a Spotlight at NeurIPS 2025</p></details> |
+| **[DeltaPhi: Physical States Residual Learning for Neural Operators in Data-Limited PDE Solving](http://arxiv.org/abs/2406.09795v2)** | 2025-10-28 | Neurips 2025 |
+| **[Retrieval-Augmented Generation-based Relation Extraction](http://arxiv.org/abs/2404.13397v2)** | 2025-10-28 | <details><summary>publi...</summary><p>published at the Semantic Web journal. The last version is available: https://doi.org/10.1177/22104968251385519</p></details> |
+| **[MMPerspective: Do MLLMs Understand Perspective? A Comprehensive Benchmark for Perspective Perception, Reasoning, and Robustness](http://arxiv.org/abs/2505.20426v3)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 DB Track</p></details> |
+| **[Bridging Simulators with Conditional Optimal Transport](http://arxiv.org/abs/2510.24631v1)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted at the 2025 Workshop on Machine Learning for Astrophysics, 10 pages, 6 figures</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Masked Diffusion Models](http://arxiv.org/abs/2510.23606v1)** | 2025-10-27 | <details><summary>Proje...</summary><p>Project Page: https://riccizz.github.io/VMD</p></details> |
-| **[Alita-G: Self-Evolving Generative Agent for Agent Generation](http://arxiv.org/abs/2510.23601v1)** | 2025-10-27 | 15 pages, 3 figures |
-| **[FARMER: Flow AutoRegressive Transformer over Pixels](http://arxiv.org/abs/2510.23588v1)** | 2025-10-27 | <details><summary>Byted...</summary><p>Bytedance Seed Technical Report</p></details> |
-| **[ESCA: Contextualizing Embodied Agents via Scene-Graph Generation](http://arxiv.org/abs/2510.15963v2)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted as a Spotlight Paper at NeurIPS 2025</p></details> |
-| **[EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT](http://arxiv.org/abs/2510.23569v1)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Bayesian Nonlinear PDE Inference via Gaussian Process Collocation with Application to the Richards Equation](http://arxiv.org/abs/2510.23550v1)** | 2025-10-27 | 37 pages, 7 figures |
+| **[Uniform Discrete Diffusion with Metric Path for Video Generation](http://arxiv.org/abs/2510.24717v1)** | 2025-10-28 | 19 pages, 10 figures |
+| **[Memory Mosaics at scale](http://arxiv.org/abs/2507.03285v2)** | 2025-10-28 | Oral @ NeurIPS 2025 |
+| **[Bridging Simulators with Conditional Optimal Transport](http://arxiv.org/abs/2510.24631v1)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted at the 2025 Workshop on Machine Learning for Astrophysics, 10 pages, 6 figures</p></details> |
+| **[DWaste: Greener AI for Waste Sorting using Mobile and Edge Devices](http://arxiv.org/abs/2510.18513v2)** | 2025-10-28 | 8 pages, 8 figures |
+| **[RETTA: Retrieval-Enhanced Test-Time Adaptation for Zero-Shot Video Captioning](http://arxiv.org/abs/2405.07046v3)** | 2025-10-28 | <details><summary>Publi...</summary><p>Published in Pattern Recognition</p></details> |
+| **[Fast Bayesian Multilevel Quasi-Monte Carlo](http://arxiv.org/abs/2510.24604v1)** | 2025-10-28 | 26 pages, 11 figures |
 
