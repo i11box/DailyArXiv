@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - November 06, 2025
+title: Latest 6 Papers - November 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agent-Omni: Test-Time Multimodal Reasoning via Model Coordination for Understanding Anything](http://arxiv.org/abs/2511.02834v1)** | 2025-11-04 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, 14 tables. Under Review</p></details> |
+| **[Disentangled Concepts Speak Louder Than Words:Explainable Video Action Recognition](http://arxiv.org/abs/2511.03725v1)** | 2025-11-05 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight paper. Project page: https://jong980812.github.io/DANCE/</p></details> |
+| **[Grounded Misunderstandings in Asymmetric Dialogue: A Perspectivist Annotation Scheme for MapTask](http://arxiv.org/abs/2511.03718v1)** | 2025-11-05 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 5 tables; under review</p></details> |
+| **[Time-Aware Projections: Truly Node-Private Graph Statistics under Continual Observation](http://arxiv.org/abs/2403.04630v2)** | 2025-11-05 | <details><summary>Full ...</summary><p>Full version of the paper presented at IEEE S&P 2024 ("Oakland")</p></details> |
+| **[Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards](http://arxiv.org/abs/2511.03710v1)** | 2025-11-05 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
+| **[GDS Agent for Graph Algorithmic Reasoning](http://arxiv.org/abs/2508.20637v2)** | 2025-11-05 | Technical report |
+| **[LLM-enhanced Air Quality Monitoring Interface via Model Context Protocol](http://arxiv.org/abs/2511.03706v1)** | 2025-11-05 | <details><summary>Inter...</summary><p>International Symposium on Advanced Electrical and Communication Technologies, ISAECT 2025</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks](http://arxiv.org/abs/2511.02830v1)** | 2025-11-04 | <details><summary>Proje...</summary><p>Project page: https://diddone.github.io/densemarks/ .Video: https://youtu.be/o8DOOYFW0gI .21 pages, 13 figures, 2 tables</p></details> |
-| **[Growing Transformers: Modular Composition and Layer-wise Expansion on a Frozen Substrate](http://arxiv.org/abs/2507.07129v2)** | 2025-11-04 | <details><summary>Contr...</summary><p>Controlled Comparative Study added</p></details> |
-| **[LAWCAT: Efficient Distillation from Quadratic to Linear Attention with Convolution across Tokens for Long Context Modeling](http://arxiv.org/abs/2509.18467v2)** | 2025-11-04 | <details><summary>17 pa...</summary><p>17 pages, 8 figures. EMNLP2025 Findings</p></details> |
-| **[STAR-VAE: Latent Variable Transformers for Scalable and Controllable Molecular Generation](http://arxiv.org/abs/2511.02769v1)** | 2025-11-04 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, 2 tables</p></details> |
-| **[A Practical Investigation of Spatially-Controlled Image Generation with Transformers](http://arxiv.org/abs/2507.15724v2)** | 2025-11-04 | <details><summary>TMLR ...</summary><p>TMLR https://openreview.net/forum?id=loT6xhgLYK</p></details> |
-| **[LLM-Supported Formal Knowledge Representation for Enhancing Control Engineering Content with an Interactive Semantic Layer](http://arxiv.org/abs/2511.02759v1)** | 2025-11-04 | 4 pages, 2 figures |
+| **[Time-Aware Projections: Truly Node-Private Graph Statistics under Continual Observation](http://arxiv.org/abs/2403.04630v2)** | 2025-11-05 | <details><summary>Full ...</summary><p>Full version of the paper presented at IEEE S&P 2024 ("Oakland")</p></details> |
+| **[Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](http://arxiv.org/abs/2508.04825v2)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2025, project page: https://nxnai.github.io/Voost/</p></details> |
+| **[A systematic review of relation extraction task since the emergence of Transformers](http://arxiv.org/abs/2511.03610v1)** | 2025-11-05 | <details><summary>Submi...</summary><p>Submited at ACM-Computing Surveys + The resulting annotated Zotero bibliography : https://www.zotero.org/groups/6070963/scilex_re_systlitreview/library + SciLEx software: https://github.com/Wimmics/SciLEx</p></details> |
+| **[Intelligent Computing Social Modeling and Methodological Innovations in Political Science in the Era of Large Language Models](http://arxiv.org/abs/2410.16301v2)** | 2025-11-05 | <details><summary>37 pa...</summary><p>37 pages, 11 figures, 3 tables. J OF CHIN POLIT SCI (2025)</p></details> |
+| **[Bearing Syntactic Fruit with Stack-Augmented Neural Networks](http://arxiv.org/abs/2511.03547v1)** | 2025-11-05 | 15 pages, 5 figures |
+| **[ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS](http://arxiv.org/abs/2505.23734v3)** | 2025-11-05 | <details><summary>NeurI...</summary><p>NeurIPS 2025, Project Page: https://lhmd.top/zpressor, Code: https://github.com/ziplab/ZPressor</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Federated Learning Privacy with QUBO](http://arxiv.org/abs/2511.02785v1)** | 2025-11-04 | 8 pages, 9 figures |
-| **[Scalable Analysis of Bipartite Experiments](http://arxiv.org/abs/2402.11070v2)** | 2025-11-04 | <details><summary>Proof...</summary><p>Proof of validity of the variance estimator is wrong</p></details> |
-| **[STAR-VAE: Latent Variable Transformers for Scalable and Controllable Molecular Generation](http://arxiv.org/abs/2511.02769v1)** | 2025-11-04 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, 2 tables</p></details> |
-| **[Controlling Performance and Budget of a Centralized Multi-agent LLM System with Reinforcement Learning](http://arxiv.org/abs/2511.02755v1)** | 2025-11-04 | 14 pages |
-| **[Using Span Queries to Optimize for Cache and Attention Locality](http://arxiv.org/abs/2511.02749v1)** | 2025-11-04 | 12 pages, 17 figures |
-| **[Agentic World Modeling for 6G: Near-Real-Time Generative State-Space Reasoning](http://arxiv.org/abs/2511.02748v1)** | 2025-11-04 | <details><summary>13 Pa...</summary><p>13 Pages, 3 Figures, 4 Tables</p></details> |
+| **[Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](http://arxiv.org/abs/2508.04825v2)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2025, project page: https://nxnai.github.io/Voost/</p></details> |
+| **[Improving Gene Trees without more data](http://arxiv.org/abs/2511.03692v1)** | 2025-11-05 | <details><summary>Maste...</summary><p>Master's thesis, Adviser: Dr Tandy Warnow</p></details> |
+| **[Using latent representations to link disjoint longitudinal data for mixed-effects regression](http://arxiv.org/abs/2510.25531v2)** | 2025-11-05 | <details><summary>31 pa...</summary><p>31 pages, 3 figures, 3 tables</p></details> |
+| **[Whisper Leak: a side-channel attack on Large Language Models](http://arxiv.org/abs/2511.03675v1)** | 2025-11-05 | 14 pages, 7 figures |
+| **[TabTune: A Unified Library for Inference and Fine-Tuning Tabular Foundation Models](http://arxiv.org/abs/2511.02802v2)** | 2025-11-05 | <details><summary>The l...</summary><p>The library is open source and available at https://github.com/Lexsi-Labs/TabTune</p></details> |
+| **[Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis I: Methodology and implementation](http://arxiv.org/abs/2511.03667v1)** | 2025-11-05 | <details><summary>15 pa...</summary><p>15 pages, 7 figures. Under review for Proceedings of International Summer Conference 2025: Intelligent Systems & Decision Making: Human Insights in the Era of A.I - Lecture Notes in Computer Science, Springer Nature</p></details> |
 
