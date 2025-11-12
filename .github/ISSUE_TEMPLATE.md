@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - November 11, 2025
+title: Latest 6 Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TimeSearch-R: Adaptive Temporal Search for Long-Form Video Understanding via Self-Verification Reinforcement Learning](http://arxiv.org/abs/2511.05489v1)** | 2025-11-07 | <details><summary>22 pa...</summary><p>22 pages, 17 figures. Official code: https://github.com/Time-Search/TimeSearch-R</p></details> |
-| **[MIMIC-SR-ICD11: A Dataset for Narrative-Based Diagnosis](http://arxiv.org/abs/2511.05485v1)** | 2025-11-07 | 19 |
-| **[FedFACT: A Provable Framework for Controllable Group-Fairness Calibration in Federated Learning](http://arxiv.org/abs/2506.03777v2)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[Tactical Decision Making for Autonomous Trucks by Deep Reinforcement Learning with Total Cost of Operation Based Reward](http://arxiv.org/abs/2403.06524v2)** | 2025-11-07 | <details><summary>Paper...</summary><p>Paper is accepted for publication in Artificial Intelligence Review</p></details> |
-| **[TRACE: Textual Relevance Augmentation and Contextual Encoding for Multimodal Hate Detection](http://arxiv.org/abs/2504.17902v2)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted to Special Track on AI for Social Impact (AISI) at AAAI 2026</p></details> |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](http://arxiv.org/abs/2511.05476v1)** | 2025-11-07 | <details><summary>The p...</summary><p>The paper is currently under review at a peer-reviewed journal</p></details> |
+| **[Generalized Contrastive Divergence: Joint Training of Energy-Based Model and Diffusion Model through Inverse Reinforcement Learning](https://arxiv.org/pdf/2312.03397v1)** | 2023-12-07 | <details><summary>NeurI...</summary><p>NeurIPS 2023 Workshop on Diffusion Models</p></details> |
+| **[Fixed Point Diffusion Models](https://arxiv.org/pdf/2401.08741v1)** | 2024-01-18 | <details><summary>Proje...</summary><p>Project page: https://lukemelas.github.io/fixed-point-diffusion-models</p></details> |
+| **[Controllable Generation with Text-to-Image Diffusion Models: A Survey](https://arxiv.org/pdf/2403.04279v1)** | 2024-03-08 | <details><summary>A col...</summary><p>A collection of resources on controllable generation with text-to-image diffusion models: https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models</p></details> |
+| **[Video Diffusion Models: A Survey](https://arxiv.org/pdf/2405.03150v2)** | 2024-11-19 | <details><summary>https...</summary><p>https://github.com/ndrwmlnk/Awesome-Video-Diffusion-Models</p></details> |
+| **[LDM3D-VR: Latent Diffusion Model for 3D VR](https://arxiv.org/pdf/2311.03226v1)** | 2023-11-07 | <details><summary>Accep...</summary><p>Accepted to Workshop on Diffusion Models, NeurIPS 2023</p></details> |
+| **[Conditional Variational Diffusion Models](https://arxiv.org/pdf/2312.02246v4)** | 2024-04-29 | <details><summary>Denoi...</summary><p>Denoising Diffusion Probabilistic Models, Inverse Problems, Generative Models, Super Resolution, Phase Quantification, Variational Methods</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](http://arxiv.org/abs/2511.05476v1)** | 2025-11-07 | <details><summary>The p...</summary><p>The paper is currently under review at a peer-reviewed journal</p></details> |
-| **[Advanced Hybrid Transformer LSTM Technique with Attention and TS Mixer for Drilling Rate of Penetration Prediction](http://arxiv.org/abs/2508.05210v3)** | 2025-11-07 | <details><summary>31 Pa...</summary><p>31 Pages, 16 Figures, 9 Tables</p></details> |
-| **[Enterprise Deep Research: Steerable Multi-Agent Deep Research for Enterprise Analytics](http://arxiv.org/abs/2510.17797v2)** | 2025-11-07 | <details><summary>Techn...</summary><p>Technical report; 13 pages plus references and appendices</p></details> |
-| **[How Many Tokens Do 3D Point Cloud Transformer Architectures Really Need?](http://arxiv.org/abs/2511.05449v1)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Bioinspired Soft Quadrotors Jointly Unlock Agility, Squeezability, and Collision Resilience](http://arxiv.org/abs/2511.05426v1)** | 2025-11-07 | <details><summary>26 pa...</summary><p>26 pages, 12 figures, 2 tables, 9 videos (not yet disclosed, awaiting peer review)</p></details> |
-| **[Inference-Time Hyper-Scaling with KV Cache Compression](http://arxiv.org/abs/2506.05345v2)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[Structure induction by lossless graph compression](https://arxiv.org/pdf/cs/0703132v1)** | 2017-05-25 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 2 tables published in Proceedings of the Data Compression Conference, 2007</p></details> |
+| **[On the horizontal compression of dag-derivations in minimal purely implicational logic](https://arxiv.org/pdf/2206.02300v5)** | 2025-02-03 | <details><summary>we up...</summary><p>we update intro and conclusion while retaining the example illustrating HC compression. Consider it for formalizing HC compression in ITPs. It shows that HC compresses ND proofs into DAG structures is not trivial, unlike Frege proofs viewed as dags. Our dags do not have a maximum in-degree of two</p></details> |
+| **[Extreme Image Compression using Fine-tuned VQGANs](https://arxiv.org/pdf/2307.08265v3)** | 2023-12-18 | <details><summary>Gener...</summary><p>Generative Compression, Extreme Compression, VQGANs, Low Bitrate</p></details> |
+| **[Low-Rank Prune-And-Factorize for Language Model Compression](https://arxiv.org/pdf/2306.14152v1)** | 2023-06-27 | Model Compression |
+| **[Lossless data compression on GPGPU architectures](https://arxiv.org/pdf/1109.2348v1)** | 2011-09-13 | <details><summary>Aalto...</summary><p>Aalto University special course on data compression course assignment. (http://www.cs.hut.fi/~travis/compression/)</p></details> |
+| **[Learned Compression for Compressed Learning](https://arxiv.org/pdf/2412.09405v1)** | 2024-12-13 | <details><summary>Accep...</summary><p>Accepted as paper to 2025 IEEE Data Compression Conference</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FPGA-Based Real-Time Waveform Classification](http://arxiv.org/abs/2511.05479v1)** | 2025-11-07 | <details><summary>TWEPP...</summary><p>TWEPP25 proceedings paper pre-print</p></details> |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](http://arxiv.org/abs/2511.05476v1)** | 2025-11-07 | <details><summary>The p...</summary><p>The paper is currently under review at a peer-reviewed journal</p></details> |
-| **[EventFlow: Real-Time Neuromorphic Event-Driven Classification of Two-Phase Boiling Flow Regimes](http://arxiv.org/abs/2511.05467v1)** | 2025-11-07 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, Under review in Droplet (Manuscript ID: DRO-2025-0045.R1)</p></details> |
-| **[A Taxonomy and Comparative Analysis of IPv4 Identifier Selection Correctness, Security, and Performance](http://arxiv.org/abs/2406.06483v4)** | 2025-11-07 | <details><summary>37 pa...</summary><p>37 pages, 11 figures, 2 tables, 1 algorithm</p></details> |
-| **[How Many Tokens Do 3D Point Cloud Transformer Architectures Really Need?](http://arxiv.org/abs/2511.05449v1)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Sharing the Learned Knowledge-base to Estimate Convolutional Filter Parameters for Continual Image Restoration](http://arxiv.org/abs/2511.05421v1)** | 2025-11-07 | <details><summary>This ...</summary><p>This paper has been accepted to ACM ICVGIP 2025</p></details> |
+| **[Double Robust Semi-Supervised Inference for the Mean: Selection Bias under MAR Labeling with Decaying Overlap](https://arxiv.org/pdf/2104.06667v2)** | 2024-02-06 | <details><summary>88 pa...</summary><p>88 pages; Revised version; Accepted by Information and Inference: A Journal of the IMA</p></details> |
+| **[Causal inference via algebraic geometry: feasibility tests for functional causal structures with two binary observed variables](https://arxiv.org/pdf/1506.03880v2)** | 2017-10-18 | <details><summary>Accep...</summary><p>Accepted for publication in Journal of Causal Inference. Revised and updated in response to referee feedback. 16+5 pages, 26+2 figures. Comments welcome</p></details> |
+| **[The Theory and Algorithm of Ergodic Inference](https://arxiv.org/pdf/1811.07192v1)** | 2018-11-20 | <details><summary>Ergod...</summary><p>Ergodic inference, statistical inference, probability theory</p></details> |
+| **[Inference Networks for Sequential Monte Carlo in Graphical Models](https://arxiv.org/pdf/1602.06701v2)** | 2018-03-09 | <details><summary>10 pa...</summary><p>10 pages. Updated from version at ICML 2016; includes code at http://github.com/tbrx/compiled-inference</p></details> |
+| **[Active Inference or Control as Inference? A Unifying View](https://arxiv.org/pdf/2010.00262v1)** | 2020-10-02 | <details><summary>Inter...</summary><p>International Workshop on Active Inference 2020 (IWAI)</p></details> |
+| **[Stochastic Collapsed Variational Inference for Sequential Data](https://arxiv.org/pdf/1512.01666v1)** | 2015-12-08 | <details><summary>NIPS ...</summary><p>NIPS Workshop on Advances in Approximate Bayesian Inference, 2015</p></details> |
 
