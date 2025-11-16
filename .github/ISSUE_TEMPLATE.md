@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - November 14, 2025
+title: Latest 6 Papers - November 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generalized Contrastive Divergence: Joint Training of Energy-Based Model and Diffusion Model through Inverse Reinforcement Learning](https://arxiv.org/pdf/2312.03397v1)** | 2023-12-07 | <details><summary>NeurI...</summary><p>NeurIPS 2023 Workshop on Diffusion Models</p></details> |
-| **[Fixed Point Diffusion Models](https://arxiv.org/pdf/2401.08741v1)** | 2024-01-18 | <details><summary>Proje...</summary><p>Project page: https://lukemelas.github.io/fixed-point-diffusion-models</p></details> |
-| **[Controllable Generation with Text-to-Image Diffusion Models: A Survey](https://arxiv.org/pdf/2403.04279v1)** | 2024-03-08 | <details><summary>A col...</summary><p>A collection of resources on controllable generation with text-to-image diffusion models: https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models</p></details> |
-| **[Video Diffusion Models: A Survey](https://arxiv.org/pdf/2405.03150v2)** | 2024-11-19 | <details><summary>https...</summary><p>https://github.com/ndrwmlnk/Awesome-Video-Diffusion-Models</p></details> |
-| **[LDM3D-VR: Latent Diffusion Model for 3D VR](https://arxiv.org/pdf/2311.03226v1)** | 2023-11-07 | <details><summary>Accep...</summary><p>Accepted to Workshop on Diffusion Models, NeurIPS 2023</p></details> |
-| **[Conditional Variational Diffusion Models](https://arxiv.org/pdf/2312.02246v4)** | 2024-04-29 | <details><summary>Denoi...</summary><p>Denoising Diffusion Probabilistic Models, Inverse Problems, Generative Models, Super Resolution, Phase Quantification, Variational Methods</p></details> |
+| **[Enhancing the Outcome Reward-based RL Training of MLLMs with Self-Consistency Sampling](https://arxiv.org/abs/2511.10648v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 (The Thirty-Ninth Annual Conference on Neural Information Processing Systems)</p></details> |
+| **[Depth Anything 3: Recovering the Visual Space from Any Views](https://arxiv.org/abs/2511.10647v1)** | 2025-11-13 | <details><summary>https...</summary><p>https://depth-anything-3.github.io/</p></details> |
+| **[LLM Inference Beyond a Single Node: From Bottlenecks to Mitigations with Fast All-Reduce Communication](https://arxiv.org/abs/2511.09557v2)** | 2025-11-13 | 12 Figures |
+| **[Debiasing Machine Learning Predictions for Causal Inference Without Additional Ground Truth Data: "One Map, Many Trials" in Satellite-Driven Poverty Analysis](https://arxiv.org/abs/2508.01341v2)** | 2025-11-13 | <details><summary>To ap...</summary><p>To appear in the Proceedings of AAAI 2026</p></details> |
+| **[SSR: Socratic Self-Refine for Large Language Model Reasoning](https://arxiv.org/abs/2511.10621v1)** | 2025-11-13 | <details><summary>Prepr...</summary><p>Preprint; work in progress</p></details> |
+| **[Algorithm Design and Stronger Guarantees for the Improving Multi-Armed Bandits Problem](https://arxiv.org/abs/2511.10619v1)** | 2025-11-13 | 25 pages |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Structure induction by lossless graph compression](https://arxiv.org/pdf/cs/0703132v1)** | 2017-05-25 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 2 tables published in Proceedings of the Data Compression Conference, 2007</p></details> |
-| **[On the horizontal compression of dag-derivations in minimal purely implicational logic](https://arxiv.org/pdf/2206.02300v5)** | 2025-02-03 | <details><summary>we up...</summary><p>we update intro and conclusion while retaining the example illustrating HC compression. Consider it for formalizing HC compression in ITPs. It shows that HC compresses ND proofs into DAG structures is not trivial, unlike Frege proofs viewed as dags. Our dags do not have a maximum in-degree of two</p></details> |
-| **[Extreme Image Compression using Fine-tuned VQGANs](https://arxiv.org/pdf/2307.08265v3)** | 2023-12-18 | <details><summary>Gener...</summary><p>Generative Compression, Extreme Compression, VQGANs, Low Bitrate</p></details> |
-| **[Low-Rank Prune-And-Factorize for Language Model Compression](https://arxiv.org/pdf/2306.14152v1)** | 2023-06-27 | Model Compression |
-| **[Lossless data compression on GPGPU architectures](https://arxiv.org/pdf/1109.2348v1)** | 2011-09-13 | <details><summary>Aalto...</summary><p>Aalto University special course on data compression course assignment. (http://www.cs.hut.fi/~travis/compression/)</p></details> |
-| **[Learned Compression for Compressed Learning](https://arxiv.org/pdf/2412.09405v1)** | 2024-12-13 | <details><summary>Accep...</summary><p>Accepted as paper to 2025 IEEE Data Compression Conference</p></details> |
+| **[Depth Anything 3: Recovering the Visual Space from Any Views](https://arxiv.org/abs/2511.10647v1)** | 2025-11-13 | <details><summary>https...</summary><p>https://depth-anything-3.github.io/</p></details> |
+| **[Debiasing Machine Learning Predictions for Causal Inference Without Additional Ground Truth Data: "One Map, Many Trials" in Satellite-Driven Poverty Analysis](https://arxiv.org/abs/2508.01341v2)** | 2025-11-13 | <details><summary>To ap...</summary><p>To appear in the Proceedings of AAAI 2026</p></details> |
+| **[ForAug: Recombining Foregrounds and Backgrounds to Improve Vision Transformer Training with Bias Mitigation](https://arxiv.org/abs/2503.09399v2)** | 2025-11-13 | <details><summary>v2: a...</summary><p>v2: added DeiT, added ablation vs simple copy-paste</p></details> |
+| **[Regular Games -- an Automata-Based General Game Playing Language](https://arxiv.org/abs/2511.10593v1)** | 2025-11-13 | <details><summary>Full ...</summary><p>Full version of AAAI 2026 paper</p></details> |
+| **[Generalized Linear Mode Connectivity for Transformers](https://arxiv.org/abs/2506.22712v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 (Oral)</p></details> |
+| **[From Fold to Function: Dynamic Modeling and Simulation-Driven Design of Origami Mechanisms](https://arxiv.org/abs/2511.10580v1)** | 2025-11-13 | <details><summary>8 Pag...</summary><p>8 Pages, 9 Figures, Submitted to IEEE RoboSoft</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Double Robust Semi-Supervised Inference for the Mean: Selection Bias under MAR Labeling with Decaying Overlap](https://arxiv.org/pdf/2104.06667v2)** | 2024-02-06 | <details><summary>88 pa...</summary><p>88 pages; Revised version; Accepted by Information and Inference: A Journal of the IMA</p></details> |
-| **[Causal inference via algebraic geometry: feasibility tests for functional causal structures with two binary observed variables](https://arxiv.org/pdf/1506.03880v2)** | 2017-10-18 | <details><summary>Accep...</summary><p>Accepted for publication in Journal of Causal Inference. Revised and updated in response to referee feedback. 16+5 pages, 26+2 figures. Comments welcome</p></details> |
-| **[The Theory and Algorithm of Ergodic Inference](https://arxiv.org/pdf/1811.07192v1)** | 2018-11-20 | <details><summary>Ergod...</summary><p>Ergodic inference, statistical inference, probability theory</p></details> |
-| **[Inference Networks for Sequential Monte Carlo in Graphical Models](https://arxiv.org/pdf/1602.06701v2)** | 2018-03-09 | <details><summary>10 pa...</summary><p>10 pages. Updated from version at ICML 2016; includes code at http://github.com/tbrx/compiled-inference</p></details> |
-| **[Active Inference or Control as Inference? A Unifying View](https://arxiv.org/pdf/2010.00262v1)** | 2020-10-02 | <details><summary>Inter...</summary><p>International Workshop on Active Inference 2020 (IWAI)</p></details> |
-| **[Stochastic Collapsed Variational Inference for Sequential Data](https://arxiv.org/pdf/1512.01666v1)** | 2015-12-08 | <details><summary>NIPS ...</summary><p>NIPS Workshop on Advances in Approximate Bayesian Inference, 2015</p></details> |
+| **[LLM Inference Beyond a Single Node: From Bottlenecks to Mitigations with Fast All-Reduce Communication](https://arxiv.org/abs/2511.09557v2)** | 2025-11-13 | 12 Figures |
+| **[Debiasing Machine Learning Predictions for Causal Inference Without Additional Ground Truth Data: "One Map, Many Trials" in Satellite-Driven Poverty Analysis](https://arxiv.org/abs/2508.01341v2)** | 2025-11-13 | <details><summary>To ap...</summary><p>To appear in the Proceedings of AAAI 2026</p></details> |
+| **[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded](https://arxiv.org/abs/2511.10560v1)** | 2025-11-13 | <details><summary>Proje...</summary><p>Project Page: https://livioni.github.io/OmniVGGT-offcial/</p></details> |
+| **[A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space](https://arxiv.org/abs/2511.10555v1)** | 2025-11-13 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 5 tables</p></details> |
+| **[GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection](https://arxiv.org/abs/2511.10554v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by ML For Systems workshop at Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation](https://arxiv.org/abs/2511.10518v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Oral), Project Page: https://github.com/JiuTian-VL/SemanticVLA</p></details> |
 
