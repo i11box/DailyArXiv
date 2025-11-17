@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - November 17, 2025
+title: Latest 6 Papers - November 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing the Outcome Reward-based RL Training of MLLMs with Self-Consistency Sampling](https://arxiv.org/abs/2511.10648v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 (The Thirty-Ninth Annual Conference on Neural Information Processing Systems)</p></details> |
-| **[Depth Anything 3: Recovering the Visual Space from Any Views](https://arxiv.org/abs/2511.10647v1)** | 2025-11-13 | <details><summary>https...</summary><p>https://depth-anything-3.github.io/</p></details> |
-| **[LLM Inference Beyond a Single Node: From Bottlenecks to Mitigations with Fast All-Reduce Communication](https://arxiv.org/abs/2511.09557v2)** | 2025-11-13 | 12 Figures |
-| **[Debiasing Machine Learning Predictions for Causal Inference Without Additional Ground Truth Data: "One Map, Many Trials" in Satellite-Driven Poverty Analysis](https://arxiv.org/abs/2508.01341v2)** | 2025-11-13 | <details><summary>To ap...</summary><p>To appear in the Proceedings of AAAI 2026</p></details> |
-| **[SSR: Socratic Self-Refine for Large Language Model Reasoning](https://arxiv.org/abs/2511.10621v1)** | 2025-11-13 | <details><summary>Prepr...</summary><p>Preprint; work in progress</p></details> |
-| **[Algorithm Design and Stronger Guarantees for the Improving Multi-Armed Bandits Problem](https://arxiv.org/abs/2511.10619v1)** | 2025-11-13 | 25 pages |
+| **[Optimizing Mixture of Block Attention](https://arxiv.org/abs/2511.11571v1)** | 2025-11-14 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
+| **[LARM: A Large Articulated-Object Reconstruction Model](https://arxiv.org/abs/2511.11563v1)** | 2025-11-14 | <details><summary>proje...</summary><p>project page: https://sylviayuan-sy.github.io/larm-site/</p></details> |
+| **[A Unified Convergence Analysis for Semi-Decentralized Learning: Sampled-to-Sampled vs. Sampled-to-All Communication](https://arxiv.org/abs/2511.11560v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted as a conference paper at AAAI 2026 (oral presentation). This is the extended version including the appendix</p></details> |
+| **[Drone Swarm Energy Management](https://arxiv.org/abs/2511.11557v1)** | 2025-11-14 | <details><summary>14 pa...</summary><p>14 pages, 4 Tables, 2 Figures</p></details> |
+| **[Multistability of Self-Attention Dynamics in Transformers](https://arxiv.org/abs/2511.11553v1)** | 2025-11-14 | 8 pages, 3 figures |
+| **[Particle Based Inference for Continuous-Discrete State Space Models](https://arxiv.org/abs/2407.15666v2)** | 2025-11-14 | 54 pages, 7 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Depth Anything 3: Recovering the Visual Space from Any Views](https://arxiv.org/abs/2511.10647v1)** | 2025-11-13 | <details><summary>https...</summary><p>https://depth-anything-3.github.io/</p></details> |
-| **[Debiasing Machine Learning Predictions for Causal Inference Without Additional Ground Truth Data: "One Map, Many Trials" in Satellite-Driven Poverty Analysis](https://arxiv.org/abs/2508.01341v2)** | 2025-11-13 | <details><summary>To ap...</summary><p>To appear in the Proceedings of AAAI 2026</p></details> |
-| **[ForAug: Recombining Foregrounds and Backgrounds to Improve Vision Transformer Training with Bias Mitigation](https://arxiv.org/abs/2503.09399v2)** | 2025-11-13 | <details><summary>v2: a...</summary><p>v2: added DeiT, added ablation vs simple copy-paste</p></details> |
-| **[Regular Games -- an Automata-Based General Game Playing Language](https://arxiv.org/abs/2511.10593v1)** | 2025-11-13 | <details><summary>Full ...</summary><p>Full version of AAAI 2026 paper</p></details> |
-| **[Generalized Linear Mode Connectivity for Transformers](https://arxiv.org/abs/2506.22712v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 (Oral)</p></details> |
-| **[From Fold to Function: Dynamic Modeling and Simulation-Driven Design of Origami Mechanisms](https://arxiv.org/abs/2511.10580v1)** | 2025-11-13 | <details><summary>8 Pag...</summary><p>8 Pages, 9 Figures, Submitted to IEEE RoboSoft</p></details> |
+| **[LARM: A Large Articulated-Object Reconstruction Model](https://arxiv.org/abs/2511.11563v1)** | 2025-11-14 | <details><summary>proje...</summary><p>project page: https://sylviayuan-sy.github.io/larm-site/</p></details> |
+| **[Multistability of Self-Attention Dynamics in Transformers](https://arxiv.org/abs/2511.11553v1)** | 2025-11-14 | 8 pages, 3 figures |
+| **[Symmetrical Flow Matching: Unified Image Generation, Segmentation, and Classification with Score-Based Generative Models](https://arxiv.org/abs/2506.10634v2)** | 2025-11-14 | AAAI 2026 |
+| **[FakeZero: Real-Time, Privacy-Preserving Misinformation Detection for Facebook and X](https://arxiv.org/abs/2510.25932v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of the 24th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom 2025) Privacy track, 11 pages, 8 figures</p></details> |
+| **[Synergy vs. Noise: Performance-Guided Multimodal Fusion For Biochemical Recurrence-Free Survival in Prostate Cancer](https://arxiv.org/abs/2511.11452v1)** | 2025-11-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 4 tables</p></details> |
+| **[Low-Bit, High-Fidelity: Optimal Transport Quantization for Flow Matching](https://arxiv.org/abs/2511.11418v1)** | 2025-11-14 | 12 pages, 8 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM Inference Beyond a Single Node: From Bottlenecks to Mitigations with Fast All-Reduce Communication](https://arxiv.org/abs/2511.09557v2)** | 2025-11-13 | 12 Figures |
-| **[Debiasing Machine Learning Predictions for Causal Inference Without Additional Ground Truth Data: "One Map, Many Trials" in Satellite-Driven Poverty Analysis](https://arxiv.org/abs/2508.01341v2)** | 2025-11-13 | <details><summary>To ap...</summary><p>To appear in the Proceedings of AAAI 2026</p></details> |
-| **[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded](https://arxiv.org/abs/2511.10560v1)** | 2025-11-13 | <details><summary>Proje...</summary><p>Project Page: https://livioni.github.io/OmniVGGT-offcial/</p></details> |
-| **[A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space](https://arxiv.org/abs/2511.10555v1)** | 2025-11-13 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 5 tables</p></details> |
-| **[GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection](https://arxiv.org/abs/2511.10554v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by ML For Systems workshop at Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation](https://arxiv.org/abs/2511.10518v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Oral), Project Page: https://github.com/JiuTian-VL/SemanticVLA</p></details> |
+| **[Particle Based Inference for Continuous-Discrete State Space Models](https://arxiv.org/abs/2407.15666v2)** | 2025-11-14 | 54 pages, 7 figures |
+| **[Sequentially Auditing Differential Privacy](https://arxiv.org/abs/2509.07055v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
+| **[Interpolation Conditions for Data Consistency and Prediction in Noisy Linear Systems](https://arxiv.org/abs/2504.08484v2)** | 2025-11-14 | 8 pages, 3 figures |
+| **[Experience-Guided Adaptation of Inference-Time Reasoning Strategies](https://arxiv.org/abs/2511.11519v1)** | 2025-11-14 | 29 pages, 5 figures |
+| **[W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language Models via Monte Carlo Tree Search](https://arxiv.org/abs/2511.11518v1)** | 2025-11-14 | AAAI 2026 Oral |
+| **[Scalable Coverage Trajectory Synthesis on GPUs as Statistical Inference](https://arxiv.org/abs/2511.11514v1)** | 2025-11-14 | <details><summary>Prese...</summary><p>Presented at the "Workshop on Fast Motion Planning and Control in the Era of Parallelism" at Robotics: Science and Systems 2025. Workshop website: https://sites.google.com/rice.edu/parallelized-planning-control/</p></details> |
 
