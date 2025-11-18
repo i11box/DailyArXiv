@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - November 18, 2025
+title: Latest 6 Papers - November 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Optimizing Mixture of Block Attention](https://arxiv.org/abs/2511.11571v1)** | 2025-11-14 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
-| **[LARM: A Large Articulated-Object Reconstruction Model](https://arxiv.org/abs/2511.11563v1)** | 2025-11-14 | <details><summary>proje...</summary><p>project page: https://sylviayuan-sy.github.io/larm-site/</p></details> |
-| **[A Unified Convergence Analysis for Semi-Decentralized Learning: Sampled-to-Sampled vs. Sampled-to-All Communication](https://arxiv.org/abs/2511.11560v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted as a conference paper at AAAI 2026 (oral presentation). This is the extended version including the appendix</p></details> |
-| **[Drone Swarm Energy Management](https://arxiv.org/abs/2511.11557v1)** | 2025-11-14 | <details><summary>14 pa...</summary><p>14 pages, 4 Tables, 2 Figures</p></details> |
-| **[Multistability of Self-Attention Dynamics in Transformers](https://arxiv.org/abs/2511.11553v1)** | 2025-11-14 | 8 pages, 3 figures |
-| **[Particle Based Inference for Continuous-Discrete State Space Models](https://arxiv.org/abs/2407.15666v2)** | 2025-11-14 | 54 pages, 7 figures |
+| **[Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/abs/2511.13720v1)** | 2025-11-17 | <details><summary>Tech ...</summary><p>Tech report. Code at https://github.com/LTH14/JiT</p></details> |
+| **[Scaling Spatial Intelligence with Multimodal Foundation Models](https://arxiv.org/abs/2511.13719v1)** | 2025-11-17 | <details><summary>Model...</summary><p>Model: https://huggingface.co/collections/sensenova/sensenova-si; Code: https://github.com/OpenSenseNova/SenseNova-SI</p></details> |
+| **[Segment Anything Across Shots: A Method and Benchmark](https://arxiv.org/abs/2511.13715v1)** | 2025-11-17 | <details><summary>AAAI ...</summary><p>AAAI 2026, Project Page: https://henghuiding.com/SAAS/</p></details> |
+| **[Free-Form Scene Editor: Enabling Multi-Round Object Manipulation like in a 3D Engine](https://arxiv.org/abs/2511.13713v1)** | 2025-11-17 | <details><summary>AAAI ...</summary><p>AAAI 2026, Project Page: https://henghuiding.com/FFSE/</p></details> |
+| **[From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands](https://arxiv.org/abs/2511.13710v1)** | 2025-11-17 | <details><summary>Proje...</summary><p>Project page: https://jianglongye.com/power-to-precision</p></details> |
+| **[LightFusion: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2510.22946v3)** | 2025-11-17 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LARM: A Large Articulated-Object Reconstruction Model](https://arxiv.org/abs/2511.11563v1)** | 2025-11-14 | <details><summary>proje...</summary><p>project page: https://sylviayuan-sy.github.io/larm-site/</p></details> |
-| **[Multistability of Self-Attention Dynamics in Transformers](https://arxiv.org/abs/2511.11553v1)** | 2025-11-14 | 8 pages, 3 figures |
-| **[Symmetrical Flow Matching: Unified Image Generation, Segmentation, and Classification with Score-Based Generative Models](https://arxiv.org/abs/2506.10634v2)** | 2025-11-14 | AAAI 2026 |
-| **[FakeZero: Real-Time, Privacy-Preserving Misinformation Detection for Facebook and X](https://arxiv.org/abs/2510.25932v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of the 24th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom 2025) Privacy track, 11 pages, 8 figures</p></details> |
-| **[Synergy vs. Noise: Performance-Guided Multimodal Fusion For Biochemical Recurrence-Free Survival in Prostate Cancer](https://arxiv.org/abs/2511.11452v1)** | 2025-11-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 4 tables</p></details> |
-| **[Low-Bit, High-Fidelity: Optimal Transport Quantization for Flow Matching](https://arxiv.org/abs/2511.11418v1)** | 2025-11-14 | 12 pages, 8 figures |
+| **[Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/abs/2511.13720v1)** | 2025-11-17 | <details><summary>Tech ...</summary><p>Tech report. Code at https://github.com/LTH14/JiT</p></details> |
+| **[Free-Form Scene Editor: Enabling Multi-Round Object Manipulation like in a 3D Engine](https://arxiv.org/abs/2511.13713v1)** | 2025-11-17 | <details><summary>AAAI ...</summary><p>AAAI 2026, Project Page: https://henghuiding.com/FFSE/</p></details> |
+| **[Protein Secondary Structure Prediction Using 3D Graphs and Relation-Aware Message Passing Transformers](https://arxiv.org/abs/2511.13685v1)** | 2025-11-17 | 40 pages |
+| **[QUILL: An Algorithm-Architecture Co-Design for Cache-Local Deformable Attention](https://arxiv.org/abs/2511.13679v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to DATE 2026</p></details> |
+| **[Cost-Driven Synthesis of Sound Abstract Interpreters](https://arxiv.org/abs/2511.13663v1)** | 2025-11-17 | 37 pages, 20 figures |
+| **[Physics informed Transformer-VAE for biophysical parameter estimation: PROSAIL model inversion in Sentinel-2 imagery](https://arxiv.org/abs/2511.10387v3)** | 2025-11-17 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, uses fancyhdr.sty</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Particle Based Inference for Continuous-Discrete State Space Models](https://arxiv.org/abs/2407.15666v2)** | 2025-11-14 | 54 pages, 7 figures |
-| **[Sequentially Auditing Differential Privacy](https://arxiv.org/abs/2509.07055v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
-| **[Interpolation Conditions for Data Consistency and Prediction in Noisy Linear Systems](https://arxiv.org/abs/2504.08484v2)** | 2025-11-14 | 8 pages, 3 figures |
-| **[Experience-Guided Adaptation of Inference-Time Reasoning Strategies](https://arxiv.org/abs/2511.11519v1)** | 2025-11-14 | 29 pages, 5 figures |
-| **[W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language Models via Monte Carlo Tree Search](https://arxiv.org/abs/2511.11518v1)** | 2025-11-14 | AAAI 2026 Oral |
-| **[Scalable Coverage Trajectory Synthesis on GPUs as Statistical Inference](https://arxiv.org/abs/2511.11514v1)** | 2025-11-14 | <details><summary>Prese...</summary><p>Presented at the "Workshop on Fast Motion Planning and Control in the Era of Parallelism" at Robotics: Science and Systems 2025. Workshop website: https://sites.google.com/rice.edu/parallelized-planning-control/</p></details> |
+| **[Cross-Learning from Scarce Data via Multi-Task Constrained Optimization](https://arxiv.org/abs/2511.13680v1)** | 2025-11-17 | 13 pages, 11 figures |
+| **[T-SAR: A Full-Stack Co-design for CPU-Only Ternary LLM Inference via In-Place SIMD ALU Reorganization](https://arxiv.org/abs/2511.13676v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to DATE 2026</p></details> |
+| **[iTACO: Interactable Digital Twins of Articulated Objects from Casually Captured RGBD Videos](https://arxiv.org/abs/2506.08334v3)** | 2025-11-17 | <details><summary>3DV 2...</summary><p>3DV 2026 camera-ready version. Project website can be found at https://3dlg-hcvc.github.io/video2articulation/</p></details> |
+| **[The Third Pillar of Causal Analysis? A Measurement Perspective on Causal Representations](https://arxiv.org/abs/2505.17708v3)** | 2025-11-17 | <details><summary>Camer...</summary><p>Camera-ready version for NeurIPS2025</p></details> |
+| **[Distribution Matching Distillation Meets Reinforcement Learning](https://arxiv.org/abs/2511.13649v1)** | 2025-11-17 | <details><summary>The s...</summary><p>The synergy of reinforcement learning and distribution matching distillation. See more: https://github.com/vvvvvjdy/dmdr</p></details> |
+| **[Physics informed Transformer-VAE for biophysical parameter estimation: PROSAIL model inversion in Sentinel-2 imagery](https://arxiv.org/abs/2511.10387v3)** | 2025-11-17 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, uses fancyhdr.sty</p></details> |
 
