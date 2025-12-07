@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - December 05, 2025
+title: Latest 6 Papers - December 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows](https://arxiv.org/abs/2512.04084v1)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project Page: https://qinyu-allen-zhao.github.io/SimFlow/</p></details> |
-| **[PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design](https://arxiv.org/abs/2512.04082v1)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project page: https://postercopilot.github.io/</p></details> |
-| **[Radiance Meshes for Volumetric Reconstruction](https://arxiv.org/abs/2512.04076v1)** | 2025-12-03 | <details><summary>Websi...</summary><p>Website: half-potato.gitlab.io/rm</p></details> |
-| **[Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training](https://arxiv.org/abs/2503.18929v2)** | 2025-12-03 | <details><summary>NeurI...</summary><p>NeurIPS 2025; 27 pages</p></details> |
-| **[Fare Comparison App of Uber, Ola and Rapido](https://arxiv.org/abs/2512.04065v1)** | 2025-12-03 | 4 pages |
-| **[Convergence for Discrete Parameter Updates](https://arxiv.org/abs/2512.04051v1)** | 2025-12-03 | <details><summary>opt-m...</summary><p>opt-ml 2025 workshop at NeurIPS</p></details> |
+| **[The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117v1)** | 2025-12-04 | 37 pages |
+| **[Light-X: Generative 4D Video Rendering with Camera and Illumination Control](https://arxiv.org/abs/2512.05115v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project Page: https://lightx-ai.github.io/</p></details> |
+| **[Value Gradient Guidance for Flow Matching Alignment](https://arxiv.org/abs/2512.05116v1)** | 2025-12-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025; 26 pages, 20 figures</p></details> |
+| **[Deep infant brain segmentation from multi-contrast MRI](https://arxiv.org/abs/2512.05114v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 1 table, website at https://w3id.org/babyseg, presented at the 2025 IEEE Asilomar Conference on Signals, Systems, and Computers</p></details> |
+| **[Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting](https://arxiv.org/abs/2512.05113v1)** | 2025-12-04 | <details><summary>WACV ...</summary><p>WACV 2025. Project page: https://chien90190.github.io/splannequin/</p></details> |
+| **[DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2512.05112v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project Page: https://github.com/CaraJ7/DraCo</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RELIC: Interactive Video World Model with Long-Horizon Memory](https://arxiv.org/abs/2512.04040v1)** | 2025-12-03 | 22 pages |
-| **[Bigram Subnetworks: Mapping to Next Tokens in Transformer Language Models](https://arxiv.org/abs/2504.15471v3)** | 2025-12-03 | NeurIPS 2025 |
-| **[Exact Coset Sampling for Quantum Lattice Algorithms](https://arxiv.org/abs/2509.12341v5)** | 2025-12-03 | <details><summary>Prepr...</summary><p>Preprint - Work in Progress</p></details> |
-| **[Emergent Outlier View Rejection in Visual Geometry Grounded Transformers](https://arxiv.org/abs/2512.04012v1)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/RobustVGGT/</p></details> |
-| **[Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling](https://arxiv.org/abs/2512.02010v2)** | 2025-12-03 | 10 pages, 5 figures |
-| **[Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](https://arxiv.org/abs/2512.03994v1)** | 2025-12-03 | <details><summary>Accep...</summary><p>Accepted to the AAAI 2026 Deployable AI (DAI) Workshop</p></details> |
+| **[The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117v1)** | 2025-12-04 | 37 pages |
+| **[ShadowDraw: From Any Object to Shadow-Drawing Compositional Art](https://arxiv.org/abs/2512.05110v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project page: https://red-fairy.github.io/ShadowDraw/</p></details> |
+| **[CoCoIns: Consistent Subject Generation via Contrastive Instantiated Concepts](https://arxiv.org/abs/2503.24387v2)** | 2025-12-04 | <details><summary>TMLR ...</summary><p>TMLR 2025. Project page: https://contrastive-concept-instantiation.github.io</p></details> |
+| **[Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression](https://arxiv.org/abs/2512.05081v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project Page: https://cvlab-kaist.github.io/DeepForcing/</p></details> |
+| **[4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer](https://arxiv.org/abs/2512.05060v1)** | 2025-12-04 | <details><summary>Code:...</summary><p>Code: https://github.com/hustvl/4DLangVGGT, Webpage: https://hustvl.github.io/4DLangVGGT</p></details> |
+| **[Semantic-Guided Two-Stage GAN for Face Inpainting with Hybrid Perceptual Encoding](https://arxiv.org/abs/2512.05039v1)** | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted for review CVPR-2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Radiance Meshes for Volumetric Reconstruction](https://arxiv.org/abs/2512.04076v1)** | 2025-12-03 | <details><summary>Websi...</summary><p>Website: half-potato.gitlab.io/rm</p></details> |
-| **[Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training](https://arxiv.org/abs/2503.18929v2)** | 2025-12-03 | <details><summary>NeurI...</summary><p>NeurIPS 2025; 27 pages</p></details> |
-| **[O(1) Insertion for Random Walk d-ary Cuckoo Hashing up to the Load Threshold](https://arxiv.org/abs/2401.14394v6)** | 2025-12-03 | <details><summary>A pre...</summary><p>A preliminary version of this paper appeared in FOCS 2024. Paper updated to fix errors in the previous version and include the $d=3$ case. 31 pages</p></details> |
-| **[Fast & Efficient Normalizing Flows and Applications of Image Generative Models](https://arxiv.org/abs/2512.04039v1)** | 2025-12-03 | PhD Thesis |
-| **[Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling](https://arxiv.org/abs/2512.02010v2)** | 2025-12-03 | 10 pages, 5 figures |
-| **[Training for Identity, Inference for Controllability: A Unified Approach to Tuning-Free Face Personalization](https://arxiv.org/abs/2512.03964v1)** | 2025-12-03 | 17 pages, 13 figures |
+| **[The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117v1)** | 2025-12-04 | 37 pages |
+| **[Value Gradient Guidance for Flow Matching Alignment](https://arxiv.org/abs/2512.05116v1)** | 2025-12-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025; 26 pages, 20 figures</p></details> |
+| **[Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting](https://arxiv.org/abs/2512.05113v1)** | 2025-12-04 | <details><summary>WACV ...</summary><p>WACV 2025. Project page: https://chien90190.github.io/splannequin/</p></details> |
+| **[Control Consistency Losses for Diffusion Bridges](https://arxiv.org/abs/2512.05070v1)** | 2025-12-04 | <details><summary>Front...</summary><p>Frontiers in Probabilistic Inference: Sampling Meets Learning Workshop at NeurIPS 2025 (Oral)</p></details> |
+| **[4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer](https://arxiv.org/abs/2512.05060v1)** | 2025-12-04 | <details><summary>Code:...</summary><p>Code: https://github.com/hustvl/4DLangVGGT, Webpage: https://hustvl.github.io/4DLangVGGT</p></details> |
+| **[Geometric Data Science](https://arxiv.org/abs/2512.05040v1)** | 2025-12-04 | <details><summary>Quest...</summary><p>Questions and comments are welcome at vitaliy.kurlin@gmail.com. The latest version is at http://kurlin.org/Geometric-Data-Science-book.pdf</p></details> |
 
