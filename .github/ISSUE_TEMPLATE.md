@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - December 08, 2025
+title: Latest 6 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117v1)** | 2025-12-04 | 37 pages |
-| **[Light-X: Generative 4D Video Rendering with Camera and Illumination Control](https://arxiv.org/abs/2512.05115v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project Page: https://lightx-ai.github.io/</p></details> |
-| **[Value Gradient Guidance for Flow Matching Alignment](https://arxiv.org/abs/2512.05116v1)** | 2025-12-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025; 26 pages, 20 figures</p></details> |
-| **[Deep infant brain segmentation from multi-contrast MRI](https://arxiv.org/abs/2512.05114v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 1 table, website at https://w3id.org/babyseg, presented at the 2025 IEEE Asilomar Conference on Signals, Systems, and Computers</p></details> |
-| **[Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting](https://arxiv.org/abs/2512.05113v1)** | 2025-12-04 | <details><summary>WACV ...</summary><p>WACV 2025. Project page: https://chien90190.github.io/splannequin/</p></details> |
-| **[DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2512.05112v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project Page: https://github.com/CaraJ7/DraCo</p></details> |
+| **[EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://arxiv.org/abs/2512.05965v1)** | 2025-12-05 | <details><summary>Proje...</summary><p>Project page: https://appletea233.github.io/think-while-edit</p></details> |
+| **[M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](https://arxiv.org/abs/2512.05959v1)** | 2025-12-05 | Preprint |
+| **[Developing synthetic microdata through machine learning for firm-level business surveys](https://arxiv.org/abs/2512.05948v1)** | 2025-12-05 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 6 tables</p></details> |
+| **[Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding](https://arxiv.org/abs/2512.05941v1)** | 2025-12-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Princeton-AI2-Lab/ZoomClick</p></details> |
+| **[Designing an Optimal Sensor Network via Minimizing Information Loss](https://arxiv.org/abs/2512.05940v1)** | 2025-12-05 | <details><summary>37 pa...</summary><p>37 pages, 15 figures. Accepted to Bayesian Analysis</p></details> |
+| **[Self-Transparency Failures in Expert-Persona LLMs: How Instruction-Following Overrides Honesty](https://arxiv.org/abs/2511.21569v3)** | 2025-12-05 | <details><summary>47 pa...</summary><p>47 pages, 12 figures, 12 tables, Submitted to FAccT; clarify user harm, add permission experiment, condense paper</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117v1)** | 2025-12-04 | 37 pages |
-| **[ShadowDraw: From Any Object to Shadow-Drawing Compositional Art](https://arxiv.org/abs/2512.05110v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project page: https://red-fairy.github.io/ShadowDraw/</p></details> |
-| **[CoCoIns: Consistent Subject Generation via Contrastive Instantiated Concepts](https://arxiv.org/abs/2503.24387v2)** | 2025-12-04 | <details><summary>TMLR ...</summary><p>TMLR 2025. Project page: https://contrastive-concept-instantiation.github.io</p></details> |
-| **[Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression](https://arxiv.org/abs/2512.05081v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project Page: https://cvlab-kaist.github.io/DeepForcing/</p></details> |
-| **[4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer](https://arxiv.org/abs/2512.05060v1)** | 2025-12-04 | <details><summary>Code:...</summary><p>Code: https://github.com/hustvl/4DLangVGGT, Webpage: https://hustvl.github.io/4DLangVGGT</p></details> |
-| **[Semantic-Guided Two-Stage GAN for Face Inpainting with Hybrid Perceptual Encoding](https://arxiv.org/abs/2512.05039v1)** | 2025-12-04 | <details><summary>Submi...</summary><p>Submitted for review CVPR-2025</p></details> |
+| **[Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning](https://arxiv.org/abs/2506.02738v3)** | 2025-12-05 | 21 pages |
+| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
+| **[Underwater Image Reconstruction Using a Swin Transformer-Based Generator and PatchGAN Discriminator](https://arxiv.org/abs/2512.05866v1)** | 2025-12-05 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at the IEEE 28th International Conference on Computer and Information Technology (ICCIT), December 2025</p></details> |
+| **[EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture](https://arxiv.org/abs/2512.04810v2)** | 2025-12-05 | <details><summary>Proje...</summary><p>Project Page: https://emma-umm.github.io/emma/</p></details> |
+| **[Phase-OTDR Event Detection Using Image-Based Data Transformation and Deep Learning](https://arxiv.org/abs/2512.05830v1)** | 2025-12-05 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 5 tables</p></details> |
+| **[Machine-learning-enabled interpretation of tribological deformation patterns in large-scale MD data](https://arxiv.org/abs/2512.05818v1)** | 2025-12-05 | 19 pages, 11 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117v1)** | 2025-12-04 | 37 pages |
-| **[Value Gradient Guidance for Flow Matching Alignment](https://arxiv.org/abs/2512.05116v1)** | 2025-12-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025; 26 pages, 20 figures</p></details> |
-| **[Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting](https://arxiv.org/abs/2512.05113v1)** | 2025-12-04 | <details><summary>WACV ...</summary><p>WACV 2025. Project page: https://chien90190.github.io/splannequin/</p></details> |
-| **[Control Consistency Losses for Diffusion Bridges](https://arxiv.org/abs/2512.05070v1)** | 2025-12-04 | <details><summary>Front...</summary><p>Frontiers in Probabilistic Inference: Sampling Meets Learning Workshop at NeurIPS 2025 (Oral)</p></details> |
-| **[4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer](https://arxiv.org/abs/2512.05060v1)** | 2025-12-04 | <details><summary>Code:...</summary><p>Code: https://github.com/hustvl/4DLangVGGT, Webpage: https://hustvl.github.io/4DLangVGGT</p></details> |
-| **[Geometric Data Science](https://arxiv.org/abs/2512.05040v1)** | 2025-12-04 | <details><summary>Quest...</summary><p>Questions and comments are welcome at vitaliy.kurlin@gmail.com. The latest version is at http://kurlin.org/Geometric-Data-Science-book.pdf</p></details> |
+| **[Designing an Optimal Sensor Network via Minimizing Information Loss](https://arxiv.org/abs/2512.05940v1)** | 2025-12-05 | <details><summary>37 pa...</summary><p>37 pages, 15 figures. Accepted to Bayesian Analysis</p></details> |
+| **[BalLOT: Balanced $k$-means clustering with optimal transport](https://arxiv.org/abs/2512.05926v1)** | 2025-12-05 | 20 pages, 9 figures |
+| **[Reinforce-Ada: An Adaptive Sampling Framework under Non-linear RL Objectives](https://arxiv.org/abs/2510.04996v3)** | 2025-12-05 | 27 pages, 10 figures |
+| **[The Bayesian Way: Uncertainty, Learning, and Statistical Reasoning](https://arxiv.org/abs/2512.05883v1)** | 2025-12-05 | <details><summary>56 pa...</summary><p>56 pages, 1 table, 0 figures</p></details> |
+| **[Variational Uncertainty Decomposition for In-Context Learning](https://arxiv.org/abs/2509.02327v3)** | 2025-12-05 | Neurips Version |
+| **[Toward Efficient and Robust Behavior Models for Multi-Agent Driving Simulation](https://arxiv.org/abs/2512.05812v1)** | 2025-12-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 
