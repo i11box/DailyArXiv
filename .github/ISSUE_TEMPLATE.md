@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - December 09, 2025
+title: Latest 6 Papers - December 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://arxiv.org/abs/2512.05965v1)** | 2025-12-05 | <details><summary>Proje...</summary><p>Project page: https://appletea233.github.io/think-while-edit</p></details> |
-| **[M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](https://arxiv.org/abs/2512.05959v1)** | 2025-12-05 | Preprint |
-| **[Developing synthetic microdata through machine learning for firm-level business surveys](https://arxiv.org/abs/2512.05948v1)** | 2025-12-05 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 6 tables</p></details> |
-| **[Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding](https://arxiv.org/abs/2512.05941v1)** | 2025-12-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Princeton-AI2-Lab/ZoomClick</p></details> |
-| **[Designing an Optimal Sensor Network via Minimizing Information Loss](https://arxiv.org/abs/2512.05940v1)** | 2025-12-05 | <details><summary>37 pa...</summary><p>37 pages, 15 figures. Accepted to Bayesian Analysis</p></details> |
-| **[Self-Transparency Failures in Expert-Persona LLMs: How Instruction-Following Overrides Honesty](https://arxiv.org/abs/2511.21569v3)** | 2025-12-05 | <details><summary>47 pa...</summary><p>47 pages, 12 figures, 12 tables, Submitted to FAccT; clarify user harm, add permission experiment, condense paper</p></details> |
+| **[Relational Visual Similarity](https://arxiv.org/abs/2512.07833v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project page, data, and code: https://thaoshibe.github.io/relsim</p></details> |
+| **[UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation](https://arxiv.org/abs/2512.07831v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project Website https://jackailab.github.io/Projects/UnityVideo</p></details> |
+| **[OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing](https://arxiv.org/abs/2512.07826v1)** | 2025-12-08 | 38 pages |
+| **[Training Task Reasoning LLM Agents for Multi-turn Task Planning via Single-turn Reinforcement Learning](https://arxiv.org/abs/2509.20616v2)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted by IEEE Control Systems Letters (L-CSS)</p></details> |
+| **[Provable Long-Range Benefits of Next-Token Prediction](https://arxiv.org/abs/2512.07818v1)** | 2025-12-08 | 66 pages, 5 figures |
+| **[Beyond the Singular: Revealing the Value of Multiple Generations in Benchmark Evaluation](https://arxiv.org/abs/2502.08943v3)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025 Workshop on LLM Evals</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning](https://arxiv.org/abs/2506.02738v3)** | 2025-12-05 | 21 pages |
-| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
-| **[Underwater Image Reconstruction Using a Swin Transformer-Based Generator and PatchGAN Discriminator](https://arxiv.org/abs/2512.05866v1)** | 2025-12-05 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at the IEEE 28th International Conference on Computer and Information Technology (ICCIT), December 2025</p></details> |
-| **[EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture](https://arxiv.org/abs/2512.04810v2)** | 2025-12-05 | <details><summary>Proje...</summary><p>Project Page: https://emma-umm.github.io/emma/</p></details> |
-| **[Phase-OTDR Event Detection Using Image-Based Data Transformation and Deep Learning](https://arxiv.org/abs/2512.05830v1)** | 2025-12-05 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 5 tables</p></details> |
-| **[Machine-learning-enabled interpretation of tribological deformation patterns in large-scale MD data](https://arxiv.org/abs/2512.05818v1)** | 2025-12-05 | 19 pages, 11 figures |
+| **[Training Task Reasoning LLM Agents for Multi-turn Task Planning via Single-turn Reinforcement Learning](https://arxiv.org/abs/2509.20616v2)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted by IEEE Control Systems Letters (L-CSS)</p></details> |
+| **[Lang3D-XL: Language Embedded 3D Gaussians for Large-scale Scenes](https://arxiv.org/abs/2512.07807v1)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2025. Project webpage: https://tau-vailab.github.io/Lang3D-XL</p></details> |
+| **[Multi-view Pyramid Transformer: Look Coarser to See Broader](https://arxiv.org/abs/2512.07806v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project page: see https://gynjn.github.io/MVP/</p></details> |
+| **[Group Representational Position Encoding](https://arxiv.org/abs/2512.07805v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project Page: https://github.com/model-architectures/GRAPE</p></details> |
+| **[Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey](https://arxiv.org/abs/2308.09388v3)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted by IJCV 2025</p></details> |
+| **[Enabling Delayed-Full Charging Through Transformer-Based Real-Time-to-Departure Modeling for EV Battery Longevity](https://arxiv.org/abs/2512.07723v1)** | 2025-12-08 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, AAAI'26 (accepted)</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Designing an Optimal Sensor Network via Minimizing Information Loss](https://arxiv.org/abs/2512.05940v1)** | 2025-12-05 | <details><summary>37 pa...</summary><p>37 pages, 15 figures. Accepted to Bayesian Analysis</p></details> |
-| **[BalLOT: Balanced $k$-means clustering with optimal transport](https://arxiv.org/abs/2512.05926v1)** | 2025-12-05 | 20 pages, 9 figures |
-| **[Reinforce-Ada: An Adaptive Sampling Framework under Non-linear RL Objectives](https://arxiv.org/abs/2510.04996v3)** | 2025-12-05 | 27 pages, 10 figures |
-| **[The Bayesian Way: Uncertainty, Learning, and Statistical Reasoning](https://arxiv.org/abs/2512.05883v1)** | 2025-12-05 | <details><summary>56 pa...</summary><p>56 pages, 1 table, 0 figures</p></details> |
-| **[Variational Uncertainty Decomposition for In-Context Learning](https://arxiv.org/abs/2509.02327v3)** | 2025-12-05 | Neurips Version |
-| **[Toward Efficient and Robust Behavior Models for Multi-Agent Driving Simulation](https://arxiv.org/abs/2512.05812v1)** | 2025-12-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Incremental Generalized Hybrid A*](https://arxiv.org/abs/2508.13392v2)** | 2025-12-08 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, Accepted to IEEE RA-L, Nov 2025</p></details> |
+| **[Multi-view Pyramid Transformer: Look Coarser to See Broader](https://arxiv.org/abs/2512.07806v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project page: see https://gynjn.github.io/MVP/</p></details> |
+| **[Large Causal Models from Large Language Models](https://arxiv.org/abs/2512.07796v1)** | 2025-12-08 | 29 pages |
+| **[Toward Seamless Physical Human-Humanoid Interaction: Insights from Control, Intent, and Modeling with a Vision for What Comes Next](https://arxiv.org/abs/2512.07765v1)** | 2025-12-08 | <details><summary>60 pa...</summary><p>60 pages, 5 figures, 3 tables</p></details> |
+| **[PhyloLM : Inferring the Phylogeny of Large Language Models and Predicting their Performances in Benchmarks](https://arxiv.org/abs/2404.04671v5)** | 2025-12-08 | <details><summary>The p...</summary><p>The project code is available at https://github.com/Nicolas-Yax/PhyloLM . Published as https://iclr.cc/virtual/2025/poster/28195 at ICLR 2025. A code demo is available at https://colab.research.google.com/drive/1agNE52eUevgdJ3KL3ytv5Y9JBbfJRYqd</p></details> |
+| **[When Large Language Models Do Not Work: Online Incivility Prediction through Graph Neural Networks](https://arxiv.org/abs/2512.07684v1)** | 2025-12-08 | 10 pages |
 
