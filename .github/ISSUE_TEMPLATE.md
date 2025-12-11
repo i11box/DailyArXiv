@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - December 11, 2025
+title: Latest 6 Papers - December 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Astra: General Interactive World Model with Autoregressive Denoising](https://arxiv.org/abs/2512.08931v1)** | 2025-12-09 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/EternalEvan/Astra</p></details> |
-| **[Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment](https://arxiv.org/abs/2512.08930v1)** | 2025-12-09 | <details><summary>Proje...</summary><p>Project Page: https://denghilbert.github.io/selfi/</p></details> |
-| **[Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](https://arxiv.org/abs/2512.08924v1)** | 2025-12-09 | <details><summary>Proje...</summary><p>Project Page: https://d4rt-paper.github.io/</p></details> |
-| **[Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs](https://arxiv.org/abs/2512.08923v1)** | 2025-12-09 | <details><summary>Angel...</summary><p>Angela van Sprang and Laurens Samson contributed equally as first authors. Preprint</p></details> |
-| **[Oscillations Make Neural Networks Robust to Quantization](https://arxiv.org/abs/2502.00490v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR, 2025). Published version https://openreview.net/forum?id=bPwcJ0nkDC</p></details> |
-| **[LiDAS: Lighting-driven Dynamic Active Sensing for Nighttime Perception](https://arxiv.org/abs/2512.08912v1)** | 2025-12-09 | <details><summary>Prepr...</summary><p>Preprint. 12 pages, 9 figures. Project page: https://simondemoreau.github.io/LiDAS/</p></details> |
+| **[HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](https://arxiv.org/abs/2512.09928v1)** | 2025-12-10 | <details><summary>Proje...</summary><p>Project page: https://hifvla.github.io Github: https://github.com/OpenHelix-Team/HiF-VLA</p></details> |
+| **[Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927v1)** | 2025-12-10 | 8 pages, 5 figures |
+| **[GAINS: Gaussian-based Inverse Rendering from Sparse Multi-View Captures](https://arxiv.org/abs/2512.09925v1)** | 2025-12-10 | 23 pages, 18 figures |
+| **[LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating](https://arxiv.org/abs/2512.09920v1)** | 2025-12-10 | 8 pages |
+| **[FALCON: Few-step Accurate Likelihoods for Continuous Flows](https://arxiv.org/abs/2512.09914v1)** | 2025-12-10 | <details><summary>Prepr...</summary><p>Preprint; NeurIPS 2025 MLSB</p></details> |
+| **[Imitative Membership Inference Attack](https://arxiv.org/abs/2509.06796v2)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/zealscott/IMIA</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Astra: General Interactive World Model with Autoregressive Denoising](https://arxiv.org/abs/2512.08931v1)** | 2025-12-09 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/EternalEvan/Astra</p></details> |
-| **[Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment](https://arxiv.org/abs/2512.08930v1)** | 2025-12-09 | <details><summary>Proje...</summary><p>Project Page: https://denghilbert.github.io/selfi/</p></details> |
-| **[Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](https://arxiv.org/abs/2512.08924v1)** | 2025-12-09 | <details><summary>Proje...</summary><p>Project Page: https://d4rt-paper.github.io/</p></details> |
-| **[Oscillations Make Neural Networks Robust to Quantization](https://arxiv.org/abs/2502.00490v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR, 2025). Published version https://openreview.net/forum?id=bPwcJ0nkDC</p></details> |
-| **[Explainable Anomaly Detection for Industrial IoT Data Streams](https://arxiv.org/abs/2512.08885v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at 41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</p></details> |
-| **[Learning Geodesics of Geometric Shape Deformations From Images](https://arxiv.org/abs/2410.18797v3)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted for publication at the Journal of Machine Learning for Biomedical Imaging (MELBA) https://melba-journal.org/2025:019</p></details> |
+| **[Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927v1)** | 2025-12-10 | 8 pages, 5 figures |
+| **[Bayesian Networks, Markov Networks, Moralisation, Triangulation: a Categorical Perspective](https://arxiv.org/abs/2512.09908v1)** | 2025-12-10 | <details><summary>36 pa...</summary><p>36 pages. A preliminary version of this work was presented at CALCO 2025, under the title "An Algebraic Approach to Moralisation and Triangulation of Probabilistic Graphical Models''</p></details> |
+| **[HPM-KD: Hierarchical Progressive Multi-Teacher Framework for Knowledge Distillation and Efficient Model Compression](https://arxiv.org/abs/2512.09886v1)** | 2025-12-10 | 9 pages |
+| **[SAFT: Structure-Aware Fine-Tuning of LLMs for AMR-to-Text Generation](https://arxiv.org/abs/2507.13381v2)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted at the KDD2025 Workshop on Structured Knowledge for LLMs</p></details> |
+| **[Interpretation as Linear Transformation: A Cognitive-Geometric Model of Belief and Meaning](https://arxiv.org/abs/2512.09831v1)** | 2025-12-10 | <details><summary>The f...</summary><p>The first draft of cognitive geometry model</p></details> |
+| **[RIFT: A Scalable Methodology for LLM Accelerator Fault Assessment using Reinforcement Learning](https://arxiv.org/abs/2512.09829v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in the IEEE DATE 2026 conference</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](https://arxiv.org/abs/2512.08924v1)** | 2025-12-09 | <details><summary>Proje...</summary><p>Project Page: https://d4rt-paper.github.io/</p></details> |
-| **[OSMO: Open-Source Tactile Glove for Human-to-Robot Skill Transfer](https://arxiv.org/abs/2512.08920v1)** | 2025-12-09 | <details><summary>Proje...</summary><p>Project website: https://jessicayin.github.io/osmo_tactile_glove/</p></details> |
-| **[Uncertainty Quantification for Scientific Machine Learning using Sparse Variational Gaussian Process Kolmogorov-Arnold Networks (SVGP KAN)](https://arxiv.org/abs/2512.05306v2)** | 2025-12-09 | 20 pages, 3 figures |
-| **[Arbitrage: Efficient Reasoning via Advantage-Aware Speculation](https://arxiv.org/abs/2512.05033v2)** | 2025-12-09 | 22 pages |
-| **[Neural Surrogate HMC: On Using Neural Likelihoods for Hamiltonian Monte Carlo in Simulation-Based Inference](https://arxiv.org/abs/2407.20432v2)** | 2025-12-09 | <details><summary>19 pa...</summary><p>19 pages, 14 figures, in review for publication in JGR: Machine Learning and Computation</p></details> |
-| **[InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models](https://arxiv.org/abs/2512.08829v1)** | 2025-12-09 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, conference or other essential info</p></details> |
+| **[HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](https://arxiv.org/abs/2512.09928v1)** | 2025-12-10 | <details><summary>Proje...</summary><p>Project page: https://hifvla.github.io Github: https://github.com/OpenHelix-Team/HiF-VLA</p></details> |
+| **[Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927v1)** | 2025-12-10 | 8 pages, 5 figures |
+| **[LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating](https://arxiv.org/abs/2512.09920v1)** | 2025-12-10 | 8 pages |
+| **[Imitative Membership Inference Attack](https://arxiv.org/abs/2509.06796v2)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/zealscott/IMIA</p></details> |
+| **[Matrix-game 2.0: An open-source real-time and streaming interactive world model](https://arxiv.org/abs/2508.13009v3)** | 2025-12-10 | <details><summary>Proje...</summary><p>Project Page: https://matrix-game-v2.github.io</p></details> |
+| **[Seedream 4.0: Toward Next-generation Multimodal Image Generation](https://arxiv.org/abs/2509.20427v3)** | 2025-12-10 | <details><summary>Seedr...</summary><p>Seedream 4.0/4.5 Technical Report</p></details> |
 
